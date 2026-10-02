@@ -1,0 +1,6 @@
+symbol,raw_sessions,evaluated_sessions,fields_checked,field_value_mismatches,status
+ANTM,99,75,21,0,PASS
+BRMS,99,75,21,0,PASS
+GOTO,99,75,21,0,PASS
+INCO,99,75,21,0,PASS
+TINS,99,75,21,0,PASS

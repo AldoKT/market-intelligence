@@ -1,0 +1,35 @@
+{
+  "methodology_version": "1.0-candidate",
+  "as_of": "2026-09-09",
+  "identity": {
+    "symbol": "TINS",
+    "company_name": null,
+    "peer_group": "basic_materials"
+  },
+  "current": {
+    "scope": "MARKET_WIDE_ACTIVITY",
+    "specificity_score": 20.493827160493822,
+    "market_activity_breadth": 0.5185185185185185,
+    "market_activity_percentile": 0.5555555555555556,
+    "peer_activity_breadth": 0.6666666666666666,
+    "peer_activity_percentile": 0.3333333333333333,
+    "peer_count": 6,
+    "peer_context_quality": "GOOD",
+    "interpretation": "Unusual activity is broad across the same-day universe, so the ticker-level anomaly is less specific."
+  },
+  "daily_market": {
+    "market_eligible_count": 27,
+    "market_activity_median": 51.62,
+    "market_activity_p75": 75.14,
+    "market_activity_gate_count": 14,
+    "market_activity_breadth": 0.5185185185185185,
+    "market_spot_hit_count": 4,
+    "market_spot_hit_breadth": 0.1481481481481481,
+    "date": "2026-09-09"
+  },
+  "notes": [
+    "Context Specificity is descriptive evidence and does not change the hard Spot gate.",
+    "A market-wide label means the same-day anomaly is less ticker-specific, not that it is false.",
+    "No causal claim is made from market/peer co-movement alone."
+  ]
+}

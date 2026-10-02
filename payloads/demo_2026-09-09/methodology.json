@@ -1,0 +1,48 @@
+{
+  "candidate_name": "SIGNAL Methodology v1.0 Candidate",
+  "status": "candidate_for_demo_and_further_validation",
+  "basis": {
+    "eligible_observations": 2025,
+    "eligible_symbols": 27,
+    "period": "2026-05-01 to 2026-09-29",
+    "spot_hits": 63,
+    "baseline_investigation_episodes": 49,
+    "sensitivity_grid_combinations": 36,
+    "peak_state_sensitive_episodes_reviewed": 22
+  },
+  "spot_gate": {
+    "status": "keep_from_v0.2",
+    "compression_score_min": 55,
+    "activity_score_min": 50,
+    "core_relative_min": 1.2,
+    "minimum_core_metrics": 2
+  },
+  "persistence_and_lifecycle": {
+    "support_compression_min": 40,
+    "support_condition": "compression >= 40 AND (activity >= 25 OR at least 1 core metric >= 1.20x)",
+    "close_after_consecutive_unsupported_sessions": 2,
+    "established_support_sessions_in_last_5_min": 4,
+    "established_hard_hits_in_episode_min": 2,
+    "decision": "retain_baseline_configuration"
+  },
+  "context_specificity": {
+    "applicability_guard": "show only when activity_score >= 25 or at least one core metric >= 1.20x",
+    "role": "descriptive context, not a hard spot gate and not a forecast"
+  },
+  "review_findings": {
+    "support_compression_35": "too permissive in reviewed cases; can continue episodes after compression has materially weakened",
+    "support_compression_45_or_50": "can discard meaningful continuation when activity remains strong around compression 40-45",
+    "close_after_1": "too reactive; can split meaningful continuation after one interrupted session",
+    "close_after_3": "too permissive; can carry stale evidence and merge distinct activity bursts",
+    "established_3_of_5": "over-promotes intermittent episodes; several candidates weaken immediately after reaching 3 supports",
+    "established_5_of_5": "too strict; rejects all sustained episodes in the current sample",
+    "established_4_of_5": "best semantic compromise in the reviewed sample, but remains empirically provisional"
+  },
+  "important_limitations": [
+    "This is not a predictive-return optimization.",
+    "The sample covers one historical period and 27 eligible tickers.",
+    "Context peer groups are research groupings, not authoritative exchange classifications.",
+    "The support activity >=25 branch was empirically redundant in the current sample and remains a candidate simplification.",
+    "All thresholds require future out-of-period validation when API/data budget allows."
+  ]
+}

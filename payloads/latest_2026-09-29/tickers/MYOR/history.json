@@ -1,0 +1,181 @@
+{
+  "methodology_version": "1.0-candidate",
+  "as_of": "2026-09-29",
+  "identity": {
+    "symbol": "MYOR",
+    "company_name": null,
+    "peer_group": "consumer_non_cyclical"
+  },
+  "events": [
+    {
+      "date": "2026-06-12",
+      "event_type": "STATE_CHANGE",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "note": "Lifecycle state changed to NO_INVESTIGATION."
+    },
+    {
+      "date": "2026-07-15",
+      "event_type": "SPOT_HIT",
+      "state": "EMERGING",
+      "investigation_id": "MYOR-20260715-01",
+      "note": "Hard Spot gate satisfied."
+    },
+    {
+      "date": "2026-07-15",
+      "event_type": "INVESTIGATION_OPENED",
+      "state": "EMERGING",
+      "investigation_id": "MYOR-20260715-01",
+      "note": "Lifecycle state changed to EMERGING."
+    },
+    {
+      "date": "2026-07-16",
+      "event_type": "SPOT_HIT",
+      "state": "DEVELOPING",
+      "investigation_id": "MYOR-20260715-01",
+      "note": "Hard Spot gate satisfied."
+    },
+    {
+      "date": "2026-07-16",
+      "event_type": "STATE_CHANGE",
+      "state": "DEVELOPING",
+      "investigation_id": "MYOR-20260715-01",
+      "note": "Lifecycle state changed to DEVELOPING."
+    },
+    {
+      "date": "2026-07-20",
+      "event_type": "STATE_CHANGE",
+      "state": "WEAKENING",
+      "investigation_id": "MYOR-20260715-01",
+      "note": "Lifecycle state changed to WEAKENING."
+    },
+    {
+      "date": "2026-07-21",
+      "event_type": "INVESTIGATION_CLOSED",
+      "state": "CLOSED",
+      "investigation_id": "MYOR-20260715-01",
+      "note": "Lifecycle state changed to CLOSED."
+    },
+    {
+      "date": "2026-07-22",
+      "event_type": "STATE_CHANGE",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "note": "Lifecycle state changed to NO_INVESTIGATION."
+    },
+    {
+      "date": "2026-07-31",
+      "event_type": "SPOT_HIT",
+      "state": "EMERGING",
+      "investigation_id": "MYOR-20260731-02",
+      "note": "Hard Spot gate satisfied."
+    },
+    {
+      "date": "2026-07-31",
+      "event_type": "INVESTIGATION_OPENED",
+      "state": "EMERGING",
+      "investigation_id": "MYOR-20260731-02",
+      "note": "Lifecycle state changed to EMERGING."
+    },
+    {
+      "date": "2026-08-03",
+      "event_type": "STATE_CHANGE",
+      "state": "WEAKENING",
+      "investigation_id": "MYOR-20260731-02",
+      "note": "Lifecycle state changed to WEAKENING."
+    },
+    {
+      "date": "2026-08-04",
+      "event_type": "INVESTIGATION_CLOSED",
+      "state": "CLOSED",
+      "investigation_id": "MYOR-20260731-02",
+      "note": "Lifecycle state changed to CLOSED."
+    },
+    {
+      "date": "2026-08-05",
+      "event_type": "STATE_CHANGE",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "note": "Lifecycle state changed to NO_INVESTIGATION."
+    },
+    {
+      "date": "2026-09-18",
+      "event_type": "SPOT_HIT",
+      "state": "EMERGING",
+      "investigation_id": "MYOR-20260918-03",
+      "note": "Hard Spot gate satisfied."
+    },
+    {
+      "date": "2026-09-18",
+      "event_type": "INVESTIGATION_OPENED",
+      "state": "EMERGING",
+      "investigation_id": "MYOR-20260918-03",
+      "note": "Lifecycle state changed to EMERGING."
+    },
+    {
+      "date": "2026-09-21",
+      "event_type": "STATE_CHANGE",
+      "state": "WEAKENING",
+      "investigation_id": "MYOR-20260918-03",
+      "note": "Lifecycle state changed to WEAKENING."
+    },
+    {
+      "date": "2026-09-22",
+      "event_type": "INVESTIGATION_CLOSED",
+      "state": "CLOSED",
+      "investigation_id": "MYOR-20260918-03",
+      "note": "Lifecycle state changed to CLOSED."
+    },
+    {
+      "date": "2026-09-23",
+      "event_type": "STATE_CHANGE",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "note": "Lifecycle state changed to NO_INVESTIGATION."
+    }
+  ],
+  "episodes": [
+    {
+      "investigation_id": "MYOR-20260715-01",
+      "opened_at": "2026-07-15",
+      "last_linked_at": "2026-07-21",
+      "closed": true,
+      "closed_at": "2026-07-21",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 4,
+      "hard_hits": 2,
+      "support_sessions": 3,
+      "peak_state": "DEVELOPING",
+      "open_context_scope": "STOCK_SPECIFIC_ACTIVITY",
+      "max_evidence_confidence": 52.29
+    },
+    {
+      "investigation_id": "MYOR-20260731-02",
+      "opened_at": "2026-07-31",
+      "last_linked_at": "2026-08-04",
+      "closed": true,
+      "closed_at": "2026-08-04",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 2,
+      "hard_hits": 1,
+      "support_sessions": 1,
+      "peak_state": "EMERGING",
+      "open_context_scope": "STOCK_SPECIFIC_ACTIVITY",
+      "max_evidence_confidence": 55.2
+    },
+    {
+      "investigation_id": "MYOR-20260918-03",
+      "opened_at": "2026-09-18",
+      "last_linked_at": "2026-09-22",
+      "closed": true,
+      "closed_at": "2026-09-22",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 2,
+      "hard_hits": 1,
+      "support_sessions": 1,
+      "peak_state": "EMERGING",
+      "open_context_scope": "MIXED_CONTEXT",
+      "max_evidence_confidence": 52.05
+    }
+  ]
+}

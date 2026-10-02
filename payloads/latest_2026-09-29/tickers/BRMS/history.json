@@ -1,0 +1,76 @@
+{
+  "methodology_version": "1.0-candidate",
+  "as_of": "2026-09-29",
+  "identity": {
+    "symbol": "BRMS",
+    "company_name": null,
+    "peer_group": "basic_materials"
+  },
+  "events": [
+    {
+      "date": "2026-06-12",
+      "event_type": "STATE_CHANGE",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "note": "Lifecycle state changed to NO_INVESTIGATION."
+    },
+    {
+      "date": "2026-07-20",
+      "event_type": "SPOT_HIT",
+      "state": "EMERGING",
+      "investigation_id": "BRMS-20260720-01",
+      "note": "Hard Spot gate satisfied."
+    },
+    {
+      "date": "2026-07-20",
+      "event_type": "INVESTIGATION_OPENED",
+      "state": "EMERGING",
+      "investigation_id": "BRMS-20260720-01",
+      "note": "Lifecycle state changed to EMERGING."
+    },
+    {
+      "date": "2026-07-21",
+      "event_type": "STATE_CHANGE",
+      "state": "DEVELOPING",
+      "investigation_id": "BRMS-20260720-01",
+      "note": "Lifecycle state changed to DEVELOPING."
+    },
+    {
+      "date": "2026-07-23",
+      "event_type": "STATE_CHANGE",
+      "state": "WEAKENING",
+      "investigation_id": "BRMS-20260720-01",
+      "note": "Lifecycle state changed to WEAKENING."
+    },
+    {
+      "date": "2026-07-24",
+      "event_type": "INVESTIGATION_CLOSED",
+      "state": "CLOSED",
+      "investigation_id": "BRMS-20260720-01",
+      "note": "Lifecycle state changed to CLOSED."
+    },
+    {
+      "date": "2026-07-27",
+      "event_type": "STATE_CHANGE",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "note": "Lifecycle state changed to NO_INVESTIGATION."
+    }
+  ],
+  "episodes": [
+    {
+      "investigation_id": "BRMS-20260720-01",
+      "opened_at": "2026-07-20",
+      "last_linked_at": "2026-07-24",
+      "closed": true,
+      "closed_at": "2026-07-24",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 4,
+      "hard_hits": 1,
+      "support_sessions": 3,
+      "peak_state": "DEVELOPING",
+      "open_context_scope": "STOCK_SPECIFIC_ACTIVITY",
+      "max_evidence_confidence": 61.58
+    }
+  ]
+}

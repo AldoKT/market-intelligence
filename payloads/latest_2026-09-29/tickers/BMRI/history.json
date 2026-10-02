@@ -1,0 +1,19 @@
+{
+  "methodology_version": "1.0-candidate",
+  "as_of": "2026-09-29",
+  "identity": {
+    "symbol": "BMRI",
+    "company_name": null,
+    "peer_group": "financials"
+  },
+  "events": [
+    {
+      "date": "2026-06-12",
+      "event_type": "STATE_CHANGE",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "note": "Lifecycle state changed to NO_INVESTIGATION."
+    }
+  ],
+  "episodes": []
+}

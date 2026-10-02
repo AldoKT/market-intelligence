@@ -1,0 +1,186 @@
+{
+  "methodology_version": "1.0-candidate",
+  "as_of": "2026-09-09",
+  "investigation_id": "BBNI-20260908-01",
+  "identity": {
+    "symbol": "BBNI",
+    "company_name": null,
+    "peer_group": "financials"
+  },
+  "hypothesis": "Sideways Accumulation Watch",
+  "state": "WEAKENING",
+  "active": true,
+  "opened_at": "2026-09-08",
+  "age_sessions": 2,
+  "gates": {
+    "compression_pass": false,
+    "activity_pass": true,
+    "core_activity_pass": true,
+    "spot_hit": false
+  },
+  "confidence": {
+    "evidence_confidence": 31.8,
+    "diagnostic_evidence_score": 31.8,
+    "interpretation": "Evidence Confidence is displayed only while an investigation is active. It is not the probability that price will rise."
+  },
+  "persistence": {
+    "support_sessions_in_last_5": 1,
+    "hard_hits_in_last_5": 1,
+    "hard_hits_total_in_episode": 1,
+    "support_sessions_total_in_episode": 1,
+    "unsupported_streak": 1,
+    "persistence_score": 20.0
+  },
+  "metrics": {
+    "close": 3820.0,
+    "compression_score": 9.53,
+    "current_5d_range_pct": 5.3708,
+    "baseline_5d_range_pct": 4.7645,
+    "compression_ratio": 1.1273,
+    "activity_score": 77.93,
+    "relative_turnover": 1.7495,
+    "relative_volume": 1.7055,
+    "relative_transaction_count": 2.1828,
+    "relative_avg_trade_value": 0.758,
+    "relative_top5_net_buy_share": 0.98,
+    "foreign_net_to_turnover": -0.1369
+  },
+  "context": {
+    "scope": "MIXED_CONTEXT",
+    "specificity_score": 40.24691358024692,
+    "market_activity_breadth": 0.5185185185185185,
+    "market_activity_percentile": 0.7777777777777778,
+    "peer_activity_breadth": 0.3333333333333333,
+    "peer_activity_percentile": 0.6666666666666666,
+    "peer_count": 3,
+    "peer_context_quality": "GOOD",
+    "interpretation": "The anomaly contains both ticker-specific and broader market/peer components."
+  },
+  "supporting_evidence": [
+    {
+      "evidence_id": "activity_anomaly",
+      "direction": "SUPPORTING",
+      "label": "Activity Anomaly",
+      "metric": "activity_score",
+      "value": null,
+      "baseline": null,
+      "relative": null,
+      "score": 77.93,
+      "note": "The hard Spot activity gate is satisfied."
+    },
+    {
+      "evidence_id": "relative_turnover",
+      "direction": "SUPPORTING",
+      "label": "Relative Turnover",
+      "metric": "relative_turnover",
+      "value": null,
+      "baseline": null,
+      "relative": 1.7495,
+      "score": null,
+      "note": "At or above 1.20x the stock's recent baseline."
+    },
+    {
+      "evidence_id": "relative_volume",
+      "direction": "SUPPORTING",
+      "label": "Relative Volume",
+      "metric": "relative_volume",
+      "value": null,
+      "baseline": null,
+      "relative": 1.7055,
+      "score": null,
+      "note": "At or above 1.20x the stock's recent baseline."
+    },
+    {
+      "evidence_id": "relative_transaction_count",
+      "direction": "SUPPORTING",
+      "label": "Relative Transaction Count",
+      "metric": "relative_transaction_count",
+      "value": null,
+      "baseline": null,
+      "relative": 2.1828,
+      "score": null,
+      "note": "At or above 1.20x the stock's recent baseline."
+    }
+  ],
+  "contradicting_evidence": [
+    {
+      "evidence_id": "price_compression",
+      "direction": "CONTRADICTING",
+      "label": "Price Compression",
+      "metric": "compression_score",
+      "value": 5.3708,
+      "baseline": 4.7645,
+      "relative": 1.1273,
+      "score": 9.53,
+      "note": "Compression does not currently support a new hard Spot."
+    },
+    {
+      "evidence_id": "relative_avg_trade_value",
+      "direction": "CONTRADICTING",
+      "label": "Relative Avg Trade Value",
+      "metric": "relative_avg_trade_value",
+      "value": null,
+      "baseline": null,
+      "relative": 0.758,
+      "score": null,
+      "note": "Below 1.20x the stock's recent baseline."
+    },
+    {
+      "evidence_id": "foreign_flow",
+      "direction": "CONTRADICTING",
+      "label": "Foreign Flow",
+      "metric": "foreign_net_to_turnover",
+      "value": null,
+      "baseline": null,
+      "relative": -0.1369,
+      "score": null,
+      "note": "Foreign net flow is negative; this is context, not a hard detector gate."
+    }
+  ],
+  "narrative_5w1h": {
+    "what": "Sideways Accumulation Watch is active in state WEAKENING.",
+    "why": "The investigation has accumulated 1 hard Spot hit(s) and 1 supporting session(s) in the current episode.",
+    "when": "Observation as of 2026-09-09; episode opened 2026-09-08.",
+    "where": "Research peer group: financials; context scope: MIXED_CONTEXT.",
+    "who": "Participant identity is not inferred. Broker/flow statistics describe participation structure only.",
+    "how": "SIGNAL combines price compression, abnormal trading activity, lifecycle persistence, participation structure, foreign-flow context, and same-day market/peer context."
+  },
+  "look_ahead": [
+    {
+      "condition_id": "continuation_compression",
+      "label": "Compression remains >= 40",
+      "current_status": "NOT_MET",
+      "note": "Current compression score: 9.53."
+    },
+    {
+      "condition_id": "continuation_activity",
+      "label": "Activity >= 25 or at least one core metric >= 1.20x",
+      "current_status": "MET",
+      "note": "Activity score: 77.93; core metrics >=1.20x: 3."
+    },
+    {
+      "condition_id": "established_support",
+      "label": "At least 4 of last 5 sessions support the hypothesis",
+      "current_status": "NOT_MET",
+      "note": "Current supporting sessions in last 5: 1."
+    },
+    {
+      "condition_id": "established_hard_hits",
+      "label": "At least 2 hard Spot hits in the episode",
+      "current_status": "NOT_MET",
+      "note": "Current hard hits in episode: 1."
+    },
+    {
+      "condition_id": "closure_watch",
+      "label": "Avoid 2 consecutive unsupported sessions",
+      "current_status": "MET",
+      "note": "Current unsupported streak: 1."
+    }
+  ],
+  "guardrails": [
+    "This object describes an investigation, not a buy/sell recommendation.",
+    "Evidence Confidence is not a future-return probability.",
+    "Participant identity is not inferred from broker or trade-size statistics.",
+    "Context peer groups are research groupings, not authoritative exchange classifications."
+  ]
+}

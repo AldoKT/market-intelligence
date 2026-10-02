@@ -1,0 +1,35 @@
+{
+  "methodology_version": "1.0-candidate",
+  "as_of": "2026-09-29",
+  "identity": {
+    "symbol": "MIKA",
+    "company_name": null,
+    "peer_group": "healthcare"
+  },
+  "current": {
+    "scope": "NO_ACTIVITY_CONTEXT",
+    "specificity_score": null,
+    "market_activity_breadth": 0.1111111111111111,
+    "market_activity_percentile": 0.3333333333333333,
+    "peer_activity_breadth": 0.0,
+    "peer_activity_percentile": 1.0,
+    "peer_count": 1,
+    "peer_context_quality": "THIN",
+    "interpretation": "No meaningful activity anomaly is present, so Context Specificity is not shown."
+  },
+  "daily_market": {
+    "market_eligible_count": 27,
+    "market_activity_median": 13.22,
+    "market_activity_p75": 41.695,
+    "market_activity_gate_count": 3,
+    "market_activity_breadth": 0.1111111111111111,
+    "market_spot_hit_count": 0,
+    "market_spot_hit_breadth": 0.0,
+    "date": "2026-09-29"
+  },
+  "notes": [
+    "Context Specificity is descriptive evidence and does not change the hard Spot gate.",
+    "A market-wide label means the same-day anomaly is less ticker-specific, not that it is false.",
+    "No causal claim is made from market/peer co-movement alone."
+  ]
+}

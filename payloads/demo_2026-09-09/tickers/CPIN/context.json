@@ -1,0 +1,35 @@
+{
+  "methodology_version": "1.0-candidate",
+  "as_of": "2026-09-09",
+  "identity": {
+    "symbol": "CPIN",
+    "company_name": null,
+    "peer_group": "consumer_non_cyclical"
+  },
+  "current": {
+    "scope": "MIXED_CONTEXT",
+    "specificity_score": 50.20576131687243,
+    "market_activity_breadth": 0.5185185185185185,
+    "market_activity_percentile": 0.8148148148148148,
+    "peer_activity_breadth": 0.3333333333333333,
+    "peer_activity_percentile": 1.0,
+    "peer_count": 3,
+    "peer_context_quality": "GOOD",
+    "interpretation": "The anomaly contains both ticker-specific and broader market/peer components."
+  },
+  "daily_market": {
+    "market_eligible_count": 27,
+    "market_activity_median": 51.62,
+    "market_activity_p75": 75.14,
+    "market_activity_gate_count": 14,
+    "market_activity_breadth": 0.5185185185185185,
+    "market_spot_hit_count": 4,
+    "market_spot_hit_breadth": 0.1481481481481481,
+    "date": "2026-09-09"
+  },
+  "notes": [
+    "Context Specificity is descriptive evidence and does not change the hard Spot gate.",
+    "A market-wide label means the same-day anomaly is less ticker-specific, not that it is false.",
+    "No causal claim is made from market/peer co-movement alone."
+  ]
+}

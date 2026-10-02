@@ -1,0 +1,174 @@
+{
+  "methodology_version": "1.0-candidate",
+  "as_of": "2026-09-09",
+  "investigation_id": null,
+  "identity": {
+    "symbol": "AMMN",
+    "company_name": null,
+    "peer_group": "basic_materials"
+  },
+  "hypothesis": "Sideways Accumulation Watch",
+  "state": "NO_INVESTIGATION",
+  "active": false,
+  "opened_at": null,
+  "age_sessions": 0,
+  "gates": {
+    "compression_pass": false,
+    "activity_pass": true,
+    "core_activity_pass": true,
+    "spot_hit": false
+  },
+  "confidence": {
+    "evidence_confidence": null,
+    "diagnostic_evidence_score": 37.56,
+    "interpretation": "Evidence Confidence is displayed only while an investigation is active. It is not the probability that price will rise."
+  },
+  "persistence": {
+    "support_sessions_in_last_5": 0,
+    "hard_hits_in_last_5": 0,
+    "hard_hits_total_in_episode": 0,
+    "support_sessions_total_in_episode": 0,
+    "unsupported_streak": 0,
+    "persistence_score": 0.0
+  },
+  "metrics": {
+    "close": 4910.0,
+    "compression_score": 0.0,
+    "current_5d_range_pct": 13.9955,
+    "baseline_5d_range_pct": 7.8947,
+    "compression_ratio": 1.7728,
+    "activity_score": 98.25,
+    "relative_turnover": 2.9196,
+    "relative_volume": 2.5919,
+    "relative_transaction_count": 2.1467,
+    "relative_avg_trade_value": 1.1529,
+    "relative_top5_net_buy_share": 0.9319,
+    "foreign_net_to_turnover": 0.0156
+  },
+  "context": {
+    "scope": "MARKET_WIDE_ACTIVITY",
+    "specificity_score": 37.86008230452676,
+    "market_activity_breadth": 0.5185185185185185,
+    "market_activity_percentile": 0.925925925925926,
+    "peer_activity_breadth": 0.6666666666666666,
+    "peer_activity_percentile": 0.8333333333333334,
+    "peer_count": 6,
+    "peer_context_quality": "GOOD",
+    "interpretation": "Unusual activity is broad across the same-day universe, so the ticker-level anomaly is less specific."
+  },
+  "supporting_evidence": [
+    {
+      "evidence_id": "activity_anomaly",
+      "direction": "SUPPORTING",
+      "label": "Activity Anomaly",
+      "metric": "activity_score",
+      "value": null,
+      "baseline": null,
+      "relative": null,
+      "score": 98.25,
+      "note": "The hard Spot activity gate is satisfied."
+    },
+    {
+      "evidence_id": "relative_turnover",
+      "direction": "SUPPORTING",
+      "label": "Relative Turnover",
+      "metric": "relative_turnover",
+      "value": null,
+      "baseline": null,
+      "relative": 2.9196,
+      "score": null,
+      "note": "At or above 1.20x the stock's recent baseline."
+    },
+    {
+      "evidence_id": "relative_volume",
+      "direction": "SUPPORTING",
+      "label": "Relative Volume",
+      "metric": "relative_volume",
+      "value": null,
+      "baseline": null,
+      "relative": 2.5919,
+      "score": null,
+      "note": "At or above 1.20x the stock's recent baseline."
+    },
+    {
+      "evidence_id": "relative_transaction_count",
+      "direction": "SUPPORTING",
+      "label": "Relative Transaction Count",
+      "metric": "relative_transaction_count",
+      "value": null,
+      "baseline": null,
+      "relative": 2.1467,
+      "score": null,
+      "note": "At or above 1.20x the stock's recent baseline."
+    },
+    {
+      "evidence_id": "foreign_flow",
+      "direction": "SUPPORTING",
+      "label": "Foreign Flow",
+      "metric": "foreign_net_to_turnover",
+      "value": null,
+      "baseline": null,
+      "relative": 0.0156,
+      "score": null,
+      "note": "Foreign net flow is positive, used only as supporting context."
+    }
+  ],
+  "contradicting_evidence": [
+    {
+      "evidence_id": "price_compression",
+      "direction": "CONTRADICTING",
+      "label": "Price Compression",
+      "metric": "compression_score",
+      "value": 13.9955,
+      "baseline": 7.8947,
+      "relative": 1.7728,
+      "score": 0.0,
+      "note": "Compression does not currently support a new hard Spot."
+    },
+    {
+      "evidence_id": "relative_avg_trade_value",
+      "direction": "CONTRADICTING",
+      "label": "Relative Avg Trade Value",
+      "metric": "relative_avg_trade_value",
+      "value": null,
+      "baseline": null,
+      "relative": 1.1529,
+      "score": null,
+      "note": "Below 1.20x the stock's recent baseline."
+    }
+  ],
+  "narrative_5w1h": {
+    "what": "No active Sideways Accumulation Watch investigation.",
+    "why": "The current session does not satisfy the hard Spot opening gate.",
+    "when": "Observation as of 2026-09-09.",
+    "where": "Research peer group: basic_materials; context scope: MARKET_WIDE_ACTIVITY.",
+    "who": "Participant identity is not inferred. Broker/flow statistics describe participation structure only.",
+    "how": "SIGNAL combines price compression, abnormal trading activity, lifecycle persistence, participation structure, foreign-flow context, and same-day market/peer context."
+  },
+  "look_ahead": [
+    {
+      "condition_id": "new_spot_compression",
+      "label": "Compression Score >= 55",
+      "current_status": "NOT_MET",
+      "note": "Current compression score: 0.0."
+    },
+    {
+      "condition_id": "new_spot_activity",
+      "label": "Activity Score >= 50",
+      "current_status": "MET",
+      "note": "Current activity score: 98.25."
+    },
+    {
+      "condition_id": "new_spot_core",
+      "label": "At least 2 core activity metrics >= 1.20x",
+      "current_status": "MET",
+      "note": "Current core-metric count: 3."
+    }
+  ],
+  "guardrails": [
+    "This object describes an investigation, not a buy/sell recommendation.",
+    "Evidence Confidence is not a future-return probability.",
+    "Participant identity is not inferred from broker or trade-size statistics.",
+    "Context peer groups are research groupings, not authoritative exchange classifications."
+  ]
+}

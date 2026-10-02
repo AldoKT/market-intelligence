@@ -1,0 +1,41 @@
+{
+  "methodology_version": "1.0-candidate",
+  "as_of": "2026-09-09",
+  "symbols": [
+    "ADRO",
+    "AMMN",
+    "ANTM",
+    "ASII",
+    "BBCA",
+    "BBNI",
+    "BBRI",
+    "BMRI",
+    "BRMS",
+    "BSDE",
+    "CPIN",
+    "CTRA",
+    "EMTK",
+    "GOTO",
+    "ICBP",
+    "INCO",
+    "INDF",
+    "ISAT",
+    "KLBF",
+    "MDKA",
+    "MIKA",
+    "MYOR",
+    "NCKL",
+    "PGAS",
+    "PTBA",
+    "TINS",
+    "TLKM",
+    "UNTR"
+  ],
+  "files": {
+    "overview": "overview.json",
+    "investigations": "investigations.json",
+    "methodology": "methodology.json",
+    "ticker_template": "tickers/{SYMBOL}/{investigation,summary,activity,context,history}.json"
+  },
+  "raw_market_activity_enrichment": false
+}

@@ -1,0 +1,97 @@
+{
+  "methodology_version": "1.0-candidate",
+  "as_of": "2026-09-09",
+  "identity": {
+    "symbol": "ADRO",
+    "company_name": null,
+    "peer_group": "energy"
+  },
+  "events": [
+    {
+      "date": "2026-06-12",
+      "event_type": "STATE_CHANGE",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "note": "Lifecycle state changed to NO_INVESTIGATION."
+    },
+    {
+      "date": "2026-06-19",
+      "event_type": "SPOT_HIT",
+      "state": "EMERGING",
+      "investigation_id": "ADRO-20260619-01",
+      "note": "Hard Spot gate satisfied."
+    },
+    {
+      "date": "2026-06-19",
+      "event_type": "INVESTIGATION_OPENED",
+      "state": "EMERGING",
+      "investigation_id": "ADRO-20260619-01",
+      "note": "Lifecycle state changed to EMERGING."
+    },
+    {
+      "date": "2026-06-22",
+      "event_type": "STATE_CHANGE",
+      "state": "WEAKENING",
+      "investigation_id": "ADRO-20260619-01",
+      "note": "Lifecycle state changed to WEAKENING."
+    },
+    {
+      "date": "2026-06-23",
+      "event_type": "INVESTIGATION_CLOSED",
+      "state": "CLOSED",
+      "investigation_id": "ADRO-20260619-01",
+      "note": "Lifecycle state changed to CLOSED."
+    },
+    {
+      "date": "2026-06-24",
+      "event_type": "STATE_CHANGE",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "note": "Lifecycle state changed to NO_INVESTIGATION."
+    },
+    {
+      "date": "2026-09-09",
+      "event_type": "SPOT_HIT",
+      "state": "EMERGING",
+      "investigation_id": "ADRO-20260909-02",
+      "note": "Hard Spot gate satisfied."
+    },
+    {
+      "date": "2026-09-09",
+      "event_type": "INVESTIGATION_OPENED",
+      "state": "EMERGING",
+      "investigation_id": "ADRO-20260909-02",
+      "note": "Lifecycle state changed to EMERGING."
+    }
+  ],
+  "episodes": [
+    {
+      "investigation_id": "ADRO-20260619-01",
+      "opened_at": "2026-06-19",
+      "last_linked_at": "2026-06-23",
+      "closed": true,
+      "closed_at": "2026-06-23",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 2,
+      "hard_hits": 1,
+      "support_sessions": 1,
+      "peak_state": "EMERGING",
+      "open_context_scope": "MIXED_CONTEXT",
+      "max_evidence_confidence": 64.95
+    },
+    {
+      "investigation_id": "ADRO-20260909-02",
+      "opened_at": "2026-09-09",
+      "last_linked_at": "2026-09-09",
+      "closed": false,
+      "closed_at": null,
+      "close_reason": null,
+      "active_sessions": 1,
+      "hard_hits": 1,
+      "support_sessions": 1,
+      "peak_state": "EMERGING",
+      "open_context_scope": "MARKET_WIDE_ACTIVITY",
+      "max_evidence_confidence": 46.21
+    }
+  ]
+}

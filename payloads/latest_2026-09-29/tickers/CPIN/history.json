@@ -1,0 +1,230 @@
+{
+  "methodology_version": "1.0-candidate",
+  "as_of": "2026-09-29",
+  "identity": {
+    "symbol": "CPIN",
+    "company_name": null,
+    "peer_group": "consumer_non_cyclical"
+  },
+  "events": [
+    {
+      "date": "2026-06-12",
+      "event_type": "STATE_CHANGE",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "note": "Lifecycle state changed to NO_INVESTIGATION."
+    },
+    {
+      "date": "2026-07-21",
+      "event_type": "SPOT_HIT",
+      "state": "EMERGING",
+      "investigation_id": "CPIN-20260721-01",
+      "note": "Hard Spot gate satisfied."
+    },
+    {
+      "date": "2026-07-21",
+      "event_type": "INVESTIGATION_OPENED",
+      "state": "EMERGING",
+      "investigation_id": "CPIN-20260721-01",
+      "note": "Lifecycle state changed to EMERGING."
+    },
+    {
+      "date": "2026-07-22",
+      "event_type": "STATE_CHANGE",
+      "state": "WEAKENING",
+      "investigation_id": "CPIN-20260721-01",
+      "note": "Lifecycle state changed to WEAKENING."
+    },
+    {
+      "date": "2026-07-23",
+      "event_type": "INVESTIGATION_CLOSED",
+      "state": "CLOSED",
+      "investigation_id": "CPIN-20260721-01",
+      "note": "Lifecycle state changed to CLOSED."
+    },
+    {
+      "date": "2026-07-24",
+      "event_type": "STATE_CHANGE",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "note": "Lifecycle state changed to NO_INVESTIGATION."
+    },
+    {
+      "date": "2026-08-10",
+      "event_type": "SPOT_HIT",
+      "state": "EMERGING",
+      "investigation_id": "CPIN-20260810-02",
+      "note": "Hard Spot gate satisfied."
+    },
+    {
+      "date": "2026-08-10",
+      "event_type": "INVESTIGATION_OPENED",
+      "state": "EMERGING",
+      "investigation_id": "CPIN-20260810-02",
+      "note": "Lifecycle state changed to EMERGING."
+    },
+    {
+      "date": "2026-08-11",
+      "event_type": "STATE_CHANGE",
+      "state": "WEAKENING",
+      "investigation_id": "CPIN-20260810-02",
+      "note": "Lifecycle state changed to WEAKENING."
+    },
+    {
+      "date": "2026-08-12",
+      "event_type": "INVESTIGATION_CLOSED",
+      "state": "CLOSED",
+      "investigation_id": "CPIN-20260810-02",
+      "note": "Lifecycle state changed to CLOSED."
+    },
+    {
+      "date": "2026-08-13",
+      "event_type": "STATE_CHANGE",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "note": "Lifecycle state changed to NO_INVESTIGATION."
+    },
+    {
+      "date": "2026-08-18",
+      "event_type": "SPOT_HIT",
+      "state": "EMERGING",
+      "investigation_id": "CPIN-20260818-03",
+      "note": "Hard Spot gate satisfied."
+    },
+    {
+      "date": "2026-08-18",
+      "event_type": "INVESTIGATION_OPENED",
+      "state": "EMERGING",
+      "investigation_id": "CPIN-20260818-03",
+      "note": "Lifecycle state changed to EMERGING."
+    },
+    {
+      "date": "2026-08-19",
+      "event_type": "STATE_CHANGE",
+      "state": "WEAKENING",
+      "investigation_id": "CPIN-20260818-03",
+      "note": "Lifecycle state changed to WEAKENING."
+    },
+    {
+      "date": "2026-08-20",
+      "event_type": "INVESTIGATION_CLOSED",
+      "state": "CLOSED",
+      "investigation_id": "CPIN-20260818-03",
+      "note": "Lifecycle state changed to CLOSED."
+    },
+    {
+      "date": "2026-08-21",
+      "event_type": "STATE_CHANGE",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "note": "Lifecycle state changed to NO_INVESTIGATION."
+    },
+    {
+      "date": "2026-08-27",
+      "event_type": "SPOT_HIT",
+      "state": "EMERGING",
+      "investigation_id": "CPIN-20260827-04",
+      "note": "Hard Spot gate satisfied."
+    },
+    {
+      "date": "2026-08-27",
+      "event_type": "INVESTIGATION_OPENED",
+      "state": "EMERGING",
+      "investigation_id": "CPIN-20260827-04",
+      "note": "Lifecycle state changed to EMERGING."
+    },
+    {
+      "date": "2026-08-28",
+      "event_type": "SPOT_HIT",
+      "state": "DEVELOPING",
+      "investigation_id": "CPIN-20260827-04",
+      "note": "Hard Spot gate satisfied."
+    },
+    {
+      "date": "2026-08-28",
+      "event_type": "STATE_CHANGE",
+      "state": "DEVELOPING",
+      "investigation_id": "CPIN-20260827-04",
+      "note": "Lifecycle state changed to DEVELOPING."
+    },
+    {
+      "date": "2026-08-31",
+      "event_type": "STATE_CHANGE",
+      "state": "WEAKENING",
+      "investigation_id": "CPIN-20260827-04",
+      "note": "Lifecycle state changed to WEAKENING."
+    },
+    {
+      "date": "2026-09-01",
+      "event_type": "INVESTIGATION_CLOSED",
+      "state": "CLOSED",
+      "investigation_id": "CPIN-20260827-04",
+      "note": "Lifecycle state changed to CLOSED."
+    },
+    {
+      "date": "2026-09-02",
+      "event_type": "STATE_CHANGE",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "note": "Lifecycle state changed to NO_INVESTIGATION."
+    }
+  ],
+  "episodes": [
+    {
+      "investigation_id": "CPIN-20260721-01",
+      "opened_at": "2026-07-21",
+      "last_linked_at": "2026-07-23",
+      "closed": true,
+      "closed_at": "2026-07-23",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 2,
+      "hard_hits": 1,
+      "support_sessions": 1,
+      "peak_state": "EMERGING",
+      "open_context_scope": "STOCK_SPECIFIC_ACTIVITY",
+      "max_evidence_confidence": 52.91
+    },
+    {
+      "investigation_id": "CPIN-20260810-02",
+      "opened_at": "2026-08-10",
+      "last_linked_at": "2026-08-12",
+      "closed": true,
+      "closed_at": "2026-08-12",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 2,
+      "hard_hits": 1,
+      "support_sessions": 1,
+      "peak_state": "EMERGING",
+      "open_context_scope": "PEER_CLUSTERED_ACTIVITY",
+      "max_evidence_confidence": 50.16
+    },
+    {
+      "investigation_id": "CPIN-20260818-03",
+      "opened_at": "2026-08-18",
+      "last_linked_at": "2026-08-20",
+      "closed": true,
+      "closed_at": "2026-08-20",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 2,
+      "hard_hits": 1,
+      "support_sessions": 1,
+      "peak_state": "EMERGING",
+      "open_context_scope": "STOCK_SPECIFIC_ACTIVITY",
+      "max_evidence_confidence": 43.36
+    },
+    {
+      "investigation_id": "CPIN-20260827-04",
+      "opened_at": "2026-08-27",
+      "last_linked_at": "2026-09-01",
+      "closed": true,
+      "closed_at": "2026-09-01",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 3,
+      "hard_hits": 2,
+      "support_sessions": 2,
+      "peak_state": "DEVELOPING",
+      "open_context_scope": "PEER_CLUSTERED_ACTIVITY",
+      "max_evidence_confidence": 56.26
+    }
+  ]
+}

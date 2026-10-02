@@ -1,0 +1,119 @@
+{
+  "primary_event_definition": "First session of each investigation episode (SPOT_OPEN); one anchor per episode prevents repeated hard hits from over-weighting persistent episodes.",
+  "primary_control_definition": "Same-date eligible NO_INVESTIGATION observations, excluding the event ticker. This controls for broad market-day effects.",
+  "full_universe_price_measurement": "Close-to-close because the derived 28-ticker timeline retained daily close but not daily high/low. MFE/MAE in the full-universe test are therefore close-based proxies.",
+  "status": "TENTATIVE_DIRECTIONAL_INFORMATION; NOT YET ROBUST FOR A <=5 SESSION CLAIM",
+  "interpretation": "SPOT_OPEN shows a generally favorable direction versus same-date controls in several reaction metrics, especially by 5-10 sessions. However most <=5-session date-cluster bootstrap intervals still cross zero. The current retrospective sample is therefore suggestive, not sufficient to claim reliable short-horizon price-direction prediction.",
+  "significant_positive_findings": [
+    {
+      "horizon_sessions": 1,
+      "metric": "hit_up_2",
+      "matched_difference": 0.10375898379447625,
+      "cluster_bootstrap_95_ci_low": 0.009586949692088034,
+      "cluster_bootstrap_95_ci_high": 0.19354821200050396
+    },
+    {
+      "horizon_sessions": 1,
+      "metric": "up_before_down_2",
+      "matched_difference": 0.10375898379447625,
+      "cluster_bootstrap_95_ci_low": 0.00789023004465413,
+      "cluster_bootstrap_95_ci_high": 0.19088002215176125
+    },
+    {
+      "horizon_sessions": 10,
+      "metric": "hit_up_3",
+      "matched_difference": 0.1445496925631365,
+      "cluster_bootstrap_95_ci_low": 0.014504757525442951,
+      "cluster_bootstrap_95_ci_high": 0.2642587564241778
+    },
+    {
+      "horizon_sessions": 10,
+      "metric": "hit_up_5",
+      "matched_difference": 0.140414192659616,
+      "cluster_bootstrap_95_ci_low": 0.0017261095360823334,
+      "cluster_bootstrap_95_ci_high": 0.2630862979512199
+    },
+    {
+      "horizon_sessions": 10,
+      "metric": "up_before_down_3",
+      "matched_difference": 0.14109628217680278,
+      "cluster_bootstrap_95_ci_low": 0.013719101872279106,
+      "cluster_bootstrap_95_ci_high": 0.2610543493199528
+    }
+  ],
+  "significant_negative_findings": [
+    {
+      "horizon_sessions": 1,
+      "metric": "hit_down_5",
+      "matched_difference": -0.013592982980738083,
+      "cluster_bootstrap_95_ci_low": -0.026073926073926074,
+      "cluster_bootstrap_95_ci_high": -0.002403846153846154
+    }
+  ],
+  "directional_evidence": [
+    {
+      "horizon_sessions": 1,
+      "event_n": 49,
+      "positive_end_rate": 0.3877551020408163,
+      "market_control_positive_end_rate": 0.3902620219747665,
+      "end_return": -0.00024160378438598654,
+      "market_control_end_return": -0.0028392743880375068,
+      "mfe_close": -0.00024160378438598654,
+      "market_control_mfe_close": -0.0028392743880375068,
+      "mae_close": -0.00024160378438598654,
+      "market_control_mae_close": -0.0028392743880375068,
+      "hit_up_2_rate": 0.20408163265306123,
+      "market_control_hit_up_2_rate": 0.10032264885858498,
+      "breakout_rate": 0.2857142857142857,
+      "market_control_breakout_rate": 0.2164964885879751
+    },
+    {
+      "horizon_sessions": 3,
+      "event_n": 49,
+      "positive_end_rate": 0.42857142857142855,
+      "market_control_positive_end_rate": 0.408525810858973,
+      "end_return": -0.001916108454198628,
+      "market_control_end_return": -0.006149884654752573,
+      "mfe_close": 0.013282048632582567,
+      "market_control_mfe_close": 0.010912446795584212,
+      "mae_close": -0.013792823084789092,
+      "market_control_mae_close": -0.01905410951607924,
+      "hit_up_2_rate": 0.3673469387755102,
+      "market_control_hit_up_2_rate": 0.3087992324409454,
+      "breakout_rate": 0.4489795918367347,
+      "market_control_breakout_rate": 0.39668283915423497
+    },
+    {
+      "horizon_sessions": 5,
+      "event_n": 49,
+      "positive_end_rate": 0.4489795918367347,
+      "market_control_positive_end_rate": 0.39011390219394704,
+      "end_return": 0.00016177420294969562,
+      "market_control_end_return": -0.005940113100099088,
+      "mfe_close": 0.0241944454862754,
+      "market_control_mfe_close": 0.01892857209423631,
+      "mae_close": -0.022039727376327253,
+      "market_control_mae_close": -0.026629466221833716,
+      "hit_up_2_rate": 0.5102040816326531,
+      "market_control_hit_up_2_rate": 0.3814323638762064,
+      "breakout_rate": 0.5714285714285714,
+      "market_control_breakout_rate": 0.4628037109193416
+    },
+    {
+      "horizon_sessions": 10,
+      "event_n": 48,
+      "positive_end_rate": 0.5208333333333334,
+      "market_control_positive_end_rate": 0.4277281852925445,
+      "end_return": 0.013445212310084602,
+      "market_control_end_return": -0.002277609744797165,
+      "mfe_close": 0.04415284566465266,
+      "market_control_mfe_close": 0.0353533160662503,
+      "mae_close": -0.03147826001356163,
+      "market_control_mae_close": -0.042842913500668024,
+      "hit_up_2_rate": 0.6458333333333334,
+      "market_control_hit_up_2_rate": 0.539164012845363,
+      "breakout_rate": 0.7083333333333334,
+      "market_control_breakout_rate": 0.6077616806714347
+    }
+  ]
+}

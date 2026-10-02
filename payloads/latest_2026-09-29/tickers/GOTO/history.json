@@ -1,0 +1,19 @@
+{
+  "methodology_version": "1.0-candidate",
+  "as_of": "2026-09-29",
+  "identity": {
+    "symbol": "GOTO",
+    "company_name": null,
+    "peer_group": "technology"
+  },
+  "events": [
+    {
+      "date": "2026-06-12",
+      "event_type": "STATE_CHANGE",
+      "state": "INELIGIBLE_PRICE_REGIME",
+      "investigation_id": null,
+      "note": "Lifecycle state changed to INELIGIBLE_PRICE_REGIME."
+    }
+  ],
+  "episodes": []
+}

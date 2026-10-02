@@ -1,0 +1,20 @@
+{
+  "validation_version": "1.0.0",
+  "methodology_status": "SIGNAL Methodology v1.0 Candidate",
+  "timeline_start": "2026-06-12",
+  "timeline_end": "2026-09-29",
+  "rows": 2100,
+  "symbols": 28,
+  "dates": 75,
+  "eligible_rows": 2025,
+  "spot_hits": 63,
+  "episodes": 49,
+  "implementation_correctness": "PASS",
+  "point_in_time_validity": "PASS",
+  "product_payload_validity": "PASS",
+  "data_quality_status": "PASS_WITH_WARNINGS",
+  "methodology_validity_status": "PARTIAL_RETROSPECTIVE_SUPPORT; OUT_OF_SAMPLE_PENDING",
+  "price_prediction_accuracy_status": "NOT_ESTABLISHED; SIGNAL IS NOT VALIDATED AS A PRICE-DIRECTION MODEL",
+  "hard_failures": 0,
+  "important_note": "No independent ground-truth accumulation labels are available; precision/recall/F1 cannot be truthfully computed."
+}

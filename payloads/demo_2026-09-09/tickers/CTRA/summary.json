@@ -1,0 +1,190 @@
+{
+  "methodology_version": "1.0-candidate",
+  "as_of": "2026-09-09",
+  "investigation": {
+    "methodology_version": "1.0-candidate",
+    "as_of": "2026-09-09",
+    "investigation_id": "CTRA-20260903-03",
+    "identity": {
+      "symbol": "CTRA",
+      "company_name": null,
+      "peer_group": "property"
+    },
+    "hypothesis": "Sideways Accumulation Watch",
+    "state": "ESTABLISHED",
+    "active": true,
+    "opened_at": "2026-09-03",
+    "age_sessions": 5,
+    "gates": {
+      "compression_pass": false,
+      "activity_pass": false,
+      "core_activity_pass": true,
+      "spot_hit": false
+    },
+    "confidence": {
+      "evidence_confidence": 44.53,
+      "diagnostic_evidence_score": 44.53,
+      "interpretation": "Evidence Confidence is displayed only while an investigation is active. It is not the probability that price will rise."
+    },
+    "persistence": {
+      "support_sessions_in_last_5": 4,
+      "hard_hits_in_last_5": 2,
+      "hard_hits_total_in_episode": 2,
+      "support_sessions_total_in_episode": 4,
+      "unsupported_streak": 0,
+      "persistence_score": 80.0
+    },
+    "metrics": {
+      "close": 625.0,
+      "compression_score": 46.41,
+      "current_5d_range_pct": 5.5118,
+      "baseline_5d_range_pct": 6.4533,
+      "compression_ratio": 0.8541,
+      "activity_score": 30.56,
+      "relative_turnover": 1.3625,
+      "relative_volume": 1.37,
+      "relative_transaction_count": 1.1783,
+      "relative_avg_trade_value": 1.1558,
+      "relative_top5_net_buy_share": 0.753,
+      "foreign_net_to_turnover": 0.0553
+    },
+    "context": {
+      "scope": "MARKET_WIDE_ACTIVITY",
+      "specificity_score": 19.615912208504803,
+      "market_activity_breadth": 0.5185185185185185,
+      "market_activity_percentile": 0.4074074074074074,
+      "peer_activity_breadth": 0.0,
+      "peer_activity_percentile": 1.0,
+      "peer_count": 1,
+      "peer_context_quality": "THIN",
+      "interpretation": "Unusual activity is broad across the same-day universe, so the ticker-level anomaly is less specific."
+    },
+    "supporting_evidence": [
+      {
+        "evidence_id": "price_compression_soft",
+        "direction": "SUPPORTING",
+        "label": "Residual Price Compression",
+        "metric": "compression_score",
+        "value": 5.5118,
+        "baseline": 6.4533,
+        "relative": 0.8541,
+        "score": 46.41,
+        "note": "Compression remains sufficient for lifecycle support but not necessarily for a new hard Spot."
+      },
+      {
+        "evidence_id": "activity_anomaly_soft",
+        "direction": "SUPPORTING",
+        "label": "Residual Activity",
+        "metric": "activity_score",
+        "value": null,
+        "baseline": null,
+        "relative": null,
+        "score": 30.56,
+        "note": "Activity remains sufficient for lifecycle support but below the hard Spot threshold."
+      },
+      {
+        "evidence_id": "relative_turnover",
+        "direction": "SUPPORTING",
+        "label": "Relative Turnover",
+        "metric": "relative_turnover",
+        "value": null,
+        "baseline": null,
+        "relative": 1.3625,
+        "score": null,
+        "note": "At or above 1.20x the stock's recent baseline."
+      },
+      {
+        "evidence_id": "relative_volume",
+        "direction": "SUPPORTING",
+        "label": "Relative Volume",
+        "metric": "relative_volume",
+        "value": null,
+        "baseline": null,
+        "relative": 1.37,
+        "score": null,
+        "note": "At or above 1.20x the stock's recent baseline."
+      },
+      {
+        "evidence_id": "foreign_flow",
+        "direction": "SUPPORTING",
+        "label": "Foreign Flow",
+        "metric": "foreign_net_to_turnover",
+        "value": null,
+        "baseline": null,
+        "relative": 0.0553,
+        "score": null,
+        "note": "Foreign net flow is positive, used only as supporting context."
+      }
+    ],
+    "contradicting_evidence": [
+      {
+        "evidence_id": "relative_transaction_count",
+        "direction": "CONTRADICTING",
+        "label": "Relative Transaction Count",
+        "metric": "relative_transaction_count",
+        "value": null,
+        "baseline": null,
+        "relative": 1.1783,
+        "score": null,
+        "note": "Below 1.20x the stock's recent baseline."
+      },
+      {
+        "evidence_id": "relative_avg_trade_value",
+        "direction": "CONTRADICTING",
+        "label": "Relative Avg Trade Value",
+        "metric": "relative_avg_trade_value",
+        "value": null,
+        "baseline": null,
+        "relative": 1.1558,
+        "score": null,
+        "note": "Below 1.20x the stock's recent baseline."
+      }
+    ],
+    "narrative_5w1h": {
+      "what": "Sideways Accumulation Watch is active in state ESTABLISHED.",
+      "why": "The investigation has accumulated 2 hard Spot hit(s) and 4 supporting session(s) in the current episode.",
+      "when": "Observation as of 2026-09-09; episode opened 2026-09-03.",
+      "where": "Research peer group: property; context scope: MARKET_WIDE_ACTIVITY.",
+      "who": "Participant identity is not inferred. Broker/flow statistics describe participation structure only.",
+      "how": "SIGNAL combines price compression, abnormal trading activity, lifecycle persistence, participation structure, foreign-flow context, and same-day market/peer context."
+    },
+    "look_ahead": [
+      {
+        "condition_id": "continuation_compression",
+        "label": "Compression remains >= 40",
+        "current_status": "MET",
+        "note": "Current compression score: 46.41."
+      },
+      {
+        "condition_id": "continuation_activity",
+        "label": "Activity >= 25 or at least one core metric >= 1.20x",
+        "current_status": "MET",
+        "note": "Activity score: 30.56; core metrics >=1.20x: 2."
+      },
+      {
+        "condition_id": "established_support",
+        "label": "At least 4 of last 5 sessions support the hypothesis",
+        "current_status": "MET",
+        "note": "Current supporting sessions in last 5: 4."
+      },
+      {
+        "condition_id": "established_hard_hits",
+        "label": "At least 2 hard Spot hits in the episode",
+        "current_status": "MET",
+        "note": "Current hard hits in episode: 2."
+      },
+      {
+        "condition_id": "closure_watch",
+        "label": "Avoid 2 consecutive unsupported sessions",
+        "current_status": "MET",
+        "note": "Current unsupported streak: 0."
+      }
+    ],
+    "guardrails": [
+      "This object describes an investigation, not a buy/sell recommendation.",
+      "Evidence Confidence is not a future-return probability.",
+      "Participant identity is not inferred from broker or trade-size statistics.",
+      "Context peer groups are research groupings, not authoritative exchange classifications."
+    ]
+  }
+}

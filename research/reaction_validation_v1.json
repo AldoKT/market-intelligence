@@ -1,0 +1,119 @@
+{
+  "version": "1.0.0",
+  "validation_as_of": "2026-09-29",
+  "sample_period": {
+    "start": "2026-06-12",
+    "end": "2026-09-29"
+  },
+  "scope": "RESEARCH_LAYER_NOT_SIGNAL_INPUT",
+  "status": "TENTATIVE_DIRECTIONAL_INFORMATION",
+  "short_horizon_robustness": "NOT_ESTABLISHED_FOR_LE_5_SESSIONS",
+  "primary_event": "SPOT_OPEN",
+  "event_definition": "First session of each investigation episode (SPOT_OPEN); one anchor per episode prevents repeated hard hits from over-weighting persistent episodes.",
+  "control_definition": "Same-date eligible NO_INVESTIGATION observations, excluding the event ticker. This controls for broad market-day effects.",
+  "interpretation": "SPOT_OPEN shows a generally favorable direction versus same-date controls in several reaction metrics, especially by 5-10 sessions. However most <=5-session date-cluster bootstrap intervals still cross zero. The current retrospective sample is therefore suggestive, not sufficient to claim reliable short-horizon price-direction prediction.",
+  "guardrail": "Retrospective cohort statistics. Not a ticker-specific forecast, target price, or buy/sell recommendation.",
+  "horizons": [
+    {
+      "horizon_sessions": 1,
+      "event_n": 49,
+      "positive_close_rate": 0.3877551020408163,
+      "control_positive_close_rate": 0.3902620219747665,
+      "reached_plus_2_rate": 0.2040816326530612,
+      "control_reached_plus_2_rate": 0.1003226488585849,
+      "breakout_5d_close_rate": 0.2857142857142857,
+      "control_breakout_5d_close_rate": 0.2164964885879751,
+      "mean_end_return": -0.0002416037843859,
+      "control_mean_end_return": -0.0028392743880375,
+      "mfe_close": -0.0002416037843859,
+      "control_mfe_close": -0.0028392743880375,
+      "mae_close": -0.0002416037843859,
+      "control_mae_close": -0.0028392743880375
+    },
+    {
+      "horizon_sessions": 3,
+      "event_n": 49,
+      "positive_close_rate": 0.4285714285714285,
+      "control_positive_close_rate": 0.408525810858973,
+      "reached_plus_2_rate": 0.3673469387755102,
+      "control_reached_plus_2_rate": 0.3087992324409454,
+      "breakout_5d_close_rate": 0.4489795918367347,
+      "control_breakout_5d_close_rate": 0.3966828391542349,
+      "mean_end_return": -0.0019161084541986,
+      "control_mean_end_return": -0.0061498846547525,
+      "mfe_close": 0.0132820486325825,
+      "control_mfe_close": 0.0109124467955842,
+      "mae_close": -0.013792823084789,
+      "control_mae_close": -0.0190541095160792
+    },
+    {
+      "horizon_sessions": 5,
+      "event_n": 49,
+      "positive_close_rate": 0.4489795918367347,
+      "control_positive_close_rate": 0.390113902193947,
+      "reached_plus_2_rate": 0.5102040816326531,
+      "control_reached_plus_2_rate": 0.3814323638762064,
+      "breakout_5d_close_rate": 0.5714285714285714,
+      "control_breakout_5d_close_rate": 0.4628037109193416,
+      "mean_end_return": 0.0001617742029496,
+      "control_mean_end_return": -0.005940113100099,
+      "mfe_close": 0.0241944454862754,
+      "control_mfe_close": 0.0189285720942363,
+      "mae_close": -0.0220397273763272,
+      "control_mae_close": -0.0266294662218337
+    },
+    {
+      "horizon_sessions": 10,
+      "event_n": 48,
+      "positive_close_rate": 0.5208333333333334,
+      "control_positive_close_rate": 0.4277281852925445,
+      "reached_plus_2_rate": 0.6458333333333334,
+      "control_reached_plus_2_rate": 0.539164012845363,
+      "breakout_5d_close_rate": 0.7083333333333334,
+      "control_breakout_5d_close_rate": 0.6077616806714347,
+      "mean_end_return": 0.0134452123100846,
+      "control_mean_end_return": -0.0022776097447971,
+      "mfe_close": 0.0441528456646526,
+      "control_mfe_close": 0.0353533160662503,
+      "mae_close": -0.0314782600135616,
+      "control_mae_close": -0.042842913500668
+    }
+  ],
+  "significant_positive_findings": [
+    {
+      "horizon_sessions": 1,
+      "metric": "hit_up_2",
+      "matched_difference": 0.10375898379447625,
+      "cluster_bootstrap_95_ci_low": 0.009586949692088034,
+      "cluster_bootstrap_95_ci_high": 0.19354821200050396
+    },
+    {
+      "horizon_sessions": 1,
+      "metric": "up_before_down_2",
+      "matched_difference": 0.10375898379447625,
+      "cluster_bootstrap_95_ci_low": 0.00789023004465413,
+      "cluster_bootstrap_95_ci_high": 0.19088002215176125
+    },
+    {
+      "horizon_sessions": 10,
+      "metric": "hit_up_3",
+      "matched_difference": 0.1445496925631365,
+      "cluster_bootstrap_95_ci_low": 0.014504757525442951,
+      "cluster_bootstrap_95_ci_high": 0.2642587564241778
+    },
+    {
+      "horizon_sessions": 10,
+      "metric": "hit_up_5",
+      "matched_difference": 0.140414192659616,
+      "cluster_bootstrap_95_ci_low": 0.0017261095360823334,
+      "cluster_bootstrap_95_ci_high": 0.2630862979512199
+    },
+    {
+      "horizon_sessions": 10,
+      "metric": "up_before_down_3",
+      "matched_difference": 0.14109628217680278,
+      "cluster_bootstrap_95_ci_low": 0.013719101872279106,
+      "cluster_bootstrap_95_ci_high": 0.2610543493199528
+    }
+  ]
+}

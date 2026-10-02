@@ -1,0 +1,15 @@
+{
+  "methodology_version": "1.0-candidate",
+  "as_of": "2026-09-29",
+  "headline": "0 active investigations detected after market close",
+  "kpis": {
+    "active_investigations": 0,
+    "established": 0,
+    "developing": 0,
+    "emerging": 0,
+    "weakening": 0
+  },
+  "spotlight": null,
+  "active_investigations": [],
+  "recent_changes": []
+}

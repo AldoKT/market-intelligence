@@ -1,0 +1,199 @@
+{
+  "methodology_version": "1.0-candidate",
+  "as_of": "2026-09-09",
+  "headline": "8 active investigations detected after market close",
+  "kpis": {
+    "active_investigations": 8,
+    "established": 1,
+    "developing": 0,
+    "emerging": 4,
+    "weakening": 3
+  },
+  "spotlight": {
+    "symbol": "CTRA",
+    "peer_group": "property",
+    "state": "ESTABLISHED",
+    "active": true,
+    "evidence_confidence": 44.53,
+    "context_scope": "MARKET_WIDE_ACTIVITY",
+    "context_specificity_score": 19.615912208504803,
+    "relative_turnover": 1.3625,
+    "current_5d_range_pct": 5.5118,
+    "persistence_hits": 4,
+    "persistence_window": 5,
+    "opened_at": "2026-09-03",
+    "last_updated": "2026-09-09"
+  },
+  "active_investigations": [
+    {
+      "symbol": "CTRA",
+      "peer_group": "property",
+      "state": "ESTABLISHED",
+      "active": true,
+      "evidence_confidence": 44.53,
+      "context_scope": "MARKET_WIDE_ACTIVITY",
+      "context_specificity_score": 19.615912208504803,
+      "relative_turnover": 1.3625,
+      "current_5d_range_pct": 5.5118,
+      "persistence_hits": 4,
+      "persistence_window": 5,
+      "opened_at": "2026-09-03",
+      "last_updated": "2026-09-09"
+    },
+    {
+      "symbol": "ANTM",
+      "peer_group": "basic_materials",
+      "state": "EMERGING",
+      "active": true,
+      "evidence_confidence": 66.88,
+      "context_scope": "MARKET_WIDE_ACTIVITY",
+      "context_specificity_score": 34.5679012345679,
+      "relative_turnover": 2.3022,
+      "current_5d_range_pct": 4.8077,
+      "persistence_hits": 1,
+      "persistence_window": 5,
+      "opened_at": "2026-09-09",
+      "last_updated": "2026-09-09"
+    },
+    {
+      "symbol": "INCO",
+      "peer_group": "basic_materials",
+      "state": "EMERGING",
+      "active": true,
+      "evidence_confidence": 57.44,
+      "context_scope": "MARKET_WIDE_ACTIVITY",
+      "context_specificity_score": 28.06584362139918,
+      "relative_turnover": 1.7118,
+      "current_5d_range_pct": 3.6735,
+      "persistence_hits": 1,
+      "persistence_window": 5,
+      "opened_at": "2026-09-09",
+      "last_updated": "2026-09-09"
+    },
+    {
+      "symbol": "ISAT",
+      "peer_group": "telecom",
+      "state": "EMERGING",
+      "active": true,
+      "evidence_confidence": 47.87,
+      "context_scope": "MARKET_WIDE_ACTIVITY",
+      "context_specificity_score": 33.88203017832648,
+      "relative_turnover": 1.5802,
+      "current_5d_range_pct": 6.6946,
+      "persistence_hits": 1,
+      "persistence_window": 5,
+      "opened_at": "2026-09-09",
+      "last_updated": "2026-09-09"
+    },
+    {
+      "symbol": "ADRO",
+      "peer_group": "energy",
+      "state": "EMERGING",
+      "active": true,
+      "evidence_confidence": 46.21,
+      "context_scope": "MARKET_WIDE_ACTIVITY",
+      "context_specificity_score": 27.11934156378601,
+      "relative_turnover": 2.0671,
+      "current_5d_range_pct": 3.7037,
+      "persistence_hits": 1,
+      "persistence_window": 5,
+      "opened_at": "2026-09-09",
+      "last_updated": "2026-09-09"
+    },
+    {
+      "symbol": "NCKL",
+      "peer_group": "basic_materials",
+      "state": "WEAKENING",
+      "active": true,
+      "evidence_confidence": 49.53,
+      "context_scope": "PEER_CLUSTERED_ACTIVITY",
+      "context_specificity_score": 42.22222222222223,
+      "relative_turnover": 3.1267,
+      "current_5d_range_pct": 7.2917,
+      "persistence_hits": 2,
+      "persistence_window": 5,
+      "opened_at": "2026-09-07",
+      "last_updated": "2026-09-09"
+    },
+    {
+      "symbol": "BBNI",
+      "peer_group": "financials",
+      "state": "WEAKENING",
+      "active": true,
+      "evidence_confidence": 31.8,
+      "context_scope": "MIXED_CONTEXT",
+      "context_specificity_score": 40.24691358024692,
+      "relative_turnover": 1.7495,
+      "current_5d_range_pct": 5.3708,
+      "persistence_hits": 1,
+      "persistence_window": 5,
+      "opened_at": "2026-09-08",
+      "last_updated": "2026-09-09"
+    },
+    {
+      "symbol": "MIKA",
+      "peer_group": "healthcare",
+      "state": "WEAKENING",
+      "active": true,
+      "evidence_confidence": 31.16,
+      "context_scope": "NO_ACTIVITY_CONTEXT",
+      "context_specificity_score": null,
+      "relative_turnover": 0.8924,
+      "current_5d_range_pct": 6.25,
+      "persistence_hits": 2,
+      "persistence_window": 5,
+      "opened_at": "2026-09-07",
+      "last_updated": "2026-09-09"
+    }
+  ],
+  "recent_changes": [
+    {
+      "symbol": "ADRO",
+      "state": "EMERGING",
+      "investigation_id": "ADRO-20260909-02",
+      "date": "2026-09-09"
+    },
+    {
+      "symbol": "ANTM",
+      "state": "EMERGING",
+      "investigation_id": "ANTM-20260909-02",
+      "date": "2026-09-09"
+    },
+    {
+      "symbol": "BBNI",
+      "state": "WEAKENING",
+      "investigation_id": "BBNI-20260908-01",
+      "date": "2026-09-09"
+    },
+    {
+      "symbol": "CTRA",
+      "state": "ESTABLISHED",
+      "investigation_id": "CTRA-20260903-03",
+      "date": "2026-09-09"
+    },
+    {
+      "symbol": "INCO",
+      "state": "EMERGING",
+      "investigation_id": "INCO-20260909-02",
+      "date": "2026-09-09"
+    },
+    {
+      "symbol": "ISAT",
+      "state": "EMERGING",
+      "investigation_id": "ISAT-20260909-04",
+      "date": "2026-09-09"
+    },
+    {
+      "symbol": "MIKA",
+      "state": "WEAKENING",
+      "investigation_id": "MIKA-20260907-03",
+      "date": "2026-09-09"
+    },
+    {
+      "symbol": "NCKL",
+      "state": "WEAKENING",
+      "investigation_id": "NCKL-20260907-01",
+      "date": "2026-09-09"
+    }
+  ]
+}

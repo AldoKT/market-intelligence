@@ -1,0 +1,47 @@
+{
+  "project": "SIGNAL",
+  "package_version": "github-ready-v1.3.2",
+  "methodology": "1.0-candidate",
+  "ui_pages": [
+    "Overview",
+    "Investigations",
+    "Summary",
+    "Market Activity",
+    "Context",
+    "History",
+    "Watchlist",
+    "Methodology"
+  ],
+  "snapshots": {
+    "demo": "2026-09-09",
+    "latest": "2026-09-29"
+  },
+  "sectors_api_requests_required_to_run": 0,
+  "validation": {
+    "implementation_correctness": "PASS",
+    "point_in_time_validity": "PASS",
+    "product_payload_validity": "PASS",
+    "data_quality": "PASS_WITH_WARNINGS",
+    "methodology_validity": "PARTIAL_RETROSPECTIVE_SUPPORT; OUT_OF_SAMPLE_PENDING"
+  },
+  "known_fixes": [
+    "Historical History-page episode summaries no longer include future episode outcomes.",
+    "Windows launcher quoting fixed.",
+    "CORS defaults now include localhost and 127.0.0.1 on Vite port 5173."
+  ],
+  "reaction_validation": {
+    "version": "1.0.0",
+    "spot_open_episodes": 49,
+    "developing_first_episodes": 26,
+    "established_first_episodes": 3,
+    "status": "TENTATIVE_DIRECTIONAL_INFORMATION; NOT YET ROBUST FOR A <=5 SESSION CLAIM",
+    "primary_control": "same-date eligible NO_INVESTIGATION observations",
+    "next_required_test": "out-of-sample data from 2026-10-01 onward with frozen thresholds"
+  },
+  "ui_updates": {
+    "historical_reaction_profile": "Added to Summary and Methodology; historical Summary views remain point-in-time protected.",
+    "past_investigations_readability": "Increased episode card typography and desktop width",
+    "history_layout_polish": "Rebalanced History page columns and increased Past Investigations/timeline typography for readability."
+  },
+  "research_overlay_architecture": "Reaction validation is served from backend/app/data and is not embedded in point-in-time snapshot payloads."
+}
