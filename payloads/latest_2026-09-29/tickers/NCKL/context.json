@@ -27,6 +27,72 @@
     "market_spot_hit_breadth": 0.0,
     "date": "2026-09-29"
   },
+  "peer_comparison": [
+    {
+      "symbol": "MDKA",
+      "activity_score": 49.9,
+      "relative_turnover": 1.5283,
+      "context_scope": "STOCK_SPECIFIC_ACTIVITY",
+      "context_specificity_score": 87.4074074074074,
+      "state": "NO_INVESTIGATION"
+    },
+    {
+      "symbol": "BRMS",
+      "activity_score": 33.26,
+      "relative_turnover": 1.3649,
+      "context_scope": "STOCK_SPECIFIC_ACTIVITY",
+      "context_specificity_score": 70.86419753086419,
+      "state": "NO_INVESTIGATION"
+    },
+    {
+      "symbol": "TINS",
+      "activity_score": 18.07,
+      "relative_turnover": 1.1207,
+      "context_scope": "MIXED_CONTEXT",
+      "context_specificity_score": 60.24691358024692,
+      "state": "NO_INVESTIGATION"
+    },
+    {
+      "symbol": "INCO",
+      "activity_score": 13.22,
+      "relative_turnover": 0.9545,
+      "context_scope": "MIXED_CONTEXT",
+      "context_specificity_score": 47.65432098765432,
+      "state": "NO_INVESTIGATION"
+    },
+    {
+      "symbol": "AMMN",
+      "activity_score": 0.0,
+      "relative_turnover": 0.8026,
+      "context_scope": "NO_ACTIVITY_CONTEXT",
+      "context_specificity_score": null,
+      "state": "NO_INVESTIGATION"
+    },
+    {
+      "symbol": "ANTM",
+      "activity_score": 0.0,
+      "relative_turnover": 0.8217,
+      "context_scope": "NO_ACTIVITY_CONTEXT",
+      "context_specificity_score": null,
+      "state": "NO_INVESTIGATION"
+    },
+    {
+      "symbol": "NCKL",
+      "activity_score": 0.0,
+      "relative_turnover": 0.7701,
+      "context_scope": "NO_ACTIVITY_CONTEXT",
+      "context_specificity_score": null,
+      "state": "NO_INVESTIGATION"
+    }
+  ],
+  "source_availability": {
+    "sector_market_series": false,
+    "company_fundamentals": false,
+    "corporate_events": false,
+    "news": false,
+    "peer_comparison": true,
+    "market_context": true
+  },
   "notes": [
     "Context Specificity is descriptive evidence and does not change the hard Spot gate.",
     "A market-wide label means the same-day anomaly is less ticker-specific, not that it is false.",

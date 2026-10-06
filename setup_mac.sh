@@ -5,7 +5,7 @@ ROOT="$(cd "$(dirname "$0")" && pwd)"
 
 echo ""
 echo "===================================="
-echo " SIGNAL Complete Project v1 - Setup "
+echo " SIGNAL UI Contract Project v2.0 - Setup "
 echo "===================================="
 echo ""
 

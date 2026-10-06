@@ -27,6 +27,48 @@
     "market_spot_hit_breadth": 0.1481481481481481,
     "date": "2026-09-09"
   },
+  "peer_comparison": [
+    {
+      "symbol": "CPIN",
+      "activity_score": 86.05,
+      "relative_turnover": 2.887,
+      "context_scope": "MIXED_CONTEXT",
+      "context_specificity_score": 50.20576131687243,
+      "state": "NO_INVESTIGATION"
+    },
+    {
+      "symbol": "INDF",
+      "activity_score": 51.62,
+      "relative_turnover": 1.5078,
+      "context_scope": "MARKET_WIDE_ACTIVITY",
+      "context_specificity_score": 32.757201646090536,
+      "state": "NO_INVESTIGATION"
+    },
+    {
+      "symbol": "ICBP",
+      "activity_score": 36.11,
+      "relative_turnover": 1.5117,
+      "context_scope": "MARKET_WIDE_ACTIVITY",
+      "context_specificity_score": 17.28395061728395,
+      "state": "NO_INVESTIGATION"
+    },
+    {
+      "symbol": "MYOR",
+      "activity_score": 11.54,
+      "relative_turnover": 1.1396,
+      "context_scope": "MARKET_WIDE_ACTIVITY",
+      "context_specificity_score": 8.559670781893004,
+      "state": "NO_INVESTIGATION"
+    }
+  ],
+  "source_availability": {
+    "sector_market_series": false,
+    "company_fundamentals": false,
+    "corporate_events": false,
+    "news": false,
+    "peer_comparison": true,
+    "market_context": true
+  },
   "notes": [
     "Context Specificity is descriptive evidence and does not change the hard Spot gate.",
     "A market-wide label means the same-day anomaly is less ticker-specific, not that it is false.",

@@ -27,6 +27,32 @@
     "market_spot_hit_breadth": 0.1481481481481481,
     "date": "2026-09-09"
   },
+  "peer_comparison": [
+    {
+      "symbol": "GOTO",
+      "activity_score": 37.62,
+      "relative_turnover": 1.5898,
+      "context_scope": "INELIGIBLE",
+      "context_specificity_score": null,
+      "state": "INELIGIBLE_PRICE_REGIME"
+    },
+    {
+      "symbol": "EMTK",
+      "activity_score": 0.0,
+      "relative_turnover": 0.7306,
+      "context_scope": "NO_ACTIVITY_CONTEXT",
+      "context_specificity_score": null,
+      "state": "NO_INVESTIGATION"
+    }
+  ],
+  "source_availability": {
+    "sector_market_series": false,
+    "company_fundamentals": false,
+    "corporate_events": false,
+    "news": false,
+    "peer_comparison": true,
+    "market_context": true
+  },
   "notes": [
     "Context Specificity is descriptive evidence and does not change the hard Spot gate.",
     "A market-wide label means the same-day anomaly is less ticker-specific, not that it is false.",

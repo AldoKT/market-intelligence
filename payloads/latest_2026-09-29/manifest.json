@@ -37,5 +37,12 @@
     "methodology": "methodology.json",
     "ticker_template": "tickers/{SYMBOL}/{investigation,summary,activity,context,history}.json"
   },
-  "raw_market_activity_enrichment": false
+  "raw_market_activity_enrichment": true,
+  "raw_market_activity_enrichment_scope": [
+    "ANTM",
+    "BRMS",
+    "GOTO",
+    "INCO",
+    "TINS"
+  ]
 }

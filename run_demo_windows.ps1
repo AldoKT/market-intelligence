@@ -6,7 +6,7 @@ $Frontend = Join-Path $Root "frontend"
 $Payload = Join-Path $Root "payloads\demo_2026-09-09"
 
 Write-Host ""
-Write-Host "=== Starting SIGNAL Historical Demo ===" -ForegroundColor Magenta
+Write-Host "=== Starting SIGNAL v2.3 Historical Demo ===" -ForegroundColor Magenta
 Write-Host "Snapshot: 2026-09-09"
 Write-Host "No Sectors API calls are made."
 Write-Host ""

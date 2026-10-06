@@ -27,9 +27,135 @@
     "market_spot_hit_breadth": 0.1481481481481481,
     "date": "2026-09-09"
   },
+  "peer_comparison": [
+    {
+      "symbol": "NCKL",
+      "activity_score": 100.0,
+      "relative_turnover": 3.1267,
+      "context_scope": "PEER_CLUSTERED_ACTIVITY",
+      "context_specificity_score": 42.22222222222223,
+      "state": "WEAKENING"
+    },
+    {
+      "symbol": "AMMN",
+      "activity_score": 98.25,
+      "relative_turnover": 2.9196,
+      "context_scope": "MARKET_WIDE_ACTIVITY",
+      "context_specificity_score": 37.86008230452676,
+      "state": "NO_INVESTIGATION"
+    },
+    {
+      "symbol": "ANTM",
+      "activity_score": 90.12,
+      "relative_turnover": 2.3022,
+      "context_scope": "MARKET_WIDE_ACTIVITY",
+      "context_specificity_score": 34.5679012345679,
+      "state": "EMERGING"
+    },
+    {
+      "symbol": "INCO",
+      "activity_score": 72.35,
+      "relative_turnover": 1.7118,
+      "context_scope": "MARKET_WIDE_ACTIVITY",
+      "context_specificity_score": 28.06584362139918,
+      "state": "EMERGING"
+    },
+    {
+      "symbol": "TINS",
+      "activity_score": 53.93,
+      "relative_turnover": 1.6451,
+      "context_scope": "MARKET_WIDE_ACTIVITY",
+      "context_specificity_score": 20.493827160493822,
+      "state": "NO_INVESTIGATION"
+    },
+    {
+      "symbol": "MDKA",
+      "activity_score": 12.38,
+      "relative_turnover": 1.1121,
+      "context_scope": "NO_ACTIVITY_CONTEXT",
+      "context_specificity_score": null,
+      "state": "NO_INVESTIGATION"
+    },
+    {
+      "symbol": "BRMS",
+      "activity_score": 0.0,
+      "relative_turnover": 0.6639,
+      "context_scope": "NO_ACTIVITY_CONTEXT",
+      "context_specificity_score": null,
+      "state": "NO_INVESTIGATION"
+    }
+  ],
+  "source_availability": {
+    "sector_market_series": false,
+    "company_fundamentals": false,
+    "corporate_events": true,
+    "news": true,
+    "peer_comparison": true,
+    "market_context": true
+  },
   "notes": [
     "Context Specificity is descriptive evidence and does not change the hard Spot gate.",
     "A market-wide label means the same-day anomaly is less ticker-specific, not that it is false.",
     "No causal claim is made from market/peer co-movement alone."
-  ]
+  ],
+  "relevant_news": [
+    {
+      "title": "BRI Danareksa Sekuritas analyst highlights expansion prospects and buy recommendations for PT Bumi Resources Tbk, PT Petrosea Tbk, PT United Tractors Tbk and PT Aneka Tambang Tbk.",
+      "timestamp": "2026-09-07T18:54:00",
+      "source": "https://investasi.kontan.co.id/news/cek-prospek-dan-rekomendasi-emiten-yang-akuisisi-aset-tambang-di-luar-negeri",
+      "thumbnail": "https://foto.kontan.co.id/khbGxw1KuKTsA4Jr4vksfkQd6ms=/smart/2026/04/06/1362614284t.jpg",
+      "tags": [
+        "Analyst Ratings",
+        "Business Expansion",
+        "Mergers & Acquisitions",
+        "Foreign Investment",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors show early signs of tactical re-entry into Indonesian equities, with analysts highlighting big banks and select sectors.",
+      "timestamp": "2026-09-07T15:43:00",
+      "source": "https://investasi.kontan.co.id/news/asing-mulai-re-entry-ke-pasar-saham-intip-rekomendasi-saham-yang-menarik-dicermati",
+      "thumbnail": "https://foto.kontan.co.id/TehvkqW2NE4KQ4-pKX41ivzgF_w=/smart/2026/08/14/309936276t.jpg",
+      "tags": [
+        "Foreign Investment",
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Currency & FX",
+        "Bullish"
+      ]
+    }
+  ],
+  "corporate_events": [
+    {
+      "date": "2026-06-22",
+      "type": "Dividend",
+      "detail": "Dividend amount 209.989"
+    },
+    {
+      "date": "2026-06-10",
+      "type": "Agm",
+      "detail": "Annual / extraordinary shareholder meeting"
+    },
+    {
+      "date": "2025-12-15",
+      "type": "Agm",
+      "detail": "Annual / extraordinary shareholder meeting"
+    },
+    {
+      "date": "2025-09-11",
+      "type": "Agm",
+      "detail": "Annual / extraordinary shareholder meeting"
+    }
+  ],
+  "company_fundamentals": {
+    "available": false,
+    "metrics": []
+  },
+  "sector_context": {
+    "available": false,
+    "series": [],
+    "note": "Formal sector-index time series is not bundled in this historical snapshot."
+  }
 }

@@ -18,12 +18,16 @@ export type ContextScope =
 
 export interface InvestigationListItem {
   symbol: string;
+  company_name?: string | null;
   peer_group: string | null;
+  pattern_type?: string | null;
   state: InvestigationState | string;
   active: boolean;
   evidence_confidence: number | null;
   context_scope: ContextScope | string | null;
   context_specificity_score: number | null;
+  close?: number | null;
+  daily_change_pct?: number | null;
   relative_turnover: number | null;
   current_5d_range_pct: number | null;
   persistence_hits: number;
@@ -172,17 +176,31 @@ export interface SummaryPayload {
 
 export interface ActivityPoint {
   date: string;
+  open?: number | null;
+  high?: number | null;
+  low?: number | null;
   close: number | null;
   volume: number | null;
   transaction_count: number | null;
   turnover_idr: number | null;
   avg_trade_value_idr: number | null;
+  market_cap?: number | null;
+  net_foreign_inflow?: number | null;
+  foreign_share?: number | null;
+  volume_baseline_20d?: number | null;
+  transaction_count_baseline_20d?: number | null;
+  turnover_baseline_20d?: number | null;
+  avg_trade_value_baseline_20d?: number | null;
   relative_volume: number | null;
   relative_transaction_count: number | null;
   relative_turnover: number | null;
   relative_avg_trade_value: number | null;
   compression_score: number | null;
   activity_score: number | null;
+  evidence_confidence?: number | null;
+  diagnostic_evidence_score?: number | null;
+  persistence_score?: number | null;
+  supporting_session?: boolean;
   spot_hit: boolean;
   lifecycle_state: string;
 }
@@ -196,11 +214,13 @@ export interface ActivityPayload {
     actual_transaction_count: boolean;
     actual_turnover: boolean;
     actual_avg_trade_value: boolean;
+    actual_ohlc?: boolean;
     relative_metrics: boolean;
   };
   current: InvestigationDetail["metrics"];
   series: ActivityPoint[];
   guardrail: string;
+  source_note?: string;
 }
 
 export interface ContextPayload {
@@ -208,6 +228,22 @@ export interface ContextPayload {
   as_of: string;
   identity: InvestigationDetail["identity"];
   current: InvestigationDetail["context"];
+  peer_comparison?: Array<{
+    symbol: string;
+    activity_score: number | null;
+    relative_turnover: number | null;
+    context_scope: string | null;
+    context_specificity_score: number | null;
+    state: string;
+  }>;
+  source_availability?: {
+    sector_market_series?: boolean;
+    company_fundamentals?: boolean;
+    corporate_events?: boolean;
+    news?: boolean;
+    peer_comparison?: boolean;
+    market_context?: boolean;
+  };
   daily_market: {
     market_eligible_count?: number;
     market_activity_median?: number;
@@ -219,6 +255,16 @@ export interface ContextPayload {
     date?: string;
     [key: string]: unknown;
   };
+  relevant_news?: Array<{
+    title: string | null;
+    timestamp: string;
+    source?: string | null;
+    thumbnail?: string | null;
+    tags?: string[];
+  }>;
+  corporate_events?: Array<{ date: string; type: string; detail: string }>;
+  company_fundamentals?: { available: boolean; metrics: Array<{label:string;value:string}> };
+  sector_context?: { available: boolean; series: unknown[]; note?: string };
   notes: string[];
 }
 

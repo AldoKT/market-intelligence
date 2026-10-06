@@ -4,7 +4,7 @@ $Root = Split-Path -Parent $MyInvocation.MyCommand.Path
 
 Write-Host ""
 Write-Host "====================================" -ForegroundColor Magenta
-Write-Host " SIGNAL Complete Project v1 - Setup " -ForegroundColor Magenta
+Write-Host " SIGNAL UI Contract Project v2.0 - Setup " -ForegroundColor Magenta
 Write-Host "====================================" -ForegroundColor Magenta
 Write-Host ""
 

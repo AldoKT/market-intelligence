@@ -27,9 +27,155 @@
     "market_spot_hit_breadth": 0.0,
     "date": "2026-09-29"
   },
+  "peer_comparison": [
+    {
+      "symbol": "MDKA",
+      "activity_score": 49.9,
+      "relative_turnover": 1.5283,
+      "context_scope": "STOCK_SPECIFIC_ACTIVITY",
+      "context_specificity_score": 87.4074074074074,
+      "state": "NO_INVESTIGATION"
+    },
+    {
+      "symbol": "BRMS",
+      "activity_score": 33.26,
+      "relative_turnover": 1.3649,
+      "context_scope": "STOCK_SPECIFIC_ACTIVITY",
+      "context_specificity_score": 70.86419753086419,
+      "state": "NO_INVESTIGATION"
+    },
+    {
+      "symbol": "TINS",
+      "activity_score": 18.07,
+      "relative_turnover": 1.1207,
+      "context_scope": "MIXED_CONTEXT",
+      "context_specificity_score": 60.24691358024692,
+      "state": "NO_INVESTIGATION"
+    },
+    {
+      "symbol": "INCO",
+      "activity_score": 13.22,
+      "relative_turnover": 0.9545,
+      "context_scope": "MIXED_CONTEXT",
+      "context_specificity_score": 47.65432098765432,
+      "state": "NO_INVESTIGATION"
+    },
+    {
+      "symbol": "AMMN",
+      "activity_score": 0.0,
+      "relative_turnover": 0.8026,
+      "context_scope": "NO_ACTIVITY_CONTEXT",
+      "context_specificity_score": null,
+      "state": "NO_INVESTIGATION"
+    },
+    {
+      "symbol": "ANTM",
+      "activity_score": 0.0,
+      "relative_turnover": 0.8217,
+      "context_scope": "NO_ACTIVITY_CONTEXT",
+      "context_specificity_score": null,
+      "state": "NO_INVESTIGATION"
+    },
+    {
+      "symbol": "NCKL",
+      "activity_score": 0.0,
+      "relative_turnover": 0.7701,
+      "context_scope": "NO_ACTIVITY_CONTEXT",
+      "context_specificity_score": null,
+      "state": "NO_INVESTIGATION"
+    }
+  ],
+  "source_availability": {
+    "sector_market_series": false,
+    "company_fundamentals": false,
+    "corporate_events": true,
+    "news": true,
+    "peer_comparison": true,
+    "market_context": true
+  },
   "notes": [
     "Context Specificity is descriptive evidence and does not change the hard Spot gate.",
     "A market-wide label means the same-day anomaly is less ticker-specific, not that it is false.",
     "No causal claim is made from market/peer co-movement alone."
-  ]
+  ],
+  "relevant_news": [
+    {
+      "title": "New Mining Services Rules Seen Having Varied Impacts on Mineral and Coal Issuers",
+      "timestamp": "2026-09-29T17:54:00",
+      "source": "https://investasi.kontan.co.id/news/aturan-baru-jasa-tambang-dampaknya-akan-berbeda-ke-emiten-minerba",
+      "thumbnail": "https://foto.kontan.co.id/VeHMrm9xPkGJ0U2_J1J2yZLVAXM=/smart/filters:format(webp)/2021/11/19/1445906526.jpg",
+      "tags": [
+        "Politics & Regulation",
+        "Analyst Ratings",
+        "Commodities",
+        "Production & Operations",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas Raises PT Antam Tbk (ANTM) 2026 Net Profit Projection and Sets New Price Target",
+      "timestamp": "2026-09-28T14:34:00",
+      "source": "https://investor.id/market/455791/antam-antm-gali-laba-lebih-dalam-ada-target-harga-baru",
+      "thumbnail": "https://img2.beritasatu.com/cache/investor/253x142-2/2026/09/1790497285-1600x1066.webp",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk (ANTM) reports 9\u2011ton gold purchase from Freeport and semester\u2011I sales of Rp50.39\u202ftrillion",
+      "timestamp": "2026-09-25T22:16:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/122766/antam-serap-9-ton-emas-freeport-semester-i-catat-sales-rp50-t",
+      "thumbnail": "https://images.bloombergtechnoz.com/data/2024/02/image-20240202154255.jpg",
+      "tags": [
+        "Asset Purchase",
+        "Commodities",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net sold a record Rp\u202f1.49\u202ftrillion as the IHSG fell, with PT Bank Mandiri Tbk (BMRI) topping the list of heavily shorted stocks.",
+      "timestamp": "2026-09-24T21:44:00",
+      "source": "https://investasi.kontan.co.id/news/asing-net-sell-jumbo-rp-149-triliun-saat-ihsg-ambruk-cek-saham-yagn-banyak-dilego",
+      "thumbnail": "https://foto.kontan.co.id/zt9Y6Pj0XV6SoZ93eJ4ihynhZE8=/smart/2026/09/15/128947954t.jpg",
+      "tags": [
+        "Foreign Investment",
+        "Bearish"
+      ]
+    }
+  ],
+  "corporate_events": [
+    {
+      "date": "2026-09-10",
+      "type": "Agm",
+      "detail": "Annual / extraordinary shareholder meeting"
+    },
+    {
+      "date": "2026-06-22",
+      "type": "Dividend",
+      "detail": "Dividend amount 209.989"
+    },
+    {
+      "date": "2026-06-10",
+      "type": "Agm",
+      "detail": "Annual / extraordinary shareholder meeting"
+    },
+    {
+      "date": "2025-12-15",
+      "type": "Agm",
+      "detail": "Annual / extraordinary shareholder meeting"
+    }
+  ],
+  "company_fundamentals": {
+    "available": false,
+    "metrics": []
+  },
+  "sector_context": {
+    "available": false,
+    "series": [],
+    "note": "Formal sector-index time series is not bundled in this historical snapshot."
+  }
 }

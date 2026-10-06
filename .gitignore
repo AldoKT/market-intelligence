@@ -33,3 +33,6 @@ signal_backtest_output/raw/
 
 # Local runtime logs
 *.log
+
+# Local enrichment scratch
+.tmp_raw_enrichment/

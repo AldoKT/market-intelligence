@@ -27,6 +27,48 @@
     "market_spot_hit_breadth": 0.0,
     "date": "2026-09-29"
   },
+  "peer_comparison": [
+    {
+      "symbol": "MYOR",
+      "activity_score": 13.34,
+      "relative_turnover": 0.8061,
+      "context_scope": "STOCK_SPECIFIC_ACTIVITY",
+      "context_specificity_score": 69.62962962962963,
+      "state": "NO_INVESTIGATION"
+    },
+    {
+      "symbol": "INDF",
+      "activity_score": 0.01,
+      "relative_turnover": 0.959,
+      "context_scope": "NO_ACTIVITY_CONTEXT",
+      "context_specificity_score": null,
+      "state": "NO_INVESTIGATION"
+    },
+    {
+      "symbol": "ICBP",
+      "activity_score": 0.0,
+      "relative_turnover": 0.463,
+      "context_scope": "NO_ACTIVITY_CONTEXT",
+      "context_specificity_score": null,
+      "state": "NO_INVESTIGATION"
+    },
+    {
+      "symbol": "CPIN",
+      "activity_score": 0.0,
+      "relative_turnover": 0.6535,
+      "context_scope": "NO_ACTIVITY_CONTEXT",
+      "context_specificity_score": null,
+      "state": "NO_INVESTIGATION"
+    }
+  ],
+  "source_availability": {
+    "sector_market_series": false,
+    "company_fundamentals": false,
+    "corporate_events": false,
+    "news": false,
+    "peer_comparison": true,
+    "market_context": true
+  },
   "notes": [
     "Context Specificity is descriptive evidence and does not change the hard Spot gate.",
     "A market-wide label means the same-day anomaly is less ticker-specific, not that it is false.",

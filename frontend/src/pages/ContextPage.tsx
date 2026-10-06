@@ -1,271 +1,40 @@
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { useParams } from "react-router-dom";
-import { getContext } from "../lib/api";
-import type { ContextPayload } from "../types";
-import { ContextBadge } from "../components/ContextBadge";
-import { formatNumber, formatPercentRatio } from "../lib/format";
+import { getActivity, getContext } from "../lib/api";
+import type { ActivityPayload, ContextPayload } from "../types";
+import { StatusBadge } from "../components/StatusBadge";
+import { formatNumber } from "../lib/format";
+import { humanGroup } from "../lib/companies";
 
-export function ContextPage() {
-  const { symbol = "" } = useParams();
-  const [data, setData] = useState<ContextPayload | null>(null);
-  const [error, setError] = useState<string | null>(null);
-
-  useEffect(() => {
-    let alive = true;
-
-    getContext(symbol)
-      .then((payload) => {
-        if (alive) setData(payload);
-      })
-      .catch((err: Error) => {
-        if (alive) setError(err.message);
-      });
-
-    return () => {
-      alive = false;
-    };
-  }, [symbol]);
-
-  if (error) {
-    return (
-      <div className="error-card workspace-page">
-        <h2>Unable to load Context</h2>
-        <p>{error}</p>
+type Filter="ALL"|"SECTOR"|"COMPANY"|"MARKET"|"NEWS";
+export function ContextPage(){
+  const {symbol=""}=useParams(); const [data,setData]=useState<ContextPayload|null>(null); const [activity,setActivity]=useState<ActivityPayload|null>(null); const [filter,setFilter]=useState<Filter>('ALL'); const [error,setError]=useState<string|null>(null);
+  useEffect(()=>{let alive=true;Promise.all([getContext(symbol),getActivity(symbol).catch(()=>null)]).then(([c,a])=>{if(alive){setData(c);setActivity(a)}}).catch((e:Error)=>alive&&setError(e.message));return()=>{alive=false;};},[symbol]);
+  const latest=useMemo(()=>activity?.series.at(-1)??null,[activity]);
+  if(error)return <div className="error-card workspace-page"><h2>Unable to load Context</h2><p>{error}</p></div>;
+  if(!data)return <div className="workspace-page"><div className="skeleton skeleton-card"/></div>;
+  const show=(x:Filter)=>filter==='ALL'||filter===x; const peers=data.peer_comparison??[]; const current=data.current; const market=data.daily_market;
+  return <section className="workspace-page v23-context-page">
+    <div className="v23-context-heading"><div><h2>Context</h2><p>Key facts and related developments that may explain the unusual market activity.</p></div><div className="v23-context-tabs">{(['ALL','SECTOR','COMPANY','MARKET','NEWS'] as Filter[]).map(x=><button key={x} className={filter===x?'active':''} onClick={()=>setFilter(x)}>{x[0]+x.slice(1).toLowerCase()}</button>)}</div></div>
+    <div className="v23-context-grid">
+      <div className="v23-context-left">
+        {show('SECTOR')&&<article className="card v23-context-card v23-sector-card"><CardTitle icon="▥" title="Sector Context" subtitle="Performance and current positioning in the research group." action="View Sector →"/><div className="v23-sector-body"><div className="v23-sector-chart"><strong>{humanGroup(data.identity.peer_group)} Sector Performance</strong>{data.sector_context?.available?<div/>:<Unavailable compact text={data.sector_context?.note??'Formal sector-index time series is not available in this snapshot.'}/>}</div><div className="v23-subindustry"><strong>Research-group comparison</strong>{peers.slice(0,6).map(p=><div className="v23-peer-bar" key={p.symbol}><span>{p.symbol}</span><div><i style={{width:`${Math.min(100,Math.max(4,(p.activity_score??0)))}%`}}/></div><b>{p.activity_score==null?'—':`${formatNumber(p.activity_score,1)}`}</b></div>)}</div></div></article>}
+        {show('COMPANY')&&<article className="card v23-context-card"><CardTitle icon="▥" title="Company Fundamentals" subtitle="Key financial metrics available in the current data package." action="View Details →"/><div className="v23-fundamental-grid"><Fund label="Market Cap" value={latest?.market_cap==null?'—':`IDR ${compact(latest.market_cap)}`} available={latest?.market_cap!=null}/><Fund label="Revenue Growth" value="Unavailable"/><Fund label="ROE" value="Unavailable"/><Fund label="Debt to Equity" value="Unavailable"/></div></article>}
+        {show('COMPANY')&&<article className="card v23-context-card"><CardTitle icon="▦" title="Corporate Events" subtitle="Recent corporate actions known by the snapshot date." action="View All →"/>{data.corporate_events?.length?<div className="v23-events-list">{data.corporate_events.slice(0,3).map((e,i)=><div key={`${e.date}-${i}`}><span>{shortDate(e.date)}</span><b>{e.type}</b><p>{e.detail}</p><i>›</i></div>)}</div>:<Unavailable text="Corporate-action records are not bundled for this ticker in the current snapshot."/>}</article>}
+        {show('SECTOR')&&<article className="card v23-context-card"><CardTitle icon="⌘" title="Peer Comparison" subtitle="Key metrics compared with the same research group." action="View Full Comparison →"/><div className="v23-peer-table-wrap"><table className="v23-peer-table"><thead><tr><th>Ticker</th><th>Activity</th><th>Rel. Turnover</th><th>Context Specificity</th><th>State</th></tr></thead><tbody>{peers.slice(0,7).map(p=><tr key={p.symbol} className={p.symbol===symbol.toUpperCase()?'selected':''}><td><strong>{p.symbol}</strong></td><td>{p.activity_score==null?'—':formatNumber(p.activity_score,1)}</td><td>{p.relative_turnover==null?'—':`${formatNumber(p.relative_turnover,2)}x`}</td><td>{p.context_specificity_score==null?'—':`${formatNumber(p.context_specificity_score,0)}/100`}</td><td><StatusBadge state={p.state}/></td></tr>)}</tbody></table></div></article>}
       </div>
-    );
-  }
-
-  if (!data) {
-    return (
-      <div className="workspace-page">
-        <div className="skeleton skeleton-card" />
-      </div>
-    );
-  }
-
-  const current = data.current;
-  const market = data.daily_market;
-
-  return (
-    <section className="workspace-page">
-      <section className="context-top-grid">
-        <div className="card context-hero-card">
-          <div className="section-heading">
-            <div>
-              <div className="eyebrow">Context Specificity</div>
-              <h2>
-                {current.specificity_score == null
-                  ? "Not applicable"
-                  : `${formatNumber(
-                      current.specificity_score,
-                      0
-                    )}/100`}
-              </h2>
-            </div>
-            <ContextBadge scope={current.scope} />
-          </div>
-
-          <p className="context-interpretation">
-            {current.interpretation}
-          </p>
-
-          <div className="context-bars">
-            <ContextBar
-              label="Market activity percentile"
-              value={current.market_activity_percentile}
-            />
-            <ContextBar
-              label="Market activity breadth"
-              value={current.market_activity_breadth}
-            />
-            <ContextBar
-              label="Peer activity percentile"
-              value={current.peer_activity_percentile}
-            />
-            <ContextBar
-              label="Peer activity breadth"
-              value={current.peer_activity_breadth}
-            />
-          </div>
-        </div>
-
-        <aside className="card peer-context-card">
-          <div className="eyebrow">Peer Context</div>
-          <h3>{data.identity.peer_group ?? "Unmapped group"}</h3>
-
-          <div className="peer-context-stats">
-            <ContextStat
-              label="Peers observed"
-              value={String(current.peer_count)}
-            />
-            <ContextStat
-              label="Peer quality"
-              value={current.peer_context_quality ?? "—"}
-            />
-            <ContextStat
-              label="Peer breadth"
-              value={formatPercentRatio(
-                current.peer_activity_breadth,
-                1
-              )}
-            />
-          </div>
-
-          <p>
-            Peer groups in this prototype are research groupings. They are
-            not presented as authoritative exchange classifications.
-          </p>
-        </aside>
-      </section>
-
-      <section className="card market-context-card">
-        <div className="section-heading">
-          <div>
-            <div className="eyebrow">Market Context</div>
-            <h3>Same-session breadth</h3>
-          </div>
-        </div>
-
-        <div className="market-context-grid">
-          <MarketMetric
-            label="Eligible Universe"
-            value={
-              market.market_eligible_count == null
-                ? "—"
-                : String(market.market_eligible_count)
-            }
-          />
-          <MarketMetric
-            label="Median Activity"
-            value={formatNumber(
-              market.market_activity_median as number | undefined,
-              1
-            )}
-          />
-          <MarketMetric
-            label="75th Percentile"
-            value={formatNumber(
-              market.market_activity_p75 as number | undefined,
-              1
-            )}
-          />
-          <MarketMetric
-            label="Activity Gate Breadth"
-            value={formatPercentRatio(
-              market.market_activity_breadth as number | undefined,
-              1
-            )}
-          />
-          <MarketMetric
-            label="Market Spot Hits"
-            value={
-              market.market_spot_hit_count == null
-                ? "—"
-                : String(market.market_spot_hit_count)
-            }
-          />
-          <MarketMetric
-            label="Spot Hit Breadth"
-            value={formatPercentRatio(
-              market.market_spot_hit_breadth as number | undefined,
-              1
-            )}
-          />
-        </div>
-      </section>
-
-      <section className="context-placeholder-grid">
-        <UnavailableCard
-          title="Company Fundamentals"
-          text="Not included in the current offline research payload. SIGNAL does not fabricate ROE, leverage, market cap, or beta."
-        />
-        <UnavailableCard
-          title="Corporate Events"
-          text="No corporate-action payload is bundled into this historical demo snapshot."
-        />
-        <UnavailableCard
-          title="Relevant News"
-          text="News evidence is intentionally omitted from this offline build unless source records are explicitly available."
-        />
-      </section>
-
-      <section className="card context-notes-card">
-        <div className="eyebrow">Key Context Notes</div>
-        <ul>
-          {data.notes.map((note) => (
-            <li key={note}>{note}</li>
-          ))}
-        </ul>
-      </section>
-    </section>
-  );
-}
-
-function ContextBar({
-  label,
-  value
-}: {
-  label: string;
-  value: number | null;
-}) {
-  const pct = value == null ? 0 : Math.max(0, Math.min(100, value * 100));
-
-  return (
-    <div className="context-bar-row">
-      <div>
-        <span>{label}</span>
-        <strong>{formatPercentRatio(value, 1)}</strong>
-      </div>
-      <div className="context-bar-track">
-        <span style={{ width: `${pct}%` }} />
+      <div className="v23-context-right">
+        {show('MARKET')&&<article className="card v23-context-card"><CardTitle icon="◎" title="Market Context" subtitle="Broader same-session conditions relevant to the anomaly." action="View Market →"/><div className="v23-market-cards"><MarketStat label="Eligible Universe" value={String(market.market_eligible_count??'—')} helper="stocks"/><MarketStat label="Median Activity" value={market.market_activity_median==null?'—':formatNumber(Number(market.market_activity_median),1)} helper="score"/><MarketStat label="75th Percentile" value={market.market_activity_p75==null?'—':formatNumber(Number(market.market_activity_p75),1)} helper="score"/></div><div className="v23-market-factors"><strong>Relevant Market Factors</strong><ul><li>Same-session activity breadth: {current.market_activity_breadth==null?'—':`${formatNumber(current.market_activity_breadth*100,1)}%`}.</li><li>Ticker market activity percentile: {current.market_activity_percentile==null?'—':`${formatNumber(current.market_activity_percentile*100,1)}%`}.</li><li>Context is descriptive and does not change the hard Spot gate.</li></ul></div></article>}
+        {show('NEWS')&&<article className="card v23-context-card"><CardTitle icon="▧" title="Relevant News" subtitle="News available at or before the historical snapshot." action="View All News →"/>{data.relevant_news?.length?<div className="v23-news-list">{data.relevant_news.slice(0,3).map((n,i)=><div key={`${n.timestamp}-${i}`}><span className="v23-news-thumb">NEWS</span><div><b>{n.title}</b><small>{dateTimeLabel(n.timestamp)}</small><p>{n.tags?.slice(0,3).join(' • ')}</p></div></div>)}</div>:<Unavailable text="News records are unavailable for this ticker in the current snapshot. SIGNAL does not invent headlines or sentiment."/>}</article>}
+        <article className="card v23-context-card"><CardTitle icon="♢" title="Key Takeaways" subtitle="Contextual facts to carry back into the investigation."/><ol className="v23-takeaways">{data.notes.slice(0,3).map((n,i)=><li key={i}><span>{i+1}</span><p>{n}</p></li>)}</ol></article>
       </div>
     </div>
-  );
+  </section>;
 }
-
-function ContextStat({
-  label,
-  value
-}: {
-  label: string;
-  value: string;
-}) {
-  return (
-    <div>
-      <span>{label}</span>
-      <strong>{value}</strong>
-    </div>
-  );
-}
-
-function MarketMetric({
-  label,
-  value
-}: {
-  label: string;
-  value: string;
-}) {
-  return (
-    <div className="market-metric-card">
-      <span>{label}</span>
-      <strong>{value}</strong>
-    </div>
-  );
-}
-
-function UnavailableCard({
-  title,
-  text
-}: {
-  title: string;
-  text: string;
-}) {
-  return (
-    <div className="card unavailable-card">
-      <div className="unavailable-icon">○</div>
-      <h3>{title}</h3>
-      <p>{text}</p>
-      <span>Source unavailable in current snapshot</span>
-    </div>
-  );
-}
+function CardTitle({icon,title,subtitle,action}:{icon:string;title:string;subtitle:string;action?:string}){return <div className="v23-context-title"><span>{icon}</span><div><h3>{title}</h3><p>{subtitle}</p></div>{action&&<button>{action}</button>}</div>}
+function Fund({label,value,available=false}:{label:string;value:string;available?:boolean}){return <div className="v23-fund"><span>{label}</span><strong className={available?'pos':''}>{value}</strong><small>{available?'snapshot value':'source unavailable'}</small></div>}
+function MarketStat({label,value,helper}:{label:string;value:string;helper:string}){return <div><span>{label}</span><strong>{value}</strong><small>{helper}</small><i/></div>}
+function Unavailable({text,compact=false}:{text:string;compact?:boolean}){return <div className={`v23-unavailable ${compact?'compact':''}`}><span>○</span><div><strong>Source unavailable in current snapshot</strong><p>{text}</p></div></div>}
+function compact(v:number){const a=Math.abs(v);if(a>=1e12)return`${formatNumber(v/1e12,1)}T`;if(a>=1e9)return`${formatNumber(v/1e9,1)}B`;if(a>=1e6)return`${formatNumber(v/1e6,1)}M`;return formatNumber(v,0)}
+function shortDate(v:string){const d=new Date(`${v}T00:00:00`);return new Intl.DateTimeFormat('en-GB',{day:'2-digit',month:'short',year:'numeric'}).format(d)}
+function dateTimeLabel(v:string){const d=new Date(v);return new Intl.DateTimeFormat('en-GB',{day:'2-digit',month:'short',year:'numeric'}).format(d)}

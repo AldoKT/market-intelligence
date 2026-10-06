@@ -27,6 +27,48 @@
     "market_spot_hit_breadth": 0.1481481481481481,
     "date": "2026-09-09"
   },
+  "peer_comparison": [
+    {
+      "symbol": "BBCA",
+      "activity_score": 87.41,
+      "relative_turnover": 2.1099,
+      "context_scope": "MIXED_CONTEXT",
+      "context_specificity_score": 51.27572016460906,
+      "state": "NO_INVESTIGATION"
+    },
+    {
+      "symbol": "BBNI",
+      "activity_score": 77.93,
+      "relative_turnover": 1.7495,
+      "context_scope": "MIXED_CONTEXT",
+      "context_specificity_score": 40.24691358024692,
+      "state": "WEAKENING"
+    },
+    {
+      "symbol": "BMRI",
+      "activity_score": 13.24,
+      "relative_turnover": 1.1497,
+      "context_scope": "NO_ACTIVITY_CONTEXT",
+      "context_specificity_score": null,
+      "state": "NO_INVESTIGATION"
+    },
+    {
+      "symbol": "BBRI",
+      "activity_score": 3.35,
+      "relative_turnover": 1.049,
+      "context_scope": "NO_ACTIVITY_CONTEXT",
+      "context_specificity_score": null,
+      "state": "NO_INVESTIGATION"
+    }
+  ],
+  "source_availability": {
+    "sector_market_series": false,
+    "company_fundamentals": false,
+    "corporate_events": false,
+    "news": false,
+    "peer_comparison": true,
+    "market_context": true
+  },
   "notes": [
     "Context Specificity is descriptive evidence and does not change the hard Spot gate.",
     "A market-wide label means the same-day anomaly is less ticker-specific, not that it is false.",

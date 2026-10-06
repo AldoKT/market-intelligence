@@ -1,6 +1,6 @@
 {
   "project": "SIGNAL",
-  "package_version": "github-ready-v1.3.2",
+  "package_version": "github-ready-v2.2",
   "methodology": "1.0-candidate",
   "ui_pages": [
     "Overview",
@@ -39,9 +39,34 @@
     "next_required_test": "out-of-sample data from 2026-10-01 onward with frozen thresholds"
   },
   "ui_updates": {
-    "historical_reaction_profile": "Added to Summary and Methodology; historical Summary views remain point-in-time protected.",
-    "past_investigations_readability": "Increased episode card typography and desktop width",
-    "history_layout_polish": "Rebalanced History page columns and increased Past Investigations/timeline typography for readability."
+    "overview": "PDF-faithful locked Overview: pale-pink Spotlight hero, thick magenta confidence donut, filled price chart, 2x2 KPI cards, and compact Latest Investigations table.",
+    "investigations": "Explorer filters/sort plus selected-row quick preview.",
+    "summary": "Interpretation-first hero, status panel, evidence snapshot, 5W+1H and Look Ahead ownership.",
+    "market_activity": "Four-metric workspace with baseline-aware chart and metric detail panel; unsupported statistics are explicitly unavailable.",
+    "context": "Explanation workspace split into research-group, company, market, news and peer-comparison sections.",
+    "history": "Price/evidence charts plus Past Investigations table and selected-session detail.",
+    "watchlist": "Monitoring workspace with watchlist proxy, group distribution, recent signal updates and two-ticker comparison.",
+    "methodology": "Framework, logic, terms, confidence composition, guardrails, example snapshot and Reaction Validation."
   },
-  "research_overlay_architecture": "Reaction validation is served from backend/app/data and is not embedded in point-in-time snapshot payloads."
+  "research_overlay_architecture": "Reaction validation is served from backend/app/data and is not embedded in point-in-time snapshot payloads.",
+  "ui_design_contract": "SIGNAL UI Guidance v1.0",
+  "product_contract_v2_enrichment": [
+    "Investigation list items include last close and one-session change derived point-in-time from the timeline.",
+    "Activity series include evidence confidence, diagnostic score, persistence score and supporting-session flags.",
+    "Context payload includes same-session research-peer comparison and source-availability flags."
+  ],
+  "ui_polish_v2_1": {
+    "scope": "presentation layer only",
+    "typography": "normalized desktop hierarchy; body 14px, helper 12px, page title 32px, ticker 38-42px",
+    "spacing": "4/8/12/16/20/24/32/40px rhythm",
+    "charts": "hero sparklines ~100px, Market Activity 300px, History 260px",
+    "logic_changed": false
+  },
+  "ui_polish_v2_2": {
+    "scope": "Overview presentation layer + shared top navigation only",
+    "design_contract": "SIGNAL UI Guidance v1.0 Overview mockup",
+    "methodology_changed": false,
+    "payload_changed": false,
+    "backend_changed": false
+  }
 }

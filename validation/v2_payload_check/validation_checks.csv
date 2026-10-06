@@ -1,0 +1,12 @@
+check_id,layer,status,observations_checked,mismatches,note
+DATA_UNIQUE_SYMBOL_DATE,data_integrity,PASS,2100,0,Each evaluated ticker/date must be unique.
+SPOT_GATE_PARITY,detector,PASS,2100,0,Compression/activity/core gates and final spot_hit recomputed independently.
+CONTEXT_FORMULA_PARITY,context,PASS,2100,0,"Context applicability, specificity score, and scope recomputed independently."
+LIFECYCLE_STATE_MACHINE_PARITY,lifecycle,PASS,2100,0,Lifecycle recomputed with an independent state-machine implementation.
+EVIDENCE_CONFIDENCE_VISIBILITY,lifecycle,PASS,2100,0,Evidence Confidence must exist only while an investigation is active.
+EPISODE_TABLE_PARITY,lifecycle,PASS,49,0,49 episode summaries independently reconstructed from the timeline.
+POINT_IN_TIME_PREFIX_REPLAY,point_in_time,PASS,168,0,Representative dates rerun using only rows available through each date.
+PRODUCT_SNAPSHOT_PARITY,product_payload,PASS,28,0,Snapshot payload compared against timeline for 2026-09-09.
+PRODUCT_FUTURE_DATE_SCAN,point_in_time,PASS,144,0,No historical product JSON may contain a dated field after its as_of date.
+BROKER_FREQ_VALUE_LOT_PARITY,source_data,PASS,28,0,"Broker buy/sell frequency, value, and lot aggregate parity from cross-stock audit."
+BROKER_DAILY_VOLUME_MATCH,source_data,WARN,2772,33,Daily volume and broker-share volume are not identical on every cached session; retain as data-quality warnings.

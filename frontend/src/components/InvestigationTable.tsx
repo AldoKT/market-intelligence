@@ -1,105 +1,11 @@
 import type { InvestigationListItem } from "../types";
-import { ContextBadge } from "./ContextBadge";
 import { StatusBadge } from "./StatusBadge";
 import { formatNumber } from "../lib/format";
+import { companyName } from "../lib/companies";
 
-interface Props {
-  items: InvestigationListItem[];
-  selectedSymbol?: string | null;
-  onSelect?: (item: InvestigationListItem) => void;
-  compact?: boolean;
+export function InvestigationTable({items,selectedSymbol,onSelect}:{items:InvestigationListItem[];selectedSymbol?:string|null;onSelect?:(item:InvestigationListItem)=>void}){
+  if(!items.length)return <div className="v23-empty"><h3>No investigations match this view</h3><p>Adjust the current filters or search term.</p></div>;
+  return <div className="v23-investigation-table-wrap"><table className="v23-investigation-table"><thead><tr><th>#</th><th>Ticker</th><th>Company</th><th>Pattern</th><th>Confidence</th><th>Last Price</th><th>1D Change</th><th>State</th><th>Persistence</th><th>Activity</th><th/></tr></thead><tbody>{items.map((item,i)=><tr key={item.symbol} className={selectedSymbol===item.symbol?'selected':''} onClick={()=>onSelect?.(item)}><td>{i+1}</td><td><strong>{item.symbol}</strong></td><td><span className="company">{companyName(item.symbol,item.company_name)}</span></td><td><span className="v23-pattern">Sideways Accum.</span></td><td><span className="v23-score">{item.evidence_confidence==null?'—':formatNumber(item.evidence_confidence,0)}</span></td><td>{item.close==null?'—':formatNumber(item.close,0)}</td><td className={changeClass(item.daily_change_pct)}>{item.daily_change_pct==null?'—':`${item.daily_change_pct>=0?'+':''}${formatNumber(item.daily_change_pct,2)}%`}</td><td><StatusBadge state={item.state}/></td><td><span className="v23-persistence">{item.persistence_hits}/{item.persistence_window}</span></td><td><ActivityBar value={item.relative_turnover}/></td><td>›</td></tr>)}</tbody></table></div>
 }
-
-export function InvestigationTable({
-  items,
-  selectedSymbol,
-  onSelect,
-  compact = false
-}: Props) {
-  if (!items.length) {
-    return (
-      <div className="empty-state">
-        <div className="empty-icon">○</div>
-        <h3>No unusual behavior detected</h3>
-        <p>
-          No investigations match the current snapshot or filters.
-        </p>
-      </div>
-    );
-  }
-
-  return (
-    <div className="table-wrap">
-      <table className="data-table">
-        <thead>
-          <tr>
-            <th>Ticker</th>
-            <th>State</th>
-            <th>Confidence</th>
-            {!compact && <th>Context</th>}
-            <th>Rel. Activity</th>
-            {!compact && <th>Range</th>}
-            <th>Persistence</th>
-          </tr>
-        </thead>
-
-        <tbody>
-          {items.map((item) => (
-            <tr
-              key={item.symbol}
-              className={
-                selectedSymbol === item.symbol ? "row-selected" : ""
-              }
-              onClick={() => onSelect?.(item)}
-            >
-              <td>
-                <div className="ticker-cell">
-                  <strong>{item.symbol}</strong>
-                  <span>{item.peer_group ?? "Unmapped"}</span>
-                </div>
-              </td>
-
-              <td>
-                <StatusBadge state={item.state} />
-              </td>
-
-              <td>
-                <strong>
-                  {item.evidence_confidence == null
-                    ? "—"
-                    : `${formatNumber(item.evidence_confidence, 0)}/100`}
-                </strong>
-              </td>
-
-              {!compact && (
-                <td>
-                  <ContextBadge scope={item.context_scope} />
-                </td>
-              )}
-
-              <td>
-                {item.relative_turnover == null
-                  ? "—"
-                  : `${formatNumber(item.relative_turnover, 2)}×`}
-              </td>
-
-              {!compact && (
-                <td>
-                  {item.current_5d_range_pct == null
-                    ? "—"
-                    : `${formatNumber(item.current_5d_range_pct, 2)}%`}
-                </td>
-              )}
-
-              <td>
-                <span className="persistence-pill">
-                  {item.persistence_hits}/{item.persistence_window}
-                </span>
-              </td>
-            </tr>
-          ))}
-        </tbody>
-      </table>
-    </div>
-  );
-}
+function ActivityBar({value}:{value:number|null}){const w=value==null?0:Math.min(100,(value/3)*100);return <div className="v23-activity-mini"><i style={{width:`${w}%`}}/><span>{value==null?'—':`${formatNumber(value,2)}x`}</span></div>}
+function changeClass(v?:number|null){if(v==null||v===0)return'';return v>0?'pos':'neg'}

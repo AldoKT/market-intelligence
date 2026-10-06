@@ -1,208 +1,27 @@
 import { useEffect, useMemo, useState } from "react";
 import { useParams } from "react-router-dom";
 import { getActivity, getHistory } from "../lib/api";
-import type {
-  ActivityPayload,
-  HistoryPayload
-} from "../types";
-import { SimpleLineChart } from "../components/SimpleLineChart";
+import type { ActivityPayload, ActivityPoint, HistoryPayload } from "../types";
+import { CandlestickVolumeChart } from "../components/CandlestickVolumeChart";
+import { SignalStrengthChart } from "../components/SignalStrengthChart";
 import { StatusBadge } from "../components/StatusBadge";
-import { formatDate, formatNumber } from "../lib/format";
+import { formatNumber } from "../lib/format";
 
-export function HistoryPage() {
-  const { symbol = "" } = useParams();
-  const [history, setHistory] = useState<HistoryPayload | null>(null);
-  const [activity, setActivity] = useState<ActivityPayload | null>(null);
-  const [error, setError] = useState<string | null>(null);
-
-  useEffect(() => {
-    let alive = true;
-
-    Promise.all([getHistory(symbol), getActivity(symbol)])
-      .then(([historyPayload, activityPayload]) => {
-        if (!alive) return;
-        setHistory(historyPayload);
-        setActivity(activityPayload);
-      })
-      .catch((err: Error) => {
-        if (alive) setError(err.message);
-      });
-
-    return () => {
-      alive = false;
-    };
-  }, [symbol]);
-
-  const pricePoints = useMemo(() => {
-    if (!activity) return [];
-
-    return activity.series.map((point) => ({
-      x: point.date,
-      y: point.close,
-      flag: point.spot_hit
-    }));
-  }, [activity]);
-
-  if (error) {
-    return (
-      <div className="error-card workspace-page">
-        <h2>Unable to load History</h2>
-        <p>{error}</p>
-      </div>
-    );
-  }
-
-  if (!history || !activity) {
-    return (
-      <div className="workspace-page">
-        <div className="skeleton skeleton-card" />
-      </div>
-    );
-  }
-
-  return (
-    <section className="workspace-page">
-      <section className="card history-chart-card">
-        <div className="section-heading">
-          <div>
-            <div className="eyebrow">Price & Investigation Timeline</div>
-            <h2>Historical investigation context</h2>
-          </div>
-        </div>
-
-        <SimpleLineChart
-          points={pricePoints}
-          height={300}
-          emptyLabel="Price history unavailable"
-        />
-
-        <div className="chart-legend-row">
-          <span>
-            <i className="legend-line" /> close price
-          </span>
-          <span>
-            <i className="legend-dot-flag" /> hard Spot hit
-          </span>
-        </div>
-      </section>
-
-      <section className="history-layout">
-        <div className="card event-timeline-card">
-          <div className="section-heading">
-            <div>
-              <div className="eyebrow">Event Timeline</div>
-              <h3>Lifecycle changes</h3>
-            </div>
-          </div>
-
-          <div className="event-timeline">
-            {history.events
-              .slice()
-              .reverse()
-              .map((event, index) => (
-                <div
-                  className="timeline-event"
-                  key={`${event.date}-${event.event_type}-${index}`}
-                >
-                  <div
-                    className={`timeline-marker ${
-                      event.event_type === "SPOT_HIT"
-                        ? "timeline-marker-spot"
-                        : ""
-                    }`}
-                  />
-
-                  <div className="timeline-event-content">
-                    <div className="timeline-event-head">
-                      <strong>{event.event_type.replaceAll("_", " ")}</strong>
-                      <span>{formatDate(event.date)}</span>
-                    </div>
-
-                    <div className="timeline-event-state">
-                      <StatusBadge state={event.state} />
-                    </div>
-
-                    <p>{event.note}</p>
-                  </div>
-                </div>
-              ))}
-          </div>
-        </div>
-
-        <aside className="card episode-history-card">
-          <div className="eyebrow">Past Investigations</div>
-          <h3>{history.episodes.length} episode(s)</h3>
-
-          <div className="episode-list">
-            {history.episodes
-              .slice()
-              .reverse()
-              .map((episode) => (
-                <div className="episode-item" key={episode.investigation_id}>
-                  <div className="episode-item-head">
-                    <div>
-                      <strong>{formatDate(episode.opened_at)}</strong>
-                      <span>
-                        {episode.closed
-                          ? `Closed ${formatDate(episode.closed_at)}`
-                          : "Still open"}
-                      </span>
-                    </div>
-                    <StatusBadge state={episode.peak_state} />
-                  </div>
-
-                  <div className="episode-stats">
-                    <EpisodeStat
-                      label="Active sessions"
-                      value={String(episode.active_sessions)}
-                    />
-                    <EpisodeStat
-                      label="Hard hits"
-                      value={String(episode.hard_hits)}
-                    />
-                    <EpisodeStat
-                      label="Support"
-                      value={String(episode.support_sessions)}
-                    />
-                    <EpisodeStat
-                      label="Max confidence"
-                      value={
-                        episode.max_evidence_confidence == null
-                          ? "—"
-                          : `${formatNumber(
-                              episode.max_evidence_confidence,
-                              0
-                            )}/100`
-                      }
-                    />
-                  </div>
-
-                  {episode.close_reason && (
-                    <small>
-                      Close reason:{" "}
-                      {episode.close_reason.replaceAll("_", " ")}
-                    </small>
-                  )}
-                </div>
-              ))}
-          </div>
-        </aside>
-      </section>
-    </section>
-  );
+export function HistoryPage(){
+  const {symbol=""}=useParams(); const [history,setHistory]=useState<HistoryPayload|null>(null); const [activity,setActivity]=useState<ActivityPayload|null>(null); const [selectedDate,setSelectedDate]=useState<string>(''); const [error,setError]=useState<string|null>(null);
+  useEffect(()=>{let alive=true;Promise.all([getHistory(symbol),getActivity(symbol)]).then(([h,a])=>{if(alive){setHistory(h);setActivity(a);const rows=investigationSessions(a.series);setSelectedDate(rows.at(-1)?.date??a.series.at(-1)?.date??'')}}).catch((e:Error)=>alive&&setError(e.message));return()=>{alive=false;};},[symbol]);
+  const sessions=useMemo(()=>activity?investigationSessions(activity.series):[],[activity]); const selected=useMemo(()=>activity?.series.find(p=>p.date===selectedDate)??sessions.at(-1)??null,[activity,sessions,selectedDate]);
+  if(error)return <div className="error-card workspace-page"><h2>Unable to load History</h2><p>{error}</p></div>;
+  if(!history||!activity)return <div className="workspace-page"><div className="skeleton skeleton-card"/></div>;
+  return <section className="workspace-page v23-history-page">
+    <div className="v23-history-heading"><h2>History</h2><p>Track how the investigation, signals, and supporting evidence have evolved over time.</p></div>
+    <section className="v23-history-top"><article className="card v23-history-chart-card"><div className="v23-history-title"><span>▥</span><div><h3>Price & Investigation Timeline</h3><p>Stock price with key investigation sessions and trading volume.</p></div><div className="v23-range-tabs"><button className="active">1M</button><button>3M</button><button>6M</button><button>1Y</button><button>All</button></div></div><CandlestickVolumeChart points={activity.series.slice(-45)} height={260}/></article><aside className="card v23-strength-card"><div className="v23-history-title"><span>⌁</span><div><h3>Signal Strength Over Time</h3><p>Evidence Confidence across active investigation sessions.</p></div></div><SignalStrengthChart points={activity.series.slice(-45)} height={260}/></aside></section>
+    <section className="v23-history-bottom"><article className="card v23-past-card"><div className="v23-history-title"><span>▣</span><div><h3>Past Investigations</h3><p>Historical sessions associated with investigations for {symbol.toUpperCase()}.</p></div></div><div className="v23-history-table-wrap"><table className="v23-history-table"><thead><tr><th>Date</th><th>Price (Close)</th><th>Daily Change</th><th>Signal Strength</th><th>Key Finding / Summary</th><th>Status</th><th/></tr></thead><tbody>{sessions.slice().reverse().map((p,i,rev)=>{const originalIndex=activity.series.findIndex(x=>x.date===p.date);const prev=originalIndex>0?activity.series[originalIndex-1].close:null;const ch=p.close!=null&&prev?((p.close-prev)/prev)*100:null;return <tr key={p.date} className={selectedDate===p.date?'selected':''} onClick={()=>setSelectedDate(p.date)}><td>{dateLabel(p.date)}</td><td>{p.close==null?'—':formatNumber(p.close,0)}</td><td className={ch==null?'':ch>=0?'pos':'neg'}>{ch==null?'—':`${ch>=0?'+':''}${formatNumber(ch,2)}%`}</td><td><Strength value={p.evidence_confidence}/></td><td>{finding(p)}</td><td><StatusBadge state={p.lifecycle_state}/></td><td>›</td></tr>})}</tbody></table></div></article><aside className="card v23-session-card"><div className="v23-history-title"><span>▣</span><div><h3>Session Detail</h3><p>Detailed point-in-time evidence for the selected session.</p></div></div>{selected?<SessionDetail point={selected}/>:<p>No selected session.</p>}</aside></section>
+  </section>;
 }
-
-function EpisodeStat({
-  label,
-  value
-}: {
-  label: string;
-  value: string;
-}) {
-  return (
-    <div>
-      <span>{label}</span>
-      <strong>{value}</strong>
-    </div>
-  );
-}
+function investigationSessions(series:ActivityPoint[]){const active=new Set(['EMERGING','DEVELOPING','ESTABLISHED','WEAKENING','CLOSED']);return series.filter(p=>active.has(p.lifecycle_state)||p.spot_hit)}
+function Strength({value}:{value?:number|null}){const v=value??0;return <div className="v23-strength-cell"><span>{value==null?'—':formatNumber(value,0)}</span><i><b style={{width:`${Math.min(100,Math.max(0,v))}%`}}/></i></div>}
+function finding(p:ActivityPoint){if(p.spot_hit)return'Hard Spot gate satisfied; unusual activity and compression aligned.';if(p.lifecycle_state==='WEAKENING')return'Support weakened; monitor the consecutive unsupported-session rule.';if(p.lifecycle_state==='ESTABLISHED')return'Persistent evidence remains active across the recent window.';if(p.lifecycle_state==='DEVELOPING')return'Evidence continues across multiple sessions.';return'Investigation opened and awaits persistence confirmation.'}
+function SessionDetail({point}:{point:ActivityPoint}){const prevState=human(point.lifecycle_state);return <div className="v23-session-detail"><div className="v23-session-date"><span>{dateLabel(point.date)}</span><div><span>Price (Close)</span><strong>{point.close==null?'—':formatNumber(point.close,0)}</strong></div><div><span>Signal Strength</span><strong>{point.evidence_confidence==null?'—':`${formatNumber(point.evidence_confidence,0)}/100`}</strong><i><b style={{width:`${point.evidence_confidence??0}%`}}/></i></div></div><StatusBadge state={point.lifecycle_state}/><section><h4>Key Finding</h4><p>{finding(point)}</p></section><section><h4>Supporting Evidence</h4><ul><li>Turnover {point.relative_turnover==null?'—':`${formatNumber(point.relative_turnover,2)}x`} vs baseline</li><li>Transaction Count {point.relative_transaction_count==null?'—':`${formatNumber(point.relative_transaction_count,2)}x`} vs baseline</li><li>Avg Trade Value {point.relative_avg_trade_value==null?'—':`${formatNumber(point.relative_avg_trade_value,2)}x`} vs baseline</li><li>Activity Score {point.activity_score==null?'—':`${formatNumber(point.activity_score,1)}/100`}</li></ul></section><section><h4>Related Context</h4><ul><li>Lifecycle state: {prevState}</li><li>{point.spot_hit?'Hard Spot hit on this session.':'No new hard Spot hit on this session.'}</li><li>{point.supporting_session?'Session supports the open investigation.':'Session does not support the open investigation.'}</li></ul></section></div>}
+function dateLabel(v:string){const d=new Date(`${v}T00:00:00`);return new Intl.DateTimeFormat('en-GB',{day:'2-digit',month:'short',year:'numeric'}).format(d)}
+function human(v:string){return v.replaceAll('_',' ').toLowerCase().replace(/\b\w/g,c=>c.toUpperCase())}
