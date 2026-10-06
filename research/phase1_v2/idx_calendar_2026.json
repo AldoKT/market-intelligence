@@ -1,0 +1,22 @@
+{
+  "calendar_id": "IDX_Peng-00171_BEI.POP_09-2025_Feb-Sep-2026",
+  "valid_from": "2026-02-01",
+  "valid_to": "2026-09-30",
+  "reviewed_on": "2026-10-06",
+  "reviewed_by": "Codex technical review; human spending approval remains separate",
+  "sources": [
+    "https://web.ksei.co.id/files/Pengumuman_Hari_Libur_dan_Cuti_Bersama_PT_KSEI_Tahun_2026.pdf",
+    "https://assets-website.idclear.co.id/idclear/storage/47537/Maret-2026.pdf",
+    "https://suprasekuritas.co.id/storage/2026/01/Peng-00171-Libur-Bursa-2026-2.pdf"
+  ],
+  "source_notes": "IDX website returned 403. KSEI official attachment matches the IDX-issued attachment mirrored by Supra Sekuritas; KPEI confirms March closures. Scheduled sessions are targets, not proof of trading or of absence of additional closures/suspensions.",
+  "holidays": [
+    "2026-02-16", "2026-02-17",
+    "2026-03-18", "2026-03-19", "2026-03-20", "2026-03-23", "2026-03-24",
+    "2026-04-03", "2026-05-01", "2026-05-14", "2026-05-15", "2026-05-27", "2026-05-28",
+    "2026-06-01", "2026-06-16", "2026-08-17", "2026-08-25"
+  ],
+  "expected_month_sessions": {"2026-02": 18, "2026-03": 17, "2026-04": 21, "2026-05": 16, "2026-06": 20, "2026-07": 23, "2026-08": 19, "2026-09": 22},
+  "symbol_exclusions": [],
+  "symbol_exclusion_policy": "No symbol-specific closure is asserted without source evidence. Missing returned scheduled dates remain unresolved; no zeros or automatic repeat fetch."
+}

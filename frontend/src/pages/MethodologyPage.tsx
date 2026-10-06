@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { PilotMethodology } from "../components/PilotMethodology";
 import { getMethodology, getOverview, getReactionValidation } from "../lib/api";
 import type { MethodologyPayload, OverviewPayload, ReactionValidationPayload } from "../types";
 import { HistoricalReactionProfile } from "../components/HistoricalReactionProfile";
@@ -19,9 +20,10 @@ export function MethodologyPage(){
   const [reaction,setReaction]=useState<ReactionValidationPayload|null>(null);
   const [overview,setOverview]=useState<OverviewPayload|null>(null);
   const [error,setError]=useState<string|null>(null);
-  useEffect(()=>{let alive=true;Promise.all([getMethodology(),getReactionValidation().catch(()=>null),getOverview().catch(()=>null)]).then(([m,r,o])=>{if(alive){setData(m);setReaction(r);setOverview(o);}}).catch((e:Error)=>alive&&setError(e.message));return()=>{alive=false;};},[]);
+  useEffect(()=>{let alive=true;getMethodology().then(async m=>{const [r,o]=await Promise.all(["detector" in m?Promise.resolve(null):getReactionValidation().catch(()=>null),getOverview().catch(()=>null)]);return [m,r,o] as const;}).then(([m,r,o])=>{if(alive){setData(m);setReaction(r);setOverview(o);}}).catch((e:Error)=>alive&&setError(e.message));return()=>{alive=false;};},[]);
   if(error) return <div className="error-card"><h2>Unable to load Methodology</h2><p>{error}</p></div>;
   if(!data) return <div className="skeleton skeleton-card"/>;
+  if("detector" in data) return <PilotMethodology data={data}/>;
 
   return <>
     <section className="page-header v2-page-header"><div><div className="eyebrow magenta">Transparency & Trust</div><h1>Methodology</h1><p>How SIGNAL detects unusual market behaviour, builds investigations, and communicates uncertainty.</p></div><div className="method-status-card v2-method-status"><span>STATUS</span><strong>{human(data.status)}</strong></div></section>

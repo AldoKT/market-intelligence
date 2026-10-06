@@ -1,0 +1,142 @@
+{
+  "methodology_version": "phase1-json-pilot-2.0",
+  "as_of": "2026-09-30",
+  "detector": {
+    "analysis_start": "2026-04-01",
+    "analysis_end": "2026-09-30",
+    "baseline_requires_preceding_sessions": 24,
+    "metric_baseline_sessions": 20,
+    "range_sessions": 5,
+    "frozen_detector_sha256": "24337a6e2626a4ddb518b2cb081e75d8957ddda812500cf20d4f9930e0354324",
+    "thresholds": {
+      "compression": 55.0,
+      "activity": 50.0,
+      "core_relative": 1.2,
+      "core_count": 2
+    },
+    "by_symbol": {
+      "ANTM": {
+        "analysis_sessions": 121,
+        "evaluated": 65,
+        "not_evaluated": 56,
+        "spot_hits": 2
+      },
+      "BBCA": {
+        "analysis_sessions": 121,
+        "evaluated": 65,
+        "not_evaluated": 56,
+        "spot_hits": 2
+      },
+      "INCO": {
+        "analysis_sessions": 121,
+        "evaluated": 65,
+        "not_evaluated": 56,
+        "spot_hits": 3
+      }
+    },
+    "volume_scope_mismatches": [
+      {
+        "symbol": "ANTM",
+        "date": "2026-05-29",
+        "broker_rows": 69,
+        "market_scope": "not explicitly supplied",
+        "completeness": "reconciled research candidate; not independently attested",
+        "bval": 1298493262000,
+        "sval": 1298493262000,
+        "blot": 4458235,
+        "slot": 4458235,
+        "bfreq": 52200,
+        "sfreq": 52200,
+        "broker_volume_shares": 445823500,
+        "daily_volume_shares": 401683100,
+        "buy_sell_balanced": true,
+        "volume_matches_daily": false,
+        "usable_for_research": false
+      },
+      {
+        "symbol": "BBCA",
+        "date": "2026-05-29",
+        "broker_rows": 84,
+        "market_scope": "not explicitly supplied",
+        "completeness": "reconciled research candidate; not independently attested",
+        "bval": 6678528837500,
+        "sval": 6678528837500,
+        "blot": 11629710,
+        "slot": 11629710,
+        "bfreq": 138566,
+        "sfreq": 138566,
+        "broker_volume_shares": 1162971000,
+        "daily_volume_shares": 1015296600,
+        "buy_sell_balanced": true,
+        "volume_matches_daily": false,
+        "usable_for_research": false
+      },
+      {
+        "symbol": "INCO",
+        "date": "2026-05-29",
+        "broker_rows": 60,
+        "market_scope": "not explicitly supplied",
+        "completeness": "reconciled research candidate; not independently attested",
+        "bval": 352158129000,
+        "sval": 352158129000,
+        "blot": 747853,
+        "slot": 747853,
+        "bfreq": 25199,
+        "sfreq": 25199,
+        "broker_volume_shares": 74785300,
+        "daily_volume_shares": 64386300,
+        "buy_sell_balanced": true,
+        "volume_matches_daily": false,
+        "usable_for_research": false
+      }
+    ],
+    "status": "Research candidate for human Gate D; no product payload selection or lifecycle run",
+    "missing_policy": "Keep scheduled daily rows; block current or prior-20 missing activity; no zero fill or dropna shortening.",
+    "api_calls": 0,
+    "parquet_written": false
+  },
+  "lifecycle": {
+    "methodology": "Frozen v0.3.1 lifecycle on contiguous evaluated segments",
+    "engine_sha256": "0a8a8ddb7a0c49cef701c2439a456d10d50ac7196dda4a934aa257370902f482",
+    "thresholds": {
+      "support_compression": 40.0,
+      "support_activity": 25.0,
+      "support_core_metrics": 1,
+      "persistence_window": 5,
+      "established_support_count": 4,
+      "established_hard_hits": 2,
+      "close_after_unsupported": 2
+    },
+    "by_symbol": {
+      "ANTM": {
+        "episodes": 2,
+        "data_gap_sessions": 56,
+        "initial_state_unknown_sessions": 16,
+        "latest_date": "2026-09-30",
+        "latest_state": "NO_INVESTIGATION"
+      },
+      "BBCA": {
+        "episodes": 2,
+        "data_gap_sessions": 56,
+        "initial_state_unknown_sessions": 41,
+        "latest_date": "2026-09-30",
+        "latest_state": "EMERGING"
+      },
+      "INCO": {
+        "episodes": 2,
+        "data_gap_sessions": 56,
+        "initial_state_unknown_sessions": 17,
+        "latest_date": "2026-09-30",
+        "latest_state": "NO_INVESTIGATION"
+      }
+    },
+    "gap_policy": "Gap metrics/counters remain null; evaluated segments processed separately. No synthetic unsupported day, closure, or continuity across gaps. Pre-first-hit state remains unknown.",
+    "status": "Provisional research for Gate D; no product payload or UI changes",
+    "api_calls": 0
+  },
+  "gate_d": {
+    "approved": true,
+    "evidence": "User explicitly accepted the short Gate D review: oke setuju."
+  },
+  "activity_contract": "PilotActivityPayload allows null spot_hit/lifecycle and per-point quality; legacy ActivityPoint is not used to coerce unknown into false."
+}

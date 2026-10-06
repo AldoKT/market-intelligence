@@ -10,10 +10,10 @@ const stateClass: Record<string, string> = {
   INELIGIBLE_PRICE_REGIME: "badge badge-muted"
 };
 
-export function StatusBadge({ state }: { state: string }) {
+export function StatusBadge({ state }: { state: string | null }) {
   return (
-    <span className={stateClass[state] ?? "badge badge-muted"}>
-      {humanize(state)}
+    <span className={(state == null ? null : stateClass[state]) ?? "badge badge-muted"}>
+      {state == null ? "Belum dapat dinilai" : humanize(state)}
     </span>
   );
 }

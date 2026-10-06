@@ -1,4 +1,5 @@
 import { useId } from "react";
+import { linePath, segments } from "../lib/chartSegments";
 
 export interface AreaChartPoint {
   date: string;
@@ -31,29 +32,25 @@ export function PdfAreaChart({
   const vals:number[]=[];
   usable.forEach(p=>{ vals.push(p.value); if(typeof p.baseline==="number") vals.push(p.baseline); if(typeof p.lower==="number") vals.push(p.lower); if(typeof p.upper==="number") vals.push(p.upper); });
   let min=Math.min(...vals), max=Math.max(...vals); if(min===max){min-=1;max+=1;} const pad=(max-min)*.09; min-=pad;max+=pad;
-  const x=(i:number)=>L+(i/Math.max(1,usable.length-1))*cw;
+  const x=(i:number)=>L+(i/Math.max(1,points.length-1))*cw;
   const y=(v:number)=>T+((max-v)/(max-min))*ch;
-  const line=usable.map((p,i)=>`${i?"L":"M"} ${x(i)} ${y(p.value)}`).join(" ");
-  const area=`${line} L ${x(usable.length-1)} ${T+ch} L ${x(0)} ${T+ch} Z`;
-  const base=usable.map((p,i)=>typeof p.baseline==="number"?`${i?"L":"M"} ${x(i)} ${y(p.baseline)}`:null).filter(Boolean).join(" ");
-  const bandPts=usable.map((p,i)=>({i,u:p.upper,l:p.lower})).filter(p=>typeof p.u==="number"&&typeof p.l==="number") as Array<{i:number,u:number,l:number}>;
-  const band=bandPts.length>1 ? [
-    ...bandPts.map((p,j)=>`${j?"L":"M"} ${x(p.i)} ${y(p.u)}`),
-    ...bandPts.slice().reverse().map(p=>`L ${x(p.i)} ${y(p.l)}`),"Z"
-  ].join(" ") : "";
+  const line=linePath(points,p=>p.value,x,y);
+  const area=segments(points,p=>typeof p.value==="number"&&Number.isFinite(p.value)).map(group=>`${group.map(({point,index},i)=>`${i?"L":"M"} ${x(index)} ${y(point.value!)}`).join(" ")} L ${x(group.at(-1)!.index)} ${T+ch} L ${x(group[0].index)} ${T+ch} Z`).join(" ");
+  const base=linePath(points,p=>p.baseline,x,y);
+  const band=segments(points,p=>typeof p.upper==="number"&&typeof p.lower==="number").filter(group=>group.length>1).map(group=>[...group.map(({point,index},j)=>`${j?"L":"M"} ${x(index)} ${y(point.upper!)}`),...group.slice().reverse().map(({point,index})=>`L ${x(index)} ${y(point.lower!)}`),"Z"].join(" ")).join(" ");
   const ticks=Array.from({length:5},(_,i)=>max-(max-min)*(i/4));
-  const labels=[0,Math.floor((usable.length-1)*.25),Math.floor((usable.length-1)*.5),Math.floor((usable.length-1)*.75),usable.length-1];
+  const labels=[...new Set([0,Math.floor((points.length-1)*.25),Math.floor((points.length-1)*.5),Math.floor((points.length-1)*.75),points.length-1])];
   const last=usable.at(-1)!;
   return <div className="pdf-activity-chart-wrap">
     <svg viewBox={`0 0 ${W} ${height}`} role="img" aria-label="Market activity chart">
       <defs><linearGradient id={`area-${id}`} x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stopColor="#ef2a83" stopOpacity=".30"/><stop offset="100%" stopColor="#ef2a83" stopOpacity=".02"/></linearGradient></defs>
       {ticks.map((v,i)=><g key={i}><line className="pdf-chart-grid" x1={L} x2={W-R} y1={y(v)} y2={y(v)}/><text className="pdf-chart-axis" x={L-10} y={y(v)+4} textAnchor="end">{valueFormatter(v)}</text></g>)}
-      {usable.map((p,i)=>p.anomaly?<rect key={`a${i}`} className="pdf-chart-anomaly" x={Math.max(L,x(i)-cw/usable.length*.55)} width={Math.max(7,cw/usable.length*1.1)} y={T} height={ch}/>:null)}
+      {points.map((p,i)=>p.anomaly?<rect key={`a${i}`} className="pdf-chart-anomaly" x={Math.max(L,x(i)-cw/usable.length*.55)} width={Math.max(7,cw/usable.length*1.1)} y={T} height={ch}/>:null)}
       {showBand&&band&&<path className="pdf-chart-normal-band" d={band}/>} 
       {base&&<path className="pdf-chart-baseline" d={base}/>} 
       <path d={area} fill={`url(#area-${id})`}/><path className="pdf-chart-series" d={line}/>
-      <circle className="pdf-chart-last-dot" cx={x(usable.length-1)} cy={y(last.value)} r="4"/>
-      {labels.map(i=><text key={i} className="pdf-chart-axis" x={x(i)} y={height-10} textAnchor={i===0?"start":i===usable.length-1?"end":"middle"}>{shortDate(usable[i].date)}</text>)}
+      <circle className="pdf-chart-last-dot" cx={x(points.indexOf(last))} cy={y(last.value)} r="4"/>
+      {labels.map(i=><text key={i} className="pdf-chart-axis" x={x(i)} y={height-10} textAnchor={i===0?"start":i===points.length-1?"end":"middle"}>{shortDate(points[i].date)}</text>)}
     </svg>
     <div className="pdf-chart-legend"><span><i className="actual"/>Actual</span>{base&&<span><i className="baseline"/>{baselineLabel}</span>}{showBand&&band&&<span><i className="normal"/>Normal Range (±1 Std Dev)</span>}{usable.some(p=>p.anomaly)&&<span><i className="anomaly"/>{anomalyLabel}</span>}</div>
   </div>;

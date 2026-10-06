@@ -1,0 +1,31 @@
+const fs=require('node:fs'),path=require('node:path'),vm=require('node:vm'),assert=require('node:assert/strict');
+const {createRequire}=require('node:module');
+const root=path.resolve(__dirname,'..');
+const deps=createRequire(path.join(root,'package.json')),ts=deps('typescript');
+const loaded=new Map();
+function load(file){
+ if(loaded.has(file))return loaded.get(file);
+ const output={};loaded.set(file,output);
+ const input=fs.readFileSync(file,'utf8').replaceAll('import.meta.env','({VITE_API_BASE_URL:"http://127.0.0.1:8001"})');
+ const js=ts.transpileModule(input,{compilerOptions:{module:ts.ModuleKind.CommonJS,target:ts.ScriptTarget.ES2022,jsx:ts.JsxEmit.ReactJSX}}).outputText;
+ const localRequire=name=>{if(!name.startsWith('.'))return deps(name);const base=path.resolve(path.dirname(file),name);const found=['.ts','.tsx'].map(ext=>base+ext).find(fs.existsSync);return found?load(found):deps(name);};
+ vm.runInNewContext(js,{exports:output,require:localRequire,console,URLSearchParams},{filename:file});return output;
+}
+const {sessionFinding}=load(root+'/src/lib/pilot.ts');
+const {linePath}=load(root+'/src/lib/chartSegments.ts');
+assert.match(sessionFinding({spot_hit:null,lifecycle_state:null,quality:{evaluation_status:'NOT_EVALUATED'}}),/Belum dapat dinilai/);
+assert.match(sessionFinding({spot_hit:false,lifecycle_state:'NO_INVESTIGATION'}),/Tidak ada investigasi aktif/);
+assert.match(sessionFinding({spot_hit:false,lifecycle_state:null,quality:{evaluation_status:'EVALUATED'}}),/Status investigasi belum diketahui/);
+assert.match(sessionFinding({spot_hit:true,lifecycle_state:'EMERGING'}),/Hard Spot gate satisfied/);
+assert.equal(linePath([{v:80},{v:null},{v:85}],p=>p.v,i=>i*10,v=>v),'M 0 80 M 20 85');
+assert.equal(linePath([{v:80},{v:82},{v:null},{v:85}],p=>p.v,i=>i*10,v=>v),'M 0 80 L 10 82 M 30 85');
+assert.equal(linePath([{v:null},{v:null}],p=>p.v,i=>i,v=>v),'');
+const {resolveMetric}=load(root+'/src/pages/ActivityPage.tsx');
+const data={quality:{},series:[{date:'2026-04-01',turnover_idr:200,relative_turnover:2},{date:'2026-04-02',turnover_idr:null,relative_turnover:null}]};
+const view=resolveMetric(data,'turnover',20);
+assert.equal(view.current,null);assert.equal(view.baseline,null);assert.equal(view.comparable,1);assert.equal(view.points[0].baseline,100);assert.equal(view.points[1].value,null);
+const {renderToStaticMarkup}=deps('react-dom/server'),React=deps('react');
+const {StatusBadge}=load(root+'/src/components/StatusBadge.tsx');
+const badge=renderToStaticMarkup(React.createElement(StatusBadge,{state:null}));
+assert.match(badge,/Belum dapat dinilai/);assert.doesNotMatch(badge,/No Investigation/);
+console.log('PASS: unknown vs false, initial lifecycle unknown, chart gaps and positions, latest missing value, baseline coverage, nullable status rendering (14 assertions).');

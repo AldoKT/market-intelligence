@@ -1,0 +1,4 @@
+# Tested research runtime; no Parquet or API-client dependency.
+pandas==3.0.1
+numpy==2.3.5
+pydantic>=2.7,<3.0

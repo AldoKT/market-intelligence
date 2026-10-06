@@ -1,0 +1,2 @@
+# Storage and offline pilot tools; independent from frontend/backend.
+pyarrow>=18,<24

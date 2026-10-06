@@ -1,3 +1,5 @@
+> Current Phase 1 JSON pilot (ANTM, INCO, BBCA, Sep30 snapshot): see [SIGNAL_PHASE1_JSON_PILOT.md](SIGNAL_PHASE1_JSON_PILOT.md) and `run_pilot_windows.ps1`. Legacy setup and snapshots remain documented below.
+
 # SIGNAL Backend v1
 
 FastAPI application layer for the SIGNAL Market Intelligence prototype.

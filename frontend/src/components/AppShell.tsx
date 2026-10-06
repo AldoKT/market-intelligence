@@ -1,4 +1,5 @@
 import { FormEvent, useState } from "react";
+import { PilotBanner } from "./PilotBanner";
 import { NavLink, Outlet, useNavigate } from "react-router-dom";
 
 function NavItem({ to, children }: { to: string; children: React.ReactNode }) {
@@ -77,6 +78,7 @@ export function AppShell() {
       </header>
 
       <main className="page-container v2-page-container pdf-page-container">
+        <PilotBanner />
         <Outlet />
       </main>
     </div>

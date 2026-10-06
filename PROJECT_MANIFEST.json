@@ -68,5 +68,32 @@
     "methodology_changed": false,
     "payload_changed": false,
     "backend_changed": false
+  },
+  "phase1_json_pilot": {
+    "branch": "rework/phase1-v2",
+    "base_commit": "426b054",
+    "as_of": "2026-09-30",
+    "symbols": [
+      "ANTM",
+      "INCO",
+      "BBCA"
+    ],
+    "storage": "JSON; Parquet deferred",
+    "payload_dir": "payloads/pilot_v2",
+    "source_dir": "research/data/rework_phase1_v2/raw/json_pilot",
+    "human_review": {
+      "gate_d": "accepted in chat",
+      "ui": "accepted in chat",
+      "ui_evidence": "oke ui sudah bagus, mari kita lanjut"
+    },
+    "analysis_sessions_per_symbol": 121,
+    "evaluated_per_symbol": 65,
+    "withheld_per_symbol": 56,
+    "spot_hits": 7,
+    "observed_episodes": 6,
+    "scope": "research pilot only; no market/peer specificity or out-of-sample claim",
+    "launcher": "run_pilot_windows.ps1",
+    "offline_validation": "python -m research.signal_validate_json_pilot",
+    "api_requests_to_run": 0
   }
 }

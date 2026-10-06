@@ -42,10 +42,13 @@ export interface OverviewPayload {
   headline: string;
   kpis: {
     active_investigations: number;
-    established: number;
-    developing: number;
-    emerging: number;
-    weakening: number;
+    established?: number;
+    developing?: number;
+    emerging?: number;
+    weakening?: number;
+    pilot_symbols?: number;
+    observed_episodes?: number;
+    withheld_analysis_sessions?: number;
   };
   spotlight: InvestigationListItem | null;
   active_investigations: InvestigationListItem[];
@@ -200,12 +203,14 @@ export interface ActivityPoint {
   evidence_confidence?: number | null;
   diagnostic_evidence_score?: number | null;
   persistence_score?: number | null;
-  supporting_session?: boolean;
-  spot_hit: boolean;
-  lifecycle_state: string;
+  supporting_session?: boolean | null;
+  spot_hit: boolean | null;
+  lifecycle_state: string | null;
+  quality?: { evaluation_status: string; lifecycle_interpretation: string; reasons: string[]; missing_baseline_counts: Record<string, number> };
 }
 
 export interface ActivityPayload {
+  quality?: { analysis_sessions: number; evaluated_sessions: number; withheld_sessions: number; missing_dates: string[]; broker_scope_mismatch_dates: string[]; broker_completeness_attested: boolean; context_scope: string };
   methodology_version: string;
   as_of: string;
   identity: InvestigationDetail["identity"];
@@ -303,7 +308,16 @@ export interface HistoryPayload {
   episodes: EpisodeSummary[];
 }
 
-export interface MethodologyPayload {
+export interface PilotMethodologyPayload {
+  methodology_version: string; as_of: string;
+  detector: { analysis_start:string; analysis_end:string; baseline_requires_preceding_sessions:number; metric_baseline_sessions:number;
+    thresholds:{compression:number;activity:number;core_relative:number;core_count:number};
+    by_symbol:Record<string,{analysis_sessions:number;evaluated:number;not_evaluated:number;spot_hits:number}> };
+  lifecycle: {thresholds:{established_support_count:number;persistence_window:number;established_hard_hits:number;close_after_unsupported:number}};
+  gate_d:{approved:boolean};
+}
+export type MethodologyPayload = LegacyMethodologyPayload | PilotMethodologyPayload;
+export interface LegacyMethodologyPayload {
   candidate_name: string;
   status: string;
   basis: {

@@ -1,0 +1,46 @@
+{
+  "methodology_version": "phase1-json-pilot-2.0",
+  "schema_version": 2,
+  "as_of": "2026-09-30",
+  "symbols": [
+    "ANTM",
+    "INCO",
+    "BBCA"
+  ],
+  "generated_at": "2026-10-06T13:51:29.204941+00:00",
+  "source_scope": "PILOT_UNIVERSE_ONLY",
+  "gate_d_approved": true,
+  "files": {
+    "overview": "overview.json",
+    "investigations": "investigations.json",
+    "methodology": "methodology.json",
+    "ticker_template": "tickers/{SYMBOL}/{investigation,summary,activity,context,history}.json"
+  },
+  "source_sha256": {
+    "daily": "aa3facfff3f66258f3dd911dfb6a0209183383a655d7eef04d4036aaead68950",
+    "foreign_flow": "d6b4f19a117c34e7d5eb6b23c63c618a324c52f450f982c3d764fd1aaafc09ac",
+    "broker_activity": "ff4008252ef0269d5747d1f6b4156d1b62c3ae71dfe39765cb97a8ebb4f7709e",
+    "broker_registry": "07549aab92306d8e0cf8c02c03110a9b7fe74ff4e0b00177844e3835885c3e7f"
+  },
+  "counts": {
+    "ANTM": {
+      "activity_points": 121,
+      "events": 12,
+      "episodes": 2,
+      "state": "NO_INVESTIGATION"
+    },
+    "INCO": {
+      "activity_points": 121,
+      "events": 14,
+      "episodes": 2,
+      "state": "NO_INVESTIGATION"
+    },
+    "BBCA": {
+      "activity_points": 121,
+      "events": 9,
+      "episodes": 2,
+      "state": "EMERGING"
+    }
+  },
+  "activation": "Select via SIGNAL_PAYLOAD_DIR; default backend config unchanged."
+}

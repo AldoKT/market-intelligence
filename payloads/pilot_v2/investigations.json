@@ -1,0 +1,61 @@
+{
+  "methodology_version": "phase1-json-pilot-2.0",
+  "as_of": "2026-09-30",
+  "items": [
+    {
+      "symbol": "ANTM",
+      "peer_group": null,
+      "state": "NO_INVESTIGATION",
+      "active": false,
+      "evidence_confidence": null,
+      "context_scope": "NO_CONTEXT",
+      "context_specificity_score": null,
+      "relative_turnover": 1.1264,
+      "current_5d_range_pct": 9.0625,
+      "persistence_hits": 0,
+      "persistence_window": 5,
+      "opened_at": null,
+      "last_updated": "2026-09-30"
+    },
+    {
+      "symbol": "INCO",
+      "peer_group": null,
+      "state": "NO_INVESTIGATION",
+      "active": false,
+      "evidence_confidence": null,
+      "context_scope": "NO_CONTEXT",
+      "context_specificity_score": null,
+      "relative_turnover": 0.8994,
+      "current_5d_range_pct": 15.4545,
+      "persistence_hits": 0,
+      "persistence_window": 5,
+      "opened_at": null,
+      "last_updated": "2026-09-30"
+    },
+    {
+      "symbol": "BBCA",
+      "peer_group": null,
+      "state": "EMERGING",
+      "active": true,
+      "evidence_confidence": 52.6,
+      "context_scope": "NO_CONTEXT",
+      "context_specificity_score": null,
+      "relative_turnover": 2.0295,
+      "current_5d_range_pct": 3.6145,
+      "persistence_hits": 1,
+      "persistence_window": 5,
+      "opened_at": "2026-09-30",
+      "last_updated": "2026-09-30"
+    }
+  ],
+  "filters": {
+    "states": [
+      "EMERGING",
+      "NO_INVESTIGATION"
+    ],
+    "peer_groups": [],
+    "context_scopes": [
+      "NO_CONTEXT"
+    ]
+  }
+}

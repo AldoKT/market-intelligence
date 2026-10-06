@@ -8,6 +8,8 @@ import type {
   OverviewPayload
 } from "../types";
 import { formatDate, formatNumber } from "../lib/format";
+import { companyName } from "../lib/companies";
+import { withLatestPrice } from "../lib/pilot";
 
 type DetailMap = Record<string, InvestigationDetail | null>;
 
@@ -49,6 +51,7 @@ export function OverviewPage() {
         if (!alive) return;
         setDetails(Object.fromEntries(detailEntries));
         setSpotActivity(activity);
+        if(activity&&payload.spotlight){const spotlight=withLatestPrice(payload.spotlight,activity);setData({...payload,spotlight,active_investigations:payload.active_investigations.map(item=>item.symbol===spotlight.symbol?spotlight:item)});}
       })
       .catch((err: Error) => alive && setError(err.message))
       .finally(() => alive && setLoading(false));
@@ -88,6 +91,8 @@ export function OverviewPage() {
     );
   }
 
+  const pilot = data.kpis.pilot_symbols != null;
+  const latestPrice = spotActivity?.series.at(-1)?.close;
   const spotlight = data.spotlight;
   const spotDetail = spotlight ? details[spotlight.symbol] : null;
   const pricePoints = spotActivity?.series.slice(-30) ?? [];
@@ -123,8 +128,7 @@ export function OverviewPage() {
 
                 <div className="overview-company-row">
                   <strong>
-                    {spotDetail?.identity.company_name ??
-                      humanGroup(spotlight.peer_group)}
+                    {companyName(spotlight.symbol, spotDetail?.identity.company_name)}
                   </strong>
                   <span>{humanGroup(spotlight.peer_group)}</span>
                   <span>{humanState(spotlight.state)}</span>
@@ -156,9 +160,9 @@ export function OverviewPage() {
                   <div className="overview-last-price">
                     <span>Last Price (IDR)</span>
                     <strong>
-                      {spotlight.close == null
+                      {(spotlight.close ?? latestPrice) == null
                         ? "—"
-                        : formatNumber(spotlight.close, 0)}
+                        : formatNumber((spotlight.close ?? latestPrice)!, 0)}
                     </strong>
                     <em className={changeClass(spotlight.daily_change_pct)}>
                       {spotlight.daily_change_pct == null
@@ -204,24 +208,24 @@ export function OverviewPage() {
           />
           <OverviewKpi
             icon={<BoltIcon />}
-            label={<>Strong Signals<br /><span>(≥ 80)</span></>}
-            value={kpis.strong}
-            helper="high confidence"
+            label={pilot?"Saham pilot":<>Strong Signals<br /><span>(≥ 80)</span></>}
+            value={pilot?data.kpis.pilot_symbols!:kpis.strong}
+            helper={pilot?"ANTM · INCO · BBCA":"high confidence"}
             tone="positive"
           />
           <OverviewKpi
             icon={<ClockIcon />}
-            label={<>Persisting<br />Investigations</>}
-            value={kpis.persisting}
-            helper="≥ 2 support sessions"
+            label={pilot?"Episode teramati":<>Persisting<br />Investigations</>}
+            value={pilot?data.kpis.observed_episodes??0:kpis.persisting}
+            helper={pilot?"selama periode analisis":"≥ 2 support sessions"}
             tone="neutral"
           />
           <OverviewKpi
             icon={<PlusIcon />}
-            label="New Today"
-            value={kpis.newToday}
-            helper={`opened ${formatDate(data.as_of)}`}
-            tone="positive"
+            label={pilot?"Belum dapat dinilai":"New Today"}
+            value={pilot?data.kpis.withheld_analysis_sessions??0:kpis.newToday}
+            helper={pilot?"sesi saham; bukan nol sinyal":`opened ${formatDate(data.as_of)}`}
+            tone={pilot?"neutral":"positive"}
           />
         </aside>
       </section>
@@ -484,7 +488,7 @@ function OverviewInvestigationsTable({
               <tr key={item.symbol} onClick={() => onOpen(item.symbol)}>
                 <td>{index + 1}</td>
                 <td><strong className="overview-table-ticker">{item.symbol}</strong></td>
-                <td>{detail?.identity.company_name ?? humanGroup(item.peer_group)}</td>
+                <td>{companyName(item.symbol, detail?.identity.company_name)}</td>
                 <td>
                   <span className="overview-score-pill">
                     {item.evidence_confidence == null
@@ -492,7 +496,7 @@ function OverviewInvestigationsTable({
                       : formatNumber(item.evidence_confidence, 0)}
                   </span>
                 </td>
-                <td>{item.close == null ? "—" : formatNumber(item.close, 0)}</td>
+                <td>{(item.close ?? detail?.metrics.close) == null ? "—" : formatNumber((item.close ?? detail?.metrics.close)!, 0)}</td>
                 <td>
                   <span className={changeClass(item.daily_change_pct)}>
                     {item.daily_change_pct == null
