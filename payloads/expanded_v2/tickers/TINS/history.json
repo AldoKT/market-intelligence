@@ -1,0 +1,97 @@
+{
+  "methodology_version": "phase1-json-pilot-2.0",
+  "as_of": "2026-09-30",
+  "identity": {
+    "symbol": "TINS",
+    "company_name": null,
+    "peer_group": null
+  },
+  "events": [
+    {
+      "date": "2026-07-16",
+      "state": "EMERGING",
+      "investigation_id": "TINS-20260716-01",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-07-16",
+      "state": "EMERGING",
+      "investigation_id": "TINS-20260716-01",
+      "event_type": "INVESTIGATION_OPENED",
+      "note": "First observed hard hit; prior unobserved history is not inferred."
+    },
+    {
+      "date": "2026-07-17",
+      "state": "WEAKENING",
+      "investigation_id": "TINS-20260716-01",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-07-20",
+      "state": "DEVELOPING",
+      "investigation_id": "TINS-20260716-01",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-07-21",
+      "state": "DEVELOPING",
+      "investigation_id": "TINS-20260716-01",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-07-22",
+      "state": "ESTABLISHED",
+      "investigation_id": "TINS-20260716-01",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-07-22",
+      "state": "ESTABLISHED",
+      "investigation_id": "TINS-20260716-01",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-07-24",
+      "state": "WEAKENING",
+      "investigation_id": "TINS-20260716-01",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-07-27",
+      "state": "CLOSED",
+      "investigation_id": "TINS-20260716-01",
+      "event_type": "INVESTIGATION_CLOSED",
+      "note": "TWO_UNSUPPORTED_SESSIONS"
+    },
+    {
+      "date": "2026-07-28",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    }
+  ],
+  "episodes": [
+    {
+      "investigation_id": "TINS-20260716-01",
+      "opened_at": "2026-07-16",
+      "last_linked_at": "2026-07-27",
+      "closed": true,
+      "closed_at": "2026-07-27",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 7,
+      "hard_hits": 3,
+      "support_sessions": 5,
+      "peak_state": "ESTABLISHED",
+      "open_context_scope": "NO_CONTEXT",
+      "max_evidence_confidence": 78.8
+    }
+  ]
+}

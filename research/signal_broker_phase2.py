@@ -15,7 +15,7 @@ def save(path, value):
 
 
 def role(net):
-    return 'NET_BUY' if net > 0 else 'NET_SELL' if net < 0 else 'NET_FLAT'
+    return 'UNKNOWN' if net is None else 'NET_BUY' if net > 0 else 'NET_SELL' if net < 0 else 'NET_FLAT'
 
 
 def broker_view(rows, registry):

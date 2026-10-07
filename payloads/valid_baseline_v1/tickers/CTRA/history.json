@@ -1,0 +1,335 @@
+{
+  "methodology_version": "phase1-json-pilot-valid-baseline-1.0",
+  "as_of": "2026-09-30",
+  "identity": {
+    "symbol": "CTRA",
+    "company_name": null,
+    "peer_group": null
+  },
+  "events": [
+    {
+      "date": "2026-04-30",
+      "state": "EMERGING",
+      "investigation_id": "CTRA-20260430-01",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-04-30",
+      "state": "EMERGING",
+      "investigation_id": "CTRA-20260430-01",
+      "event_type": "INVESTIGATION_OPENED",
+      "note": "First observed hard hit; prior unobserved history is not inferred."
+    },
+    {
+      "date": "2026-05-04",
+      "state": "WEAKENING",
+      "investigation_id": "CTRA-20260430-01",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-05-05",
+      "state": "CLOSED",
+      "investigation_id": "CTRA-20260430-01",
+      "event_type": "INVESTIGATION_CLOSED",
+      "note": "TWO_UNSUPPORTED_SESSIONS"
+    },
+    {
+      "date": "2026-05-06",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-06-25",
+      "state": "EMERGING",
+      "investigation_id": "CTRA-20260625-01",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-06-25",
+      "state": "EMERGING",
+      "investigation_id": "CTRA-20260625-01",
+      "event_type": "INVESTIGATION_OPENED",
+      "note": "First observed hard hit; prior unobserved history is not inferred."
+    },
+    {
+      "date": "2026-06-26",
+      "state": "WEAKENING",
+      "investigation_id": "CTRA-20260625-01",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-06-29",
+      "state": "CLOSED",
+      "investigation_id": "CTRA-20260625-01",
+      "event_type": "INVESTIGATION_CLOSED",
+      "note": "TWO_UNSUPPORTED_SESSIONS"
+    },
+    {
+      "date": "2026-06-30",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-07-07",
+      "state": "EMERGING",
+      "investigation_id": "CTRA-20260707-02",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-07-07",
+      "state": "EMERGING",
+      "investigation_id": "CTRA-20260707-02",
+      "event_type": "INVESTIGATION_OPENED",
+      "note": "First observed hard hit; prior unobserved history is not inferred."
+    },
+    {
+      "date": "2026-07-07",
+      "state": "EMERGING",
+      "investigation_id": "CTRA-20260707-02",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-07-08",
+      "state": "WEAKENING",
+      "investigation_id": "CTRA-20260707-02",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-07-09",
+      "state": "DEVELOPING",
+      "investigation_id": "CTRA-20260707-02",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-07-10",
+      "state": "WEAKENING",
+      "investigation_id": "CTRA-20260707-02",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-07-13",
+      "state": "CLOSED",
+      "investigation_id": "CTRA-20260707-02",
+      "event_type": "INVESTIGATION_CLOSED",
+      "note": "TWO_UNSUPPORTED_SESSIONS"
+    },
+    {
+      "date": "2026-07-14",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-08-31",
+      "state": "EMERGING",
+      "investigation_id": "CTRA-20260831-03",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-08-31",
+      "state": "EMERGING",
+      "investigation_id": "CTRA-20260831-03",
+      "event_type": "INVESTIGATION_OPENED",
+      "note": "First observed hard hit; prior unobserved history is not inferred."
+    },
+    {
+      "date": "2026-08-31",
+      "state": "EMERGING",
+      "investigation_id": "CTRA-20260831-03",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-09-01",
+      "state": "WEAKENING",
+      "investigation_id": "CTRA-20260831-03",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-09-02",
+      "state": "CLOSED",
+      "investigation_id": "CTRA-20260831-03",
+      "event_type": "INVESTIGATION_CLOSED",
+      "note": "TWO_UNSUPPORTED_SESSIONS"
+    },
+    {
+      "date": "2026-09-03",
+      "state": "EMERGING",
+      "investigation_id": "CTRA-20260903-04",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-09-03",
+      "state": "EMERGING",
+      "investigation_id": "CTRA-20260903-04",
+      "event_type": "INVESTIGATION_OPENED",
+      "note": "First observed hard hit; prior unobserved history is not inferred."
+    },
+    {
+      "date": "2026-09-03",
+      "state": "EMERGING",
+      "investigation_id": "CTRA-20260903-04",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-09-04",
+      "state": "DEVELOPING",
+      "investigation_id": "CTRA-20260903-04",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-09-04",
+      "state": "DEVELOPING",
+      "investigation_id": "CTRA-20260903-04",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-09-07",
+      "state": "WEAKENING",
+      "investigation_id": "CTRA-20260903-04",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-09-08",
+      "state": "DEVELOPING",
+      "investigation_id": "CTRA-20260903-04",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-09-09",
+      "state": "ESTABLISHED",
+      "investigation_id": "CTRA-20260903-04",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-09-10",
+      "state": "WEAKENING",
+      "investigation_id": "CTRA-20260903-04",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-09-11",
+      "state": "DEVELOPING",
+      "investigation_id": "CTRA-20260903-04",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-09-14",
+      "state": "WEAKENING",
+      "investigation_id": "CTRA-20260903-04",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-09-15",
+      "state": "CLOSED",
+      "investigation_id": "CTRA-20260903-04",
+      "event_type": "INVESTIGATION_CLOSED",
+      "note": "TWO_UNSUPPORTED_SESSIONS"
+    },
+    {
+      "date": "2026-09-16",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    }
+  ],
+  "episodes": [
+    {
+      "investigation_id": "CTRA-20260430-01",
+      "opened_at": "2026-04-30",
+      "last_linked_at": "2026-05-05",
+      "closed": true,
+      "closed_at": "2026-05-05",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 2,
+      "hard_hits": 1,
+      "support_sessions": 1,
+      "peak_state": "EMERGING",
+      "open_context_scope": "NO_CONTEXT",
+      "max_evidence_confidence": 49.19
+    },
+    {
+      "investigation_id": "CTRA-20260625-01",
+      "opened_at": "2026-06-25",
+      "last_linked_at": "2026-06-29",
+      "closed": true,
+      "closed_at": "2026-06-29",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 2,
+      "hard_hits": 1,
+      "support_sessions": 1,
+      "peak_state": "EMERGING",
+      "open_context_scope": "NO_CONTEXT",
+      "max_evidence_confidence": 47.56
+    },
+    {
+      "investigation_id": "CTRA-20260707-02",
+      "opened_at": "2026-07-07",
+      "last_linked_at": "2026-07-13",
+      "closed": true,
+      "closed_at": "2026-07-13",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 4,
+      "hard_hits": 1,
+      "support_sessions": 2,
+      "peak_state": "DEVELOPING",
+      "open_context_scope": "NO_CONTEXT",
+      "max_evidence_confidence": 55.34
+    },
+    {
+      "investigation_id": "CTRA-20260831-03",
+      "opened_at": "2026-08-31",
+      "last_linked_at": "2026-09-02",
+      "closed": true,
+      "closed_at": "2026-09-02",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 2,
+      "hard_hits": 1,
+      "support_sessions": 1,
+      "peak_state": "EMERGING",
+      "open_context_scope": "NO_CONTEXT",
+      "max_evidence_confidence": 48.69
+    },
+    {
+      "investigation_id": "CTRA-20260903-04",
+      "opened_at": "2026-09-03",
+      "last_linked_at": "2026-09-15",
+      "closed": true,
+      "closed_at": "2026-09-15",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 8,
+      "hard_hits": 2,
+      "support_sessions": 5,
+      "peak_state": "ESTABLISHED",
+      "open_context_scope": "NO_CONTEXT",
+      "max_evidence_confidence": 63.03
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "methodology_version": "phase1-json-pilot-valid-baseline-1.0",
+  "as_of": "2026-09-30",
+  "identity": {
+    "symbol": "BBCA",
+    "company_name": null,
+    "peer_group": null
+  },
+  "events": [
+    {
+      "date": "2026-08-28",
+      "state": "EMERGING",
+      "investigation_id": "BBCA-20260828-01",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-08-28",
+      "state": "EMERGING",
+      "investigation_id": "BBCA-20260828-01",
+      "event_type": "INVESTIGATION_OPENED",
+      "note": "First observed hard hit; prior unobserved history is not inferred."
+    },
+    {
+      "date": "2026-08-31",
+      "state": "DEVELOPING",
+      "investigation_id": "BBCA-20260828-01",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-09-01",
+      "state": "WEAKENING",
+      "investigation_id": "BBCA-20260828-01",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-09-02",
+      "state": "CLOSED",
+      "investigation_id": "BBCA-20260828-01",
+      "event_type": "INVESTIGATION_CLOSED",
+      "note": "TWO_UNSUPPORTED_SESSIONS"
+    },
+    {
+      "date": "2026-09-03",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-09-30",
+      "state": "EMERGING",
+      "investigation_id": "BBCA-20260930-02",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-09-30",
+      "state": "EMERGING",
+      "investigation_id": "BBCA-20260930-02",
+      "event_type": "INVESTIGATION_OPENED",
+      "note": "First observed hard hit; prior unobserved history is not inferred."
+    },
+    {
+      "date": "2026-09-30",
+      "state": "EMERGING",
+      "investigation_id": "BBCA-20260930-02",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    }
+  ],
+  "episodes": [
+    {
+      "investigation_id": "BBCA-20260828-01",
+      "opened_at": "2026-08-28",
+      "last_linked_at": "2026-09-02",
+      "closed": true,
+      "closed_at": "2026-09-02",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 3,
+      "hard_hits": 1,
+      "support_sessions": 2,
+      "peak_state": "DEVELOPING",
+      "open_context_scope": "NO_CONTEXT",
+      "max_evidence_confidence": 56.89
+    },
+    {
+      "investigation_id": "BBCA-20260930-02",
+      "opened_at": "2026-09-30",
+      "last_linked_at": "2026-09-30",
+      "closed": false,
+      "closed_at": null,
+      "close_reason": null,
+      "active_sessions": 1,
+      "hard_hits": 1,
+      "support_sessions": 1,
+      "peak_state": "EMERGING",
+      "open_context_scope": "NO_CONTEXT",
+      "max_evidence_confidence": 52.6
+    }
+  ]
+}

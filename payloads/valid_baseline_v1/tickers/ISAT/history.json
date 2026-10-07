@@ -1,0 +1,342 @@
+{
+  "methodology_version": "phase1-json-pilot-valid-baseline-1.0",
+  "as_of": "2026-09-30",
+  "identity": {
+    "symbol": "ISAT",
+    "company_name": null,
+    "peer_group": null
+  },
+  "events": [
+    {
+      "date": "2026-04-14",
+      "state": "EMERGING",
+      "investigation_id": "ISAT-20260414-01",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-04-14",
+      "state": "EMERGING",
+      "investigation_id": "ISAT-20260414-01",
+      "event_type": "INVESTIGATION_OPENED",
+      "note": "First observed hard hit; prior unobserved history is not inferred."
+    },
+    {
+      "date": "2026-06-03",
+      "state": "EMERGING",
+      "investigation_id": "ISAT-20260603-01",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-06-03",
+      "state": "EMERGING",
+      "investigation_id": "ISAT-20260603-01",
+      "event_type": "INVESTIGATION_OPENED",
+      "note": "First observed hard hit; prior unobserved history is not inferred."
+    },
+    {
+      "date": "2026-06-04",
+      "state": "WEAKENING",
+      "investigation_id": "ISAT-20260603-01",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-06-05",
+      "state": "CLOSED",
+      "investigation_id": "ISAT-20260603-01",
+      "event_type": "INVESTIGATION_CLOSED",
+      "note": "TWO_UNSUPPORTED_SESSIONS"
+    },
+    {
+      "date": "2026-06-08",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-06-25",
+      "state": "EMERGING",
+      "investigation_id": "ISAT-20260625-02",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-06-25",
+      "state": "EMERGING",
+      "investigation_id": "ISAT-20260625-02",
+      "event_type": "INVESTIGATION_OPENED",
+      "note": "First observed hard hit; prior unobserved history is not inferred."
+    },
+    {
+      "date": "2026-06-25",
+      "state": "EMERGING",
+      "investigation_id": "ISAT-20260625-02",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-06-26",
+      "state": "WEAKENING",
+      "investigation_id": "ISAT-20260625-02",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-06-29",
+      "state": "CLOSED",
+      "investigation_id": "ISAT-20260625-02",
+      "event_type": "INVESTIGATION_CLOSED",
+      "note": "TWO_UNSUPPORTED_SESSIONS"
+    },
+    {
+      "date": "2026-06-30",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-07-28",
+      "state": "EMERGING",
+      "investigation_id": "ISAT-20260728-03",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-07-28",
+      "state": "EMERGING",
+      "investigation_id": "ISAT-20260728-03",
+      "event_type": "INVESTIGATION_OPENED",
+      "note": "First observed hard hit; prior unobserved history is not inferred."
+    },
+    {
+      "date": "2026-07-28",
+      "state": "EMERGING",
+      "investigation_id": "ISAT-20260728-03",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-07-29",
+      "state": "WEAKENING",
+      "investigation_id": "ISAT-20260728-03",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-07-30",
+      "state": "CLOSED",
+      "investigation_id": "ISAT-20260728-03",
+      "event_type": "INVESTIGATION_CLOSED",
+      "note": "TWO_UNSUPPORTED_SESSIONS"
+    },
+    {
+      "date": "2026-07-31",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-09-01",
+      "state": "EMERGING",
+      "investigation_id": "ISAT-20260901-04",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-09-01",
+      "state": "EMERGING",
+      "investigation_id": "ISAT-20260901-04",
+      "event_type": "INVESTIGATION_OPENED",
+      "note": "First observed hard hit; prior unobserved history is not inferred."
+    },
+    {
+      "date": "2026-09-01",
+      "state": "EMERGING",
+      "investigation_id": "ISAT-20260901-04",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-09-02",
+      "state": "DEVELOPING",
+      "investigation_id": "ISAT-20260901-04",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-09-03",
+      "state": "WEAKENING",
+      "investigation_id": "ISAT-20260901-04",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-09-04",
+      "state": "CLOSED",
+      "investigation_id": "ISAT-20260901-04",
+      "event_type": "INVESTIGATION_CLOSED",
+      "note": "TWO_UNSUPPORTED_SESSIONS"
+    },
+    {
+      "date": "2026-09-07",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-09-09",
+      "state": "EMERGING",
+      "investigation_id": "ISAT-20260909-05",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-09-09",
+      "state": "EMERGING",
+      "investigation_id": "ISAT-20260909-05",
+      "event_type": "INVESTIGATION_OPENED",
+      "note": "First observed hard hit; prior unobserved history is not inferred."
+    },
+    {
+      "date": "2026-09-09",
+      "state": "EMERGING",
+      "investigation_id": "ISAT-20260909-05",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-09-10",
+      "state": "DEVELOPING",
+      "investigation_id": "ISAT-20260909-05",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-09-10",
+      "state": "DEVELOPING",
+      "investigation_id": "ISAT-20260909-05",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-09-14",
+      "state": "ESTABLISHED",
+      "investigation_id": "ISAT-20260909-05",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-09-15",
+      "state": "WEAKENING",
+      "investigation_id": "ISAT-20260909-05",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-09-16",
+      "state": "CLOSED",
+      "investigation_id": "ISAT-20260909-05",
+      "event_type": "INVESTIGATION_CLOSED",
+      "note": "TWO_UNSUPPORTED_SESSIONS"
+    },
+    {
+      "date": "2026-09-17",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    }
+  ],
+  "episodes": [
+    {
+      "investigation_id": "ISAT-20260414-01",
+      "opened_at": "2026-04-14",
+      "last_linked_at": "2026-04-14",
+      "closed": false,
+      "closed_at": null,
+      "close_reason": null,
+      "active_sessions": 1,
+      "hard_hits": 1,
+      "support_sessions": 1,
+      "peak_state": "EMERGING",
+      "open_context_scope": "NO_CONTEXT",
+      "max_evidence_confidence": 54.45
+    },
+    {
+      "investigation_id": "ISAT-20260603-01",
+      "opened_at": "2026-06-03",
+      "last_linked_at": "2026-06-05",
+      "closed": true,
+      "closed_at": "2026-06-05",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 2,
+      "hard_hits": 1,
+      "support_sessions": 1,
+      "peak_state": "EMERGING",
+      "open_context_scope": "NO_CONTEXT",
+      "max_evidence_confidence": 49.71
+    },
+    {
+      "investigation_id": "ISAT-20260625-02",
+      "opened_at": "2026-06-25",
+      "last_linked_at": "2026-06-29",
+      "closed": true,
+      "closed_at": "2026-06-29",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 2,
+      "hard_hits": 1,
+      "support_sessions": 1,
+      "peak_state": "EMERGING",
+      "open_context_scope": "NO_CONTEXT",
+      "max_evidence_confidence": 53.5
+    },
+    {
+      "investigation_id": "ISAT-20260728-03",
+      "opened_at": "2026-07-28",
+      "last_linked_at": "2026-07-30",
+      "closed": true,
+      "closed_at": "2026-07-30",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 2,
+      "hard_hits": 1,
+      "support_sessions": 1,
+      "peak_state": "EMERGING",
+      "open_context_scope": "NO_CONTEXT",
+      "max_evidence_confidence": 43.57
+    },
+    {
+      "investigation_id": "ISAT-20260901-04",
+      "opened_at": "2026-09-01",
+      "last_linked_at": "2026-09-04",
+      "closed": true,
+      "closed_at": "2026-09-04",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 3,
+      "hard_hits": 1,
+      "support_sessions": 2,
+      "peak_state": "DEVELOPING",
+      "open_context_scope": "NO_CONTEXT",
+      "max_evidence_confidence": 36.73
+    },
+    {
+      "investigation_id": "ISAT-20260909-05",
+      "opened_at": "2026-09-09",
+      "last_linked_at": "2026-09-16",
+      "closed": true,
+      "closed_at": "2026-09-16",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 5,
+      "hard_hits": 2,
+      "support_sessions": 4,
+      "peak_state": "ESTABLISHED",
+      "open_context_scope": "NO_CONTEXT",
+      "max_evidence_confidence": 62.85
+    }
+  ]
+}

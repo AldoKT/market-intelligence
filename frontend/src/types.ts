@@ -1,4 +1,6 @@
 export type InvestigationState =
+  | "UNKNOWN"
+  | "UNKNOWN"
   | "NO_INVESTIGATION"
   | "INELIGIBLE_PRICE_REGIME"
   | "EMERGING"
@@ -22,7 +24,7 @@ export interface InvestigationListItem {
   peer_group: string | null;
   pattern_type?: string | null;
   state: InvestigationState | string;
-  active: boolean;
+  active: boolean | null;
   evidence_confidence: number | null;
   context_scope: ContextScope | string | null;
   context_specificity_score: number | null;
@@ -30,7 +32,7 @@ export interface InvestigationListItem {
   daily_change_pct?: number | null;
   relative_turnover: number | null;
   current_5d_range_pct: number | null;
-  persistence_hits: number;
+  persistence_hits: number | null;
   persistence_window: number;
   opened_at: string | null;
   last_updated: string;
@@ -110,9 +112,9 @@ export interface InvestigationDetail {
   };
   hypothesis: string;
   state: string;
-  active: boolean;
+  active: boolean | null;
   opened_at: string | null;
-  age_sessions: number;
+  age_sessions: number | null;
   gates: {
     compression_pass: boolean;
     activity_pass: boolean;
@@ -125,12 +127,12 @@ export interface InvestigationDetail {
     interpretation: string;
   };
   persistence: {
-    support_sessions_in_last_5: number;
-    hard_hits_in_last_5: number;
-    hard_hits_total_in_episode: number;
-    support_sessions_total_in_episode: number;
-    unsupported_streak: number;
-    persistence_score: number;
+    support_sessions_in_last_5: number | null;
+    hard_hits_in_last_5: number | null;
+    hard_hits_total_in_episode: number | null;
+    support_sessions_total_in_episode: number | null;
+    unsupported_streak: number | null;
+    persistence_score: number | null;
   };
   metrics: {
     close: number | null;

@@ -1,0 +1,228 @@
+{
+  "methodology_version": "phase1-json-pilot-valid-baseline-1.0",
+  "schema_version": 2,
+  "as_of": "2026-09-30",
+  "symbols": [
+    "ADRO",
+    "AMMN",
+    "ANTM",
+    "ASII",
+    "BBCA",
+    "BBNI",
+    "BBRI",
+    "BMRI",
+    "BRMS",
+    "BSDE",
+    "CPIN",
+    "CTRA",
+    "EMTK",
+    "GOTO",
+    "ICBP",
+    "INCO",
+    "INDF",
+    "ISAT",
+    "KLBF",
+    "MDKA",
+    "MIKA",
+    "MYOR",
+    "NCKL",
+    "PGAS",
+    "PTBA",
+    "TINS",
+    "TLKM",
+    "UNTR"
+  ],
+  "generated_at": "2026-10-07T03:43:04.942480+00:00",
+  "source_scope": "EXPERIMENTAL_VALID_BASELINE_25",
+  "experimental": true,
+  "activity_baseline_policy": {
+    "valid_observations": 20,
+    "max_age_sessions": 25,
+    "price_calendar_unchanged": true,
+    "gap_resets_retained": true
+  },
+  "gate_d_approved": true,
+  "files": {
+    "overview": "overview.json",
+    "investigations": "investigations.json",
+    "methodology": "methodology.json",
+    "ticker_template": "tickers/{SYMBOL}/{investigation,summary,activity,context,history}.json"
+  },
+  "source_sha256": {
+    "daily": "12825d1e1f68f96777f424d24f01606a4768a52dd740acd749ee336095009a28",
+    "foreign_flow": "8d6c726968fb126de6bc1d369a3a05f1322a5123079c00850d363b039d08b1fd",
+    "broker_activity": "21c7a021cded0455c22e9d137709769aed6d1d871a524dfe34aff4c12bf98eb5",
+    "broker_registry": "07549aab92306d8e0cf8c02c03110a9b7fe74ff4e0b00177844e3835885c3e7f"
+  },
+  "counts": {
+    "ADRO": {
+      "activity_points": 121,
+      "events": 11,
+      "episodes": 2,
+      "state": "NO_INVESTIGATION"
+    },
+    "AMMN": {
+      "activity_points": 121,
+      "events": 10,
+      "episodes": 2,
+      "state": "NO_INVESTIGATION"
+    },
+    "ANTM": {
+      "activity_points": 121,
+      "events": 12,
+      "episodes": 2,
+      "state": "NO_INVESTIGATION"
+    },
+    "ASII": {
+      "activity_points": 121,
+      "events": 19,
+      "episodes": 3,
+      "state": "NO_INVESTIGATION"
+    },
+    "BBCA": {
+      "activity_points": 121,
+      "events": 9,
+      "episodes": 2,
+      "state": "EMERGING"
+    },
+    "BBNI": {
+      "activity_points": 121,
+      "events": 5,
+      "episodes": 1,
+      "state": "NO_INVESTIGATION"
+    },
+    "BBRI": {
+      "activity_points": 121,
+      "events": 0,
+      "episodes": 0,
+      "state": "UNKNOWN"
+    },
+    "BMRI": {
+      "activity_points": 121,
+      "events": 0,
+      "episodes": 0,
+      "state": "UNKNOWN"
+    },
+    "BRMS": {
+      "activity_points": 121,
+      "events": 11,
+      "episodes": 3,
+      "state": "NO_INVESTIGATION"
+    },
+    "BSDE": {
+      "activity_points": 121,
+      "events": 12,
+      "episodes": 2,
+      "state": "NO_INVESTIGATION"
+    },
+    "CPIN": {
+      "activity_points": 121,
+      "events": 25,
+      "episodes": 4,
+      "state": "NO_INVESTIGATION"
+    },
+    "CTRA": {
+      "activity_points": 121,
+      "events": 36,
+      "episodes": 5,
+      "state": "NO_INVESTIGATION"
+    },
+    "EMTK": {
+      "activity_points": 121,
+      "events": 13,
+      "episodes": 2,
+      "state": "NO_INVESTIGATION"
+    },
+    "GOTO": {
+      "activity_points": 121,
+      "events": 7,
+      "episodes": 1,
+      "state": "UNKNOWN"
+    },
+    "ICBP": {
+      "activity_points": 121,
+      "events": 16,
+      "episodes": 2,
+      "state": "NO_INVESTIGATION"
+    },
+    "INCO": {
+      "activity_points": 121,
+      "events": 20,
+      "episodes": 3,
+      "state": "NO_INVESTIGATION"
+    },
+    "INDF": {
+      "activity_points": 121,
+      "events": 13,
+      "episodes": 2,
+      "state": "NO_INVESTIGATION"
+    },
+    "ISAT": {
+      "activity_points": 121,
+      "events": 35,
+      "episodes": 6,
+      "state": "NO_INVESTIGATION"
+    },
+    "KLBF": {
+      "activity_points": 121,
+      "events": 12,
+      "episodes": 2,
+      "state": "NO_INVESTIGATION"
+    },
+    "MDKA": {
+      "activity_points": 121,
+      "events": 7,
+      "episodes": 1,
+      "state": "NO_INVESTIGATION"
+    },
+    "MIKA": {
+      "activity_points": 121,
+      "events": 25,
+      "episodes": 4,
+      "state": "NO_INVESTIGATION"
+    },
+    "MYOR": {
+      "activity_points": 121,
+      "events": 27,
+      "episodes": 4,
+      "state": "NO_INVESTIGATION"
+    },
+    "NCKL": {
+      "activity_points": 121,
+      "events": 11,
+      "episodes": 2,
+      "state": "NO_INVESTIGATION"
+    },
+    "PGAS": {
+      "activity_points": 121,
+      "events": 5,
+      "episodes": 1,
+      "state": "NO_INVESTIGATION"
+    },
+    "PTBA": {
+      "activity_points": 121,
+      "events": 16,
+      "episodes": 2,
+      "state": "NO_INVESTIGATION"
+    },
+    "TINS": {
+      "activity_points": 121,
+      "events": 15,
+      "episodes": 3,
+      "state": "NO_INVESTIGATION"
+    },
+    "TLKM": {
+      "activity_points": 121,
+      "events": 10,
+      "episodes": 1,
+      "state": "NO_INVESTIGATION"
+    },
+    "UNTR": {
+      "activity_points": 121,
+      "events": 16,
+      "episodes": 3,
+      "state": "NO_INVESTIGATION"
+    }
+  },
+  "activation": "Select via SIGNAL_PAYLOAD_DIR; default backend config unchanged."
+}

@@ -1,0 +1,199 @@
+{
+  "methodology_version": "phase1-json-pilot-valid-baseline-1.0",
+  "as_of": "2026-09-30",
+  "investigation": {
+    "methodology_version": "phase1-json-pilot-valid-baseline-1.0",
+    "as_of": "2026-09-30",
+    "investigation_id": null,
+    "identity": {
+      "symbol": "BBRI",
+      "company_name": null,
+      "peer_group": null
+    },
+    "hypothesis": "Sideways Accumulation Watch",
+    "state": "UNKNOWN",
+    "active": null,
+    "opened_at": null,
+    "age_sessions": null,
+    "gates": {
+      "compression_pass": true,
+      "activity_pass": false,
+      "core_activity_pass": false,
+      "spot_hit": false
+    },
+    "confidence": {
+      "evidence_confidence": null,
+      "diagnostic_evidence_score": null,
+      "interpretation": "Evidence Confidence is displayed only while an investigation is active. It is not the probability that price will rise."
+    },
+    "persistence": {
+      "support_sessions_in_last_5": null,
+      "hard_hits_in_last_5": null,
+      "hard_hits_total_in_episode": null,
+      "support_sessions_total_in_episode": null,
+      "unsupported_streak": null,
+      "persistence_score": null
+    },
+    "metrics": {
+      "close": 3140.0,
+      "compression_score": 72.57,
+      "current_5d_range_pct": 4.1401,
+      "baseline_5d_range_pct": 5.6725,
+      "compression_ratio": 0.7299,
+      "activity_score": 9.98,
+      "relative_turnover": 1.1022,
+      "relative_volume": 1.1768,
+      "relative_transaction_count": 0.8485,
+      "relative_avg_trade_value": 1.2782,
+      "relative_top5_net_buy_share": 1.0474,
+      "foreign_net_to_turnover": -0.1367
+    },
+    "context": {
+      "scope": "NO_CONTEXT",
+      "specificity_score": null,
+      "market_activity_breadth": null,
+      "market_activity_percentile": null,
+      "peer_activity_breadth": null,
+      "peer_activity_percentile": null,
+      "peer_count": 0,
+      "peer_context_quality": null,
+      "interpretation": "Market and peer specificity are not scored; this dataset covers 28 reviewed stocks only."
+    },
+    "supporting_evidence": [
+      {
+        "evidence_id": "price_compression",
+        "direction": "SUPPORTING",
+        "label": "Price Compression",
+        "metric": "compression_score",
+        "value": 4.1401,
+        "baseline": 5.6725,
+        "relative": 0.7299,
+        "score": 72.57,
+        "note": "The hard Spot compression gate is satisfied."
+      },
+      {
+        "evidence_id": "relative_avg_trade_value",
+        "direction": "SUPPORTING",
+        "label": "Relative Avg Trade Value",
+        "metric": "relative_avg_trade_value",
+        "value": null,
+        "baseline": null,
+        "relative": 1.2782,
+        "score": null,
+        "note": "At or above 1.20x the stock's recent baseline."
+      }
+    ],
+    "contradicting_evidence": [
+      {
+        "evidence_id": "activity_anomaly",
+        "direction": "CONTRADICTING",
+        "label": "Activity Anomaly",
+        "metric": "activity_score",
+        "value": null,
+        "baseline": null,
+        "relative": null,
+        "score": 9.98,
+        "note": "Activity is below the current continuation threshold."
+      },
+      {
+        "evidence_id": "relative_turnover",
+        "direction": "CONTRADICTING",
+        "label": "Relative Turnover",
+        "metric": "relative_turnover",
+        "value": null,
+        "baseline": null,
+        "relative": 1.1022,
+        "score": null,
+        "note": "Below 1.20x the stock's recent baseline."
+      },
+      {
+        "evidence_id": "relative_volume",
+        "direction": "CONTRADICTING",
+        "label": "Relative Volume",
+        "metric": "relative_volume",
+        "value": null,
+        "baseline": null,
+        "relative": 1.1768,
+        "score": null,
+        "note": "Below 1.20x the stock's recent baseline."
+      },
+      {
+        "evidence_id": "relative_transaction_count",
+        "direction": "CONTRADICTING",
+        "label": "Relative Transaction Count",
+        "metric": "relative_transaction_count",
+        "value": null,
+        "baseline": null,
+        "relative": 0.8485,
+        "score": null,
+        "note": "Below 1.20x the stock's recent baseline."
+      },
+      {
+        "evidence_id": "foreign_flow",
+        "direction": "CONTRADICTING",
+        "label": "Foreign Flow",
+        "metric": "foreign_net_to_turnover",
+        "value": null,
+        "baseline": null,
+        "relative": -0.1367,
+        "score": null,
+        "note": "Foreign net flow is negative; this is context, not a hard detector gate."
+      }
+    ],
+    "narrative_5w1h": {
+      "what": "Status belum diketahui; histori yang dapat dinilai belum menetapkan keadaan investigasi.",
+      "why": "Status belum diketahui; histori yang dapat dinilai belum menetapkan keadaan investigasi.",
+      "when": "Status belum diketahui; histori yang dapat dinilai belum menetapkan keadaan investigasi.",
+      "where": "Status belum diketahui; histori yang dapat dinilai belum menetapkan keadaan investigasi.",
+      "who": "Status belum diketahui; histori yang dapat dinilai belum menetapkan keadaan investigasi.",
+      "how": "Status belum diketahui; histori yang dapat dinilai belum menetapkan keadaan investigasi."
+    },
+    "look_ahead": [],
+    "guardrails": [
+      "This object describes an investigation, not a buy/sell recommendation.",
+      "Evidence Confidence is not a future-return probability.",
+      "Participant identity is not inferred from broker or trade-size statistics.",
+      "Context peer groups are research groupings, not authoritative exchange classifications.",
+      "Historical gaps remain unknown; activity baseline uses 20 valid observations within 25 scheduled sessions; current invalid sessions block evaluation."
+    ]
+  },
+  "quality": {
+    "coverage": {
+      "daily": {
+        "missing_dates": []
+      },
+      "foreign_flow": {
+        "missing_dates": [
+          "2026-03-27",
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22"
+        ]
+      },
+      "broker_activity": {
+        "missing_dates": [
+          "2026-03-27",
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22"
+        ]
+      }
+    },
+    "analysis_sessions": 121,
+    "evaluated_sessions": 116,
+    "withheld_sessions": 5,
+    "missing_dates": [
+      "2026-03-27",
+      "2026-04-01",
+      "2026-04-15",
+      "2026-04-22"
+    ],
+    "broker_scope_mismatch_dates": [
+      "2026-05-29",
+      "2026-07-22"
+    ],
+    "broker_completeness_attested": false,
+    "gap_policy": "Unknown/null; no zero-fill or synthetic close",
+    "context_scope": "PILOT_UNIVERSE_ONLY"
+  }
+}

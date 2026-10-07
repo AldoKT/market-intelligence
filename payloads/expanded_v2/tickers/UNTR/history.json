@@ -1,0 +1,111 @@
+{
+  "methodology_version": "phase1-json-pilot-2.0",
+  "as_of": "2026-09-30",
+  "identity": {
+    "symbol": "UNTR",
+    "company_name": null,
+    "peer_group": null
+  },
+  "events": [
+    {
+      "date": "2026-08-26",
+      "state": "EMERGING",
+      "investigation_id": "UNTR-20260826-01",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-08-26",
+      "state": "EMERGING",
+      "investigation_id": "UNTR-20260826-01",
+      "event_type": "INVESTIGATION_OPENED",
+      "note": "First observed hard hit; prior unobserved history is not inferred."
+    },
+    {
+      "date": "2026-08-27",
+      "state": "WEAKENING",
+      "investigation_id": "UNTR-20260826-01",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-08-28",
+      "state": "CLOSED",
+      "investigation_id": "UNTR-20260826-01",
+      "event_type": "INVESTIGATION_CLOSED",
+      "note": "TWO_UNSUPPORTED_SESSIONS"
+    },
+    {
+      "date": "2026-08-31",
+      "state": "EMERGING",
+      "investigation_id": "UNTR-20260831-02",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-08-31",
+      "state": "EMERGING",
+      "investigation_id": "UNTR-20260831-02",
+      "event_type": "INVESTIGATION_OPENED",
+      "note": "First observed hard hit; prior unobserved history is not inferred."
+    },
+    {
+      "date": "2026-08-31",
+      "state": "EMERGING",
+      "investigation_id": "UNTR-20260831-02",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-09-01",
+      "state": "WEAKENING",
+      "investigation_id": "UNTR-20260831-02",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-09-02",
+      "state": "CLOSED",
+      "investigation_id": "UNTR-20260831-02",
+      "event_type": "INVESTIGATION_CLOSED",
+      "note": "TWO_UNSUPPORTED_SESSIONS"
+    },
+    {
+      "date": "2026-09-03",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    }
+  ],
+  "episodes": [
+    {
+      "investigation_id": "UNTR-20260826-01",
+      "opened_at": "2026-08-26",
+      "last_linked_at": "2026-08-28",
+      "closed": true,
+      "closed_at": "2026-08-28",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 2,
+      "hard_hits": 1,
+      "support_sessions": 1,
+      "peak_state": "EMERGING",
+      "open_context_scope": "NO_CONTEXT",
+      "max_evidence_confidence": 58.42
+    },
+    {
+      "investigation_id": "UNTR-20260831-02",
+      "opened_at": "2026-08-31",
+      "last_linked_at": "2026-09-02",
+      "closed": true,
+      "closed_at": "2026-09-02",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 2,
+      "hard_hits": 1,
+      "support_sessions": 1,
+      "peak_state": "EMERGING",
+      "open_context_scope": "NO_CONTEXT",
+      "max_evidence_confidence": 57.66
+    }
+  ]
+}

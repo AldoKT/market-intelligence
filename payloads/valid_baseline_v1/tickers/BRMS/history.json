@@ -1,0 +1,132 @@
+{
+  "methodology_version": "phase1-json-pilot-valid-baseline-1.0",
+  "as_of": "2026-09-30",
+  "identity": {
+    "symbol": "BRMS",
+    "company_name": null,
+    "peer_group": null
+  },
+  "events": [
+    {
+      "date": "2026-04-14",
+      "state": "EMERGING",
+      "investigation_id": "BRMS-20260414-01",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-04-14",
+      "state": "EMERGING",
+      "investigation_id": "BRMS-20260414-01",
+      "event_type": "INVESTIGATION_OPENED",
+      "note": "First observed hard hit; prior unobserved history is not inferred."
+    },
+    {
+      "date": "2026-04-20",
+      "state": "EMERGING",
+      "investigation_id": "BRMS-20260420-01",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-04-20",
+      "state": "EMERGING",
+      "investigation_id": "BRMS-20260420-01",
+      "event_type": "INVESTIGATION_OPENED",
+      "note": "First observed hard hit; prior unobserved history is not inferred."
+    },
+    {
+      "date": "2026-04-21",
+      "state": "WEAKENING",
+      "investigation_id": "BRMS-20260420-01",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-07-20",
+      "state": "EMERGING",
+      "investigation_id": "BRMS-20260720-01",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-07-20",
+      "state": "EMERGING",
+      "investigation_id": "BRMS-20260720-01",
+      "event_type": "INVESTIGATION_OPENED",
+      "note": "First observed hard hit; prior unobserved history is not inferred."
+    },
+    {
+      "date": "2026-07-21",
+      "state": "DEVELOPING",
+      "investigation_id": "BRMS-20260720-01",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-07-23",
+      "state": "WEAKENING",
+      "investigation_id": "BRMS-20260720-01",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-07-24",
+      "state": "CLOSED",
+      "investigation_id": "BRMS-20260720-01",
+      "event_type": "INVESTIGATION_CLOSED",
+      "note": "TWO_UNSUPPORTED_SESSIONS"
+    },
+    {
+      "date": "2026-07-27",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    }
+  ],
+  "episodes": [
+    {
+      "investigation_id": "BRMS-20260414-01",
+      "opened_at": "2026-04-14",
+      "last_linked_at": "2026-04-14",
+      "closed": false,
+      "closed_at": null,
+      "close_reason": null,
+      "active_sessions": 1,
+      "hard_hits": 1,
+      "support_sessions": 1,
+      "peak_state": "EMERGING",
+      "open_context_scope": "NO_CONTEXT",
+      "max_evidence_confidence": 48.52
+    },
+    {
+      "investigation_id": "BRMS-20260420-01",
+      "opened_at": "2026-04-20",
+      "last_linked_at": "2026-04-21",
+      "closed": false,
+      "closed_at": null,
+      "close_reason": null,
+      "active_sessions": 2,
+      "hard_hits": 1,
+      "support_sessions": 1,
+      "peak_state": "EMERGING",
+      "open_context_scope": "NO_CONTEXT",
+      "max_evidence_confidence": 55.57
+    },
+    {
+      "investigation_id": "BRMS-20260720-01",
+      "opened_at": "2026-07-20",
+      "last_linked_at": "2026-07-24",
+      "closed": true,
+      "closed_at": "2026-07-24",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 4,
+      "hard_hits": 1,
+      "support_sessions": 3,
+      "peak_state": "DEVELOPING",
+      "open_context_scope": "NO_CONTEXT",
+      "max_evidence_confidence": 61.58
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "methodology_version": "phase1-json-pilot-2.0",
+  "as_of": "2026-09-30",
+  "identity": {
+    "symbol": "TLKM",
+    "company_name": null,
+    "peer_group": null
+  },
+  "current": {
+    "scope": "NO_CONTEXT",
+    "specificity_score": null,
+    "market_activity_breadth": null,
+    "market_activity_percentile": null,
+    "peer_activity_breadth": null,
+    "peer_activity_percentile": null,
+    "peer_count": 0,
+    "peer_context_quality": null,
+    "interpretation": "Market and peer specificity are not scored; this dataset covers 28 reviewed stocks only."
+  },
+  "daily_market": {},
+  "notes": [
+    "Dataset scope: 28 reviewed stocks. No full-market or peer-context score is computed."
+  ]
+}

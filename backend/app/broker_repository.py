@@ -33,14 +33,22 @@ class BrokerRepository(PayloadRepository):
                 codes.add(code)
                 for field in ('bval','sval','blot','slot','bfreq','sfreq','nval','nlot'):
                     value=row[field]
+                    if value is None and row.get('source_quality')=='BROKER_FIELDS_INCOMPLETE':
+                        continue
                     if isinstance(value,bool) or not isinstance(value,(int,float)) or not math.isfinite(value):
                         raise ValueError('Invalid number')
                     if field not in ('nval','nlot') and value < 0:
                         raise ValueError('Negative gross activity')
-                net=row['bval']-row['sval']
-                role='NET_BUY' if net>0 else 'NET_SELL' if net<0 else 'NET_FLAT'
-                if not math.isclose(net,row['nval'],rel_tol=1e-9,abs_tol=.01) or row['blot']-row['slot'] != row['nlot'] or row['net_role'] != role:
-                    raise ValueError('Inconsistent activity')
+                for buy,sell,netfield in [('bval','sval','nval'),('blot','slot','nlot')]:
+                    expected=row[buy]-row[sell] if row[buy] is not None and row[sell] is not None else None
+                    actual=row[netfield]
+                    if expected is None:
+                        if actual is not None: raise ValueError('Invented net')
+                    elif actual is None or not math.isclose(expected,actual,rel_tol=1e-9,abs_tol=.01):
+                        raise ValueError('Inconsistent net')
+                net=row['nval']
+                role='UNKNOWN' if net is None else 'NET_BUY' if net>0 else 'NET_SELL' if net<0 else 'NET_FLAT'
+                if row['net_role'] != role: raise ValueError('Inconsistent role')
         except (KeyError,TypeError,ValueError):
             raise BrokerDataUnavailableError() from None
         return payload

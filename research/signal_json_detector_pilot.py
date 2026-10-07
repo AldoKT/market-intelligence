@@ -4,14 +4,14 @@ from collections import defaultdict,Counter
 from pathlib import Path
 import pandas as pd
 from research import signal_detector_v0_2 as detector
-from research.phase1_json_reader import load_dataset,build
+from research.phase1_json_reader import load_dataset,build,SYMBOLS
 
-def run(directory, analysis_end='2026-09-30'):
-    dataset=load_dataset(directory)
+def run(directory, analysis_end='2026-09-30', symbols=SYMBOLS):
+    dataset=load_dataset(directory,symbols=symbols)
     groups=defaultdict(list)
     for row in dataset['broker_activity']:groups[row['symbol'],row['date']].append(row)
     foreign={(r['symbol'],r['date']):r for r in dataset['foreign_flow']}
-    baselines={(r['symbol'],r['date']):r for r in build(directory, analysis_end=analysis_end)['sessions']}
+    baselines={(r['symbol'],r['date']):r for r in build(directory, analysis_end=analysis_end,symbols=symbols)['sessions']}
     frames=defaultdict(list);reconciliation=[]
     for raw in sorted(dataset['daily'],key=lambda r:(r['symbol'],r['date'])):
         key=raw['symbol'],raw['date'];brokers=groups.get(key,[]);flow=foreign.get(key)

@@ -1,0 +1,244 @@
+{
+  "methodology_version": "phase1-json-pilot-valid-baseline-1.0",
+  "as_of": "2026-09-30",
+  "identity": {
+    "symbol": "CPIN",
+    "company_name": null,
+    "peer_group": null
+  },
+  "events": [
+    {
+      "date": "2026-07-21",
+      "state": "EMERGING",
+      "investigation_id": "CPIN-20260721-01",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-07-21",
+      "state": "EMERGING",
+      "investigation_id": "CPIN-20260721-01",
+      "event_type": "INVESTIGATION_OPENED",
+      "note": "First observed hard hit; prior unobserved history is not inferred."
+    },
+    {
+      "date": "2026-07-22",
+      "state": "WEAKENING",
+      "investigation_id": "CPIN-20260721-01",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-07-23",
+      "state": "CLOSED",
+      "investigation_id": "CPIN-20260721-01",
+      "event_type": "INVESTIGATION_CLOSED",
+      "note": "TWO_UNSUPPORTED_SESSIONS"
+    },
+    {
+      "date": "2026-07-24",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-08-10",
+      "state": "EMERGING",
+      "investigation_id": "CPIN-20260810-02",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-08-10",
+      "state": "EMERGING",
+      "investigation_id": "CPIN-20260810-02",
+      "event_type": "INVESTIGATION_OPENED",
+      "note": "First observed hard hit; prior unobserved history is not inferred."
+    },
+    {
+      "date": "2026-08-10",
+      "state": "EMERGING",
+      "investigation_id": "CPIN-20260810-02",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-08-11",
+      "state": "WEAKENING",
+      "investigation_id": "CPIN-20260810-02",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-08-12",
+      "state": "CLOSED",
+      "investigation_id": "CPIN-20260810-02",
+      "event_type": "INVESTIGATION_CLOSED",
+      "note": "TWO_UNSUPPORTED_SESSIONS"
+    },
+    {
+      "date": "2026-08-13",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-08-18",
+      "state": "EMERGING",
+      "investigation_id": "CPIN-20260818-03",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-08-18",
+      "state": "EMERGING",
+      "investigation_id": "CPIN-20260818-03",
+      "event_type": "INVESTIGATION_OPENED",
+      "note": "First observed hard hit; prior unobserved history is not inferred."
+    },
+    {
+      "date": "2026-08-18",
+      "state": "EMERGING",
+      "investigation_id": "CPIN-20260818-03",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-08-19",
+      "state": "WEAKENING",
+      "investigation_id": "CPIN-20260818-03",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-08-20",
+      "state": "CLOSED",
+      "investigation_id": "CPIN-20260818-03",
+      "event_type": "INVESTIGATION_CLOSED",
+      "note": "TWO_UNSUPPORTED_SESSIONS"
+    },
+    {
+      "date": "2026-08-21",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-08-27",
+      "state": "EMERGING",
+      "investigation_id": "CPIN-20260827-04",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-08-27",
+      "state": "EMERGING",
+      "investigation_id": "CPIN-20260827-04",
+      "event_type": "INVESTIGATION_OPENED",
+      "note": "First observed hard hit; prior unobserved history is not inferred."
+    },
+    {
+      "date": "2026-08-27",
+      "state": "EMERGING",
+      "investigation_id": "CPIN-20260827-04",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-08-28",
+      "state": "DEVELOPING",
+      "investigation_id": "CPIN-20260827-04",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-08-28",
+      "state": "DEVELOPING",
+      "investigation_id": "CPIN-20260827-04",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-08-31",
+      "state": "WEAKENING",
+      "investigation_id": "CPIN-20260827-04",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-09-01",
+      "state": "CLOSED",
+      "investigation_id": "CPIN-20260827-04",
+      "event_type": "INVESTIGATION_CLOSED",
+      "note": "TWO_UNSUPPORTED_SESSIONS"
+    },
+    {
+      "date": "2026-09-02",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    }
+  ],
+  "episodes": [
+    {
+      "investigation_id": "CPIN-20260721-01",
+      "opened_at": "2026-07-21",
+      "last_linked_at": "2026-07-23",
+      "closed": true,
+      "closed_at": "2026-07-23",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 2,
+      "hard_hits": 1,
+      "support_sessions": 1,
+      "peak_state": "EMERGING",
+      "open_context_scope": "NO_CONTEXT",
+      "max_evidence_confidence": 52.91
+    },
+    {
+      "investigation_id": "CPIN-20260810-02",
+      "opened_at": "2026-08-10",
+      "last_linked_at": "2026-08-12",
+      "closed": true,
+      "closed_at": "2026-08-12",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 2,
+      "hard_hits": 1,
+      "support_sessions": 1,
+      "peak_state": "EMERGING",
+      "open_context_scope": "NO_CONTEXT",
+      "max_evidence_confidence": 50.16
+    },
+    {
+      "investigation_id": "CPIN-20260818-03",
+      "opened_at": "2026-08-18",
+      "last_linked_at": "2026-08-20",
+      "closed": true,
+      "closed_at": "2026-08-20",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 2,
+      "hard_hits": 1,
+      "support_sessions": 1,
+      "peak_state": "EMERGING",
+      "open_context_scope": "NO_CONTEXT",
+      "max_evidence_confidence": 43.36
+    },
+    {
+      "investigation_id": "CPIN-20260827-04",
+      "opened_at": "2026-08-27",
+      "last_linked_at": "2026-09-01",
+      "closed": true,
+      "closed_at": "2026-09-01",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 3,
+      "hard_hits": 2,
+      "support_sessions": 2,
+      "peak_state": "DEVELOPING",
+      "open_context_scope": "NO_CONTEXT",
+      "max_evidence_confidence": 56.26
+    }
+  ]
+}

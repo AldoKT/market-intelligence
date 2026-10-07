@@ -1,14 +1,14 @@
 export interface BrokerRow {
   broker_code:string; broker_name:string|null; registry_status:string;
   broker_company_origin:string; cohort:string|null;
-  bval:number;sval:number;nval:number;blot:number;slot:number;nlot:number;bfreq:number;sfreq:number;
-  gross_value_idr:number;net_role:string;weighted_buy_price_per_share:number|null;weighted_sell_price_per_share:number|null;
+  bval:number|null;sval:number|null;nval:number|null;blot:number|null;slot:number|null;nlot:number|null;bfreq:number|null;sfreq:number|null;
+  gross_value_idr:number|null;net_role:string;weighted_buy_price_per_share:number|null;weighted_sell_price_per_share:number|null;
   buy_value_share_pct:number|null;sell_value_share_pct:number|null;observed_sessions:number;
   net_buy_sessions:number;net_sell_sessions:number;net_flat_sessions:number;
 }
 export interface BrokerQuality {status:string;scope_verified:boolean;broker_volume_shares:number|null;daily_volume_shares:number;buy_sell_balanced:boolean|null;}
 export interface BrokerSummary {
-  returned_broker_count:number;totals:Record<string,number>;top5_gross_buy_codes:string[];top5_gross_sell_codes:string[];
+  returned_broker_count:number;totals:Record<string,number|null>;top5_gross_buy_codes:string[];top5_gross_sell_codes:string[];
   top5_net_buy_codes:string[];top5_net_sell_codes:string[];top5_gross_buy_share_pct:number|null;top5_gross_sell_share_pct:number|null;
 }
 export interface BrokerHistoryPoint {

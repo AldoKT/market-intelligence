@@ -1,0 +1,153 @@
+{
+  "methodology_version": "phase1-json-pilot-2.0",
+  "as_of": "2026-09-30",
+  "identity": {
+    "symbol": "ICBP",
+    "company_name": null,
+    "peer_group": null
+  },
+  "events": [
+    {
+      "date": "2026-07-17",
+      "state": "EMERGING",
+      "investigation_id": "ICBP-20260717-01",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-07-17",
+      "state": "EMERGING",
+      "investigation_id": "ICBP-20260717-01",
+      "event_type": "INVESTIGATION_OPENED",
+      "note": "First observed hard hit; prior unobserved history is not inferred."
+    },
+    {
+      "date": "2026-07-20",
+      "state": "DEVELOPING",
+      "investigation_id": "ICBP-20260717-01",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-07-21",
+      "state": "WEAKENING",
+      "investigation_id": "ICBP-20260717-01",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-07-22",
+      "state": "CLOSED",
+      "investigation_id": "ICBP-20260717-01",
+      "event_type": "INVESTIGATION_CLOSED",
+      "note": "TWO_UNSUPPORTED_SESSIONS"
+    },
+    {
+      "date": "2026-07-23",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-07-24",
+      "state": "EMERGING",
+      "investigation_id": "ICBP-20260724-02",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-07-24",
+      "state": "EMERGING",
+      "investigation_id": "ICBP-20260724-02",
+      "event_type": "INVESTIGATION_OPENED",
+      "note": "First observed hard hit; prior unobserved history is not inferred."
+    },
+    {
+      "date": "2026-07-24",
+      "state": "EMERGING",
+      "investigation_id": "ICBP-20260724-02",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-07-27",
+      "state": "WEAKENING",
+      "investigation_id": "ICBP-20260724-02",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-07-28",
+      "state": "DEVELOPING",
+      "investigation_id": "ICBP-20260724-02",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-07-29",
+      "state": "WEAKENING",
+      "investigation_id": "ICBP-20260724-02",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-07-30",
+      "state": "DEVELOPING",
+      "investigation_id": "ICBP-20260724-02",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-07-31",
+      "state": "WEAKENING",
+      "investigation_id": "ICBP-20260724-02",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-08-03",
+      "state": "CLOSED",
+      "investigation_id": "ICBP-20260724-02",
+      "event_type": "INVESTIGATION_CLOSED",
+      "note": "TWO_UNSUPPORTED_SESSIONS"
+    },
+    {
+      "date": "2026-08-04",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    }
+  ],
+  "episodes": [
+    {
+      "investigation_id": "ICBP-20260717-01",
+      "opened_at": "2026-07-17",
+      "last_linked_at": "2026-07-22",
+      "closed": true,
+      "closed_at": "2026-07-22",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 3,
+      "hard_hits": 1,
+      "support_sessions": 2,
+      "peak_state": "DEVELOPING",
+      "open_context_scope": "NO_CONTEXT",
+      "max_evidence_confidence": 51.47
+    },
+    {
+      "investigation_id": "ICBP-20260724-02",
+      "opened_at": "2026-07-24",
+      "last_linked_at": "2026-08-03",
+      "closed": true,
+      "closed_at": "2026-08-03",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 6,
+      "hard_hits": 1,
+      "support_sessions": 3,
+      "peak_state": "DEVELOPING",
+      "open_context_scope": "NO_CONTEXT",
+      "max_evidence_confidence": 53.31
+    }
+  ]
+}

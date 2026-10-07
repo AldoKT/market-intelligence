@@ -1,0 +1,118 @@
+{
+  "methodology_version": "phase1-json-pilot-valid-baseline-1.0",
+  "as_of": "2026-09-30",
+  "identity": {
+    "symbol": "ADRO",
+    "company_name": null,
+    "peer_group": null
+  },
+  "events": [
+    {
+      "date": "2026-06-19",
+      "state": "EMERGING",
+      "investigation_id": "ADRO-20260619-01",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-06-19",
+      "state": "EMERGING",
+      "investigation_id": "ADRO-20260619-01",
+      "event_type": "INVESTIGATION_OPENED",
+      "note": "First observed hard hit; prior unobserved history is not inferred."
+    },
+    {
+      "date": "2026-06-22",
+      "state": "WEAKENING",
+      "investigation_id": "ADRO-20260619-01",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-06-23",
+      "state": "CLOSED",
+      "investigation_id": "ADRO-20260619-01",
+      "event_type": "INVESTIGATION_CLOSED",
+      "note": "TWO_UNSUPPORTED_SESSIONS"
+    },
+    {
+      "date": "2026-06-24",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-09-09",
+      "state": "EMERGING",
+      "investigation_id": "ADRO-20260909-02",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-09-09",
+      "state": "EMERGING",
+      "investigation_id": "ADRO-20260909-02",
+      "event_type": "INVESTIGATION_OPENED",
+      "note": "First observed hard hit; prior unobserved history is not inferred."
+    },
+    {
+      "date": "2026-09-09",
+      "state": "EMERGING",
+      "investigation_id": "ADRO-20260909-02",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-09-10",
+      "state": "WEAKENING",
+      "investigation_id": "ADRO-20260909-02",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-09-11",
+      "state": "CLOSED",
+      "investigation_id": "ADRO-20260909-02",
+      "event_type": "INVESTIGATION_CLOSED",
+      "note": "TWO_UNSUPPORTED_SESSIONS"
+    },
+    {
+      "date": "2026-09-14",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    }
+  ],
+  "episodes": [
+    {
+      "investigation_id": "ADRO-20260619-01",
+      "opened_at": "2026-06-19",
+      "last_linked_at": "2026-06-23",
+      "closed": true,
+      "closed_at": "2026-06-23",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 2,
+      "hard_hits": 1,
+      "support_sessions": 1,
+      "peak_state": "EMERGING",
+      "open_context_scope": "NO_CONTEXT",
+      "max_evidence_confidence": 65.49
+    },
+    {
+      "investigation_id": "ADRO-20260909-02",
+      "opened_at": "2026-09-09",
+      "last_linked_at": "2026-09-11",
+      "closed": true,
+      "closed_at": "2026-09-11",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 2,
+      "hard_hits": 1,
+      "support_sessions": 1,
+      "peak_state": "EMERGING",
+      "open_context_scope": "NO_CONTEXT",
+      "max_evidence_confidence": 46.21
+    }
+  ]
+}

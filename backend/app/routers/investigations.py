@@ -50,7 +50,7 @@ def list_investigations(
 
         if (
             active is not None
-            and bool(item.get("active")) != active
+            and item.get("active") is not active
         ):
             return False
 

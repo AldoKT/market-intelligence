@@ -3,3 +3,7 @@
 research/data/rework_phase1_v2/raw/json_pilot/** -text whitespace=cr-at-eol
 research/data/rework_phase1_v2/raw/oos_october_2026/** -text whitespace=cr-at-eol
 research/data/rework_phase1_v2/raw/broker_phase2_preview/** -text whitespace=cr-at-eol
+
+# Verified six-month expansion checkpoint archives.
+research/data/checkpoints/phase2_expansion28/*.zip binary
+research/data/checkpoints/phase2_expansion28/manifest.json -text whitespace=cr-at-eol

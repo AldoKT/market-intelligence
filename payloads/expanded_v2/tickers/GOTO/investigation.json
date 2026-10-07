@@ -1,0 +1,156 @@
+{
+  "methodology_version": "phase1-json-pilot-2.0",
+  "as_of": "2026-09-30",
+  "investigation_id": null,
+  "identity": {
+    "symbol": "GOTO",
+    "company_name": null,
+    "peer_group": null
+  },
+  "hypothesis": "Sideways Accumulation Watch",
+  "state": "UNKNOWN",
+  "active": null,
+  "opened_at": null,
+  "age_sessions": null,
+  "gates": {
+    "compression_pass": false,
+    "activity_pass": true,
+    "core_activity_pass": true,
+    "spot_hit": false
+  },
+  "confidence": {
+    "evidence_confidence": null,
+    "diagnostic_evidence_score": null,
+    "interpretation": "Evidence Confidence is displayed only while an investigation is active. It is not the probability that price will rise."
+  },
+  "persistence": {
+    "support_sessions_in_last_5": null,
+    "hard_hits_in_last_5": null,
+    "hard_hits_total_in_episode": null,
+    "support_sessions_total_in_episode": null,
+    "unsupported_streak": null,
+    "persistence_score": null
+  },
+  "metrics": {
+    "close": 32.0,
+    "compression_score": 0.0,
+    "current_5d_range_pct": 41.8605,
+    "baseline_5d_range_pct": 0.0,
+    "compression_ratio": null,
+    "activity_score": 100.0,
+    "relative_turnover": 60.7798,
+    "relative_volume": 94.9685,
+    "relative_transaction_count": 11.5054,
+    "relative_avg_trade_value": 7.1122,
+    "relative_top5_net_buy_share": 0.8115,
+    "foreign_net_to_turnover": 0.4965
+  },
+  "context": {
+    "scope": "NO_CONTEXT",
+    "specificity_score": null,
+    "market_activity_breadth": null,
+    "market_activity_percentile": null,
+    "peer_activity_breadth": null,
+    "peer_activity_percentile": null,
+    "peer_count": 0,
+    "peer_context_quality": null,
+    "interpretation": "Market and peer specificity are not scored; this dataset covers 28 reviewed stocks only."
+  },
+  "supporting_evidence": [
+    {
+      "evidence_id": "activity_anomaly",
+      "direction": "SUPPORTING",
+      "label": "Activity Anomaly",
+      "metric": "activity_score",
+      "value": null,
+      "baseline": null,
+      "relative": null,
+      "score": 100.0,
+      "note": "The hard Spot activity gate is satisfied."
+    },
+    {
+      "evidence_id": "relative_turnover",
+      "direction": "SUPPORTING",
+      "label": "Relative Turnover",
+      "metric": "relative_turnover",
+      "value": null,
+      "baseline": null,
+      "relative": 60.7798,
+      "score": null,
+      "note": "At or above 1.20x the stock's recent baseline."
+    },
+    {
+      "evidence_id": "relative_volume",
+      "direction": "SUPPORTING",
+      "label": "Relative Volume",
+      "metric": "relative_volume",
+      "value": null,
+      "baseline": null,
+      "relative": 94.9685,
+      "score": null,
+      "note": "At or above 1.20x the stock's recent baseline."
+    },
+    {
+      "evidence_id": "relative_transaction_count",
+      "direction": "SUPPORTING",
+      "label": "Relative Transaction Count",
+      "metric": "relative_transaction_count",
+      "value": null,
+      "baseline": null,
+      "relative": 11.5054,
+      "score": null,
+      "note": "At or above 1.20x the stock's recent baseline."
+    },
+    {
+      "evidence_id": "relative_avg_trade_value",
+      "direction": "SUPPORTING",
+      "label": "Relative Avg Trade Value",
+      "metric": "relative_avg_trade_value",
+      "value": null,
+      "baseline": null,
+      "relative": 7.1122,
+      "score": null,
+      "note": "At or above 1.20x the stock's recent baseline."
+    },
+    {
+      "evidence_id": "foreign_flow",
+      "direction": "SUPPORTING",
+      "label": "Foreign Flow",
+      "metric": "foreign_net_to_turnover",
+      "value": null,
+      "baseline": null,
+      "relative": 0.4965,
+      "score": null,
+      "note": "Foreign net flow is positive, used only as supporting context."
+    }
+  ],
+  "contradicting_evidence": [
+    {
+      "evidence_id": "price_compression",
+      "direction": "CONTRADICTING",
+      "label": "Price Compression",
+      "metric": "compression_score",
+      "value": 41.8605,
+      "baseline": 0.0,
+      "relative": null,
+      "score": 0.0,
+      "note": "Compression does not currently support a new hard Spot."
+    }
+  ],
+  "narrative_5w1h": {
+    "what": "Status belum diketahui; histori yang dapat dinilai belum menetapkan keadaan investigasi.",
+    "why": "Status belum diketahui; histori yang dapat dinilai belum menetapkan keadaan investigasi.",
+    "when": "Status belum diketahui; histori yang dapat dinilai belum menetapkan keadaan investigasi.",
+    "where": "Status belum diketahui; histori yang dapat dinilai belum menetapkan keadaan investigasi.",
+    "who": "Status belum diketahui; histori yang dapat dinilai belum menetapkan keadaan investigasi.",
+    "how": "Status belum diketahui; histori yang dapat dinilai belum menetapkan keadaan investigasi."
+  },
+  "look_ahead": [],
+  "guardrails": [
+    "This object describes an investigation, not a buy/sell recommendation.",
+    "Evidence Confidence is not a future-return probability.",
+    "Participant identity is not inferred from broker or trade-size statistics.",
+    "Context peer groups are research groupings, not authoritative exchange classifications.",
+    "Historical gaps are unknown; broker scope mismatch and incomplete prior windows block evaluation."
+  ]
+}

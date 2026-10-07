@@ -1,0 +1,118 @@
+{
+  "methodology_version": "phase1-json-pilot-valid-baseline-1.0",
+  "as_of": "2026-09-30",
+  "identity": {
+    "symbol": "NCKL",
+    "company_name": null,
+    "peer_group": null
+  },
+  "events": [
+    {
+      "date": "2026-04-16",
+      "state": "EMERGING",
+      "investigation_id": "NCKL-20260416-01",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-04-16",
+      "state": "EMERGING",
+      "investigation_id": "NCKL-20260416-01",
+      "event_type": "INVESTIGATION_OPENED",
+      "note": "First observed hard hit; prior unobserved history is not inferred."
+    },
+    {
+      "date": "2026-04-17",
+      "state": "WEAKENING",
+      "investigation_id": "NCKL-20260416-01",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-04-20",
+      "state": "CLOSED",
+      "investigation_id": "NCKL-20260416-01",
+      "event_type": "INVESTIGATION_CLOSED",
+      "note": "TWO_UNSUPPORTED_SESSIONS"
+    },
+    {
+      "date": "2026-04-21",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-09-07",
+      "state": "EMERGING",
+      "investigation_id": "NCKL-20260907-01",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-09-07",
+      "state": "EMERGING",
+      "investigation_id": "NCKL-20260907-01",
+      "event_type": "INVESTIGATION_OPENED",
+      "note": "First observed hard hit; prior unobserved history is not inferred."
+    },
+    {
+      "date": "2026-09-08",
+      "state": "DEVELOPING",
+      "investigation_id": "NCKL-20260907-01",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-09-09",
+      "state": "WEAKENING",
+      "investigation_id": "NCKL-20260907-01",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-09-10",
+      "state": "CLOSED",
+      "investigation_id": "NCKL-20260907-01",
+      "event_type": "INVESTIGATION_CLOSED",
+      "note": "TWO_UNSUPPORTED_SESSIONS"
+    },
+    {
+      "date": "2026-09-11",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    }
+  ],
+  "episodes": [
+    {
+      "investigation_id": "NCKL-20260416-01",
+      "opened_at": "2026-04-16",
+      "last_linked_at": "2026-04-20",
+      "closed": true,
+      "closed_at": "2026-04-20",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 2,
+      "hard_hits": 1,
+      "support_sessions": 1,
+      "peak_state": "EMERGING",
+      "open_context_scope": "NO_CONTEXT",
+      "max_evidence_confidence": 45.97
+    },
+    {
+      "investigation_id": "NCKL-20260907-01",
+      "opened_at": "2026-09-07",
+      "last_linked_at": "2026-09-10",
+      "closed": true,
+      "closed_at": "2026-09-10",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 3,
+      "hard_hits": 1,
+      "support_sessions": 2,
+      "peak_state": "DEVELOPING",
+      "open_context_scope": "NO_CONTEXT",
+      "max_evidence_confidence": 49.53
+    }
+  ]
+}

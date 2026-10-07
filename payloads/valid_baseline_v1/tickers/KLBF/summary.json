@@ -1,0 +1,216 @@
+{
+  "methodology_version": "phase1-json-pilot-valid-baseline-1.0",
+  "as_of": "2026-09-30",
+  "investigation": {
+    "methodology_version": "phase1-json-pilot-valid-baseline-1.0",
+    "as_of": "2026-09-30",
+    "investigation_id": null,
+    "identity": {
+      "symbol": "KLBF",
+      "company_name": null,
+      "peer_group": null
+    },
+    "hypothesis": "Sideways Accumulation Watch",
+    "state": "NO_INVESTIGATION",
+    "active": false,
+    "opened_at": null,
+    "age_sessions": 0,
+    "gates": {
+      "compression_pass": false,
+      "activity_pass": false,
+      "core_activity_pass": false,
+      "spot_hit": false
+    },
+    "confidence": {
+      "evidence_confidence": null,
+      "diagnostic_evidence_score": 14.1,
+      "interpretation": "Evidence Confidence is displayed only while an investigation is active. It is not the probability that price will rise."
+    },
+    "persistence": {
+      "support_sessions_in_last_5": 0,
+      "hard_hits_in_last_5": 0,
+      "hard_hits_total_in_episode": 0,
+      "support_sessions_total_in_episode": 0,
+      "unsupported_streak": 0,
+      "persistence_score": 0.0
+    },
+    "metrics": {
+      "close": 730.0,
+      "compression_score": 34.72,
+      "current_5d_range_pct": 6.8493,
+      "baseline_5d_range_pct": 7.1908,
+      "compression_ratio": 0.9525,
+      "activity_score": 0.0,
+      "relative_turnover": 0.9181,
+      "relative_volume": 0.9503,
+      "relative_transaction_count": 0.9428,
+      "relative_avg_trade_value": 0.9338,
+      "relative_top5_net_buy_share": 1.3148,
+      "foreign_net_to_turnover": -0.0717
+    },
+    "context": {
+      "scope": "NO_CONTEXT",
+      "specificity_score": null,
+      "market_activity_breadth": null,
+      "market_activity_percentile": null,
+      "peer_activity_breadth": null,
+      "peer_activity_percentile": null,
+      "peer_count": 0,
+      "peer_context_quality": null,
+      "interpretation": "Market and peer specificity are not scored; this dataset covers 28 reviewed stocks only."
+    },
+    "supporting_evidence": [],
+    "contradicting_evidence": [
+      {
+        "evidence_id": "price_compression",
+        "direction": "CONTRADICTING",
+        "label": "Price Compression",
+        "metric": "compression_score",
+        "value": 6.8493,
+        "baseline": 7.1908,
+        "relative": 0.9525,
+        "score": 34.72,
+        "note": "Compression does not currently support a new hard Spot."
+      },
+      {
+        "evidence_id": "activity_anomaly",
+        "direction": "CONTRADICTING",
+        "label": "Activity Anomaly",
+        "metric": "activity_score",
+        "value": null,
+        "baseline": null,
+        "relative": null,
+        "score": 0.0,
+        "note": "Activity is below the current continuation threshold."
+      },
+      {
+        "evidence_id": "relative_turnover",
+        "direction": "CONTRADICTING",
+        "label": "Relative Turnover",
+        "metric": "relative_turnover",
+        "value": null,
+        "baseline": null,
+        "relative": 0.9181,
+        "score": null,
+        "note": "Below 1.20x the stock's recent baseline."
+      },
+      {
+        "evidence_id": "relative_volume",
+        "direction": "CONTRADICTING",
+        "label": "Relative Volume",
+        "metric": "relative_volume",
+        "value": null,
+        "baseline": null,
+        "relative": 0.9503,
+        "score": null,
+        "note": "Below 1.20x the stock's recent baseline."
+      },
+      {
+        "evidence_id": "relative_transaction_count",
+        "direction": "CONTRADICTING",
+        "label": "Relative Transaction Count",
+        "metric": "relative_transaction_count",
+        "value": null,
+        "baseline": null,
+        "relative": 0.9428,
+        "score": null,
+        "note": "Below 1.20x the stock's recent baseline."
+      },
+      {
+        "evidence_id": "relative_avg_trade_value",
+        "direction": "CONTRADICTING",
+        "label": "Relative Avg Trade Value",
+        "metric": "relative_avg_trade_value",
+        "value": null,
+        "baseline": null,
+        "relative": 0.9338,
+        "score": null,
+        "note": "Below 1.20x the stock's recent baseline."
+      },
+      {
+        "evidence_id": "foreign_flow",
+        "direction": "CONTRADICTING",
+        "label": "Foreign Flow",
+        "metric": "foreign_net_to_turnover",
+        "value": null,
+        "baseline": null,
+        "relative": -0.0717,
+        "score": null,
+        "note": "Foreign net flow is negative; this is context, not a hard detector gate."
+      }
+    ],
+    "narrative_5w1h": {
+      "what": "No active Sideways Accumulation Watch investigation.",
+      "why": "The current session does not satisfy the hard Spot opening gate.",
+      "when": "Observation as of 2026-09-30.",
+      "where": "Research peer group: unmapped peer group; context scope: NO_CONTEXT.",
+      "who": "Participant identity is not inferred. Broker/flow statistics describe participation structure only.",
+      "how": "SIGNAL combines price compression, abnormal trading activity, lifecycle persistence, participation structure, foreign-flow context, and same-day market/peer context."
+    },
+    "look_ahead": [
+      {
+        "condition_id": "new_spot_compression",
+        "label": "Compression Score >= 55",
+        "current_status": "NOT_MET",
+        "note": "Current compression score: 34.72."
+      },
+      {
+        "condition_id": "new_spot_activity",
+        "label": "Activity Score >= 50",
+        "current_status": "NOT_MET",
+        "note": "Current activity score: 0.0."
+      },
+      {
+        "condition_id": "new_spot_core",
+        "label": "At least 2 core activity metrics >= 1.20x",
+        "current_status": "NOT_MET",
+        "note": "Current core-metric count: 0."
+      }
+    ],
+    "guardrails": [
+      "This object describes an investigation, not a buy/sell recommendation.",
+      "Evidence Confidence is not a future-return probability.",
+      "Participant identity is not inferred from broker or trade-size statistics.",
+      "Context peer groups are research groupings, not authoritative exchange classifications.",
+      "Historical gaps remain unknown; activity baseline uses 20 valid observations within 25 scheduled sessions; current invalid sessions block evaluation."
+    ]
+  },
+  "quality": {
+    "coverage": {
+      "daily": {
+        "missing_dates": []
+      },
+      "foreign_flow": {
+        "missing_dates": [
+          "2026-03-27",
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22"
+        ]
+      },
+      "broker_activity": {
+        "missing_dates": [
+          "2026-03-27",
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22"
+        ]
+      }
+    },
+    "analysis_sessions": 121,
+    "evaluated_sessions": 117,
+    "withheld_sessions": 4,
+    "missing_dates": [
+      "2026-03-27",
+      "2026-04-01",
+      "2026-04-15",
+      "2026-04-22"
+    ],
+    "broker_scope_mismatch_dates": [
+      "2026-05-29"
+    ],
+    "broker_completeness_attested": false,
+    "gap_policy": "Unknown/null; no zero-fill or synthetic close",
+    "context_scope": "PILOT_UNIVERSE_ONLY"
+  }
+}

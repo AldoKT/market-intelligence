@@ -72,7 +72,7 @@ export function OverviewPage() {
         (item) => (item.evidence_confidence ?? 0) >= 80
       ).length,
       persisting: data.active_investigations.filter(
-        (item) => item.persistence_hits >= 2
+        (item) => item.persistence_hits != null && item.persistence_hits >= 2
       ).length,
       newToday: data.active_investigations.filter(
         (item) => item.opened_at === data.as_of
@@ -210,7 +210,7 @@ export function OverviewPage() {
             icon={<BoltIcon />}
             label={pilot?"Saham pilot":<>Strong Signals<br /><span>(≥ 80)</span></>}
             value={pilot?data.kpis.pilot_symbols!:kpis.strong}
-            helper={pilot?"ANTM · INCO · BBCA":"high confidence"}
+            helper={pilot?`${data.kpis.pilot_symbols ?? 0} saham dalam cakupan`:"high confidence"}
             tone="positive"
           />
           <OverviewKpi

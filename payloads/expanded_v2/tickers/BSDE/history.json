@@ -1,0 +1,62 @@
+{
+  "methodology_version": "phase1-json-pilot-2.0",
+  "as_of": "2026-09-30",
+  "identity": {
+    "symbol": "BSDE",
+    "company_name": null,
+    "peer_group": null
+  },
+  "events": [
+    {
+      "date": "2026-08-05",
+      "state": "EMERGING",
+      "investigation_id": "BSDE-20260805-01",
+      "event_type": "SPOT_HIT",
+      "note": "Frozen detector hard gate passed on evaluated data."
+    },
+    {
+      "date": "2026-08-05",
+      "state": "EMERGING",
+      "investigation_id": "BSDE-20260805-01",
+      "event_type": "INVESTIGATION_OPENED",
+      "note": "First observed hard hit; prior unobserved history is not inferred."
+    },
+    {
+      "date": "2026-08-06",
+      "state": "WEAKENING",
+      "investigation_id": "BSDE-20260805-01",
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    },
+    {
+      "date": "2026-08-07",
+      "state": "CLOSED",
+      "investigation_id": "BSDE-20260805-01",
+      "event_type": "INVESTIGATION_CLOSED",
+      "note": "TWO_UNSUPPORTED_SESSIONS"
+    },
+    {
+      "date": "2026-08-10",
+      "state": "NO_INVESTIGATION",
+      "investigation_id": null,
+      "event_type": "STATE_CHANGE",
+      "note": "State change on contiguous evaluated sessions."
+    }
+  ],
+  "episodes": [
+    {
+      "investigation_id": "BSDE-20260805-01",
+      "opened_at": "2026-08-05",
+      "last_linked_at": "2026-08-07",
+      "closed": true,
+      "closed_at": "2026-08-07",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "active_sessions": 2,
+      "hard_hits": 1,
+      "support_sessions": 1,
+      "peak_state": "EMERGING",
+      "open_context_scope": "NO_CONTEXT",
+      "max_evidence_confidence": 49.01
+    }
+  ]
+}

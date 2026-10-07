@@ -13,7 +13,7 @@ const stateClass: Record<string, string> = {
 export function StatusBadge({ state }: { state: string | null }) {
   return (
     <span className={(state == null ? null : stateClass[state]) ?? "badge badge-muted"}>
-      {state == null ? "Belum dapat dinilai" : humanize(state)}
+      {state == null || state === "UNKNOWN" ? "Belum dapat dinilai" : humanize(state)}
     </span>
   );
 }

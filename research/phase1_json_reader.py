@@ -7,7 +7,7 @@ from statistics import median
 
 SYMBOLS = ('ANTM', 'INCO', 'BBCA')
 
-def load_dataset(directory):
+def load_dataset(directory, symbols=SYMBOLS):
     directory = Path(directory)
     dataset = {}
     for name in ('daily', 'foreign_flow', 'broker_activity', 'broker_registry'):
@@ -17,7 +17,7 @@ def load_dataset(directory):
     if len(keys) != len(set(keys)):
         raise ValueError('Duplicate daily key')
     for row in daily:
-        if row['symbol'] not in SYMBOLS:
+        if row['symbol'] not in symbols:
             raise ValueError('Unexpected pilot symbol')
         for field in ('open', 'high', 'low', 'close', 'volume'):
             value = row.get(field)
@@ -60,12 +60,12 @@ def price_baselines(rows):
         ranges.append(current)
     return result
 
-def build(directory, analysis_end='2026-09-30'):
-    dataset = load_dataset(directory)
+def build(directory, analysis_end='2026-09-30', symbols=SYMBOLS):
+    dataset = load_dataset(directory, symbols=symbols)
     result = []
     foreign_dates = {(r['symbol'], r['date']) for r in dataset['foreign_flow']}
     broker_dates = {(r['symbol'], r['date']) for r in dataset['broker_activity']}
-    for symbol in SYMBOLS:
+    for symbol in symbols:
         rows = [r for r in dataset['daily'] if r['symbol'] == symbol]
         for row in price_baselines(rows):
             if '2026-04-01' <= row['date'] <= analysis_end:

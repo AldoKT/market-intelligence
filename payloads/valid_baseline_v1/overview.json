@@ -1,0 +1,45 @@
+{
+  "methodology_version": "phase1-json-pilot-valid-baseline-1.0",
+  "as_of": "2026-09-30",
+  "headline": "Cakupan 28 saham; status yang belum diketahui tetap ditampilkan terpisah.",
+  "kpis": {
+    "pilot_symbols": 28,
+    "unknown_investigations": 3,
+    "active_investigations": 1,
+    "observed_episodes": 65,
+    "withheld_analysis_sessions": 117
+  },
+  "spotlight": {
+    "symbol": "BBCA",
+    "peer_group": null,
+    "state": "EMERGING",
+    "active": true,
+    "evidence_confidence": 52.6,
+    "context_scope": "NO_CONTEXT",
+    "context_specificity_score": null,
+    "relative_turnover": 2.0295,
+    "current_5d_range_pct": 3.6145,
+    "persistence_hits": 1,
+    "persistence_window": 5,
+    "opened_at": "2026-09-30",
+    "last_updated": "2026-09-30"
+  },
+  "active_investigations": [
+    {
+      "symbol": "BBCA",
+      "peer_group": null,
+      "state": "EMERGING",
+      "active": true,
+      "evidence_confidence": 52.6,
+      "context_scope": "NO_CONTEXT",
+      "context_specificity_score": null,
+      "relative_turnover": 2.0295,
+      "current_5d_range_pct": 3.6145,
+      "persistence_hits": 1,
+      "persistence_window": 5,
+      "opened_at": "2026-09-30",
+      "last_updated": "2026-09-30"
+    }
+  ],
+  "recent_changes": []
+}

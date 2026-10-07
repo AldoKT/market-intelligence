@@ -1,0 +1,156 @@
+{
+  "methodology_version": "phase1-json-pilot-2.0",
+  "as_of": "2026-09-30",
+  "investigation_id": null,
+  "identity": {
+    "symbol": "BMRI",
+    "company_name": null,
+    "peer_group": null
+  },
+  "hypothesis": "Sideways Accumulation Watch",
+  "state": "UNKNOWN",
+  "active": null,
+  "opened_at": null,
+  "age_sessions": null,
+  "gates": {
+    "compression_pass": true,
+    "activity_pass": false,
+    "core_activity_pass": true,
+    "spot_hit": false
+  },
+  "confidence": {
+    "evidence_confidence": null,
+    "diagnostic_evidence_score": null,
+    "interpretation": "Evidence Confidence is displayed only while an investigation is active. It is not the probability that price will rise."
+  },
+  "persistence": {
+    "support_sessions_in_last_5": null,
+    "hard_hits_in_last_5": null,
+    "hard_hits_total_in_episode": null,
+    "support_sessions_total_in_episode": null,
+    "unsupported_streak": null,
+    "persistence_score": null
+  },
+  "metrics": {
+    "close": 4010.0,
+    "compression_score": 64.17,
+    "current_5d_range_pct": 3.7221,
+    "baseline_5d_range_pct": 4.8232,
+    "compression_ratio": 0.7717,
+    "activity_score": 23.34,
+    "relative_turnover": 1.257,
+    "relative_volume": 1.3567,
+    "relative_transaction_count": 0.9474,
+    "relative_avg_trade_value": 1.3214,
+    "relative_top5_net_buy_share": 0.7875,
+    "foreign_net_to_turnover": -0.2981
+  },
+  "context": {
+    "scope": "NO_CONTEXT",
+    "specificity_score": null,
+    "market_activity_breadth": null,
+    "market_activity_percentile": null,
+    "peer_activity_breadth": null,
+    "peer_activity_percentile": null,
+    "peer_count": 0,
+    "peer_context_quality": null,
+    "interpretation": "Market and peer specificity are not scored; this dataset covers 28 reviewed stocks only."
+  },
+  "supporting_evidence": [
+    {
+      "evidence_id": "price_compression",
+      "direction": "SUPPORTING",
+      "label": "Price Compression",
+      "metric": "compression_score",
+      "value": 3.7221,
+      "baseline": 4.8232,
+      "relative": 0.7717,
+      "score": 64.17,
+      "note": "The hard Spot compression gate is satisfied."
+    },
+    {
+      "evidence_id": "relative_turnover",
+      "direction": "SUPPORTING",
+      "label": "Relative Turnover",
+      "metric": "relative_turnover",
+      "value": null,
+      "baseline": null,
+      "relative": 1.257,
+      "score": null,
+      "note": "At or above 1.20x the stock's recent baseline."
+    },
+    {
+      "evidence_id": "relative_volume",
+      "direction": "SUPPORTING",
+      "label": "Relative Volume",
+      "metric": "relative_volume",
+      "value": null,
+      "baseline": null,
+      "relative": 1.3567,
+      "score": null,
+      "note": "At or above 1.20x the stock's recent baseline."
+    },
+    {
+      "evidence_id": "relative_avg_trade_value",
+      "direction": "SUPPORTING",
+      "label": "Relative Avg Trade Value",
+      "metric": "relative_avg_trade_value",
+      "value": null,
+      "baseline": null,
+      "relative": 1.3214,
+      "score": null,
+      "note": "At or above 1.20x the stock's recent baseline."
+    }
+  ],
+  "contradicting_evidence": [
+    {
+      "evidence_id": "activity_anomaly",
+      "direction": "CONTRADICTING",
+      "label": "Activity Anomaly",
+      "metric": "activity_score",
+      "value": null,
+      "baseline": null,
+      "relative": null,
+      "score": 23.34,
+      "note": "Activity is below the current continuation threshold."
+    },
+    {
+      "evidence_id": "relative_transaction_count",
+      "direction": "CONTRADICTING",
+      "label": "Relative Transaction Count",
+      "metric": "relative_transaction_count",
+      "value": null,
+      "baseline": null,
+      "relative": 0.9474,
+      "score": null,
+      "note": "Below 1.20x the stock's recent baseline."
+    },
+    {
+      "evidence_id": "foreign_flow",
+      "direction": "CONTRADICTING",
+      "label": "Foreign Flow",
+      "metric": "foreign_net_to_turnover",
+      "value": null,
+      "baseline": null,
+      "relative": -0.2981,
+      "score": null,
+      "note": "Foreign net flow is negative; this is context, not a hard detector gate."
+    }
+  ],
+  "narrative_5w1h": {
+    "what": "Status belum diketahui; histori yang dapat dinilai belum menetapkan keadaan investigasi.",
+    "why": "Status belum diketahui; histori yang dapat dinilai belum menetapkan keadaan investigasi.",
+    "when": "Status belum diketahui; histori yang dapat dinilai belum menetapkan keadaan investigasi.",
+    "where": "Status belum diketahui; histori yang dapat dinilai belum menetapkan keadaan investigasi.",
+    "who": "Status belum diketahui; histori yang dapat dinilai belum menetapkan keadaan investigasi.",
+    "how": "Status belum diketahui; histori yang dapat dinilai belum menetapkan keadaan investigasi."
+  },
+  "look_ahead": [],
+  "guardrails": [
+    "This object describes an investigation, not a buy/sell recommendation.",
+    "Evidence Confidence is not a future-return probability.",
+    "Participant identity is not inferred from broker or trade-size statistics.",
+    "Context peer groups are research groupings, not authoritative exchange classifications.",
+    "Historical gaps are unknown; broker scope mismatch and incomplete prior windows block evaluation."
+  ]
+}

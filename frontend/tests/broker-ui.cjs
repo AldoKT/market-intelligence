@@ -38,3 +38,11 @@ const {BrokerNetChart}=load(root+'/src/components/BrokerNetChart.tsx');
 const markup=renderToStaticMarkup(React.createElement(BrokerNetChart,{history:{broker_code:'AA',series:sample}}));
 assert.match(markup,/Belum tersedia/);assert.match(markup,/bukan kumulatif/);assert.doesNotMatch(markup,/NaN|Infinity/);
 console.log('PASS: chart preserves date slots and null vs zero, signed domain/unit scaling, all-missing/zero domain, accessible rendered legend (11 assertions).');
+
+const unknown={broker_code:'ZZ',broker_name:null,nval:null,bval:null,sval:null,gross_value_idr:null,net_role:'UNKNOWN'};
+assert.equal(filterBrokers([...rows,unknown],'','ALL','nval',true).at(-1).broker_code,'ZZ');
+assert.equal(filterBrokers([...rows,unknown],'','ALL','nval',false).at(-1).broker_code,'ZZ');
+assert.equal(filterBrokers([unknown],'','NET_FLAT','nval',true).length,0);
+assert.equal(filterBrokers([unknown],'','UNKNOWN','nval',true).length,1);
+assert.match(brokerQualityLabel('BROKER_FIELDS_INCOMPLETE'),/belum lengkap/);
+console.log('PASS: null sorts last in both directions; unknown is separate from zero-net (5 assertions).');
