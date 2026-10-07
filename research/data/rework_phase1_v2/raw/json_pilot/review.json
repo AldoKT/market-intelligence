@@ -1,0 +1,125 @@
+{
+  "zip_file": "hasil.zip",
+  "zip_sha256": "b6d2d8b3b50581e295dc41542e85fc049a0c6bdce497dc1d2a34b44c787d0146",
+  "captured_requests": 68,
+  "http_200_requests": 68,
+  "captured_json_files": 68,
+  "additional_manual_files": 2,
+  "total_request_responses": 70,
+  "unique_rows": {
+    "daily": 468,
+    "foreign_flow": 456,
+    "broker_activity": 28782,
+    "broker_registry": 88
+  },
+  "validation_errors": [],
+  "conflicts": [],
+  "coverage": {
+    "ANTM": {
+      "daily": {
+        "sessions": 156,
+        "expected_sessions": 156,
+        "warmup_sessions": 35,
+        "analysis_sessions": 121,
+        "missing_dates": []
+      },
+      "foreign_flow": {
+        "sessions": 152,
+        "expected_sessions": 156,
+        "warmup_sessions": 34,
+        "analysis_sessions": 118,
+        "missing_dates": [
+          "2026-03-27",
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22"
+        ]
+      },
+      "broker_activity": {
+        "sessions": 152,
+        "expected_sessions": 156,
+        "warmup_sessions": 34,
+        "analysis_sessions": 118,
+        "missing_dates": [
+          "2026-03-27",
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22"
+        ]
+      }
+    },
+    "INCO": {
+      "daily": {
+        "sessions": 156,
+        "expected_sessions": 156,
+        "warmup_sessions": 35,
+        "analysis_sessions": 121,
+        "missing_dates": []
+      },
+      "foreign_flow": {
+        "sessions": 152,
+        "expected_sessions": 156,
+        "warmup_sessions": 34,
+        "analysis_sessions": 118,
+        "missing_dates": [
+          "2026-03-27",
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22"
+        ]
+      },
+      "broker_activity": {
+        "sessions": 152,
+        "expected_sessions": 156,
+        "warmup_sessions": 34,
+        "analysis_sessions": 118,
+        "missing_dates": [
+          "2026-03-27",
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22"
+        ]
+      }
+    },
+    "BBCA": {
+      "daily": {
+        "sessions": 156,
+        "expected_sessions": 156,
+        "warmup_sessions": 35,
+        "analysis_sessions": 121,
+        "missing_dates": []
+      },
+      "foreign_flow": {
+        "sessions": 152,
+        "expected_sessions": 156,
+        "warmup_sessions": 34,
+        "analysis_sessions": 118,
+        "missing_dates": [
+          "2026-03-27",
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22"
+        ]
+      },
+      "broker_activity": {
+        "sessions": 152,
+        "expected_sessions": 156,
+        "warmup_sessions": 34,
+        "analysis_sessions": 118,
+        "missing_dates": [
+          "2026-03-27",
+          "2026-04-01",
+          "2026-04-15",
+          "2026-04-22"
+        ]
+      }
+    }
+  },
+  "missing_table_sessions": 24,
+  "unbalanced_broker_sessions": 0,
+  "conservative_credit_reservation_total": 73,
+  "approved_credit_ceiling": 73,
+  "actual_credits": "Requires Sectors dashboard reconciliation; HTTP200 and local reservations are not proof of billed usage.",
+  "api_calls_during_audit": 0,
+  "parquet_written": false
+}

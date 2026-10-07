@@ -1,0 +1,122 @@
+[
+  {
+    "symbol": "ANTM",
+    "date": "2026-10-01",
+    "close": 3120,
+    "open": 3200,
+    "high": 3240,
+    "low": 3120,
+    "volume": 52025900,
+    "market_cap": 74975985942000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-10-02",
+    "close": 3140,
+    "open": 3120,
+    "high": 3170,
+    "low": 3110,
+    "volume": 27387000,
+    "market_cap": 75456601236500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-10-05",
+    "close": 3200,
+    "open": 3140,
+    "high": 3210,
+    "low": 3100,
+    "volume": 38818600,
+    "market_cap": 76898447120000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-10-06",
+    "close": 3250,
+    "open": 3200,
+    "high": 3260,
+    "low": 3180,
+    "volume": 47928200,
+    "market_cap": 78099985356250
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-10-01",
+    "close": 4130,
+    "open": 4220,
+    "high": 4270,
+    "low": 4100,
+    "volume": 14138200,
+    "market_cap": 43529310125420
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-10-02",
+    "close": 4170,
+    "open": 4140,
+    "high": 4230,
+    "low": 4130,
+    "volume": 5779600,
+    "market_cap": 43950901506780
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-10-05",
+    "close": 4300,
+    "open": 4200,
+    "high": 4300,
+    "low": 4170,
+    "volume": 9208500,
+    "market_cap": 45321073496200
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-10-06",
+    "close": 4320,
+    "open": 4300,
+    "high": 4320,
+    "low": 4260,
+    "volume": 9706500,
+    "market_cap": 45531869186880
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-10-01",
+    "close": 6000,
+    "open": 6050,
+    "high": 6150,
+    "low": 6000,
+    "volume": 118044900,
+    "market_cap": 732253797000000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-10-02",
+    "close": 6100,
+    "open": 6000,
+    "high": 6150,
+    "low": 5975,
+    "volume": 131920300,
+    "market_cap": 744458026950000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-10-05",
+    "close": 6175,
+    "open": 6100,
+    "high": 6175,
+    "low": 6075,
+    "volume": 89905700,
+    "market_cap": 753611199412500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-10-06",
+    "close": 6100,
+    "open": 6175,
+    "high": 6200,
+    "low": 6100,
+    "volume": 152173400,
+    "market_cap": 744458026950000
+  }
+]

@@ -1,0 +1,80 @@
+{
+  "status": "PASS",
+  "checked_at": "2026-10-06T14:59:54.097595+00:00",
+  "source_sha256": {
+    "daily": "aa3facfff3f66258f3dd911dfb6a0209183383a655d7eef04d4036aaead68950",
+    "foreign_flow": "d6b4f19a117c34e7d5eb6b23c63c618a324c52f450f982c3d764fd1aaafc09ac",
+    "broker_activity": "ff4008252ef0269d5747d1f6b4156d1b62c3ae71dfe39765cb97a8ebb4f7709e",
+    "broker_registry": "07549aab92306d8e0cf8c02c03110a9b7fe74ff4e0b00177844e3835885c3e7f"
+  },
+  "payload_files_compared": [
+    "investigations.json",
+    "manifest.json",
+    "methodology.json",
+    "overview.json",
+    "tickers/ANTM/activity.json",
+    "tickers/ANTM/context.json",
+    "tickers/ANTM/history.json",
+    "tickers/ANTM/investigation.json",
+    "tickers/ANTM/summary.json",
+    "tickers/BBCA/activity.json",
+    "tickers/BBCA/context.json",
+    "tickers/BBCA/history.json",
+    "tickers/BBCA/investigation.json",
+    "tickers/BBCA/summary.json",
+    "tickers/INCO/activity.json",
+    "tickers/INCO/context.json",
+    "tickers/INCO/history.json",
+    "tickers/INCO/investigation.json",
+    "tickers/INCO/summary.json"
+  ],
+  "ignored_comparison_fields": [
+    "manifest.generated_at"
+  ],
+  "detector": {
+    "ANTM": {
+      "analysis_sessions": 121,
+      "evaluated": 65,
+      "not_evaluated": 56,
+      "spot_hits": 2
+    },
+    "BBCA": {
+      "analysis_sessions": 121,
+      "evaluated": 65,
+      "not_evaluated": 56,
+      "spot_hits": 2
+    },
+    "INCO": {
+      "analysis_sessions": 121,
+      "evaluated": 65,
+      "not_evaluated": 56,
+      "spot_hits": 3
+    }
+  },
+  "lifecycle": {
+    "ANTM": {
+      "episodes": 2,
+      "data_gap_sessions": 56,
+      "initial_state_unknown_sessions": 16,
+      "latest_date": "2026-09-30",
+      "latest_state": "NO_INVESTIGATION"
+    },
+    "BBCA": {
+      "episodes": 2,
+      "data_gap_sessions": 56,
+      "initial_state_unknown_sessions": 41,
+      "latest_date": "2026-09-30",
+      "latest_state": "EMERGING"
+    },
+    "INCO": {
+      "episodes": 2,
+      "data_gap_sessions": 56,
+      "initial_state_unknown_sessions": 17,
+      "latest_date": "2026-09-30",
+      "latest_state": "NO_INVESTIGATION"
+    }
+  },
+  "api_calls": 0,
+  "approved_payloads_overwritten": false,
+  "scope": "Fixed Sep30 pilot; no full-market or out-of-sample validation claim."
+}

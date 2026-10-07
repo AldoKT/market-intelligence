@@ -1,0 +1,205 @@
+{
+  "status": "DRAFT_NOT_APPROVED_NOT_EXECUTABLE",
+  "purpose": "Initial technical out-of-sample audit before Broker Phase2; not predictive validation completion.",
+  "analysis_start": "2026-10-01",
+  "analysis_end": "2026-10-06",
+  "as_of": "2026-10-06",
+  "scheduled_oos_sessions_per_symbol": 4,
+  "baseline_reuse": {
+    "source": "approved existing JSON",
+    "preceding_sessions": 24,
+    "start": "2026-08-28",
+    "end": "2026-09-30",
+    "dates": [
+      "2026-08-28",
+      "2026-08-31",
+      "2026-09-01",
+      "2026-09-02",
+      "2026-09-03",
+      "2026-09-04",
+      "2026-09-07",
+      "2026-09-08",
+      "2026-09-09",
+      "2026-09-10",
+      "2026-09-11",
+      "2026-09-14",
+      "2026-09-15",
+      "2026-09-16",
+      "2026-09-17",
+      "2026-09-18",
+      "2026-09-21",
+      "2026-09-22",
+      "2026-09-23",
+      "2026-09-24",
+      "2026-09-25",
+      "2026-09-28",
+      "2026-09-29",
+      "2026-09-30"
+    ]
+  },
+  "request_count": 9,
+  "estimated_total_credits": 9,
+  "credit_unit_assumption": "1 credit/request based on prior observed usage; confirm current account billing before approval. Not an actual billing statement.",
+  "requests": [
+    {
+      "request_id": "49d39cda3a0161712b8ff9dcf263c8c769bae6668a4472b18c9924ad8e8c9437",
+      "method": "GET",
+      "url": "https://api.sectors.app/v2/daily/ANTM/?start=2026-10-01&end=2026-10-06",
+      "symbol": "ANTM",
+      "endpoint": "daily",
+      "start": "2026-10-01",
+      "end": "2026-10-06",
+      "expected_scheduled_dates": [
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06"
+      ],
+      "estimated_credits": 1,
+      "execute": false
+    },
+    {
+      "request_id": "524df19350ac382d9cf33f4e4fa6941512525f62256d9f70bb93b4573733ec75",
+      "method": "GET",
+      "url": "https://api.sectors.app/v2/foreign-flow/ANTM/?start=2026-10-01&end=2026-10-06",
+      "symbol": "ANTM",
+      "endpoint": "foreign-flow",
+      "start": "2026-10-01",
+      "end": "2026-10-06",
+      "expected_scheduled_dates": [
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06"
+      ],
+      "estimated_credits": 1,
+      "execute": false
+    },
+    {
+      "request_id": "4d7808e49392a252ff509ae44e38ab2e176cfa6cbcb2514e9a787832732f95ee",
+      "method": "GET",
+      "url": "https://api.sectors.app/v2/broker-summary/ANTM/?start=2026-10-01&end=2026-10-06",
+      "symbol": "ANTM",
+      "endpoint": "broker-summary",
+      "start": "2026-10-01",
+      "end": "2026-10-06",
+      "expected_scheduled_dates": [
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06"
+      ],
+      "estimated_credits": 1,
+      "execute": false
+    },
+    {
+      "request_id": "b7c0fe197b8eef044425ccb6bef3f27a91acda0f7d3b5ddae7069430fdce18ef",
+      "method": "GET",
+      "url": "https://api.sectors.app/v2/daily/INCO/?start=2026-10-01&end=2026-10-06",
+      "symbol": "INCO",
+      "endpoint": "daily",
+      "start": "2026-10-01",
+      "end": "2026-10-06",
+      "expected_scheduled_dates": [
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06"
+      ],
+      "estimated_credits": 1,
+      "execute": false
+    },
+    {
+      "request_id": "d98d10d051ea4af184afec586d849c7790e4d0d4acd4b7d766dfce243f19afd9",
+      "method": "GET",
+      "url": "https://api.sectors.app/v2/foreign-flow/INCO/?start=2026-10-01&end=2026-10-06",
+      "symbol": "INCO",
+      "endpoint": "foreign-flow",
+      "start": "2026-10-01",
+      "end": "2026-10-06",
+      "expected_scheduled_dates": [
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06"
+      ],
+      "estimated_credits": 1,
+      "execute": false
+    },
+    {
+      "request_id": "e14d1816ee76ea979be8d1336c7084a026c068ff4da8a0b9b47cfeb9e6631958",
+      "method": "GET",
+      "url": "https://api.sectors.app/v2/broker-summary/INCO/?start=2026-10-01&end=2026-10-06",
+      "symbol": "INCO",
+      "endpoint": "broker-summary",
+      "start": "2026-10-01",
+      "end": "2026-10-06",
+      "expected_scheduled_dates": [
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06"
+      ],
+      "estimated_credits": 1,
+      "execute": false
+    },
+    {
+      "request_id": "c0df4b20992626111f3b4d98bfb8d1bf9e2006f7a8702b9de7c37b669b359c8a",
+      "method": "GET",
+      "url": "https://api.sectors.app/v2/daily/BBCA/?start=2026-10-01&end=2026-10-06",
+      "symbol": "BBCA",
+      "endpoint": "daily",
+      "start": "2026-10-01",
+      "end": "2026-10-06",
+      "expected_scheduled_dates": [
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06"
+      ],
+      "estimated_credits": 1,
+      "execute": false
+    },
+    {
+      "request_id": "37ae9f20022f6d1176d3edb4146f2bb119ccca938f200007f8435ec5f688ffcd",
+      "method": "GET",
+      "url": "https://api.sectors.app/v2/foreign-flow/BBCA/?start=2026-10-01&end=2026-10-06",
+      "symbol": "BBCA",
+      "endpoint": "foreign-flow",
+      "start": "2026-10-01",
+      "end": "2026-10-06",
+      "expected_scheduled_dates": [
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06"
+      ],
+      "estimated_credits": 1,
+      "execute": false
+    },
+    {
+      "request_id": "edba36b6fd1fec360d33152d99456f458d0ab9bca8e46be03848f6cd6071b786",
+      "method": "GET",
+      "url": "https://api.sectors.app/v2/broker-summary/BBCA/?start=2026-10-01&end=2026-10-06",
+      "symbol": "BBCA",
+      "endpoint": "broker-summary",
+      "start": "2026-10-01",
+      "end": "2026-10-06",
+      "expected_scheduled_dates": [
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06"
+      ],
+      "estimated_credits": 1,
+      "execute": false
+    }
+  ],
+  "approval": null,
+  "automatic_retries": false,
+  "credentials_read": false,
+  "requests_sent": 0,
+  "excluded_requests": "No blind repeat of the 24 historical gaps or May29; source-scope evidence is needed first.",
+  "outcome_limit": "Four scheduled OOS sessions cannot mature any event starting Oct1 under a five-subsequent-session horizon; keep right-censored, not failure.",
+  "plan_sha256": "f85e6eed132586685767fd063c8f6dbafb861456f694e8f86eac283240fcc72b"
+}

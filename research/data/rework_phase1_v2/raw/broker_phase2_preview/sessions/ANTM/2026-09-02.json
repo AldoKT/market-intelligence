@@ -1,0 +1,77 @@
+{
+  "symbol": "ANTM",
+  "date": "2026-09-02",
+  "quality": {
+    "status": "RECONCILED_RESEARCH_CANDIDATE",
+    "scope_verified": false,
+    "broker_volume_shares": 99650500,
+    "daily_volume_shares": 99650500,
+    "buy_sell_balanced": true
+  },
+  "signal_context": {
+    "spot_hit": false,
+    "evaluation_status": "EVALUATED_RESEARCH_CANDIDATE",
+    "lifecycle_state_v2": "NO_INVESTIGATION",
+    "investigation_id": null,
+    "supporting_session_v2": true
+  },
+  "brokers": [
+    {
+      "broker_code": "--",
+      "broker_name": null,
+      "registry_status": "UNLISTED_CODE",
+      "broker_company_origin": "UNKNOWN",
+      "cohort": null,
+      "bval": 302805912000,
+      "sval": 302805912000,
+      "blot": 996505,
+      "slot": 996505,
+      "bfreq": 31383,
+      "sfreq": 31383,
+      "buy_shares": 99650500,
+      "sell_shares": 99650500,
+      "nval": 0,
+      "nlot": 0,
+      "net_shares": 0,
+      "gross_value_idr": 605611824000,
+      "net_role": "NET_FLAT",
+      "weighted_buy_price_per_share": 3038.6793041680676,
+      "weighted_sell_price_per_share": 3038.6793041680676,
+      "buy_value_share_pct": 100.0,
+      "sell_value_share_pct": 100.0,
+      "observed_sessions": 1,
+      "net_buy_sessions": 0,
+      "net_sell_sessions": 0,
+      "net_flat_sessions": 1,
+      "first_observed_date": "2026-09-02",
+      "last_observed_date": "2026-09-02"
+    }
+  ],
+  "summary": {
+    "returned_broker_count": 1,
+    "totals": {
+      "bval": 302805912000,
+      "sval": 302805912000,
+      "blot": 996505,
+      "slot": 996505,
+      "bfreq": 31383,
+      "sfreq": 31383
+    },
+    "top5_gross_buy_codes": [
+      "--"
+    ],
+    "top5_gross_sell_codes": [
+      "--"
+    ],
+    "top5_net_buy_codes": [],
+    "top5_net_sell_codes": [],
+    "top5_gross_buy_share_pct": 100.0,
+    "top5_gross_sell_share_pct": 100.0,
+    "role_counts": {
+      "NET_FLAT": 1
+    },
+    "interpretation": "Descriptive shares of returned broker activity; no investor identity or inferred accumulation signal."
+  },
+  "all_returned_brokers_included": true,
+  "source_completeness": "All returned rows retained; independent source completeness unverified."
+}

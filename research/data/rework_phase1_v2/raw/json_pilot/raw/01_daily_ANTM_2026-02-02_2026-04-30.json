@@ -1,0 +1,562 @@
+[
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-02-02",
+        "close": 3810,
+        "open": 3800,
+        "high": 3920,
+        "low": 3610,
+        "volume": 388915700,
+        "market_cap": 91557213602250
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-02-03",
+        "close": 3930,
+        "open": 4000,
+        "high": 4050,
+        "low": 3810,
+        "volume": 203197400,
+        "market_cap": 94440905369250
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-02-04",
+        "close": 3990,
+        "open": 3980,
+        "high": 4130,
+        "low": 3960,
+        "volume": 215322600,
+        "market_cap": 95882751252750
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-02-05",
+        "close": 3810,
+        "open": 3980,
+        "high": 4000,
+        "low": 3810,
+        "volume": 201930600,
+        "market_cap": 91557213602250
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-02-06",
+        "close": 3710,
+        "open": 3730,
+        "high": 3840,
+        "low": 3680,
+        "volume": 182489100,
+        "market_cap": 89154137129750
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-02-09",
+        "close": 3890,
+        "open": 3800,
+        "high": 3900,
+        "low": 3790,
+        "volume": 146110600,
+        "market_cap": 93479674780250
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-02-10",
+        "close": 3890,
+        "open": 3900,
+        "high": 3950,
+        "low": 3850,
+        "volume": 114039900,
+        "market_cap": 93479674780250
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-02-11",
+        "close": 3990,
+        "open": 3890,
+        "high": 4020,
+        "low": 3870,
+        "volume": 143161900,
+        "market_cap": 95882751252750
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-02-12",
+        "close": 4120,
+        "open": 4030,
+        "high": 4280,
+        "low": 4000,
+        "volume": 225356100,
+        "market_cap": 99006750667000
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-02-13",
+        "close": 4050,
+        "open": 4050,
+        "high": 4140,
+        "low": 4000,
+        "volume": 140456700,
+        "market_cap": 97324597136250
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-02-18",
+        "close": 4050,
+        "open": 4030,
+        "high": 4100,
+        "low": 3950,
+        "volume": 73672200,
+        "market_cap": 97324597136250
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-02-19",
+        "close": 4230,
+        "open": 4050,
+        "high": 4300,
+        "low": 4050,
+        "volume": 181438200,
+        "market_cap": 101650134786750
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-02-20",
+        "close": 4220,
+        "open": 4260,
+        "high": 4330,
+        "low": 4170,
+        "volume": 123609900,
+        "market_cap": 101409827139500
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-02-23",
+        "close": 4390,
+        "open": 4320,
+        "high": 4440,
+        "low": 4290,
+        "volume": 154318700,
+        "market_cap": 105495057142750
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-02-24",
+        "close": 4380,
+        "open": 4440,
+        "high": 4550,
+        "low": 4370,
+        "volume": 166385100,
+        "market_cap": 105254749495500
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-02-25",
+        "close": 4460,
+        "open": 4400,
+        "high": 4500,
+        "low": 4340,
+        "volume": 103583700,
+        "market_cap": 107177210673500
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-02-26",
+        "close": 4330,
+        "open": 4470,
+        "high": 4480,
+        "low": 4270,
+        "volume": 99948100,
+        "market_cap": 104053211259250
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-02-27",
+        "close": 4350,
+        "open": 4330,
+        "high": 4370,
+        "low": 4230,
+        "volume": 80407900,
+        "market_cap": 104533826553750
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-03-02",
+        "close": 4610,
+        "open": 4500,
+        "high": 4650,
+        "low": 4480,
+        "volume": 212481100,
+        "market_cap": 110781825382250
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-03-03",
+        "close": 4410,
+        "open": 4610,
+        "high": 4630,
+        "low": 4400,
+        "volume": 149780600,
+        "market_cap": 105975672437250
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-03-04",
+        "close": 4050,
+        "open": 4340,
+        "high": 4340,
+        "low": 3970,
+        "volume": 227575600,
+        "market_cap": 97324597136250
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-03-05",
+        "close": 4130,
+        "open": 4150,
+        "high": 4230,
+        "low": 4110,
+        "volume": 71423400,
+        "market_cap": 99247058314250
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-03-06",
+        "close": 4040,
+        "open": 4130,
+        "high": 4150,
+        "low": 4000,
+        "volume": 59681800,
+        "market_cap": 97084289489000
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-03-09",
+        "close": 3820,
+        "open": 3920,
+        "high": 3920,
+        "low": 3660,
+        "volume": 173997700,
+        "market_cap": 91797521249500
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-03-10",
+        "close": 4020,
+        "open": 3950,
+        "high": 4080,
+        "low": 3900,
+        "volume": 97669800,
+        "market_cap": 96603674194500
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-03-11",
+        "close": 3970,
+        "open": 4040,
+        "high": 4090,
+        "low": 3950,
+        "volume": 48240500,
+        "market_cap": 95402135958250
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-03-12",
+        "close": 3890,
+        "open": 3920,
+        "high": 3930,
+        "low": 3830,
+        "volume": 73154200,
+        "market_cap": 93479674780250
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-03-13",
+        "close": 3810,
+        "open": 3820,
+        "high": 3930,
+        "low": 3770,
+        "volume": 64088000,
+        "market_cap": 91557213602250
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-03-16",
+        "close": 3640,
+        "open": 3690,
+        "high": 3730,
+        "low": 3590,
+        "volume": 111081300,
+        "market_cap": 87471983599000
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-03-17",
+        "close": 3750,
+        "open": 3670,
+        "high": 3900,
+        "low": 3670,
+        "volume": 114095000,
+        "market_cap": 90115367718750
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-03-25",
+        "close": 3620,
+        "open": 3660,
+        "high": 3720,
+        "low": 3580,
+        "volume": 151645700,
+        "market_cap": 86991368304500
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-03-26",
+        "close": 3430,
+        "open": 3620,
+        "high": 3660,
+        "low": 3420,
+        "volume": 119229100,
+        "market_cap": 82425523006750
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-03-27",
+        "close": 3500,
+        "open": 3350,
+        "high": 3590,
+        "low": 3350,
+        "volume": 91494700,
+        "market_cap": 84107676537500
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-03-30",
+        "close": 3500,
+        "open": 3450,
+        "high": 3550,
+        "low": 3390,
+        "volume": 60550100,
+        "market_cap": 84107676537500
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-03-31",
+        "close": 3500,
+        "open": 3540,
+        "high": 3620,
+        "low": 3430,
+        "volume": 99833000,
+        "market_cap": 84107676537500
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-04-01",
+        "close": 3710,
+        "open": 3620,
+        "high": 3760,
+        "low": 3570,
+        "volume": 140581600,
+        "market_cap": 89154137129750
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-04-02",
+        "close": 3640,
+        "open": 3680,
+        "high": 3690,
+        "low": 3590,
+        "volume": 71715300,
+        "market_cap": 87471983599000
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-04-06",
+        "close": 3650,
+        "open": 3640,
+        "high": 3650,
+        "low": 3570,
+        "volume": 41205300,
+        "market_cap": 87712291246250
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-04-07",
+        "close": 3470,
+        "open": 3620,
+        "high": 3630,
+        "low": 3450,
+        "volume": 129423300,
+        "market_cap": 83386753595750
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-04-08",
+        "close": 3740,
+        "open": 3630,
+        "high": 3750,
+        "low": 3580,
+        "volume": 157473100,
+        "market_cap": 89875060071500
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-04-09",
+        "close": 3750,
+        "open": 3680,
+        "high": 3800,
+        "low": 3630,
+        "volume": 129289900,
+        "market_cap": 90115367718750
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-04-10",
+        "close": 3710,
+        "open": 3780,
+        "high": 3790,
+        "low": 3700,
+        "volume": 65131200,
+        "market_cap": 89154137129750
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-04-13",
+        "close": 3750,
+        "open": 3690,
+        "high": 3780,
+        "low": 3630,
+        "volume": 88027100,
+        "market_cap": 90115367718750
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-04-14",
+        "close": 3900,
+        "open": 3770,
+        "high": 3940,
+        "low": 3730,
+        "volume": 125422900,
+        "market_cap": 93719982427500
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-04-15",
+        "close": 3940,
+        "open": 3990,
+        "high": 4000,
+        "low": 3890,
+        "volume": 96315100,
+        "market_cap": 94681213016500
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-04-16",
+        "close": 4060,
+        "open": 3980,
+        "high": 4140,
+        "low": 3940,
+        "volume": 139830400,
+        "market_cap": 97564904783500
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-04-17",
+        "close": 4070,
+        "open": 4060,
+        "high": 4090,
+        "low": 3970,
+        "volume": 69561300,
+        "market_cap": 97805212430750
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-04-20",
+        "close": 4010,
+        "open": 4060,
+        "high": 4150,
+        "low": 4000,
+        "volume": 57759300,
+        "market_cap": 96363366547250
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-04-21",
+        "close": 4030,
+        "open": 4010,
+        "high": 4090,
+        "low": 3980,
+        "volume": 48530300,
+        "market_cap": 96843981841750
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-04-22",
+        "close": 4100,
+        "open": 4030,
+        "high": 4150,
+        "low": 4030,
+        "volume": 81890600,
+        "market_cap": 98526135372500
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-04-23",
+        "close": 4020,
+        "open": 4150,
+        "high": 4160,
+        "low": 4000,
+        "volume": 65595800,
+        "market_cap": 96603674194500
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-04-24",
+        "close": 4050,
+        "open": 3990,
+        "high": 4080,
+        "low": 3960,
+        "volume": 79334000,
+        "market_cap": 97324597136250
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-04-27",
+        "close": 4120,
+        "open": 4100,
+        "high": 4180,
+        "low": 4060,
+        "volume": 97987200,
+        "market_cap": 99006750667000
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-04-28",
+        "close": 4040,
+        "open": 4120,
+        "high": 4290,
+        "low": 3940,
+        "volume": 171366200,
+        "market_cap": 97084289489000
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-04-29",
+        "close": 3880,
+        "open": 4000,
+        "high": 4000,
+        "low": 3880,
+        "volume": 93317900,
+        "market_cap": 93239367133000
+    },
+    {
+        "symbol": "ANTM.JK",
+        "date": "2026-04-30",
+        "close": 3740,
+        "open": 3900,
+        "high": 3910,
+        "low": 3600,
+        "volume": 212842500,
+        "market_cap": 89875060071500
+    }
+]

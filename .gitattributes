@@ -1,0 +1,5 @@
+
+# Audited data hashes refer to exact bytes; never convert JSON line endings.
+research/data/rework_phase1_v2/raw/json_pilot/** -text whitespace=cr-at-eol
+research/data/rework_phase1_v2/raw/oos_october_2026/** -text whitespace=cr-at-eol
+research/data/rework_phase1_v2/raw/broker_phase2_preview/** -text whitespace=cr-at-eol

@@ -1,0 +1,4802 @@
+[
+  {
+    "symbol": "ANTM",
+    "date": "2026-02-02",
+    "close": 3810,
+    "open": 3800,
+    "high": 3920,
+    "low": 3610,
+    "volume": 388915700,
+    "market_cap": 91557213602250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-02-03",
+    "close": 3930,
+    "open": 4000,
+    "high": 4050,
+    "low": 3810,
+    "volume": 203197400,
+    "market_cap": 94440905369250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-02-04",
+    "close": 3990,
+    "open": 3980,
+    "high": 4130,
+    "low": 3960,
+    "volume": 215322600,
+    "market_cap": 95882751252750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-02-05",
+    "close": 3810,
+    "open": 3980,
+    "high": 4000,
+    "low": 3810,
+    "volume": 201930600,
+    "market_cap": 91557213602250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-02-06",
+    "close": 3710,
+    "open": 3730,
+    "high": 3840,
+    "low": 3680,
+    "volume": 182489100,
+    "market_cap": 89154137129750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-02-09",
+    "close": 3890,
+    "open": 3800,
+    "high": 3900,
+    "low": 3790,
+    "volume": 146110600,
+    "market_cap": 93479674780250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-02-10",
+    "close": 3890,
+    "open": 3900,
+    "high": 3950,
+    "low": 3850,
+    "volume": 114039900,
+    "market_cap": 93479674780250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-02-11",
+    "close": 3990,
+    "open": 3890,
+    "high": 4020,
+    "low": 3870,
+    "volume": 143161900,
+    "market_cap": 95882751252750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-02-12",
+    "close": 4120,
+    "open": 4030,
+    "high": 4280,
+    "low": 4000,
+    "volume": 225356100,
+    "market_cap": 99006750667000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-02-13",
+    "close": 4050,
+    "open": 4050,
+    "high": 4140,
+    "low": 4000,
+    "volume": 140456700,
+    "market_cap": 97324597136250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-02-18",
+    "close": 4050,
+    "open": 4030,
+    "high": 4100,
+    "low": 3950,
+    "volume": 73672200,
+    "market_cap": 97324597136250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-02-19",
+    "close": 4230,
+    "open": 4050,
+    "high": 4300,
+    "low": 4050,
+    "volume": 181438200,
+    "market_cap": 101650134786750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-02-20",
+    "close": 4220,
+    "open": 4260,
+    "high": 4330,
+    "low": 4170,
+    "volume": 123609900,
+    "market_cap": 101409827139500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-02-23",
+    "close": 4390,
+    "open": 4320,
+    "high": 4440,
+    "low": 4290,
+    "volume": 154318700,
+    "market_cap": 105495057142750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-02-24",
+    "close": 4380,
+    "open": 4440,
+    "high": 4550,
+    "low": 4370,
+    "volume": 166385100,
+    "market_cap": 105254749495500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-02-25",
+    "close": 4460,
+    "open": 4400,
+    "high": 4500,
+    "low": 4340,
+    "volume": 103583700,
+    "market_cap": 107177210673500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-02-26",
+    "close": 4330,
+    "open": 4470,
+    "high": 4480,
+    "low": 4270,
+    "volume": 99948100,
+    "market_cap": 104053211259250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-02-27",
+    "close": 4350,
+    "open": 4330,
+    "high": 4370,
+    "low": 4230,
+    "volume": 80407900,
+    "market_cap": 104533826553750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-03-02",
+    "close": 4610,
+    "open": 4500,
+    "high": 4650,
+    "low": 4480,
+    "volume": 212481100,
+    "market_cap": 110781825382250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-03-03",
+    "close": 4410,
+    "open": 4610,
+    "high": 4630,
+    "low": 4400,
+    "volume": 149780600,
+    "market_cap": 105975672437250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-03-04",
+    "close": 4050,
+    "open": 4340,
+    "high": 4340,
+    "low": 3970,
+    "volume": 227575600,
+    "market_cap": 97324597136250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-03-05",
+    "close": 4130,
+    "open": 4150,
+    "high": 4230,
+    "low": 4110,
+    "volume": 71423400,
+    "market_cap": 99247058314250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-03-06",
+    "close": 4040,
+    "open": 4130,
+    "high": 4150,
+    "low": 4000,
+    "volume": 59681800,
+    "market_cap": 97084289489000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-03-09",
+    "close": 3820,
+    "open": 3920,
+    "high": 3920,
+    "low": 3660,
+    "volume": 173997700,
+    "market_cap": 91797521249500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-03-10",
+    "close": 4020,
+    "open": 3950,
+    "high": 4080,
+    "low": 3900,
+    "volume": 97669800,
+    "market_cap": 96603674194500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-03-11",
+    "close": 3970,
+    "open": 4040,
+    "high": 4090,
+    "low": 3950,
+    "volume": 48240500,
+    "market_cap": 95402135958250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-03-12",
+    "close": 3890,
+    "open": 3920,
+    "high": 3930,
+    "low": 3830,
+    "volume": 73154200,
+    "market_cap": 93479674780250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-03-13",
+    "close": 3810,
+    "open": 3820,
+    "high": 3930,
+    "low": 3770,
+    "volume": 64088000,
+    "market_cap": 91557213602250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-03-16",
+    "close": 3640,
+    "open": 3690,
+    "high": 3730,
+    "low": 3590,
+    "volume": 111081300,
+    "market_cap": 87471983599000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-03-17",
+    "close": 3750,
+    "open": 3670,
+    "high": 3900,
+    "low": 3670,
+    "volume": 114095000,
+    "market_cap": 90115367718750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-03-25",
+    "close": 3620,
+    "open": 3660,
+    "high": 3720,
+    "low": 3580,
+    "volume": 151645700,
+    "market_cap": 86991368304500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-03-26",
+    "close": 3430,
+    "open": 3620,
+    "high": 3660,
+    "low": 3420,
+    "volume": 119229100,
+    "market_cap": 82425523006750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-03-27",
+    "close": 3500,
+    "open": 3350,
+    "high": 3590,
+    "low": 3350,
+    "volume": 91494700,
+    "market_cap": 84107676537500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-03-30",
+    "close": 3500,
+    "open": 3450,
+    "high": 3550,
+    "low": 3390,
+    "volume": 60550100,
+    "market_cap": 84107676537500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-03-31",
+    "close": 3500,
+    "open": 3540,
+    "high": 3620,
+    "low": 3430,
+    "volume": 99833000,
+    "market_cap": 84107676537500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-04-01",
+    "close": 3710,
+    "open": 3620,
+    "high": 3760,
+    "low": 3570,
+    "volume": 140581600,
+    "market_cap": 89154137129750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-04-02",
+    "close": 3640,
+    "open": 3680,
+    "high": 3690,
+    "low": 3590,
+    "volume": 71715300,
+    "market_cap": 87471983599000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-04-06",
+    "close": 3650,
+    "open": 3640,
+    "high": 3650,
+    "low": 3570,
+    "volume": 41205300,
+    "market_cap": 87712291246250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-04-07",
+    "close": 3470,
+    "open": 3620,
+    "high": 3630,
+    "low": 3450,
+    "volume": 129423300,
+    "market_cap": 83386753595750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-04-08",
+    "close": 3740,
+    "open": 3630,
+    "high": 3750,
+    "low": 3580,
+    "volume": 157473100,
+    "market_cap": 89875060071500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-04-09",
+    "close": 3750,
+    "open": 3680,
+    "high": 3800,
+    "low": 3630,
+    "volume": 129289900,
+    "market_cap": 90115367718750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-04-10",
+    "close": 3710,
+    "open": 3780,
+    "high": 3790,
+    "low": 3700,
+    "volume": 65131200,
+    "market_cap": 89154137129750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-04-13",
+    "close": 3750,
+    "open": 3690,
+    "high": 3780,
+    "low": 3630,
+    "volume": 88027100,
+    "market_cap": 90115367718750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-04-14",
+    "close": 3900,
+    "open": 3770,
+    "high": 3940,
+    "low": 3730,
+    "volume": 125422900,
+    "market_cap": 93719982427500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-04-15",
+    "close": 3940,
+    "open": 3990,
+    "high": 4000,
+    "low": 3890,
+    "volume": 96315100,
+    "market_cap": 94681213016500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-04-16",
+    "close": 4060,
+    "open": 3980,
+    "high": 4140,
+    "low": 3940,
+    "volume": 139830400,
+    "market_cap": 97564904783500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-04-17",
+    "close": 4070,
+    "open": 4060,
+    "high": 4090,
+    "low": 3970,
+    "volume": 69561300,
+    "market_cap": 97805212430750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-04-20",
+    "close": 4010,
+    "open": 4060,
+    "high": 4150,
+    "low": 4000,
+    "volume": 57759300,
+    "market_cap": 96363366547250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-04-21",
+    "close": 4030,
+    "open": 4010,
+    "high": 4090,
+    "low": 3980,
+    "volume": 48530300,
+    "market_cap": 96843981841750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-04-22",
+    "close": 4100,
+    "open": 4030,
+    "high": 4150,
+    "low": 4030,
+    "volume": 81890600,
+    "market_cap": 98526135372500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-04-23",
+    "close": 4020,
+    "open": 4150,
+    "high": 4160,
+    "low": 4000,
+    "volume": 65595800,
+    "market_cap": 96603674194500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-04-24",
+    "close": 4050,
+    "open": 3990,
+    "high": 4080,
+    "low": 3960,
+    "volume": 79334000,
+    "market_cap": 97324597136250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-04-27",
+    "close": 4120,
+    "open": 4100,
+    "high": 4180,
+    "low": 4060,
+    "volume": 97987200,
+    "market_cap": 99006750667000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-04-28",
+    "close": 4040,
+    "open": 4120,
+    "high": 4290,
+    "low": 3940,
+    "volume": 171366200,
+    "market_cap": 97084289489000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-04-29",
+    "close": 3880,
+    "open": 4000,
+    "high": 4000,
+    "low": 3880,
+    "volume": 93317900,
+    "market_cap": 93239367133000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-04-30",
+    "close": 3740,
+    "open": 3900,
+    "high": 3910,
+    "low": 3600,
+    "volume": 212842500,
+    "market_cap": 89875060071500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-05-04",
+    "close": 3800,
+    "open": 3750,
+    "high": 3850,
+    "low": 3740,
+    "volume": 81668400,
+    "market_cap": 91316905955000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-05-05",
+    "close": 3690,
+    "open": 3760,
+    "high": 3760,
+    "low": 3640,
+    "volume": 111554400,
+    "market_cap": 88673521835250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-05-06",
+    "close": 3800,
+    "open": 3720,
+    "high": 3800,
+    "low": 3720,
+    "volume": 97302500,
+    "market_cap": 91316905955000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-05-07",
+    "close": 3880,
+    "open": 3900,
+    "high": 3950,
+    "low": 3810,
+    "volume": 147298900,
+    "market_cap": 93239367133000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-05-08",
+    "close": 3630,
+    "open": 3830,
+    "high": 3840,
+    "low": 3630,
+    "volume": 147682400,
+    "market_cap": 87231675951750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-05-11",
+    "close": 3700,
+    "open": 3630,
+    "high": 3810,
+    "low": 3530,
+    "volume": 182583700,
+    "market_cap": 88913829482500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-05-12",
+    "close": 3570,
+    "open": 3700,
+    "high": 3750,
+    "low": 3510,
+    "volume": 129829300,
+    "market_cap": 85789830068250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-05-13",
+    "close": 3500,
+    "open": 3420,
+    "high": 3610,
+    "low": 3360,
+    "volume": 183268100,
+    "market_cap": 84107676537500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-05-18",
+    "close": 3160,
+    "open": 3230,
+    "high": 3310,
+    "low": 3040,
+    "volume": 304786400,
+    "market_cap": 75937216531000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-05-19",
+    "close": 3060,
+    "open": 3230,
+    "high": 3230,
+    "low": 2920,
+    "volume": 328516700,
+    "market_cap": 73534140058500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-05-20",
+    "close": 3100,
+    "open": 3000,
+    "high": 3200,
+    "low": 2940,
+    "volume": 249846500,
+    "market_cap": 74495370647500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-05-21",
+    "close": 2970,
+    "open": 3160,
+    "high": 3170,
+    "low": 2950,
+    "volume": 161809600,
+    "market_cap": 71371371233250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-05-22",
+    "close": 3090,
+    "open": 2920,
+    "high": 3150,
+    "low": 2910,
+    "volume": 223541100,
+    "market_cap": 74255063000250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-05-25",
+    "close": 3070,
+    "open": 3130,
+    "high": 3140,
+    "low": 2990,
+    "volume": 151195300,
+    "market_cap": 73774447705750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-05-26",
+    "close": 2960,
+    "open": 3070,
+    "high": 3150,
+    "low": 2960,
+    "volume": 164671000,
+    "market_cap": 71131063586000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-05-29",
+    "close": 2900,
+    "open": 2960,
+    "high": 2990,
+    "low": 2880,
+    "volume": 401683100,
+    "market_cap": 69689217702500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-06-02",
+    "close": 2960,
+    "open": 2950,
+    "high": 3060,
+    "low": 2900,
+    "volume": 203427800,
+    "market_cap": 71131063586000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-06-03",
+    "close": 2610,
+    "open": 2960,
+    "high": 2980,
+    "low": 2530,
+    "volume": 438971300,
+    "market_cap": 62720295932250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-06-04",
+    "close": 2760,
+    "open": 2580,
+    "high": 2780,
+    "low": 2450,
+    "volume": 327693500,
+    "market_cap": 66324910641000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-06-05",
+    "close": 2750,
+    "open": 2850,
+    "high": 2910,
+    "low": 2710,
+    "volume": 263284100,
+    "market_cap": 66084602993750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-06-08",
+    "close": 2530,
+    "open": 2670,
+    "high": 2780,
+    "low": 2520,
+    "volume": 272942900,
+    "market_cap": 60797834754250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-06-09",
+    "close": 2880,
+    "open": 2570,
+    "high": 2910,
+    "low": 2530,
+    "volume": 291597400,
+    "market_cap": 69208602408000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-06-10",
+    "close": 2750,
+    "open": 2880,
+    "high": 2960,
+    "low": 2750,
+    "volume": 397843000,
+    "market_cap": 66084602993750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-06-11",
+    "close": 2720,
+    "open": 2750,
+    "high": 2790,
+    "low": 2640,
+    "volume": 277417200,
+    "market_cap": 65363680052000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-06-12",
+    "close": 2850,
+    "open": 2800,
+    "high": 2910,
+    "low": 2760,
+    "volume": 174808500,
+    "market_cap": 68487679466250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-06-15",
+    "close": 3130,
+    "open": 2950,
+    "high": 3230,
+    "low": 2950,
+    "volume": 378696400,
+    "market_cap": 75216293589250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-06-17",
+    "close": 3160,
+    "open": 3230,
+    "high": 3270,
+    "low": 3140,
+    "volume": 172876200,
+    "market_cap": 75937216531000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-06-18",
+    "close": 3170,
+    "open": 3170,
+    "high": 3190,
+    "low": 3080,
+    "volume": 113192200,
+    "market_cap": 76177524178250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-06-19",
+    "close": 3080,
+    "open": 3140,
+    "high": 3140,
+    "low": 3080,
+    "volume": 148007500,
+    "market_cap": 74014755353000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-06-22",
+    "close": 2960,
+    "open": 2890,
+    "high": 3020,
+    "low": 2880,
+    "volume": 158864000,
+    "market_cap": 71131063586000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-06-23",
+    "close": 2870,
+    "open": 2960,
+    "high": 2960,
+    "low": 2820,
+    "volume": 124924800,
+    "market_cap": 68968294760750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-06-24",
+    "close": 2750,
+    "open": 2880,
+    "high": 2910,
+    "low": 2740,
+    "volume": 130253500,
+    "market_cap": 66084602993750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-06-25",
+    "close": 2740,
+    "open": 2690,
+    "high": 2790,
+    "low": 2610,
+    "volume": 146277100,
+    "market_cap": 65844295346500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-06-26",
+    "close": 2710,
+    "open": 2750,
+    "high": 2790,
+    "low": 2650,
+    "volume": 114300800,
+    "market_cap": 65123372404750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-06-29",
+    "close": 2720,
+    "open": 2730,
+    "high": 2810,
+    "low": 2710,
+    "volume": 72627000,
+    "market_cap": 65363680052000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-06-30",
+    "close": 2590,
+    "open": 2700,
+    "high": 2700,
+    "low": 2580,
+    "volume": 101996000,
+    "market_cap": 62239680637750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-07-01",
+    "close": 2610,
+    "open": 2600,
+    "high": 2650,
+    "low": 2550,
+    "volume": 70203300,
+    "market_cap": 62720295932250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-07-02",
+    "close": 2760,
+    "open": 2640,
+    "high": 2800,
+    "low": 2640,
+    "volume": 107845500,
+    "market_cap": 66324910641000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-07-03",
+    "close": 2930,
+    "open": 2850,
+    "high": 2950,
+    "low": 2850,
+    "volume": 103473600,
+    "market_cap": 70410140644250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-07-06",
+    "close": 2940,
+    "open": 3000,
+    "high": 3040,
+    "low": 2930,
+    "volume": 70223700,
+    "market_cap": 70650448291500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-07-07",
+    "close": 2930,
+    "open": 2940,
+    "high": 2970,
+    "low": 2920,
+    "volume": 38269200,
+    "market_cap": 70410140644250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-07-08",
+    "close": 2790,
+    "open": 2920,
+    "high": 2920,
+    "low": 2770,
+    "volume": 75500700,
+    "market_cap": 67045833582750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-07-09",
+    "close": 2850,
+    "open": 2790,
+    "high": 2860,
+    "low": 2740,
+    "volume": 60437300,
+    "market_cap": 68487679466250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-07-10",
+    "close": 2900,
+    "open": 2870,
+    "high": 2930,
+    "low": 2860,
+    "volume": 60196300,
+    "market_cap": 69689217702500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-07-13",
+    "close": 2920,
+    "open": 2900,
+    "high": 2920,
+    "low": 2830,
+    "volume": 56479200,
+    "market_cap": 70169832997000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-07-14",
+    "close": 2920,
+    "open": 2880,
+    "high": 2950,
+    "low": 2850,
+    "volume": 101305400,
+    "market_cap": 70169832997000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-07-15",
+    "close": 3040,
+    "open": 2970,
+    "high": 3090,
+    "low": 2960,
+    "volume": 154583300,
+    "market_cap": 73053524764000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-07-16",
+    "close": 3080,
+    "open": 3070,
+    "high": 3090,
+    "low": 3040,
+    "volume": 91739100,
+    "market_cap": 74014755353000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-07-17",
+    "close": 3070,
+    "open": 3000,
+    "high": 3070,
+    "low": 3000,
+    "volume": 84673200,
+    "market_cap": 73774447705750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-07-20",
+    "close": 3000,
+    "open": 3050,
+    "high": 3070,
+    "low": 2990,
+    "volume": 109006600,
+    "market_cap": 72092294175000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-07-21",
+    "close": 3060,
+    "open": 3020,
+    "high": 3100,
+    "low": 3010,
+    "volume": 134948200,
+    "market_cap": 73534140058500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-07-22",
+    "close": 3120,
+    "open": 3110,
+    "high": 3190,
+    "low": 3090,
+    "volume": 164522700,
+    "market_cap": 74975985942000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-07-23",
+    "close": 3080,
+    "open": 3130,
+    "high": 3160,
+    "low": 3050,
+    "volume": 133197300,
+    "market_cap": 74014755353000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-07-24",
+    "close": 2990,
+    "open": 3030,
+    "high": 3040,
+    "low": 2960,
+    "volume": 75686900,
+    "market_cap": 71851986527750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-07-27",
+    "close": 2970,
+    "open": 3020,
+    "high": 3050,
+    "low": 2940,
+    "volume": 98598300,
+    "market_cap": 71371371233250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-07-28",
+    "close": 2890,
+    "open": 2950,
+    "high": 2960,
+    "low": 2870,
+    "volume": 87944700,
+    "market_cap": 69448910055250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-07-29",
+    "close": 2840,
+    "open": 2890,
+    "high": 2900,
+    "low": 2800,
+    "volume": 66694800,
+    "market_cap": 68247371819000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-07-30",
+    "close": 2860,
+    "open": 2860,
+    "high": 2900,
+    "low": 2820,
+    "volume": 76364900,
+    "market_cap": 68727987113500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-07-31",
+    "close": 2880,
+    "open": 2880,
+    "high": 2900,
+    "low": 2860,
+    "volume": 98459300,
+    "market_cap": 69208602408000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-08-03",
+    "close": 2870,
+    "open": 2920,
+    "high": 2920,
+    "low": 2860,
+    "volume": 46158100,
+    "market_cap": 68968294760750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-08-04",
+    "close": 2890,
+    "open": 2880,
+    "high": 2920,
+    "low": 2880,
+    "volume": 70023600,
+    "market_cap": 69448910055250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-08-05",
+    "close": 3070,
+    "open": 2930,
+    "high": 3080,
+    "low": 2920,
+    "volume": 187572000,
+    "market_cap": 73774447705750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-08-06",
+    "close": 3080,
+    "open": 3170,
+    "high": 3180,
+    "low": 3070,
+    "volume": 172099500,
+    "market_cap": 74014755353000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-08-07",
+    "close": 3160,
+    "open": 3090,
+    "high": 3170,
+    "low": 3080,
+    "volume": 108524600,
+    "market_cap": 75937216531000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-08-10",
+    "close": 3140,
+    "open": 3180,
+    "high": 3220,
+    "low": 3130,
+    "volume": 107393800,
+    "market_cap": 75456601236500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-08-11",
+    "close": 3090,
+    "open": 3190,
+    "high": 3210,
+    "low": 3060,
+    "volume": 110426400,
+    "market_cap": 74255063000250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-08-12",
+    "close": 3090,
+    "open": 3100,
+    "high": 3120,
+    "low": 3070,
+    "volume": 57409700,
+    "market_cap": 74255063000250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-08-13",
+    "close": 3000,
+    "open": 3120,
+    "high": 3120,
+    "low": 2980,
+    "volume": 86077700,
+    "market_cap": 72092294175000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-08-14",
+    "close": 3070,
+    "open": 3000,
+    "high": 3090,
+    "low": 2970,
+    "volume": 83223900,
+    "market_cap": 73774447705750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-08-18",
+    "close": 3100,
+    "open": 3150,
+    "high": 3160,
+    "low": 3080,
+    "volume": 90263100,
+    "market_cap": 74495370647500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-08-19",
+    "close": 3030,
+    "open": 3100,
+    "high": 3110,
+    "low": 3010,
+    "volume": 93004300,
+    "market_cap": 72813217116750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-08-20",
+    "close": 3140,
+    "open": 3120,
+    "high": 3170,
+    "low": 3110,
+    "volume": 141884600,
+    "market_cap": 75456601236500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-08-21",
+    "close": 3170,
+    "open": 3160,
+    "high": 3190,
+    "low": 3120,
+    "volume": 114077500,
+    "market_cap": 76177524178250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-08-24",
+    "close": 3190,
+    "open": 3190,
+    "high": 3250,
+    "low": 3180,
+    "volume": 114351200,
+    "market_cap": 76658139472750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-08-26",
+    "close": 3160,
+    "open": 3200,
+    "high": 3290,
+    "low": 3140,
+    "volume": 125424800,
+    "market_cap": 75937216531000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-08-27",
+    "close": 3180,
+    "open": 3100,
+    "high": 3200,
+    "low": 3100,
+    "volume": 71295100,
+    "market_cap": 76417831825500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-08-28",
+    "close": 3160,
+    "open": 3180,
+    "high": 3180,
+    "low": 3140,
+    "volume": 62500400,
+    "market_cap": 75937216531000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-08-31",
+    "close": 3100,
+    "open": 3110,
+    "high": 3130,
+    "low": 3090,
+    "volume": 88604100,
+    "market_cap": 74495370647500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-09-01",
+    "close": 3080,
+    "open": 3110,
+    "high": 3150,
+    "low": 3080,
+    "volume": 87778200,
+    "market_cap": 74014755353000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-09-02",
+    "close": 3030,
+    "open": 3070,
+    "high": 3080,
+    "low": 3020,
+    "volume": 99650500,
+    "market_cap": 72813217116750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-09-03",
+    "close": 3150,
+    "open": 3060,
+    "high": 3150,
+    "low": 3060,
+    "volume": 136685600,
+    "market_cap": 75696908883750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-09-04",
+    "close": 3120,
+    "open": 3170,
+    "high": 3180,
+    "low": 3100,
+    "volume": 83943400,
+    "market_cap": 74975985942000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-09-07",
+    "close": 3080,
+    "open": 3120,
+    "high": 3120,
+    "low": 3070,
+    "volume": 72342200,
+    "market_cap": 74014755353000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-09-08",
+    "close": 3080,
+    "open": 3080,
+    "high": 3110,
+    "low": 3060,
+    "volume": 96926900,
+    "market_cap": 74014755353000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-09-09",
+    "close": 3200,
+    "open": 3080,
+    "high": 3210,
+    "low": 3070,
+    "volume": 205956800,
+    "market_cap": 76898447120000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-09-10",
+    "close": 3270,
+    "open": 3230,
+    "high": 3330,
+    "low": 3220,
+    "volume": 255111300,
+    "market_cap": 78580600650750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-09-11",
+    "close": 3270,
+    "open": 3230,
+    "high": 3270,
+    "low": 3140,
+    "volume": 135708200,
+    "market_cap": 78580600650750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-09-14",
+    "close": 3190,
+    "open": 3240,
+    "high": 3250,
+    "low": 3100,
+    "volume": 153989700,
+    "market_cap": 76658139472750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-09-15",
+    "close": 3270,
+    "open": 3190,
+    "high": 3290,
+    "low": 3160,
+    "volume": 136346800,
+    "market_cap": 78580600650750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-09-16",
+    "close": 3220,
+    "open": 3260,
+    "high": 3340,
+    "low": 3200,
+    "volume": 142697700,
+    "market_cap": 77379062414500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-09-17",
+    "close": 3280,
+    "open": 3250,
+    "high": 3290,
+    "low": 3190,
+    "volume": 71211300,
+    "market_cap": 78820908298000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-09-18",
+    "close": 3340,
+    "open": 3310,
+    "high": 3350,
+    "low": 3250,
+    "volume": 135669000,
+    "market_cap": 80262754181500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-09-21",
+    "close": 3240,
+    "open": 3340,
+    "high": 3370,
+    "low": 3230,
+    "volume": 108664300,
+    "market_cap": 77859677709000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-09-22",
+    "close": 3170,
+    "open": 3250,
+    "high": 3270,
+    "low": 3140,
+    "volume": 80058600,
+    "market_cap": 76177524178250
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-09-23",
+    "close": 3280,
+    "open": 3230,
+    "high": 3310,
+    "low": 3170,
+    "volume": 80259400,
+    "market_cap": 78820908298000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-09-24",
+    "close": 3270,
+    "open": 3250,
+    "high": 3290,
+    "low": 3220,
+    "volume": 53729000,
+    "market_cap": 78580600650750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-09-25",
+    "close": 3230,
+    "open": 3290,
+    "high": 3320,
+    "low": 3220,
+    "volume": 67544100,
+    "market_cap": 77619370061750
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-09-28",
+    "close": 3100,
+    "open": 3200,
+    "high": 3210,
+    "low": 3090,
+    "volume": 77533400,
+    "market_cap": 74495370647500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-09-29",
+    "close": 3160,
+    "open": 3100,
+    "high": 3170,
+    "low": 3030,
+    "volume": 79484200,
+    "market_cap": 75937216531000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-09-30",
+    "close": 3200,
+    "open": 3160,
+    "high": 3270,
+    "low": 3150,
+    "volume": 105128000,
+    "market_cap": 76898447120000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-10-01",
+    "close": 3120,
+    "open": 3200,
+    "high": 3240,
+    "low": 3120,
+    "volume": 52025900,
+    "market_cap": 74975985942000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-10-02",
+    "close": 3140,
+    "open": 3120,
+    "high": 3170,
+    "low": 3110,
+    "volume": 27387000,
+    "market_cap": 75456601236500
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-10-05",
+    "close": 3200,
+    "open": 3140,
+    "high": 3210,
+    "low": 3100,
+    "volume": 38818600,
+    "market_cap": 76898447120000
+  },
+  {
+    "symbol": "ANTM",
+    "date": "2026-10-06",
+    "close": 3250,
+    "open": 3200,
+    "high": 3260,
+    "low": 3180,
+    "volume": 47928200,
+    "market_cap": 78099985356250
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-02-02",
+    "close": 7600,
+    "open": 7600,
+    "high": 7600,
+    "low": 7325,
+    "volume": 326948700,
+    "market_cap": 927521476200000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-02-03",
+    "close": 7650,
+    "open": 7600,
+    "high": 7650,
+    "low": 7375,
+    "volume": 206015400,
+    "market_cap": 933623591175000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-02-04",
+    "close": 7800,
+    "open": 7650,
+    "high": 7825,
+    "low": 7600,
+    "volume": 193370800,
+    "market_cap": 951929936100000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-02-05",
+    "close": 7800,
+    "open": 7800,
+    "high": 7925,
+    "low": 7800,
+    "volume": 142332400,
+    "market_cap": 951929936100000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-02-06",
+    "close": 7675,
+    "open": 7700,
+    "high": 7775,
+    "low": 7600,
+    "volume": 176352600,
+    "market_cap": 936674648662500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-02-09",
+    "close": 7500,
+    "open": 7675,
+    "high": 7725,
+    "low": 7450,
+    "volume": 174758300,
+    "market_cap": 915317246250000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-02-10",
+    "close": 7475,
+    "open": 7500,
+    "high": 7550,
+    "low": 7450,
+    "volume": 127704200,
+    "market_cap": 912266188762500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-02-11",
+    "close": 7450,
+    "open": 7475,
+    "high": 7525,
+    "low": 7400,
+    "volume": 213505000,
+    "market_cap": 909215131275000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-02-12",
+    "close": 7325,
+    "open": 7450,
+    "high": 7475,
+    "low": 7300,
+    "volume": 237465300,
+    "market_cap": 893959843837500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-02-13",
+    "close": 7200,
+    "open": 7325,
+    "high": 7325,
+    "low": 7200,
+    "volume": 356015300,
+    "market_cap": 878704556400000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-02-18",
+    "close": 7275,
+    "open": 7225,
+    "high": 7375,
+    "low": 7225,
+    "volume": 125301200,
+    "market_cap": 887857728862500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-02-19",
+    "close": 7175,
+    "open": 7325,
+    "high": 7325,
+    "low": 7175,
+    "volume": 133463400,
+    "market_cap": 875653498912500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-02-20",
+    "close": 7225,
+    "open": 7175,
+    "high": 7250,
+    "low": 7150,
+    "volume": 122959500,
+    "market_cap": 881755613887500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-02-23",
+    "close": 7300,
+    "open": 7300,
+    "high": 7350,
+    "low": 7275,
+    "volume": 102018300,
+    "market_cap": 890908786350000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-02-24",
+    "close": 7225,
+    "open": 7275,
+    "high": 7325,
+    "low": 7225,
+    "volume": 159225400,
+    "market_cap": 881755613887500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-02-25",
+    "close": 7325,
+    "open": 7275,
+    "high": 7375,
+    "low": 7250,
+    "volume": 133278000,
+    "market_cap": 893959843837500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-02-26",
+    "close": 7300,
+    "open": 7350,
+    "high": 7375,
+    "low": 7200,
+    "volume": 127811900,
+    "market_cap": 890908786350000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-02-27",
+    "close": 7175,
+    "open": 7200,
+    "high": 7275,
+    "low": 7175,
+    "volume": 193104700,
+    "market_cap": 875653498912500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-03-02",
+    "close": 7025,
+    "open": 7075,
+    "high": 7150,
+    "low": 6975,
+    "volume": 156182700,
+    "market_cap": 857347153987500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-03-03",
+    "close": 7075,
+    "open": 7075,
+    "high": 7125,
+    "low": 7025,
+    "volume": 103031100,
+    "market_cap": 863449268962500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-03-04",
+    "close": 6875,
+    "open": 7075,
+    "high": 7075,
+    "low": 6825,
+    "volume": 216519800,
+    "market_cap": 839040809062500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-03-05",
+    "close": 7100,
+    "open": 6975,
+    "high": 7125,
+    "low": 6950,
+    "volume": 110258200,
+    "market_cap": 866500326450000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-03-06",
+    "close": 7000,
+    "open": 7075,
+    "high": 7100,
+    "low": 7000,
+    "volume": 102725700,
+    "market_cap": 854296096500000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-03-09",
+    "close": 6875,
+    "open": 6900,
+    "high": 6950,
+    "low": 6825,
+    "volume": 150426400,
+    "market_cap": 839040809062500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-03-10",
+    "close": 6975,
+    "open": 6950,
+    "high": 7050,
+    "low": 6925,
+    "volume": 129977900,
+    "market_cap": 851245039012500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-03-11",
+    "close": 6825,
+    "open": 6975,
+    "high": 7000,
+    "low": 6825,
+    "volume": 91924600,
+    "market_cap": 832938694087500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-03-12",
+    "close": 6900,
+    "open": 6825,
+    "high": 7025,
+    "low": 6825,
+    "volume": 98787400,
+    "market_cap": 842091866550000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-03-13",
+    "close": 6875,
+    "open": 6850,
+    "high": 7025,
+    "low": 6850,
+    "volume": 107940600,
+    "market_cap": 839040809062500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-03-16",
+    "close": 6750,
+    "open": 6850,
+    "high": 6875,
+    "low": 6700,
+    "volume": 127757500,
+    "market_cap": 823785521625000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-03-17",
+    "close": 6775,
+    "open": 6750,
+    "high": 6825,
+    "low": 6750,
+    "volume": 160903900,
+    "market_cap": 826836579112500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-03-25",
+    "close": 6900,
+    "open": 6675,
+    "high": 6925,
+    "low": 6675,
+    "volume": 314353900,
+    "market_cap": 842091866550000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-03-26",
+    "close": 6875,
+    "open": 6900,
+    "high": 6975,
+    "low": 6850,
+    "volume": 145934900,
+    "market_cap": 839040809062500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-03-27",
+    "close": 6700,
+    "open": 6775,
+    "high": 6850,
+    "low": 6700,
+    "volume": 283556500,
+    "market_cap": 817683406650000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-03-30",
+    "close": 6450,
+    "open": 6400,
+    "high": 6500,
+    "low": 6350,
+    "volume": 242278100,
+    "market_cap": 787172831775000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-03-31",
+    "close": 6450,
+    "open": 6450,
+    "high": 6550,
+    "low": 6450,
+    "volume": 150657800,
+    "market_cap": 787172831775000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-04-01",
+    "close": 6500,
+    "open": 6550,
+    "high": 6650,
+    "low": 6500,
+    "volume": 132798100,
+    "market_cap": 793274946750000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-04-02",
+    "close": 6575,
+    "open": 6550,
+    "high": 6600,
+    "low": 6500,
+    "volume": 72725400,
+    "market_cap": 802428119212500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-04-06",
+    "close": 6500,
+    "open": 6600,
+    "high": 6625,
+    "low": 6450,
+    "volume": 57914600,
+    "market_cap": 793274946750000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-04-07",
+    "close": 6500,
+    "open": 6500,
+    "high": 6525,
+    "low": 6450,
+    "volume": 65198800,
+    "market_cap": 793274946750000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-04-08",
+    "close": 6750,
+    "open": 6650,
+    "high": 6850,
+    "low": 6625,
+    "volume": 163594000,
+    "market_cap": 823785521625000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-04-09",
+    "close": 6475,
+    "open": 6775,
+    "high": 6800,
+    "low": 6450,
+    "volume": 182409800,
+    "market_cap": 790223889262500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-04-10",
+    "close": 6700,
+    "open": 6525,
+    "high": 6700,
+    "low": 6475,
+    "volume": 167336100,
+    "market_cap": 817683406650000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-04-13",
+    "close": 6575,
+    "open": 6650,
+    "high": 6700,
+    "low": 6575,
+    "volume": 81955300,
+    "market_cap": 802428119212500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-04-14",
+    "close": 6750,
+    "open": 6675,
+    "high": 6800,
+    "low": 6675,
+    "volume": 105010900,
+    "market_cap": 823785521625000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-04-15",
+    "close": 6550,
+    "open": 6775,
+    "high": 6800,
+    "low": 6550,
+    "volume": 104880600,
+    "market_cap": 799377061725000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-04-16",
+    "close": 6525,
+    "open": 6575,
+    "high": 6650,
+    "low": 6500,
+    "volume": 122416100,
+    "market_cap": 796326004237500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-04-17",
+    "close": 6425,
+    "open": 6500,
+    "high": 6550,
+    "low": 6425,
+    "volume": 156827000,
+    "market_cap": 784121774287500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-04-20",
+    "close": 6475,
+    "open": 6450,
+    "high": 6575,
+    "low": 6425,
+    "volume": 137435700,
+    "market_cap": 790223889262500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-04-21",
+    "close": 6500,
+    "open": 6475,
+    "high": 6525,
+    "low": 6425,
+    "volume": 112151900,
+    "market_cap": 793274946750000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-04-22",
+    "close": 6450,
+    "open": 6475,
+    "high": 6525,
+    "low": 6450,
+    "volume": 95673700,
+    "market_cap": 787172831775000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-04-23",
+    "close": 6425,
+    "open": 6450,
+    "high": 6550,
+    "low": 6425,
+    "volume": 95913400,
+    "market_cap": 784121774287500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-04-24",
+    "close": 6050,
+    "open": 6400,
+    "high": 6425,
+    "low": 6050,
+    "volume": 435004800,
+    "market_cap": 738355911975000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-04-27",
+    "close": 5975,
+    "open": 6025,
+    "high": 6050,
+    "low": 5950,
+    "volume": 273263100,
+    "market_cap": 729202739512500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-04-28",
+    "close": 6000,
+    "open": 6025,
+    "high": 6075,
+    "low": 5950,
+    "volume": 174091200,
+    "market_cap": 732253797000000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-04-29",
+    "close": 5975,
+    "open": 6000,
+    "high": 6050,
+    "low": 5950,
+    "volume": 176050900,
+    "market_cap": 729202739512500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-04-30",
+    "close": 5850,
+    "open": 5950,
+    "high": 5975,
+    "low": 5800,
+    "volume": 303405400,
+    "market_cap": 713947452075000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-05-04",
+    "close": 5900,
+    "open": 5800,
+    "high": 5950,
+    "low": 5800,
+    "volume": 207566700,
+    "market_cap": 720049567050000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-05-05",
+    "close": 5950,
+    "open": 5900,
+    "high": 6075,
+    "low": 5875,
+    "volume": 179931900,
+    "market_cap": 726151682025000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-05-06",
+    "close": 5950,
+    "open": 5950,
+    "high": 6000,
+    "low": 5900,
+    "volume": 90843100,
+    "market_cap": 726151682025000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-05-07",
+    "close": 6225,
+    "open": 6000,
+    "high": 6325,
+    "low": 6000,
+    "volume": 238707000,
+    "market_cap": 759713314387500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-05-08",
+    "close": 6175,
+    "open": 6225,
+    "high": 6425,
+    "low": 6175,
+    "volume": 201784700,
+    "market_cap": 753611199412500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-05-11",
+    "close": 6150,
+    "open": 6225,
+    "high": 6275,
+    "low": 6100,
+    "volume": 126301300,
+    "market_cap": 750560141925000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-05-12",
+    "close": 6125,
+    "open": 6125,
+    "high": 6150,
+    "low": 6050,
+    "volume": 107394400,
+    "market_cap": 747509084437500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-05-13",
+    "close": 6100,
+    "open": 6125,
+    "high": 6200,
+    "low": 6025,
+    "volume": 147339600,
+    "market_cap": 744458026950000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-05-18",
+    "close": 6125,
+    "open": 5950,
+    "high": 6125,
+    "low": 5900,
+    "volume": 208748400,
+    "market_cap": 747509084437500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-05-19",
+    "close": 5950,
+    "open": 6050,
+    "high": 6200,
+    "low": 5950,
+    "volume": 184830100,
+    "market_cap": 726151682025000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-05-20",
+    "close": 5975,
+    "open": 5975,
+    "high": 6100,
+    "low": 5875,
+    "volume": 195107100,
+    "market_cap": 729202739512500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-05-21",
+    "close": 5950,
+    "open": 6000,
+    "high": 6150,
+    "low": 5925,
+    "volume": 210976100,
+    "market_cap": 726151682025000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-05-22",
+    "close": 5900,
+    "open": 5900,
+    "high": 5975,
+    "low": 5825,
+    "volume": 288919700,
+    "market_cap": 720049567050000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-05-25",
+    "close": 6100,
+    "open": 5950,
+    "high": 6175,
+    "low": 5925,
+    "volume": 263179200,
+    "market_cap": 744458026950000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-05-26",
+    "close": 5975,
+    "open": 6050,
+    "high": 6100,
+    "low": 5950,
+    "volume": 225158700,
+    "market_cap": 729202739512500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-05-29",
+    "close": 5700,
+    "open": 5750,
+    "high": 5875,
+    "low": 5700,
+    "volume": 1015296600,
+    "market_cap": 695641107150000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-06-02",
+    "close": 5825,
+    "open": 5750,
+    "high": 5875,
+    "low": 5700,
+    "volume": 346305200,
+    "market_cap": 710896394587500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-06-03",
+    "close": 5525,
+    "open": 5775,
+    "high": 5825,
+    "low": 5525,
+    "volume": 353332300,
+    "market_cap": 674283704737500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-06-04",
+    "close": 5425,
+    "open": 5475,
+    "high": 5600,
+    "low": 5300,
+    "volume": 550059500,
+    "market_cap": 662079474787500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-06-05",
+    "close": 5075,
+    "open": 5325,
+    "high": 5375,
+    "low": 5075,
+    "volume": 572612000,
+    "market_cap": 619364669962500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-06-08",
+    "close": 4850,
+    "open": 4950,
+    "high": 5050,
+    "low": 4850,
+    "volume": 705093300,
+    "market_cap": 591905152575000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-06-09",
+    "close": 5150,
+    "open": 4850,
+    "high": 5150,
+    "low": 4820,
+    "volume": 772898000,
+    "market_cap": 628517842425000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-06-10",
+    "close": 5650,
+    "open": 5175,
+    "high": 5700,
+    "low": 5175,
+    "volume": 747366000,
+    "market_cap": 689538992175000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-06-11",
+    "close": 5825,
+    "open": 5650,
+    "high": 5875,
+    "low": 5550,
+    "volume": 543295400,
+    "market_cap": 710896394587500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-06-12",
+    "close": 5925,
+    "open": 6000,
+    "high": 6100,
+    "low": 5900,
+    "volume": 415872300,
+    "market_cap": 723100624537500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-06-15",
+    "close": 6275,
+    "open": 6100,
+    "high": 6425,
+    "low": 6100,
+    "volume": 480395000,
+    "market_cap": 765815429362500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-06-17",
+    "close": 6275,
+    "open": 6400,
+    "high": 6550,
+    "low": 6275,
+    "volume": 467494300,
+    "market_cap": 765815429362500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-06-18",
+    "close": 6075,
+    "open": 6250,
+    "high": 6275,
+    "low": 6075,
+    "volume": 232489300,
+    "market_cap": 741406969462500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-06-19",
+    "close": 6300,
+    "open": 6050,
+    "high": 6300,
+    "low": 6050,
+    "volume": 366595500,
+    "market_cap": 768866486850000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-06-22",
+    "close": 6225,
+    "open": 6400,
+    "high": 6400,
+    "low": 6125,
+    "volume": 193401600,
+    "market_cap": 759713314387500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-06-23",
+    "close": 6125,
+    "open": 6150,
+    "high": 6200,
+    "low": 6075,
+    "volume": 144561900,
+    "market_cap": 747509084437500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-06-24",
+    "close": 5925,
+    "open": 6125,
+    "high": 6200,
+    "low": 5925,
+    "volume": 144928800,
+    "market_cap": 723100624537500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-06-25",
+    "close": 6025,
+    "open": 5900,
+    "high": 6175,
+    "low": 5900,
+    "volume": 197935000,
+    "market_cap": 735304854487500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-06-26",
+    "close": 6175,
+    "open": 6050,
+    "high": 6175,
+    "low": 6025,
+    "volume": 163378700,
+    "market_cap": 753611199412500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-06-29",
+    "close": 5925,
+    "open": 6175,
+    "high": 6200,
+    "low": 5925,
+    "volume": 189886600,
+    "market_cap": 723100624537500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-06-30",
+    "close": 5550,
+    "open": 5775,
+    "high": 5825,
+    "low": 5550,
+    "volume": 440738300,
+    "market_cap": 677334762225000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-07-01",
+    "close": 5600,
+    "open": 5550,
+    "high": 5750,
+    "low": 5550,
+    "volume": 124123800,
+    "market_cap": 683436877200000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-07-02",
+    "close": 5800,
+    "open": 5650,
+    "high": 5875,
+    "low": 5625,
+    "volume": 145119400,
+    "market_cap": 707845337100000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-07-03",
+    "close": 6050,
+    "open": 5925,
+    "high": 6150,
+    "low": 5900,
+    "volume": 200465200,
+    "market_cap": 738355911975000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-07-06",
+    "close": 6125,
+    "open": 6050,
+    "high": 6175,
+    "low": 5975,
+    "volume": 148684900,
+    "market_cap": 747509084437500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-07-07",
+    "close": 6300,
+    "open": 6200,
+    "high": 6300,
+    "low": 6150,
+    "volume": 183472100,
+    "market_cap": 768866486850000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-07-08",
+    "close": 6175,
+    "open": 6300,
+    "high": 6325,
+    "low": 6175,
+    "volume": 181289000,
+    "market_cap": 753611199412500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-07-09",
+    "close": 6200,
+    "open": 6100,
+    "high": 6200,
+    "low": 6050,
+    "volume": 181155800,
+    "market_cap": 756662256900000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-07-10",
+    "close": 6175,
+    "open": 6300,
+    "high": 6300,
+    "low": 6125,
+    "volume": 138050500,
+    "market_cap": 753611199412500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-07-13",
+    "close": 6225,
+    "open": 6150,
+    "high": 6250,
+    "low": 6075,
+    "volume": 180061600,
+    "market_cap": 759713314387500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-07-14",
+    "close": 6125,
+    "open": 6225,
+    "high": 6250,
+    "low": 6075,
+    "volume": 159868800,
+    "market_cap": 747509084437500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-07-15",
+    "close": 6125,
+    "open": 6125,
+    "high": 6200,
+    "low": 6075,
+    "volume": 140824900,
+    "market_cap": 747509084437500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-07-16",
+    "close": 6225,
+    "open": 6125,
+    "high": 6225,
+    "low": 6100,
+    "volume": 94235100,
+    "market_cap": 759713314387500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-07-17",
+    "close": 6475,
+    "open": 6225,
+    "high": 6500,
+    "low": 6200,
+    "volume": 319191300,
+    "market_cap": 790223889262500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-07-20",
+    "close": 6475,
+    "open": 6525,
+    "high": 6625,
+    "low": 6475,
+    "volume": 298183300,
+    "market_cap": 790223889262500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-07-21",
+    "close": 6525,
+    "open": 6550,
+    "high": 6550,
+    "low": 6425,
+    "volume": 146064700,
+    "market_cap": 796326004237500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-07-22",
+    "close": 6500,
+    "open": 6525,
+    "high": 6550,
+    "low": 6400,
+    "volume": 112178900,
+    "market_cap": 793274946750000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-07-23",
+    "close": 6275,
+    "open": 6450,
+    "high": 6475,
+    "low": 6250,
+    "volume": 207037900,
+    "market_cap": 765815429362500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-07-24",
+    "close": 6275,
+    "open": 6200,
+    "high": 6300,
+    "low": 6125,
+    "volume": 191428900,
+    "market_cap": 765815429362500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-07-27",
+    "close": 6300,
+    "open": 6225,
+    "high": 6325,
+    "low": 6125,
+    "volume": 125142500,
+    "market_cap": 768866486850000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-07-28",
+    "close": 6225,
+    "open": 6250,
+    "high": 6300,
+    "low": 6200,
+    "volume": 122920300,
+    "market_cap": 759713314387500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-07-29",
+    "close": 6275,
+    "open": 6175,
+    "high": 6300,
+    "low": 6175,
+    "volume": 122379600,
+    "market_cap": 765815429362500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-07-30",
+    "close": 6450,
+    "open": 6325,
+    "high": 6450,
+    "low": 6250,
+    "volume": 152663200,
+    "market_cap": 787172831775000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-07-31",
+    "close": 6325,
+    "open": 6425,
+    "high": 6450,
+    "low": 6325,
+    "volume": 153174800,
+    "market_cap": 771917544337500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-08-03",
+    "close": 6300,
+    "open": 6300,
+    "high": 6325,
+    "low": 6275,
+    "volume": 68143700,
+    "market_cap": 768866486850000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-08-04",
+    "close": 6500,
+    "open": 6375,
+    "high": 6500,
+    "low": 6350,
+    "volume": 138953100,
+    "market_cap": 793274946750000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-08-05",
+    "close": 6450,
+    "open": 6500,
+    "high": 6500,
+    "low": 6425,
+    "volume": 101666100,
+    "market_cap": 787172831775000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-08-06",
+    "close": 6350,
+    "open": 6450,
+    "high": 6475,
+    "low": 6350,
+    "volume": 80734000,
+    "market_cap": 774968601825000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-08-07",
+    "close": 6375,
+    "open": 6375,
+    "high": 6450,
+    "low": 6325,
+    "volume": 111930800,
+    "market_cap": 778019659312500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-08-10",
+    "close": 6375,
+    "open": 6400,
+    "high": 6450,
+    "low": 6350,
+    "volume": 88666100,
+    "market_cap": 778019659312500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-08-11",
+    "close": 6300,
+    "open": 6375,
+    "high": 6400,
+    "low": 6200,
+    "volume": 112490800,
+    "market_cap": 768866486850000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-08-12",
+    "close": 6350,
+    "open": 6300,
+    "high": 6350,
+    "low": 6225,
+    "volume": 87177100,
+    "market_cap": 774968601825000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-08-13",
+    "close": 6375,
+    "open": 6350,
+    "high": 6375,
+    "low": 6250,
+    "volume": 83208000,
+    "market_cap": 778019659312500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-08-14",
+    "close": 6350,
+    "open": 6300,
+    "high": 6350,
+    "low": 6275,
+    "volume": 56953500,
+    "market_cap": 774968601825000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-08-18",
+    "close": 6300,
+    "open": 6375,
+    "high": 6450,
+    "low": 6300,
+    "volume": 114945500,
+    "market_cap": 768866486850000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-08-19",
+    "close": 6300,
+    "open": 6300,
+    "high": 6425,
+    "low": 6300,
+    "volume": 68105000,
+    "market_cap": 768866486850000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-08-20",
+    "close": 6400,
+    "open": 6350,
+    "high": 6400,
+    "low": 6300,
+    "volume": 67749800,
+    "market_cap": 781070716800000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-08-21",
+    "close": 6450,
+    "open": 6400,
+    "high": 6475,
+    "low": 6400,
+    "volume": 100684300,
+    "market_cap": 787172831775000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-08-24",
+    "close": 6400,
+    "open": 6450,
+    "high": 6450,
+    "low": 6350,
+    "volume": 81295600,
+    "market_cap": 781070716800000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-08-26",
+    "close": 6350,
+    "open": 6450,
+    "high": 6450,
+    "low": 6350,
+    "volume": 86115900,
+    "market_cap": 774968601825000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-08-27",
+    "close": 6400,
+    "open": 6350,
+    "high": 6425,
+    "low": 6325,
+    "volume": 60556000,
+    "market_cap": 781070716800000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-08-28",
+    "close": 6475,
+    "open": 6425,
+    "high": 6525,
+    "low": 6400,
+    "volume": 156445200,
+    "market_cap": 790223889262500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-08-31",
+    "close": 6475,
+    "open": 6450,
+    "high": 6525,
+    "low": 6400,
+    "volume": 230904500,
+    "market_cap": 790223889262500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-09-01",
+    "close": 6600,
+    "open": 6450,
+    "high": 6600,
+    "low": 6425,
+    "volume": 117969900,
+    "market_cap": 805479176700000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-09-02",
+    "close": 6675,
+    "open": 6675,
+    "high": 6725,
+    "low": 6600,
+    "volume": 108537400,
+    "market_cap": 814632349162500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-09-03",
+    "close": 6775,
+    "open": 6700,
+    "high": 6800,
+    "low": 6625,
+    "volume": 112329900,
+    "market_cap": 826836579112500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-09-04",
+    "close": 6700,
+    "open": 6800,
+    "high": 6850,
+    "low": 6675,
+    "volume": 93923500,
+    "market_cap": 817683406650000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-09-07",
+    "close": 6625,
+    "open": 6750,
+    "high": 6750,
+    "low": 6600,
+    "volume": 65118000,
+    "market_cap": 808530234187500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-09-08",
+    "close": 6675,
+    "open": 6600,
+    "high": 6775,
+    "low": 6575,
+    "volume": 108127600,
+    "market_cap": 814632349162500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-09-09",
+    "close": 6525,
+    "open": 6700,
+    "high": 6700,
+    "low": 6500,
+    "volume": 193375100,
+    "market_cap": 796326004237500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-09-10",
+    "close": 6425,
+    "open": 6575,
+    "high": 6600,
+    "low": 6425,
+    "volume": 196819200,
+    "market_cap": 784121774287500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-09-11",
+    "close": 6325,
+    "open": 6400,
+    "high": 6400,
+    "low": 6250,
+    "volume": 187922700,
+    "market_cap": 771917544337500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-09-14",
+    "close": 6500,
+    "open": 6325,
+    "high": 6575,
+    "low": 6275,
+    "volume": 218017200,
+    "market_cap": 793274946750000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-09-15",
+    "close": 6400,
+    "open": 6500,
+    "high": 6500,
+    "low": 6350,
+    "volume": 95608200,
+    "market_cap": 781070716800000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-09-16",
+    "close": 6325,
+    "open": 6350,
+    "high": 6425,
+    "low": 6325,
+    "volume": 72157400,
+    "market_cap": 771917544337500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-09-17",
+    "close": 6350,
+    "open": 6400,
+    "high": 6400,
+    "low": 6325,
+    "volume": 61812000,
+    "market_cap": 774968601825000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-09-18",
+    "close": 6300,
+    "open": 6325,
+    "high": 6350,
+    "low": 6225,
+    "volume": 176753700,
+    "market_cap": 768866486850000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-09-21",
+    "close": 6225,
+    "open": 6300,
+    "high": 6300,
+    "low": 6225,
+    "volume": 69914100,
+    "market_cap": 759713314387500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-09-22",
+    "close": 6200,
+    "open": 6225,
+    "high": 6250,
+    "low": 6175,
+    "volume": 93211200,
+    "market_cap": 756662256900000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-09-23",
+    "close": 6300,
+    "open": 6200,
+    "high": 6300,
+    "low": 6200,
+    "volume": 96826100,
+    "market_cap": 768866486850000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-09-24",
+    "close": 6225,
+    "open": 6250,
+    "high": 6275,
+    "low": 6225,
+    "volume": 75648600,
+    "market_cap": 759713314387500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-09-25",
+    "close": 6250,
+    "open": 6225,
+    "high": 6275,
+    "low": 6200,
+    "volume": 89447400,
+    "market_cap": 762764371875000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-09-28",
+    "close": 6225,
+    "open": 6225,
+    "high": 6250,
+    "low": 6175,
+    "volume": 112107600,
+    "market_cap": 759713314387500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-09-29",
+    "close": 6150,
+    "open": 6150,
+    "high": 6225,
+    "low": 6125,
+    "volume": 149783400,
+    "market_cap": 750560141925000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-09-30",
+    "close": 6075,
+    "open": 6100,
+    "high": 6150,
+    "low": 6050,
+    "volume": 221335700,
+    "market_cap": 741406969462500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-10-01",
+    "close": 6000,
+    "open": 6050,
+    "high": 6150,
+    "low": 6000,
+    "volume": 118044900,
+    "market_cap": 732253797000000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-10-02",
+    "close": 6100,
+    "open": 6000,
+    "high": 6150,
+    "low": 5975,
+    "volume": 131920300,
+    "market_cap": 744458026950000
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-10-05",
+    "close": 6175,
+    "open": 6100,
+    "high": 6175,
+    "low": 6075,
+    "volume": 89905700,
+    "market_cap": 753611199412500
+  },
+  {
+    "symbol": "BBCA",
+    "date": "2026-10-06",
+    "close": 6100,
+    "open": 6175,
+    "high": 6200,
+    "low": 6100,
+    "volume": 152173400,
+    "market_cap": 744458026950000
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-02-02",
+    "close": 5925,
+    "open": 6300,
+    "high": 6300,
+    "low": 5500,
+    "volume": 50127800,
+    "market_cap": 62448223363950
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-02-03",
+    "close": 6200,
+    "open": 6200,
+    "high": 6250,
+    "low": 5725,
+    "volume": 21684200,
+    "market_cap": 65346664110800
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-02-04",
+    "close": 6600,
+    "open": 6250,
+    "high": 6775,
+    "low": 6225,
+    "volume": 33174100,
+    "market_cap": 69562577924400
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-02-05",
+    "close": 6300,
+    "open": 6650,
+    "high": 6700,
+    "low": 6300,
+    "volume": 22258900,
+    "market_cap": 66400642564200
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-02-06",
+    "close": 6100,
+    "open": 5950,
+    "high": 6125,
+    "low": 5875,
+    "volume": 20740200,
+    "market_cap": 64292685657400
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-02-09",
+    "close": 6275,
+    "open": 6200,
+    "high": 6300,
+    "low": 6100,
+    "volume": 10233500,
+    "market_cap": 66137147950850
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-02-10",
+    "close": 6350,
+    "open": 6275,
+    "high": 6575,
+    "low": 6250,
+    "volume": 17552100,
+    "market_cap": 66927631790900
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-02-11",
+    "close": 6850,
+    "open": 6450,
+    "high": 6875,
+    "low": 6450,
+    "volume": 29182600,
+    "market_cap": 72197524057900
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-02-12",
+    "close": 7100,
+    "open": 6950,
+    "high": 7325,
+    "low": 6950,
+    "volume": 45302700,
+    "market_cap": 74832470191400
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-02-13",
+    "close": 6975,
+    "open": 7000,
+    "high": 7050,
+    "low": 6800,
+    "volume": 27254200,
+    "market_cap": 73514997124650
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-02-18",
+    "close": 6850,
+    "open": 7000,
+    "high": 7025,
+    "low": 6825,
+    "volume": 18315100,
+    "market_cap": 72197524057900
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-02-19",
+    "close": 6850,
+    "open": 6950,
+    "high": 7100,
+    "low": 6850,
+    "volume": 20900200,
+    "market_cap": 72197524057900
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-02-20",
+    "close": 6900,
+    "open": 6900,
+    "high": 7000,
+    "low": 6775,
+    "volume": 9865100,
+    "market_cap": 72724513284600
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-02-23",
+    "close": 7100,
+    "open": 7000,
+    "high": 7200,
+    "low": 6950,
+    "volume": 24131200,
+    "market_cap": 74832470191400
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-02-24",
+    "close": 7000,
+    "open": 7100,
+    "high": 7175,
+    "low": 6950,
+    "volume": 14668700,
+    "market_cap": 73778491738000
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-02-25",
+    "close": 7350,
+    "open": 7150,
+    "high": 7500,
+    "low": 7150,
+    "volume": 35312300,
+    "market_cap": 77467416324900
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-02-26",
+    "close": 7100,
+    "open": 7350,
+    "high": 7375,
+    "low": 7000,
+    "volume": 23279500,
+    "market_cap": 74832470191400
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-02-27",
+    "close": 7900,
+    "open": 7025,
+    "high": 7900,
+    "low": 7025,
+    "volume": 47589200,
+    "market_cap": 83264297818600
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-03-02",
+    "close": 7325,
+    "open": 7775,
+    "high": 7775,
+    "low": 7325,
+    "volume": 29078800,
+    "market_cap": 77203921711550
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-03-03",
+    "close": 7200,
+    "open": 7325,
+    "high": 7550,
+    "low": 6475,
+    "volume": 77438800,
+    "market_cap": 75886448644800
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-03-04",
+    "close": 6475,
+    "open": 7000,
+    "high": 7000,
+    "low": 6475,
+    "volume": 39300600,
+    "market_cap": 68245104857650
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-03-05",
+    "close": 6325,
+    "open": 6700,
+    "high": 6850,
+    "low": 6275,
+    "volume": 30118600,
+    "market_cap": 66664137177550
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-03-06",
+    "close": 6200,
+    "open": 6300,
+    "high": 6575,
+    "low": 6125,
+    "volume": 21177700,
+    "market_cap": 65346664110800
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-03-09",
+    "close": 6075,
+    "open": 5825,
+    "high": 6300,
+    "low": 5525,
+    "volume": 38132500,
+    "market_cap": 64029191044050
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-03-10",
+    "close": 6325,
+    "open": 6300,
+    "high": 6550,
+    "low": 6025,
+    "volume": 24351600,
+    "market_cap": 66664137177550
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-03-11",
+    "close": 6425,
+    "open": 6350,
+    "high": 6500,
+    "low": 5900,
+    "volume": 39705800,
+    "market_cap": 67718115630950
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-03-12",
+    "close": 6025,
+    "open": 6300,
+    "high": 6300,
+    "low": 6000,
+    "volume": 18601400,
+    "market_cap": 63502201817350
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-03-13",
+    "close": 5650,
+    "open": 6025,
+    "high": 6075,
+    "low": 5600,
+    "volume": 14767300,
+    "market_cap": 59549782617100
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-03-16",
+    "close": 5350,
+    "open": 5550,
+    "high": 5550,
+    "low": 5275,
+    "volume": 14764300,
+    "market_cap": 56387847256900
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-03-17",
+    "close": 5575,
+    "open": 5350,
+    "high": 5650,
+    "low": 5350,
+    "volume": 17793700,
+    "market_cap": 58759298777050
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-03-25",
+    "close": 5725,
+    "open": 5575,
+    "high": 5800,
+    "low": 5375,
+    "volume": 17734600,
+    "market_cap": 60340266457150
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-03-26",
+    "close": 5600,
+    "open": 5650,
+    "high": 5700,
+    "low": 5425,
+    "volume": 29117700,
+    "market_cap": 59022793390400
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-03-27",
+    "close": 5350,
+    "open": 5600,
+    "high": 5650,
+    "low": 5300,
+    "volume": 10213400,
+    "market_cap": 56387847256900
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-03-30",
+    "close": 5100,
+    "open": 5300,
+    "high": 5300,
+    "low": 5050,
+    "volume": 19311900,
+    "market_cap": 53752901123400
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-03-31",
+    "close": 5350,
+    "open": 5100,
+    "high": 5550,
+    "low": 5100,
+    "volume": 31438200,
+    "market_cap": 56387847256900
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-04-01",
+    "close": 5750,
+    "open": 5650,
+    "high": 5900,
+    "low": 5550,
+    "volume": 25239700,
+    "market_cap": 60603761070500
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-04-02",
+    "close": 5500,
+    "open": 5725,
+    "high": 5750,
+    "low": 5450,
+    "volume": 11545400,
+    "market_cap": 57968814937000
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-04-06",
+    "close": 5675,
+    "open": 5475,
+    "high": 5700,
+    "low": 5450,
+    "volume": 7105000,
+    "market_cap": 59813277230450
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-04-07",
+    "close": 5725,
+    "open": 5725,
+    "high": 5850,
+    "low": 5475,
+    "volume": 15669500,
+    "market_cap": 60340266457150
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-04-08",
+    "close": 6200,
+    "open": 5950,
+    "high": 6400,
+    "low": 5900,
+    "volume": 30766900,
+    "market_cap": 65346664110800
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-04-09",
+    "close": 6100,
+    "open": 6175,
+    "high": 6175,
+    "low": 5925,
+    "volume": 19202100,
+    "market_cap": 64292685657400
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-04-10",
+    "close": 6150,
+    "open": 6200,
+    "high": 6275,
+    "low": 6125,
+    "volume": 11397400,
+    "market_cap": 64819674884100
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-04-13",
+    "close": 6150,
+    "open": 6000,
+    "high": 6225,
+    "low": 5950,
+    "volume": 16447500,
+    "market_cap": 64819674884100
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-04-14",
+    "close": 6425,
+    "open": 6300,
+    "high": 6575,
+    "low": 6200,
+    "volume": 28370600,
+    "market_cap": 67718115630950
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-04-15",
+    "close": 6800,
+    "open": 6675,
+    "high": 6850,
+    "low": 6500,
+    "volume": 26907800,
+    "market_cap": 71670534831200
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-04-16",
+    "close": 6775,
+    "open": 6875,
+    "high": 6925,
+    "low": 6600,
+    "volume": 15621800,
+    "market_cap": 71407040217850
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-04-17",
+    "close": 6900,
+    "open": 6800,
+    "high": 6900,
+    "low": 6650,
+    "volume": 16734900,
+    "market_cap": 72724513284600
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-04-20",
+    "close": 6800,
+    "open": 6775,
+    "high": 6950,
+    "low": 6700,
+    "volume": 12552700,
+    "market_cap": 71670534831200
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-04-21",
+    "close": 6925,
+    "open": 6875,
+    "high": 6925,
+    "low": 6775,
+    "volume": 7459500,
+    "market_cap": 72988007897950
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-04-22",
+    "close": 6875,
+    "open": 6925,
+    "high": 6950,
+    "low": 6825,
+    "volume": 13758400,
+    "market_cap": 72461018671250
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-04-23",
+    "close": 6700,
+    "open": 6900,
+    "high": 6950,
+    "low": 6650,
+    "volume": 13796900,
+    "market_cap": 70616556377800
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-04-24",
+    "close": 6700,
+    "open": 6775,
+    "high": 6850,
+    "low": 6650,
+    "volume": 20275200,
+    "market_cap": 70616556377800
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-04-27",
+    "close": 6850,
+    "open": 6900,
+    "high": 7200,
+    "low": 6800,
+    "volume": 22747600,
+    "market_cap": 72197524057900
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-04-28",
+    "close": 6800,
+    "open": 6875,
+    "high": 6950,
+    "low": 6775,
+    "volume": 19233500,
+    "market_cap": 71670534831200
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-04-29",
+    "close": 6825,
+    "open": 6900,
+    "high": 7000,
+    "low": 6800,
+    "volume": 6965200,
+    "market_cap": 71934029444550
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-04-30",
+    "close": 6850,
+    "open": 6900,
+    "high": 7000,
+    "low": 6725,
+    "volume": 14325200,
+    "market_cap": 72197524057900
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-05-04",
+    "close": 6875,
+    "open": 6975,
+    "high": 6975,
+    "low": 6800,
+    "volume": 6935000,
+    "market_cap": 72461018671250
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-05-05",
+    "close": 5975,
+    "open": 6850,
+    "high": 6875,
+    "low": 5925,
+    "volume": 41294800,
+    "market_cap": 62975212590650
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-05-06",
+    "close": 6125,
+    "open": 6000,
+    "high": 6175,
+    "low": 5925,
+    "volume": 18459900,
+    "market_cap": 64556180270750
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-05-07",
+    "close": 6300,
+    "open": 6200,
+    "high": 6400,
+    "low": 6100,
+    "volume": 23450600,
+    "market_cap": 66400642564200
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-05-08",
+    "close": 5425,
+    "open": 6300,
+    "high": 6325,
+    "low": 5400,
+    "volume": 35789300,
+    "market_cap": 57178331096950
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-05-11",
+    "close": 6025,
+    "open": 5500,
+    "high": 6150,
+    "low": 5375,
+    "volume": 44066800,
+    "market_cap": 63502201817350
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-05-12",
+    "close": 6075,
+    "open": 6025,
+    "high": 6125,
+    "low": 5775,
+    "volume": 17911000,
+    "market_cap": 64029191044050
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-05-13",
+    "close": 5875,
+    "open": 6025,
+    "high": 6050,
+    "low": 5850,
+    "volume": 13913000,
+    "market_cap": 61921234137250
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-05-18",
+    "close": 5350,
+    "open": 5700,
+    "high": 5700,
+    "low": 5075,
+    "volume": 39181800,
+    "market_cap": 56387847256900
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-05-19",
+    "close": 4950,
+    "open": 5350,
+    "high": 5400,
+    "low": 4620,
+    "volume": 71095800,
+    "market_cap": 52171933443300
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-05-20",
+    "close": 4830,
+    "open": 4950,
+    "high": 5125,
+    "low": 4690,
+    "volume": 49364400,
+    "market_cap": 50907159299220
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-05-21",
+    "close": 4670,
+    "open": 4990,
+    "high": 5000,
+    "low": 4460,
+    "volume": 38577100,
+    "market_cap": 49220793773780
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-05-22",
+    "close": 5550,
+    "open": 4660,
+    "high": 5550,
+    "low": 4560,
+    "volume": 68823000,
+    "market_cap": 58495804163700
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-05-25",
+    "close": 5475,
+    "open": 5550,
+    "high": 5675,
+    "low": 5450,
+    "volume": 24726100,
+    "market_cap": 57705320323650
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-05-26",
+    "close": 4890,
+    "open": 5450,
+    "high": 5450,
+    "low": 4800,
+    "volume": 29821500,
+    "market_cap": 51539546371260
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-05-29",
+    "close": 4730,
+    "open": 4630,
+    "high": 4860,
+    "low": 4520,
+    "volume": 64386300,
+    "market_cap": 49853180845820
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-06-02",
+    "close": 4730,
+    "open": 4750,
+    "high": 4840,
+    "low": 4580,
+    "volume": 20402000,
+    "market_cap": 49853180845820
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-06-03",
+    "close": 4320,
+    "open": 4750,
+    "high": 4760,
+    "low": 4120,
+    "volume": 41882600,
+    "market_cap": 45531869186880
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-06-04",
+    "close": 4390,
+    "open": 4320,
+    "high": 4420,
+    "low": 3960,
+    "volume": 27343000,
+    "market_cap": 46269654104260
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-06-05",
+    "close": 4570,
+    "open": 4650,
+    "high": 4830,
+    "low": 4430,
+    "volume": 38589600,
+    "market_cap": 48166815320380
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-06-08",
+    "close": 4240,
+    "open": 4300,
+    "high": 4610,
+    "low": 4090,
+    "volume": 28829500,
+    "market_cap": 44688686424160
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-06-09",
+    "close": 4710,
+    "open": 4240,
+    "high": 4810,
+    "low": 4160,
+    "volume": 37430700,
+    "market_cap": 49642385155140
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-06-10",
+    "close": 4550,
+    "open": 4710,
+    "high": 4860,
+    "low": 4530,
+    "volume": 27708400,
+    "market_cap": 47956019629700
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-06-11",
+    "close": 4270,
+    "open": 4520,
+    "high": 4540,
+    "low": 4240,
+    "volume": 19828200,
+    "market_cap": 45004879960180
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-06-12",
+    "close": 4710,
+    "open": 4370,
+    "high": 4900,
+    "low": 4370,
+    "volume": 29480800,
+    "market_cap": 49642385155140
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-06-15",
+    "close": 5075,
+    "open": 4900,
+    "high": 5475,
+    "low": 4840,
+    "volume": 41972300,
+    "market_cap": 53489406510050
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-06-17",
+    "close": 4990,
+    "open": 5100,
+    "high": 5325,
+    "low": 4960,
+    "volume": 11675000,
+    "market_cap": 52593524824660
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-06-18",
+    "close": 5125,
+    "open": 5025,
+    "high": 5200,
+    "low": 4910,
+    "volume": 10189800,
+    "market_cap": 54016395736750
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-06-19",
+    "close": 5075,
+    "open": 5175,
+    "high": 5200,
+    "low": 4990,
+    "volume": 9273300,
+    "market_cap": 53489406510050
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-06-22",
+    "close": 5175,
+    "open": 5350,
+    "high": 5350,
+    "low": 5125,
+    "volume": 17085200,
+    "market_cap": 54543384963450
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-06-23",
+    "close": 4960,
+    "open": 5175,
+    "high": 5250,
+    "low": 4910,
+    "volume": 9847000,
+    "market_cap": 52277331288640
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-06-24",
+    "close": 4590,
+    "open": 4980,
+    "high": 4990,
+    "low": 4590,
+    "volume": 18753600,
+    "market_cap": 48377611011060
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-06-25",
+    "close": 4530,
+    "open": 4540,
+    "high": 4610,
+    "low": 4460,
+    "volume": 21915900,
+    "market_cap": 47745223939020
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-06-26",
+    "close": 4450,
+    "open": 4520,
+    "high": 4560,
+    "low": 4330,
+    "volume": 10268200,
+    "market_cap": 46902041176300
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-06-29",
+    "close": 4400,
+    "open": 4430,
+    "high": 4490,
+    "low": 4330,
+    "volume": 6526600,
+    "market_cap": 46375051949600
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-06-30",
+    "close": 4120,
+    "open": 4370,
+    "high": 4370,
+    "low": 4120,
+    "volume": 17645700,
+    "market_cap": 43423912280080
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-07-01",
+    "close": 4330,
+    "open": 4190,
+    "high": 4450,
+    "low": 4170,
+    "volume": 16524900,
+    "market_cap": 45637267032220
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-07-02",
+    "close": 4340,
+    "open": 4330,
+    "high": 4430,
+    "low": 4280,
+    "volume": 10993500,
+    "market_cap": 45742664877560
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-07-03",
+    "close": 4580,
+    "open": 4410,
+    "high": 4740,
+    "low": 4410,
+    "volume": 20347400,
+    "market_cap": 48272213165720
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-07-06",
+    "close": 4580,
+    "open": 4600,
+    "high": 4650,
+    "low": 4540,
+    "volume": 8396800,
+    "market_cap": 48272213165720
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-07-07",
+    "close": 4620,
+    "open": 4600,
+    "high": 4630,
+    "low": 4500,
+    "volume": 5154700,
+    "market_cap": 48693804547080
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-07-08",
+    "close": 4510,
+    "open": 4590,
+    "high": 4620,
+    "low": 4500,
+    "volume": 7577500,
+    "market_cap": 47534428248340
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-07-09",
+    "close": 4600,
+    "open": 4510,
+    "high": 4610,
+    "low": 4460,
+    "volume": 7979100,
+    "market_cap": 48483008856400
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-07-10",
+    "close": 4690,
+    "open": 4620,
+    "high": 4750,
+    "low": 4620,
+    "volume": 9207500,
+    "market_cap": 49431589464460
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-07-13",
+    "close": 4740,
+    "open": 4720,
+    "high": 4740,
+    "low": 4600,
+    "volume": 5186000,
+    "market_cap": 49958578691160
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-07-14",
+    "close": 4930,
+    "open": 4750,
+    "high": 5100,
+    "low": 4750,
+    "volume": 17448000,
+    "market_cap": 51961137752620
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-07-15",
+    "close": 4930,
+    "open": 4970,
+    "high": 4990,
+    "low": 4840,
+    "volume": 9149000,
+    "market_cap": 51961137752620
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-07-16",
+    "close": 4960,
+    "open": 4930,
+    "high": 5125,
+    "low": 4880,
+    "volume": 10728300,
+    "market_cap": 52277331288640
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-07-17",
+    "close": 4910,
+    "open": 4950,
+    "high": 4950,
+    "low": 4870,
+    "volume": 9152000,
+    "market_cap": 51750342061940
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-07-20",
+    "close": 4920,
+    "open": 4900,
+    "high": 5000,
+    "low": 4900,
+    "volume": 9256800,
+    "market_cap": 51855739907280
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-07-21",
+    "close": 4940,
+    "open": 4950,
+    "high": 5050,
+    "low": 4910,
+    "volume": 11237700,
+    "market_cap": 52066535597960
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-07-22",
+    "close": 5000,
+    "open": 4950,
+    "high": 5025,
+    "low": 4920,
+    "volume": 12866600,
+    "market_cap": 52698922670000
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-07-23",
+    "close": 5075,
+    "open": 5000,
+    "high": 5275,
+    "low": 5000,
+    "volume": 25171600,
+    "market_cap": 53489406510050
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-07-24",
+    "close": 4870,
+    "open": 5025,
+    "high": 5025,
+    "low": 4820,
+    "volume": 22204100,
+    "market_cap": 51328750680580
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-07-27",
+    "close": 4770,
+    "open": 4870,
+    "high": 4870,
+    "low": 4750,
+    "volume": 9019900,
+    "market_cap": 50274772227180
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-07-28",
+    "close": 4750,
+    "open": 4620,
+    "high": 4800,
+    "low": 4620,
+    "volume": 4743100,
+    "market_cap": 50063976536500
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-07-29",
+    "close": 4640,
+    "open": 4820,
+    "high": 4820,
+    "low": 4630,
+    "volume": 11547900,
+    "market_cap": 48904600237760
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-07-30",
+    "close": 4900,
+    "open": 4730,
+    "high": 5050,
+    "low": 4730,
+    "volume": 23319700,
+    "market_cap": 51644944216600
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-07-31",
+    "close": 5275,
+    "open": 5025,
+    "high": 5350,
+    "low": 4950,
+    "volume": 26967100,
+    "market_cap": 55597363416850
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-08-03",
+    "close": 5200,
+    "open": 5450,
+    "high": 5450,
+    "low": 5150,
+    "volume": 10413200,
+    "market_cap": 54806879576800
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-08-04",
+    "close": 5500,
+    "open": 5275,
+    "high": 5525,
+    "low": 5250,
+    "volume": 15610600,
+    "market_cap": 57968814937000
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-08-05",
+    "close": 5425,
+    "open": 5550,
+    "high": 5700,
+    "low": 5350,
+    "volume": 14375900,
+    "market_cap": 57178331096950
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-08-06",
+    "close": 5450,
+    "open": 5500,
+    "high": 5575,
+    "low": 5375,
+    "volume": 11906100,
+    "market_cap": 57441825710300
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-08-07",
+    "close": 5400,
+    "open": 5450,
+    "high": 5525,
+    "low": 5300,
+    "volume": 10034800,
+    "market_cap": 56914836483600
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-08-10",
+    "close": 5375,
+    "open": 5450,
+    "high": 5500,
+    "low": 5325,
+    "volume": 8312200,
+    "market_cap": 56651341870250
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-08-11",
+    "close": 5250,
+    "open": 5375,
+    "high": 5400,
+    "low": 5175,
+    "volume": 12177500,
+    "market_cap": 55333868803500
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-08-12",
+    "close": 5275,
+    "open": 5250,
+    "high": 5300,
+    "low": 5200,
+    "volume": 6177900,
+    "market_cap": 55597363416850
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-08-13",
+    "close": 5000,
+    "open": 5300,
+    "high": 5325,
+    "low": 5000,
+    "volume": 11001400,
+    "market_cap": 52698922670000
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-08-14",
+    "close": 5225,
+    "open": 5000,
+    "high": 5350,
+    "low": 5000,
+    "volume": 13555800,
+    "market_cap": 55070374190150
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-08-18",
+    "close": 5250,
+    "open": 5250,
+    "high": 5350,
+    "low": 5200,
+    "volume": 4830900,
+    "market_cap": 55333868803500
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-08-19",
+    "close": 5075,
+    "open": 5250,
+    "high": 5250,
+    "low": 5050,
+    "volume": 10367400,
+    "market_cap": 53489406510050
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-08-20",
+    "close": 5250,
+    "open": 5175,
+    "high": 5325,
+    "low": 5175,
+    "volume": 12527000,
+    "market_cap": 55333868803500
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-08-21",
+    "close": 5200,
+    "open": 5325,
+    "high": 5325,
+    "low": 5150,
+    "volume": 9881100,
+    "market_cap": 54806879576800
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-08-24",
+    "close": 5275,
+    "open": 5250,
+    "high": 5300,
+    "low": 5150,
+    "volume": 9759400,
+    "market_cap": 55597363416850
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-08-26",
+    "close": 5200,
+    "open": 5275,
+    "high": 5350,
+    "low": 5150,
+    "volume": 15526000,
+    "market_cap": 54806879576800
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-08-27",
+    "close": 5300,
+    "open": 5200,
+    "high": 5300,
+    "low": 5150,
+    "volume": 4128900,
+    "market_cap": 55860858030200
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-08-28",
+    "close": 5225,
+    "open": 5250,
+    "high": 5300,
+    "low": 5175,
+    "volume": 6132000,
+    "market_cap": 55070374190150
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-08-31",
+    "close": 5250,
+    "open": 5200,
+    "high": 5250,
+    "low": 5175,
+    "volume": 4992400,
+    "market_cap": 55333868803500
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-09-01",
+    "close": 5050,
+    "open": 5250,
+    "high": 5275,
+    "low": 5050,
+    "volume": 15195100,
+    "market_cap": 53225911896700
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-09-02",
+    "close": 4820,
+    "open": 5075,
+    "high": 5075,
+    "low": 4790,
+    "volume": 36733300,
+    "market_cap": 50801761453880
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-09-03",
+    "close": 4950,
+    "open": 4850,
+    "high": 4950,
+    "low": 4850,
+    "volume": 13681700,
+    "market_cap": 52171933443300
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-09-04",
+    "close": 4960,
+    "open": 4980,
+    "high": 5000,
+    "low": 4950,
+    "volume": 8636800,
+    "market_cap": 52277331288640
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-09-07",
+    "close": 4860,
+    "open": 4960,
+    "high": 4980,
+    "low": 4840,
+    "volume": 13840300,
+    "market_cap": 51223352835240
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-09-08",
+    "close": 4900,
+    "open": 4900,
+    "high": 4920,
+    "low": 4820,
+    "volume": 14380900,
+    "market_cap": 51644944216600
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-09-09",
+    "close": 4900,
+    "open": 4910,
+    "high": 4970,
+    "low": 4840,
+    "volume": 19011200,
+    "market_cap": 51644944216600
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-09-10",
+    "close": 4820,
+    "open": 4920,
+    "high": 4980,
+    "low": 4810,
+    "volume": 19964900,
+    "market_cap": 50801761453880
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-09-11",
+    "close": 4830,
+    "open": 4820,
+    "high": 4830,
+    "low": 4690,
+    "volume": 19973900,
+    "market_cap": 50907159299220
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-09-14",
+    "close": 4690,
+    "open": 4830,
+    "high": 4870,
+    "low": 4630,
+    "volume": 21621900,
+    "market_cap": 49431589464460
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-09-15",
+    "close": 4640,
+    "open": 4700,
+    "high": 4710,
+    "low": 4630,
+    "volume": 12017400,
+    "market_cap": 48904600237760
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-09-16",
+    "close": 4830,
+    "open": 4640,
+    "high": 4880,
+    "low": 4600,
+    "volume": 33992100,
+    "market_cap": 50907159299220
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-09-17",
+    "close": 4680,
+    "open": 4850,
+    "high": 4890,
+    "low": 4660,
+    "volume": 22491400,
+    "market_cap": 49326191619120
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-09-18",
+    "close": 4860,
+    "open": 4700,
+    "high": 4880,
+    "low": 4700,
+    "volume": 22307800,
+    "market_cap": 51223352835240
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-09-21",
+    "close": 4760,
+    "open": 4860,
+    "high": 4870,
+    "low": 4750,
+    "volume": 10172800,
+    "market_cap": 50169374381840
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-09-22",
+    "close": 4680,
+    "open": 4790,
+    "high": 4810,
+    "low": 4670,
+    "volume": 12774900,
+    "market_cap": 49326191619120
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-09-23",
+    "close": 4790,
+    "open": 4730,
+    "high": 4850,
+    "low": 4720,
+    "volume": 12982700,
+    "market_cap": 50485567917860
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-09-24",
+    "close": 4720,
+    "open": 4790,
+    "high": 4880,
+    "low": 4720,
+    "volume": 11688800,
+    "market_cap": 49747783000480
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-09-25",
+    "close": 4680,
+    "open": 4760,
+    "high": 4760,
+    "low": 4680,
+    "volume": 5911900,
+    "market_cap": 49326191619120
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-09-28",
+    "close": 4400,
+    "open": 4680,
+    "high": 4680,
+    "low": 4400,
+    "volume": 20109500,
+    "market_cap": 46375051949600
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-09-29",
+    "close": 4280,
+    "open": 4410,
+    "high": 4420,
+    "low": 4200,
+    "volume": 16484400,
+    "market_cap": 45110277805520
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-09-30",
+    "close": 4220,
+    "open": 4300,
+    "high": 4360,
+    "low": 4220,
+    "volume": 14740000,
+    "market_cap": 44477890733480
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-10-01",
+    "close": 4130,
+    "open": 4220,
+    "high": 4270,
+    "low": 4100,
+    "volume": 14138200,
+    "market_cap": 43529310125420
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-10-02",
+    "close": 4170,
+    "open": 4140,
+    "high": 4230,
+    "low": 4130,
+    "volume": 5779600,
+    "market_cap": 43950901506780
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-10-05",
+    "close": 4300,
+    "open": 4200,
+    "high": 4300,
+    "low": 4170,
+    "volume": 9208500,
+    "market_cap": 45321073496200
+  },
+  {
+    "symbol": "INCO",
+    "date": "2026-10-06",
+    "close": 4320,
+    "open": 4300,
+    "high": 4320,
+    "low": 4260,
+    "volume": 9706500,
+    "market_cap": 45531869186880
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "checks": [
+    "9 response hashes and approved request IDs",
+    "unique in-range keys and numeric/net invariants",
+    "12 broker/daily volume reconciliations",
+    "full accepted detector/lifecycle prefix unchanged",
+    "Sep30 BBCA episode carries over to Oct1",
+    "two unsupported sessions close BBCA Oct2",
+    "soft support cannot reopen Oct6",
+    "mutating Oct6 cannot change prior detector or lifecycle output",
+    "all 19 Sep30 payloads reproduce"
+  ],
+  "api_calls": 0,
+  "actual_billed_credits": null
+}

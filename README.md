@@ -123,3 +123,7 @@ React / TypeScript frontend
 
 The API is intentionally read-only. Detector methodology stays outside the
 application layer so UI/backend changes cannot silently alter research logic.
+
+## Offline pilot data
+
+The reviewed JSON packages for the ANTM/INCO/BBCA pilot, October OOS and Phase2 brokers are included in Git under `research/data/rework_phase1_v2/raw/{json_pilot,oos_october_2026,broker_phase2_preview}`. No API key or paid fetch is required to run the existing pilot or reproduce the broker views. Other raw caches and local Postman workspaces remain excluded. After installing dependencies, follow `research/SIGNAL_PHASE2_UI.md` for launching and validation. Read `DATA_NOTICE.md` before making the dataset public.

@@ -1,0 +1,39 @@
+{
+  "methodology": "Frozen v0.3.1 lifecycle on contiguous evaluated segments",
+  "engine_sha256": "0a8a8ddb7a0c49cef701c2439a456d10d50ac7196dda4a934aa257370902f482",
+  "thresholds": {
+    "support_compression": 40.0,
+    "support_activity": 25.0,
+    "support_core_metrics": 1,
+    "persistence_window": 5,
+    "established_support_count": 4,
+    "established_hard_hits": 2,
+    "close_after_unsupported": 2
+  },
+  "by_symbol": {
+    "ANTM": {
+      "episodes": 2,
+      "data_gap_sessions": 56,
+      "initial_state_unknown_sessions": 16,
+      "latest_date": "2026-09-30",
+      "latest_state": "NO_INVESTIGATION"
+    },
+    "BBCA": {
+      "episodes": 2,
+      "data_gap_sessions": 56,
+      "initial_state_unknown_sessions": 41,
+      "latest_date": "2026-09-30",
+      "latest_state": "EMERGING"
+    },
+    "INCO": {
+      "episodes": 2,
+      "data_gap_sessions": 56,
+      "initial_state_unknown_sessions": 17,
+      "latest_date": "2026-09-30",
+      "latest_state": "NO_INVESTIGATION"
+    }
+  },
+  "gap_policy": "Gap metrics/counters remain null; evaluated segments processed separately. No synthetic unsupported day, closure, or continuity across gaps. Pre-first-hit state remains unknown.",
+  "status": "Provisional research for Gate D; no product payload or UI changes",
+  "api_calls": 0
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "request_id": "49d39cda3a0161712b8ff9dcf263c8c769bae6668a4472b18c9924ad8e8c9437",
+    "filename": "OOS_01_daily_ANTM_2026-10-01_2026-10-06.json",
+    "status": "saved_200_for_review",
+    "reserved_credits": 1,
+    "reported_credits": null,
+    "reserved_at": "2026-10-06T14:55:32.104735+00:00",
+    "http_status": 200,
+    "response_sha256": "254d5ab94e9071f476c34c72488703baef4cb52615548997b0d6f4503040a2a5",
+    "saved_at": "2026-10-06T14:55:32.606982+00:00",
+    "missing_dates": []
+  },
+  {
+    "request_id": "524df19350ac382d9cf33f4e4fa6941512525f62256d9f70bb93b4573733ec75",
+    "filename": "OOS_02_foreign-flow_ANTM_2026-10-01_2026-10-06.json",
+    "status": "saved_200_for_review",
+    "reserved_credits": 1,
+    "reported_credits": null,
+    "reserved_at": "2026-10-06T14:55:32.696792+00:00",
+    "http_status": 200,
+    "response_sha256": "d85ab067e3536c53426d522c5810348de84c47e7f88e3f360fc2e767953292f0",
+    "saved_at": "2026-10-06T14:55:32.877674+00:00",
+    "missing_dates": []
+  },
+  {
+    "request_id": "4d7808e49392a252ff509ae44e38ab2e176cfa6cbcb2514e9a787832732f95ee",
+    "filename": "OOS_03_broker-summary_ANTM_2026-10-01_2026-10-06.json",
+    "status": "saved_200_for_review",
+    "reserved_credits": 1,
+    "reported_credits": null,
+    "reserved_at": "2026-10-06T14:55:32.946390+00:00",
+    "http_status": 200,
+    "response_sha256": "9afcbca6192bda6f123f3a5956eb5b65a3405b097f8fe806efacd46650d316cd",
+    "saved_at": "2026-10-06T14:55:33.227826+00:00",
+    "missing_dates": []
+  },
+  {
+    "request_id": "b7c0fe197b8eef044425ccb6bef3f27a91acda0f7d3b5ddae7069430fdce18ef",
+    "filename": "OOS_04_daily_INCO_2026-10-01_2026-10-06.json",
+    "status": "saved_200_for_review",
+    "reserved_credits": 1,
+    "reported_credits": null,
+    "reserved_at": "2026-10-06T14:55:33.300221+00:00",
+    "http_status": 200,
+    "response_sha256": "74652494b6988974b59047b6edc43a9b87d66d083e89a9a711eeb69e2bbf8797",
+    "saved_at": "2026-10-06T14:55:33.539762+00:00",
+    "missing_dates": []
+  },
+  {
+    "request_id": "d98d10d051ea4af184afec586d849c7790e4d0d4acd4b7d766dfce243f19afd9",
+    "filename": "OOS_05_foreign-flow_INCO_2026-10-01_2026-10-06.json",
+    "status": "saved_200_for_review",
+    "reserved_credits": 1,
+    "reported_credits": null,
+    "reserved_at": "2026-10-06T14:55:33.627555+00:00",
+    "http_status": 200,
+    "response_sha256": "86ba103080e14f658b24ea207a541864ccbe8a3fb7c7fd92ed0293a0d39db083",
+    "saved_at": "2026-10-06T14:55:33.839522+00:00",
+    "missing_dates": []
+  },
+  {
+    "request_id": "e14d1816ee76ea979be8d1336c7084a026c068ff4da8a0b9b47cfeb9e6631958",
+    "filename": "OOS_06_broker-summary_INCO_2026-10-01_2026-10-06.json",
+    "status": "saved_200_for_review",
+    "reserved_credits": 1,
+    "reported_credits": null,
+    "reserved_at": "2026-10-06T14:55:33.928640+00:00",
+    "http_status": 200,
+    "response_sha256": "9de29f37e02e3e95ee6a58e01474b15a567873d61da9e32c0d4561379ac107c1",
+    "saved_at": "2026-10-06T14:55:34.137477+00:00",
+    "missing_dates": []
+  },
+  {
+    "request_id": "c0df4b20992626111f3b4d98bfb8d1bf9e2006f7a8702b9de7c37b669b359c8a",
+    "filename": "OOS_07_daily_BBCA_2026-10-01_2026-10-06.json",
+    "status": "saved_200_for_review",
+    "reserved_credits": 1,
+    "reported_credits": null,
+    "reserved_at": "2026-10-06T14:55:34.235801+00:00",
+    "http_status": 200,
+    "response_sha256": "33f93dd4912da124e03bdacab23826731fc9b028e45a7e3a79d412e0f2d2328e",
+    "saved_at": "2026-10-06T14:55:34.474686+00:00",
+    "missing_dates": []
+  },
+  {
+    "request_id": "37ae9f20022f6d1176d3edb4146f2bb119ccca938f200007f8435ec5f688ffcd",
+    "filename": "OOS_08_foreign-flow_BBCA_2026-10-01_2026-10-06.json",
+    "status": "saved_200_for_review",
+    "reserved_credits": 1,
+    "reported_credits": null,
+    "reserved_at": "2026-10-06T14:55:34.547230+00:00",
+    "http_status": 200,
+    "response_sha256": "45ce16d54c8465d893b6e39eeca810f72ef4b0327c86389eae5555528d1444c2",
+    "saved_at": "2026-10-06T14:55:34.785502+00:00",
+    "missing_dates": []
+  },
+  {
+    "request_id": "edba36b6fd1fec360d33152d99456f458d0ab9bca8e46be03848f6cd6071b786",
+    "filename": "OOS_09_broker-summary_BBCA_2026-10-01_2026-10-06.json",
+    "status": "saved_200_for_review",
+    "reserved_credits": 1,
+    "reported_credits": null,
+    "reserved_at": "2026-10-06T14:55:34.838745+00:00",
+    "http_status": 200,
+    "response_sha256": "0f3852de2731784a48fb9cfc084c43f356a6d1a14c459c2260f644e2dc777a2e",
+    "saved_at": "2026-10-06T14:55:35.036590+00:00",
+    "missing_dates": []
+  }
+]

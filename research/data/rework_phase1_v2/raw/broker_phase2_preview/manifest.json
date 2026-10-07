@@ -1,0 +1,124 @@
+{
+  "phase": "PHASE2_BROKER_RESEARCH_PREVIEW",
+  "analysis_start": "2026-04-01",
+  "as_of": "2026-10-06",
+  "symbols": [
+    "ANTM",
+    "INCO",
+    "BBCA"
+  ],
+  "source_sha256": {
+    "daily": "b6bcc2c16cd8d625c73dce67c8fed2e19f3e9cbc7f338104bdaff1f99a23be42",
+    "foreign_flow": "9d5b5ee11aa57f62b26a506d83fa0b36479ea0a8ac71ced7cd0f7e07578d2e43",
+    "broker_activity": "e18159365f9f7a10da90b20e5abb50d525573bce32dda10be75431a008e04286",
+    "broker_registry": "07549aab92306d8e0cf8c02c03110a9b7fe74ff4e0b00177844e3835885c3e7f"
+  },
+  "parent_pilot_source_sha256": {
+    "daily": "aa3facfff3f66258f3dd911dfb6a0209183383a655d7eef04d4036aaead68950",
+    "foreign_flow": "d6b4f19a117c34e7d5eb6b23c63c618a324c52f450f982c3d764fd1aaafc09ac",
+    "broker_activity": "ff4008252ef0269d5747d1f6b4156d1b62c3ae71dfe39765cb97a8ebb4f7709e",
+    "broker_registry": "07549aab92306d8e0cf8c02c03110a9b7fe74ff4e0b00177844e3835885c3e7f"
+  },
+  "lifecycle_timeline_sha256": "544ef5b228bbcacefd4183afcce322cede8c00d0321b9115453f9c5af7d8decc",
+  "session_files": 375,
+  "returned_broker_session_rows": 22759,
+  "included_broker_session_rows": 22759,
+  "all_returned_rows_retained": true,
+  "quality_counts": {
+    "BROKER_DATA_MISSING": 9,
+    "RECONCILED_RESEARCH_CANDIDATE": 363,
+    "VOLUME_SCOPE_MISMATCH": 3
+  },
+  "registry_unlisted_codes": [
+    "--",
+    "AN",
+    "JB"
+  ],
+  "episode_count": 6,
+  "episodes": [
+    {
+      "investigation_id": "ANTM-20260722-01",
+      "symbol": "ANTM",
+      "start": "2026-07-22",
+      "last_observed_date": "2026-07-27",
+      "observed_sessions": 4,
+      "last_state": "CLOSED",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "end_status": "OBSERVED_CLOSED",
+      "returned_broker_count": 77,
+      "path": "episodes/ANTM-20260722-01.json"
+    },
+    {
+      "investigation_id": "ANTM-20260909-02",
+      "symbol": "ANTM",
+      "start": "2026-09-09",
+      "last_observed_date": "2026-09-11",
+      "observed_sessions": 3,
+      "last_state": "CLOSED",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "end_status": "OBSERVED_CLOSED",
+      "returned_broker_count": 81,
+      "path": "episodes/ANTM-20260909-02.json"
+    },
+    {
+      "investigation_id": "BBCA-20260828-01",
+      "symbol": "BBCA",
+      "start": "2026-08-28",
+      "last_observed_date": "2026-09-02",
+      "observed_sessions": 4,
+      "last_state": "CLOSED",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "end_status": "OBSERVED_CLOSED",
+      "returned_broker_count": 80,
+      "path": "episodes/BBCA-20260828-01.json"
+    },
+    {
+      "investigation_id": "BBCA-20260930-02",
+      "symbol": "BBCA",
+      "start": "2026-09-30",
+      "last_observed_date": "2026-10-02",
+      "observed_sessions": 3,
+      "last_state": "CLOSED",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "end_status": "OBSERVED_CLOSED",
+      "returned_broker_count": 76,
+      "path": "episodes/BBCA-20260930-02.json"
+    },
+    {
+      "investigation_id": "INCO-20260723-01",
+      "symbol": "INCO",
+      "start": "2026-07-23",
+      "last_observed_date": "2026-07-28",
+      "observed_sessions": 4,
+      "last_state": "CLOSED",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "end_status": "OBSERVED_CLOSED",
+      "returned_broker_count": 67,
+      "path": "episodes/INCO-20260723-01.json"
+    },
+    {
+      "investigation_id": "INCO-20260909-02",
+      "symbol": "INCO",
+      "start": "2026-09-09",
+      "last_observed_date": "2026-09-14",
+      "observed_sessions": 4,
+      "last_state": "CLOSED",
+      "close_reason": "TWO_UNSUPPORTED_SESSIONS",
+      "end_status": "OBSERVED_CLOSED",
+      "returned_broker_count": 70,
+      "path": "episodes/INCO-20260909-02.json"
+    }
+  ],
+  "api_calls": 0,
+  "product_payloads_changed": false,
+  "policies": {
+    "lot_size": 100,
+    "net_flat_retained": true,
+    "no_top5_filter_for_full_table": true,
+    "weighted_price": "Sum gross value / (sum lots * 100); undefined when zero lots.",
+    "origin": "Registry describes broker company origin, not investor nationality.",
+    "missing": "Unreturned broker/date remains null; no zero fill.",
+    "mismatches": "Raw rows visible with warning; excluded from continuity streaks.",
+    "snapshot": "Broker research extends to Oct6; accepted product SIGNAL remains Sep30."
+  }
+}

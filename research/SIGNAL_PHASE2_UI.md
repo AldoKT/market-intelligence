@@ -4,7 +4,7 @@ Accepted direction: retain every broker returned by the source, including flat n
 
 ## Run
 
-Use the existing `run_pilot_windows.ps1 -Mode Backend` and `-Mode Frontend` launcher. The Broker tab requires the JSON pilot profile. Default data directory is `research/data/rework_phase1_v2/raw/broker_phase2_preview`; override with `SIGNAL_BROKER_DIR` if needed. This dataset is Git ignored and must be retained/backed up locally. No API key, external requests or fetcher are used by these endpoints.
+Use the existing `run_pilot_windows.ps1 -Mode Backend` and `-Mode Frontend` launcher. The Broker tab requires the JSON pilot profile. Default data directory is `research/data/rework_phase1_v2/raw/broker_phase2_preview`; override with `SIGNAL_BROKER_DIR` if needed. The reviewed pilot, OOS and broker packages are tracked so a clone can run and reproduce the pilot offline. Other raw caches and local Postman workspaces remain ignored. See DATA_NOTICE.md before public redistribution. No API key, external requests or fetcher are used by these endpoints.
 
 To regenerate the local preview after an independently reviewed source change:
 

@@ -1,0 +1,51 @@
+{
+  "analysis_start": "2026-10-01",
+  "analysis_end": "2026-10-06",
+  "zip_sha256": "7b2bdad15f53d43aca71418e2fce6c365aebee43a2464e60e2340944078ca12d",
+  "source_sha256": {
+    "daily": "aa3facfff3f66258f3dd911dfb6a0209183383a655d7eef04d4036aaead68950",
+    "foreign_flow": "d6b4f19a117c34e7d5eb6b23c63c618a324c52f450f982c3d764fd1aaafc09ac",
+    "broker_activity": "ff4008252ef0269d5747d1f6b4156d1b62c3ae71dfe39765cb97a8ebb4f7709e",
+    "broker_registry": "07549aab92306d8e0cf8c02c03110a9b7fe74ff4e0b00177844e3835885c3e7f"
+  },
+  "frozen_engines_sha256": {
+    "signal_detector_v0_2.py": "24337a6e2626a4ddb518b2cb081e75d8957ddda812500cf20d4f9930e0354324",
+    "signal_engine_v0_3_1.py": "0a8a8ddb7a0c49cef701c2439a456d10d50ac7196dda4a934aa257370902f482"
+  },
+  "http_200_requests": 9,
+  "response_hashes_verified": 9,
+  "reserved_credits": 9,
+  "actual_billed_credits": null,
+  "account_billing_reconciliation": "Pending; local reservation is not proof of billed credits.",
+  "coverage_complete": true,
+  "oos_symbol_sessions": 12,
+  "oos_volume_scope_mismatches": [],
+  "by_symbol": {
+    "ANTM": {
+      "sessions": 4,
+      "evaluated": 4,
+      "hard_hits": [],
+      "latest_state": "NO_INVESTIGATION"
+    },
+    "INCO": {
+      "sessions": 4,
+      "evaluated": 4,
+      "hard_hits": [],
+      "latest_state": "NO_INVESTIGATION"
+    },
+    "BBCA": {
+      "sessions": 4,
+      "evaluated": 4,
+      "hard_hits": [],
+      "latest_state": "NO_INVESTIGATION"
+    }
+  },
+  "new_episodes": [],
+  "outcomes": [],
+  "pilot_detector_prefix_unchanged": true,
+  "pilot_lifecycle_prefix_unchanged": true,
+  "baseline_policy": "Full accepted history reused; 24 preceding sessions, prior20 metrics; no current/future baseline leakage.",
+  "new_api_calls": 0,
+  "market_scope_independently_verified": false,
+  "conclusion": "Initial technical OOS only; four sessions cannot establish robustness or a five-session prediction claim."
+}

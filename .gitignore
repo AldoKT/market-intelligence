@@ -36,3 +36,18 @@ signal_backtest_output/raw/
 
 # Local enrichment scratch
 .tmp_raw_enrichment/
+
+# Local Postman workspace/history; reviewed application data is tracked below.
+.postman/
+postman/
+
+# Explicitly approved SIGNAL pilot/OOS/broker JSON packages only.
+# Other API raw caches remain excluded.
+!research/data/rework_phase1_v2/raw/
+research/data/rework_phase1_v2/raw/*
+!research/data/rework_phase1_v2/raw/json_pilot/
+!research/data/rework_phase1_v2/raw/json_pilot/**
+!research/data/rework_phase1_v2/raw/oos_october_2026/
+!research/data/rework_phase1_v2/raw/oos_october_2026/**
+!research/data/rework_phase1_v2/raw/broker_phase2_preview/
+!research/data/rework_phase1_v2/raw/broker_phase2_preview/**

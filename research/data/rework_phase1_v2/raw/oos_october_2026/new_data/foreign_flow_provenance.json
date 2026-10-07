@@ -1,0 +1,146 @@
+[
+  {
+    "key": [
+      "ANTM",
+      "2026-10-01"
+    ],
+    "sources": [
+      {
+        "file": "OOS_02_foreign-flow_ANTM_2026-10-01_2026-10-06.json",
+        "sha256": "d85ab067e3536c53426d522c5810348de84c47e7f88e3f360fc2e767953292f0"
+      }
+    ]
+  },
+  {
+    "key": [
+      "ANTM",
+      "2026-10-02"
+    ],
+    "sources": [
+      {
+        "file": "OOS_02_foreign-flow_ANTM_2026-10-01_2026-10-06.json",
+        "sha256": "d85ab067e3536c53426d522c5810348de84c47e7f88e3f360fc2e767953292f0"
+      }
+    ]
+  },
+  {
+    "key": [
+      "ANTM",
+      "2026-10-05"
+    ],
+    "sources": [
+      {
+        "file": "OOS_02_foreign-flow_ANTM_2026-10-01_2026-10-06.json",
+        "sha256": "d85ab067e3536c53426d522c5810348de84c47e7f88e3f360fc2e767953292f0"
+      }
+    ]
+  },
+  {
+    "key": [
+      "ANTM",
+      "2026-10-06"
+    ],
+    "sources": [
+      {
+        "file": "OOS_02_foreign-flow_ANTM_2026-10-01_2026-10-06.json",
+        "sha256": "d85ab067e3536c53426d522c5810348de84c47e7f88e3f360fc2e767953292f0"
+      }
+    ]
+  },
+  {
+    "key": [
+      "INCO",
+      "2026-10-01"
+    ],
+    "sources": [
+      {
+        "file": "OOS_05_foreign-flow_INCO_2026-10-01_2026-10-06.json",
+        "sha256": "86ba103080e14f658b24ea207a541864ccbe8a3fb7c7fd92ed0293a0d39db083"
+      }
+    ]
+  },
+  {
+    "key": [
+      "INCO",
+      "2026-10-02"
+    ],
+    "sources": [
+      {
+        "file": "OOS_05_foreign-flow_INCO_2026-10-01_2026-10-06.json",
+        "sha256": "86ba103080e14f658b24ea207a541864ccbe8a3fb7c7fd92ed0293a0d39db083"
+      }
+    ]
+  },
+  {
+    "key": [
+      "INCO",
+      "2026-10-05"
+    ],
+    "sources": [
+      {
+        "file": "OOS_05_foreign-flow_INCO_2026-10-01_2026-10-06.json",
+        "sha256": "86ba103080e14f658b24ea207a541864ccbe8a3fb7c7fd92ed0293a0d39db083"
+      }
+    ]
+  },
+  {
+    "key": [
+      "INCO",
+      "2026-10-06"
+    ],
+    "sources": [
+      {
+        "file": "OOS_05_foreign-flow_INCO_2026-10-01_2026-10-06.json",
+        "sha256": "86ba103080e14f658b24ea207a541864ccbe8a3fb7c7fd92ed0293a0d39db083"
+      }
+    ]
+  },
+  {
+    "key": [
+      "BBCA",
+      "2026-10-01"
+    ],
+    "sources": [
+      {
+        "file": "OOS_08_foreign-flow_BBCA_2026-10-01_2026-10-06.json",
+        "sha256": "45ce16d54c8465d893b6e39eeca810f72ef4b0327c86389eae5555528d1444c2"
+      }
+    ]
+  },
+  {
+    "key": [
+      "BBCA",
+      "2026-10-02"
+    ],
+    "sources": [
+      {
+        "file": "OOS_08_foreign-flow_BBCA_2026-10-01_2026-10-06.json",
+        "sha256": "45ce16d54c8465d893b6e39eeca810f72ef4b0327c86389eae5555528d1444c2"
+      }
+    ]
+  },
+  {
+    "key": [
+      "BBCA",
+      "2026-10-05"
+    ],
+    "sources": [
+      {
+        "file": "OOS_08_foreign-flow_BBCA_2026-10-01_2026-10-06.json",
+        "sha256": "45ce16d54c8465d893b6e39eeca810f72ef4b0327c86389eae5555528d1444c2"
+      }
+    ]
+  },
+  {
+    "key": [
+      "BBCA",
+      "2026-10-06"
+    ],
+    "sources": [
+      {
+        "file": "OOS_08_foreign-flow_BBCA_2026-10-01_2026-10-06.json",
+        "sha256": "45ce16d54c8465d893b6e39eeca810f72ef4b0327c86389eae5555528d1444c2"
+      }
+    ]
+  }
+]

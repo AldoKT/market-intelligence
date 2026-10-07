@@ -1,0 +1,40 @@
+{
+  "symbol": "ANTM",
+  "date": "2026-04-22",
+  "quality": {
+    "status": "BROKER_DATA_MISSING",
+    "scope_verified": false,
+    "broker_volume_shares": null,
+    "daily_volume_shares": 81890600,
+    "buy_sell_balanced": null
+  },
+  "signal_context": {
+    "spot_hit": null,
+    "evaluation_status": "NOT_EVALUATED",
+    "lifecycle_state_v2": null,
+    "investigation_id": null,
+    "supporting_session_v2": null
+  },
+  "brokers": [],
+  "summary": {
+    "returned_broker_count": 0,
+    "totals": {
+      "bval": 0,
+      "sval": 0,
+      "blot": 0,
+      "slot": 0,
+      "bfreq": 0,
+      "sfreq": 0
+    },
+    "top5_gross_buy_codes": [],
+    "top5_gross_sell_codes": [],
+    "top5_net_buy_codes": [],
+    "top5_net_sell_codes": [],
+    "top5_gross_buy_share_pct": null,
+    "top5_gross_sell_share_pct": null,
+    "role_counts": {},
+    "interpretation": "Descriptive shares of returned broker activity; no investor identity or inferred accumulation signal."
+  },
+  "all_returned_brokers_included": true,
+  "source_completeness": "All returned rows retained; independent source completeness unverified."
+}

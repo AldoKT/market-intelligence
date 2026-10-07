@@ -1,0 +1,12 @@
+{
+  "approved": true,
+  "user_evidence": "oke boleh",
+  "recorded_at": "2026-10-06T14:52:26.882932+00:00",
+  "plan_sha256": "f85e6eed132586685767fd063c8f6dbafb861456f694e8f86eac283240fcc72b",
+  "approved_max_credits": 9,
+  "approved_request_count": 9,
+  "condition": "Confirm current cost is 1 credit per request before execution",
+  "current_cost_confirmed": false,
+  "actual_billed_credits": null,
+  "requests_sent_by_preparation": 0
+}

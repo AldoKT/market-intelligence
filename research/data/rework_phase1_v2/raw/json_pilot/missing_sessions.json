@@ -1,0 +1,122 @@
+[
+  {
+    "symbol": "ANTM",
+    "table": "foreign_flow",
+    "date": "2026-03-27"
+  },
+  {
+    "symbol": "ANTM",
+    "table": "foreign_flow",
+    "date": "2026-04-01"
+  },
+  {
+    "symbol": "ANTM",
+    "table": "foreign_flow",
+    "date": "2026-04-15"
+  },
+  {
+    "symbol": "ANTM",
+    "table": "foreign_flow",
+    "date": "2026-04-22"
+  },
+  {
+    "symbol": "ANTM",
+    "table": "broker_activity",
+    "date": "2026-03-27"
+  },
+  {
+    "symbol": "ANTM",
+    "table": "broker_activity",
+    "date": "2026-04-01"
+  },
+  {
+    "symbol": "ANTM",
+    "table": "broker_activity",
+    "date": "2026-04-15"
+  },
+  {
+    "symbol": "ANTM",
+    "table": "broker_activity",
+    "date": "2026-04-22"
+  },
+  {
+    "symbol": "INCO",
+    "table": "foreign_flow",
+    "date": "2026-03-27"
+  },
+  {
+    "symbol": "INCO",
+    "table": "foreign_flow",
+    "date": "2026-04-01"
+  },
+  {
+    "symbol": "INCO",
+    "table": "foreign_flow",
+    "date": "2026-04-15"
+  },
+  {
+    "symbol": "INCO",
+    "table": "foreign_flow",
+    "date": "2026-04-22"
+  },
+  {
+    "symbol": "INCO",
+    "table": "broker_activity",
+    "date": "2026-03-27"
+  },
+  {
+    "symbol": "INCO",
+    "table": "broker_activity",
+    "date": "2026-04-01"
+  },
+  {
+    "symbol": "INCO",
+    "table": "broker_activity",
+    "date": "2026-04-15"
+  },
+  {
+    "symbol": "INCO",
+    "table": "broker_activity",
+    "date": "2026-04-22"
+  },
+  {
+    "symbol": "BBCA",
+    "table": "foreign_flow",
+    "date": "2026-03-27"
+  },
+  {
+    "symbol": "BBCA",
+    "table": "foreign_flow",
+    "date": "2026-04-01"
+  },
+  {
+    "symbol": "BBCA",
+    "table": "foreign_flow",
+    "date": "2026-04-15"
+  },
+  {
+    "symbol": "BBCA",
+    "table": "foreign_flow",
+    "date": "2026-04-22"
+  },
+  {
+    "symbol": "BBCA",
+    "table": "broker_activity",
+    "date": "2026-03-27"
+  },
+  {
+    "symbol": "BBCA",
+    "table": "broker_activity",
+    "date": "2026-04-01"
+  },
+  {
+    "symbol": "BBCA",
+    "table": "broker_activity",
+    "date": "2026-04-15"
+  },
+  {
+    "symbol": "BBCA",
+    "table": "broker_activity",
+    "date": "2026-04-22"
+  }
+]

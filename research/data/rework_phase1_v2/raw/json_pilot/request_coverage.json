@@ -1,0 +1,718 @@
+[
+  {
+    "file": "02_daily_ANTM_2026-05-04_2026-07-31.json",
+    "table": "daily",
+    "row_count": 59,
+    "sessions": 59,
+    "expected_sessions": 59,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "03_daily_ANTM_2026-08-03_2026-09-30.json",
+    "table": "daily",
+    "row_count": 41,
+    "sessions": 41,
+    "expected_sessions": 41,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "04_foreign-flow_ANTM_2026-02-02_2026-04-30.json",
+    "table": "foreign_flow",
+    "row_count": 52,
+    "sessions": 52,
+    "expected_sessions": 56,
+    "missing_dates": [
+      "2026-03-27",
+      "2026-04-01",
+      "2026-04-15",
+      "2026-04-22"
+    ],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "05_foreign-flow_ANTM_2026-05-04_2026-07-31.json",
+    "table": "foreign_flow",
+    "row_count": 59,
+    "sessions": 59,
+    "expected_sessions": 59,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "06_foreign-flow_ANTM_2026-08-03_2026-09-30.json",
+    "table": "foreign_flow",
+    "row_count": 41,
+    "sessions": 41,
+    "expected_sessions": 41,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "07_broker-summary_ANTM_2026-02-02_2026-02-13.json",
+    "table": "broker_activity",
+    "row_count": 720,
+    "sessions": 10,
+    "expected_sessions": 10,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "08_broker-summary_ANTM_2026-02-18_2026-03-03.json",
+    "table": "broker_activity",
+    "row_count": 685,
+    "sessions": 10,
+    "expected_sessions": 10,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "09_broker-summary_ANTM_2026-03-04_2026-03-17.json",
+    "table": "broker_activity",
+    "row_count": 642,
+    "sessions": 10,
+    "expected_sessions": 10,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "10_broker-summary_ANTM_2026-03-25_2026-04-07.json",
+    "table": "broker_activity",
+    "row_count": 438,
+    "sessions": 7,
+    "expected_sessions": 9,
+    "missing_dates": [
+      "2026-03-27",
+      "2026-04-01"
+    ],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "11_broker-summary_ANTM_2026-04-08_2026-04-21.json",
+    "table": "broker_activity",
+    "row_count": 554,
+    "sessions": 9,
+    "expected_sessions": 10,
+    "missing_dates": [
+      "2026-04-15"
+    ],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "12_broker-summary_ANTM_2026-04-22_2026-05-05.json",
+    "table": "broker_activity",
+    "row_count": 533,
+    "sessions": 8,
+    "expected_sessions": 9,
+    "missing_dates": [
+      "2026-04-22"
+    ],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "13_broker-summary_ANTM_2026-05-06_2026-05-19.json",
+    "table": "broker_activity",
+    "row_count": 532,
+    "sessions": 8,
+    "expected_sessions": 8,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "14_broker-summary_ANTM_2026-05-20_2026-06-02.json",
+    "table": "broker_activity",
+    "row_count": 459,
+    "sessions": 7,
+    "expected_sessions": 7,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "15_broker-summary_ANTM_2026-06-03_2026-06-15.json",
+    "table": "broker_activity",
+    "row_count": 633,
+    "sessions": 9,
+    "expected_sessions": 9,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "16_broker-summary_ANTM_2026-06-17_2026-06-30.json",
+    "table": "broker_activity",
+    "row_count": 670,
+    "sessions": 10,
+    "expected_sessions": 10,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "17_broker-summary_ANTM_2026-07-01_2026-07-14.json",
+    "table": "broker_activity",
+    "row_count": 592,
+    "sessions": 10,
+    "expected_sessions": 10,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "18_broker-summary_ANTM_2026-07-15_2026-07-28.json",
+    "table": "broker_activity",
+    "row_count": 663,
+    "sessions": 10,
+    "expected_sessions": 10,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "19_broker-summary_ANTM_2026-07-29_2026-08-11.json",
+    "table": "broker_activity",
+    "row_count": 658,
+    "sessions": 10,
+    "expected_sessions": 10,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "20_broker-summary_ANTM_2026-08-12_2026-08-24.json",
+    "table": "broker_activity",
+    "row_count": 505,
+    "sessions": 8,
+    "expected_sessions": 8,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "21_broker-summary_ANTM_2026-08-26_2026-09-08.json",
+    "table": "broker_activity",
+    "row_count": 565,
+    "sessions": 10,
+    "expected_sessions": 10,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "22_broker-summary_ANTM_2026-09-09_2026-09-22.json",
+    "table": "broker_activity",
+    "row_count": 673,
+    "sessions": 10,
+    "expected_sessions": 10,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "23_daily_INCO_2026-02-02_2026-04-30.json",
+    "table": "daily",
+    "row_count": 56,
+    "sessions": 56,
+    "expected_sessions": 56,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "24_daily_INCO_2026-05-04_2026-07-31.json",
+    "table": "daily",
+    "row_count": 59,
+    "sessions": 59,
+    "expected_sessions": 59,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "25_daily_INCO_2026-08-03_2026-09-30.json",
+    "table": "daily",
+    "row_count": 41,
+    "sessions": 41,
+    "expected_sessions": 41,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "26_foreign-flow_INCO_2026-02-02_2026-04-30.json",
+    "table": "foreign_flow",
+    "row_count": 52,
+    "sessions": 52,
+    "expected_sessions": 56,
+    "missing_dates": [
+      "2026-03-27",
+      "2026-04-01",
+      "2026-04-15",
+      "2026-04-22"
+    ],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "27_foreign-flow_INCO_2026-05-04_2026-07-31.json",
+    "table": "foreign_flow",
+    "row_count": 59,
+    "sessions": 59,
+    "expected_sessions": 59,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "28_foreign-flow_INCO_2026-08-03_2026-09-30.json",
+    "table": "foreign_flow",
+    "row_count": 41,
+    "sessions": 41,
+    "expected_sessions": 41,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "29_broker-summary_INCO_2026-02-02_2026-02-13.json",
+    "table": "broker_activity",
+    "row_count": 582,
+    "sessions": 10,
+    "expected_sessions": 10,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "30_broker-summary_INCO_2026-02-18_2026-03-03.json",
+    "table": "broker_activity",
+    "row_count": 573,
+    "sessions": 10,
+    "expected_sessions": 10,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "31_broker-summary_INCO_2026-03-04_2026-03-17.json",
+    "table": "broker_activity",
+    "row_count": 558,
+    "sessions": 10,
+    "expected_sessions": 10,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "32_broker-summary_INCO_2026-03-25_2026-04-07.json",
+    "table": "broker_activity",
+    "row_count": 356,
+    "sessions": 7,
+    "expected_sessions": 9,
+    "missing_dates": [
+      "2026-03-27",
+      "2026-04-01"
+    ],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "33_broker-summary_INCO_2026-04-08_2026-04-21.json",
+    "table": "broker_activity",
+    "row_count": 448,
+    "sessions": 9,
+    "expected_sessions": 10,
+    "missing_dates": [
+      "2026-04-15"
+    ],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "34_broker-summary_INCO_2026-04-22_2026-05-05.json",
+    "table": "broker_activity",
+    "row_count": 411,
+    "sessions": 8,
+    "expected_sessions": 9,
+    "missing_dates": [
+      "2026-04-22"
+    ],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "35_broker-summary_INCO_2026-05-06_2026-05-19.json",
+    "table": "broker_activity",
+    "row_count": 468,
+    "sessions": 8,
+    "expected_sessions": 8,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "36_broker-summary_INCO_2026-05-20_2026-06-02.json",
+    "table": "broker_activity",
+    "row_count": 389,
+    "sessions": 7,
+    "expected_sessions": 7,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "37_broker-summary_INCO_2026-06-03_2026-06-15.json",
+    "table": "broker_activity",
+    "row_count": 513,
+    "sessions": 9,
+    "expected_sessions": 9,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "38_broker-summary_INCO_2026-06-17_2026-06-30.json",
+    "table": "broker_activity",
+    "row_count": 494,
+    "sessions": 10,
+    "expected_sessions": 10,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "39_broker-summary_INCO_2026-07-01_2026-07-14.json",
+    "table": "broker_activity",
+    "row_count": 486,
+    "sessions": 10,
+    "expected_sessions": 10,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "40_broker-summary_INCO_2026-07-15_2026-07-28.json",
+    "table": "broker_activity",
+    "row_count": 518,
+    "sessions": 10,
+    "expected_sessions": 10,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "41_broker-summary_INCO_2026-07-29_2026-08-11.json",
+    "table": "broker_activity",
+    "row_count": 529,
+    "sessions": 10,
+    "expected_sessions": 10,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "42_broker-summary_INCO_2026-08-12_2026-08-24.json",
+    "table": "broker_activity",
+    "row_count": 394,
+    "sessions": 8,
+    "expected_sessions": 8,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "43_broker-summary_INCO_2026-08-26_2026-09-08.json",
+    "table": "broker_activity",
+    "row_count": 532,
+    "sessions": 10,
+    "expected_sessions": 10,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "44_broker-summary_INCO_2026-09-09_2026-09-22.json",
+    "table": "broker_activity",
+    "row_count": 551,
+    "sessions": 10,
+    "expected_sessions": 10,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "45_broker-summary_INCO_2026-09-23_2026-09-30.json",
+    "table": "broker_activity",
+    "row_count": 326,
+    "sessions": 6,
+    "expected_sessions": 6,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "46_daily_BBCA_2026-02-02_2026-04-30.json",
+    "table": "daily",
+    "row_count": 56,
+    "sessions": 56,
+    "expected_sessions": 56,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "47_daily_BBCA_2026-05-04_2026-07-31.json",
+    "table": "daily",
+    "row_count": 59,
+    "sessions": 59,
+    "expected_sessions": 59,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "48_daily_BBCA_2026-08-03_2026-09-30.json",
+    "table": "daily",
+    "row_count": 41,
+    "sessions": 41,
+    "expected_sessions": 41,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "49_foreign-flow_BBCA_2026-02-02_2026-04-30.json",
+    "table": "foreign_flow",
+    "row_count": 52,
+    "sessions": 52,
+    "expected_sessions": 56,
+    "missing_dates": [
+      "2026-03-27",
+      "2026-04-01",
+      "2026-04-15",
+      "2026-04-22"
+    ],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "50_foreign-flow_BBCA_2026-05-04_2026-07-31.json",
+    "table": "foreign_flow",
+    "row_count": 59,
+    "sessions": 59,
+    "expected_sessions": 59,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "51_foreign-flow_BBCA_2026-08-03_2026-09-30.json",
+    "table": "foreign_flow",
+    "row_count": 41,
+    "sessions": 41,
+    "expected_sessions": 41,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "52_broker-summary_BBCA_2026-02-02_2026-02-13.json",
+    "table": "broker_activity",
+    "row_count": 765,
+    "sessions": 10,
+    "expected_sessions": 10,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "53_broker-summary_BBCA_2026-02-18_2026-03-03.json",
+    "table": "broker_activity",
+    "row_count": 706,
+    "sessions": 10,
+    "expected_sessions": 10,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "54_broker-summary_BBCA_2026-03-04_2026-03-17.json",
+    "table": "broker_activity",
+    "row_count": 729,
+    "sessions": 10,
+    "expected_sessions": 10,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "55_broker-summary_BBCA_2026-03-25_2026-04-07.json",
+    "table": "broker_activity",
+    "row_count": 494,
+    "sessions": 7,
+    "expected_sessions": 9,
+    "missing_dates": [
+      "2026-03-27",
+      "2026-04-01"
+    ],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "56_broker-summary_BBCA_2026-04-08_2026-04-21.json",
+    "table": "broker_activity",
+    "row_count": 655,
+    "sessions": 9,
+    "expected_sessions": 10,
+    "missing_dates": [
+      "2026-04-15"
+    ],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "57_broker-summary_BBCA_2026-04-22_2026-05-05.json",
+    "table": "broker_activity",
+    "row_count": 612,
+    "sessions": 8,
+    "expected_sessions": 9,
+    "missing_dates": [
+      "2026-04-22"
+    ],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "58_broker-summary_BBCA_2026-05-06_2026-05-19.json",
+    "table": "broker_activity",
+    "row_count": 562,
+    "sessions": 8,
+    "expected_sessions": 8,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "59_broker-summary_BBCA_2026-05-20_2026-06-02.json",
+    "table": "broker_activity",
+    "row_count": 519,
+    "sessions": 7,
+    "expected_sessions": 7,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "60_broker-summary_BBCA_2026-06-03_2026-06-15.json",
+    "table": "broker_activity",
+    "row_count": 734,
+    "sessions": 9,
+    "expected_sessions": 9,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "61_broker-summary_BBCA_2026-06-17_2026-06-30.json",
+    "table": "broker_activity",
+    "row_count": 736,
+    "sessions": 10,
+    "expected_sessions": 10,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "62_broker-summary_BBCA_2026-07-01_2026-07-14.json",
+    "table": "broker_activity",
+    "row_count": 703,
+    "sessions": 10,
+    "expected_sessions": 10,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "63_broker-summary_BBCA_2026-07-15_2026-07-28.json",
+    "table": "broker_activity",
+    "row_count": 690,
+    "sessions": 10,
+    "expected_sessions": 10,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "64_broker-summary_BBCA_2026-07-29_2026-08-11.json",
+    "table": "broker_activity",
+    "row_count": 665,
+    "sessions": 10,
+    "expected_sessions": 10,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "65_broker-summary_BBCA_2026-08-12_2026-08-24.json",
+    "table": "broker_activity",
+    "row_count": 494,
+    "sessions": 8,
+    "expected_sessions": 8,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "66_broker-summary_BBCA_2026-08-26_2026-09-08.json",
+    "table": "broker_activity",
+    "row_count": 619,
+    "sessions": 10,
+    "expected_sessions": 10,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "67_broker-summary_BBCA_2026-09-09_2026-09-22.json",
+    "table": "broker_activity",
+    "row_count": 687,
+    "sessions": 10,
+    "expected_sessions": 10,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "68_broker-summary_BBCA_2026-09-23_2026-09-30.json",
+    "table": "broker_activity",
+    "row_count": 392,
+    "sessions": 6,
+    "expected_sessions": 6,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  },
+  {
+    "file": "69_brokers_registry_snapshot_.json",
+    "table": "broker_registry",
+    "row_count": 88,
+    "sessions": 0,
+    "expected_sessions": 0,
+    "missing_dates": [],
+    "unexpected_dates": [],
+    "duplicate_keys": 0
+  }
+]
