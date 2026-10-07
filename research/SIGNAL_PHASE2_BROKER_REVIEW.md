@@ -15,4 +15,8 @@ Contoh daftar lengkap 6 Oktober:
 | INCO | 51 | KZ, YP, XL, PP, YU | CC, BK, AK, MG, DR |
 | BBCA | 63 | AK, ZP, YU, BB, SQ | KZ, DX, BK, CC, PD |
 
-Berikutnya: backend read-only dan UI tabel lengkap dengan pencarian/sort, pilihan sesi/episode, ringkasan dominan serta detail riwayat per broker. Preview riset berakhir 6 Oktober; dashboard SIGNAL yang diterima tetap 30 September. UI perlu menyatakan tanggal agar kedua snapshot tidak tercampur. Pengukuran ini deskriptif; belum merupakan sinyal akumulasi atau identifikasi pelaku di balik akun broker.
+Backend dan UI tabel broker lengkap sudah tersedia: pencarian/sort, pilihan sesi/episode, ringkasan dominan, detail riwayat, serta grafik net buy/sell per sesi. Snapshot SIGNAL tetap 30 September; data broker sampai 6 Oktober ditampilkan dengan periode terpilih yang eksplisit.
+
+Pemeriksaan penutupan pilot 7 Oktober: 382 file broker cocok persis dengan hasil ulang sumber yang direview, seluruh 22.759 baris tetap tersimpan, dan payload pilot tidak berubah. Pengujian fungsi serta kondisi data bermasalah lolos. Perintah validasi berulang tersedia di `research/signal_validate_broker_phase2.py`.
+
+Batas tersisa: sembilan sesi saham tanpa data broker, tiga mismatch volume 29 Mei, dan tiga kode belum cocok dengan registry. Pengukuran tetap deskriptif; belum menjadi sinyal akumulasi atau identifikasi investor. Fetch tambahan memerlukan daftar request dan persetujuan anggaran. Rework UX masuk Phase3 setelah review Phase2 diterima.

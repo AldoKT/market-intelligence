@@ -1,3 +1,5 @@
+Broker Phase2: [local API and UI guide](research/SIGNAL_PHASE2_UI.md).
+
 > Current Phase 1 JSON pilot (ANTM, INCO, BBCA, Sep30 snapshot): see [SIGNAL_PHASE1_JSON_PILOT.md](SIGNAL_PHASE1_JSON_PILOT.md) and `run_pilot_windows.ps1`. Legacy setup and snapshots remain documented below.
 
 # SIGNAL Backend v1

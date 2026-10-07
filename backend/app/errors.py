@@ -30,3 +30,9 @@ async def value_error_handler(
             "detail": str(exc),
         },
     )
+
+
+async def broker_data_unavailable_handler(request: Request, exc: Exception):
+    return JSONResponse(status_code=503, content={
+        "detail": "Data broker lokal tidak valid atau belum dapat dibaca. Periksa kembali paket data sebelum melanjutkan."
+    })

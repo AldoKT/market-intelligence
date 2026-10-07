@@ -98,3 +98,9 @@ export function getMethodology() {
 export function getReactionValidation() {
   return getJson<ReactionValidationPayload>("/api/reaction-validation");
 }
+
+import type {BrokerIndex,BrokerPayload,BrokerHistory} from './brokerTypes';
+export function getBrokerIndex(symbol:string){return getJson<BrokerIndex>(`/api/brokers/${encodeURIComponent(symbol)}`);}
+export function getBrokerSession(symbol:string,day:string){return getJson<BrokerPayload>(`/api/brokers/${encodeURIComponent(symbol)}/sessions/${encodeURIComponent(day)}`);}
+export function getBrokerEpisode(symbol:string,id:string){return getJson<BrokerPayload>(`/api/brokers/${encodeURIComponent(symbol)}/episodes/${encodeURIComponent(id)}`);}
+export function getBrokerHistory(symbol:string,code:string,through:string){return getJson<BrokerHistory>(`/api/brokers/${encodeURIComponent(symbol)}/history/${encodeURIComponent(code)}?through=${encodeURIComponent(through)}`);}

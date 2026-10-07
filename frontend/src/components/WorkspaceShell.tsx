@@ -18,7 +18,7 @@ export function WorkspaceShell(){
           <div className="v23-symbol-lockup"><h1>{symbol.toUpperCase()}</h1><span>{companyName(symbol,detail?.identity.company_name)}</span>{detail?.identity.peer_group&&<><i>{humanGroup(detail.identity.peer_group)}</i><i>IDX30</i></>}</div>
         </div>
         <nav className="v23-workspace-tabs" aria-label="Ticker workspace">
-          <Tab to="summary">Summary</Tab><Tab to="activity">Market Activity</Tab><Tab to="context">Context</Tab><Tab to="history">History</Tab>
+          <Tab to="summary">Summary</Tab><Tab to="activity">Market Activity</Tab><Tab to="brokers">Broker</Tab><Tab to="context">Context</Tab><Tab to="history">History</Tab>
         </nav>
         <div className="v23-workspace-actions"><div><span>Last Price (IDR)</span><strong>{detail?.metrics.close==null?'—':formatNumber(detail.metrics.close,0)}</strong></div><WatchlistButton symbol={symbol}/></div>
       </div>

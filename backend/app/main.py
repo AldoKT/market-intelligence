@@ -7,11 +7,14 @@ from fastapi.middleware.cors import CORSMiddleware
 from .config import get_settings
 from .errors import (
     payload_not_found_handler,
+    broker_data_unavailable_handler,
     value_error_handler,
 )
+from .broker_repository import BrokerDataUnavailableError
 from .repository import PayloadNotFoundError
 from .routers import (
     investigations,
+    brokers,
     methodology,
     meta,
     overview,
@@ -50,6 +53,9 @@ def create_app() -> FastAPI:
         value_error_handler,
     )
 
+    app.add_exception_handler(BrokerDataUnavailableError, broker_data_unavailable_handler)
+
+    app.include_router(brokers.router)
     app.include_router(meta.router)
     app.include_router(overview.router)
     app.include_router(

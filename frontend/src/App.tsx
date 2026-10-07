@@ -14,6 +14,9 @@ import { HistoryPage } from "./pages/HistoryPage";
 import { WatchlistPage } from "./pages/WatchlistPage";
 import { MethodologyPage } from "./pages/MethodologyPage";
 
+import { BrokersPage } from "./pages/BrokersPage";
+import "./broker.css";
+
 const router = createBrowserRouter([
   {
     path: "/",
@@ -46,6 +49,10 @@ const router = createBrowserRouter([
           {
             path: "context",
             element: <ContextPage />
+          },
+          {
+            path: "brokers",
+            element: <BrokersPage />
           },
           {
             path: "history",

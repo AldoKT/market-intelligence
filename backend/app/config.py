@@ -7,6 +7,7 @@ from pydantic import BaseModel
 
 
 class Settings(BaseModel):
+    broker_dir: Path
     payload_dir: Path
     cors_origins: list[str]
 
@@ -31,6 +32,7 @@ def get_settings() -> Settings:
     ]
 
     return Settings(
+        broker_dir=Path(os.getenv("SIGNAL_BROKER_DIR", str(Path(__file__).resolve().parents[2] / "research/data/rework_phase1_v2/raw/broker_phase2_preview"))),
         payload_dir=payload_dir,
         cors_origins=cors_origins,
     )
