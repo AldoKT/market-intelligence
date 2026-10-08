@@ -5,6 +5,7 @@ import {
   Navigate,
   RouterProvider,
   useLocation,
+  createHashRouter,
   createBrowserRouter
 } from "react-router-dom";
 import { AppShell } from "./components/AppShell";
@@ -28,7 +29,7 @@ const BrokerMockupsPage = lazy(() => import("./pages/BrokerMockupsPage").then(m 
 const BrokerReferencePage = lazy(() => import("./pages/BrokerReferencePage").then(m => ({default: m.BrokerReferencePage})));
 const ContextDesignPage = lazy(() => import("./pages/ContextDesignPage").then(m => ({default:m.ContextDesignPage})));
 function ProductPage({children}:{children:React.ReactNode}){const {pathname}=useLocation();useLayoutEffect(()=>{const previous=window.history.scrollRestoration;window.history.scrollRestoration="manual";window.scrollTo({top:0,left:0,behavior:"instant"});return()=>{window.history.scrollRestoration=previous;};},[pathname]);const root=useRef<HTMLDivElement>(null);useEffect(()=>{const host=root.current;if(!host)return;let resize:ResizeObserver|undefined;let observed:HTMLElement|null=null;const bind=()=>{const nav=host.querySelector<HTMLElement>(".ov-glass-nav");if(!nav||nav===observed)return;resize?.disconnect();observed=nav;const measure=()=>{const height=nav.getBoundingClientRect().height;if(height>0)host.style.setProperty("--signal-nav-height",height+"px");};measure();resize=new ResizeObserver(measure);resize.observe(nav);};const mutation=new MutationObserver(bind);mutation.observe(host,{childList:true,subtree:true});bind();return()=>{mutation.disconnect();resize?.disconnect();};},[]);return <div ref={root} className="product-page">{children}<MarketTicker/></div>;}
-const router = createBrowserRouter([
+const router = (import.meta.env.VITE_STATIC_DEMO === "true" ? createHashRouter : createBrowserRouter)([
  {path:"/",element:<ProductPage><Suspense fallback={<p>Memuat SIGNAL…</p>}><OverviewMockupsPage/></Suspense></ProductPage>},
  {path:"/investigations/:symbol/summary",element:<ProductPage><Suspense fallback={<p>Memuat Summary…</p>}><SummaryMockupsPage/></Suspense></ProductPage>},
  {path:"/investigations/:symbol/activity",element:<ProductPage><Suspense fallback={<p>Memuat Activity…</p>}><ActivityMockupsPage/></Suspense></ProductPage>},

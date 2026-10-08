@@ -51,3 +51,6 @@ research/data/rework_phase1_v2/raw/*
 !research/data/rework_phase1_v2/raw/oos_october_2026/**
 !research/data/rework_phase1_v2/raw/broker_phase2_preview/
 !research/data/rework_phase1_v2/raw/broker_phase2_preview/**
+
+# Public build configuration; contains no credentials.
+!frontend/.env.pages

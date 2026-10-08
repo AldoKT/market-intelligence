@@ -1,3 +1,4 @@
+import {getStaticJson} from "./staticApi";
 import type {
   ActivityPayload,
   ContextPayload,
@@ -16,6 +17,7 @@ const BASE_URL = (
 ).replace(/\/$/, "");
 
 async function getJson<T>(path: string): Promise<T> {
+  if (import.meta.env.VITE_STATIC_DEMO === "true") return getStaticJson<T>(path);
   const response = await fetch(`${BASE_URL}${path}`);
 
   if (!response.ok) {

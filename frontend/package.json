@@ -11,7 +11,10 @@
     "test:broker": "node tests/broker-ui.cjs",
     "test:gallery": "node tests/gallery.cjs",
     "test:market-activity": "node tests/market-activity.cjs",
-    "test:broker-flow": "node tests/broker-flow.cjs"
+    "test:broker-flow": "node tests/broker-flow.cjs",
+    "build:pages": "tsc -b && vite build --config vite.config.ts --mode pages && python ../research/export_static_demo.py --output dist/data",
+    "test:static": "node tests/static-demo.cjs",
+    "preview:pages": "vite preview --config vite.config.ts --mode pages --host 127.0.0.1"
   },
   "dependencies": {
     "@liqui-design/glass": "^0.4.0",
