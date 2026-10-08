@@ -163,6 +163,15 @@ class MarketActivityPayload(StrictModel):
 
 
 class ContextPayload(StrictModel):
+    # Optional enrichment stays separate from the historical current snapshot.
+    company_snapshot: Optional[Dict[str, Any]] = None
+    fundamental_peers: Optional[List[Dict[str, Any]]] = None
+    market_history: Optional[List[Dict[str, Any]]] = None
+    context_period: Optional[Dict[str, str]] = None
+    news_archive: Optional[Dict[str, Any]] = None
+    relevant_news: Optional[List[Dict[str, Any]]] = None
+    corporate_events: Optional[List[Dict[str, str]]] = None
+    source_availability: Optional[Dict[str, bool]] = None
     methodology_version: str
     as_of: str
     identity: Identity
