@@ -3,8 +3,8 @@
   "as_of": "2026-09-30",
   "identity": {
     "symbol": "CPIN",
-    "company_name": null,
-    "peer_group": null
+    "company_name": "Charoen Pokphand Indonesia Tbk",
+    "peer_group": "Food & Beverage"
   },
   "current": {
     "scope": "NO_CONTEXT",
@@ -20,5 +20,2467 @@
   "daily_market": {},
   "notes": [
     "Dataset scope: 28 reviewed stocks. No full-market or peer-context score is computed."
-  ]
+  ],
+  "company_snapshot": {
+    "price_date": "2026-10-07",
+    "captured_at": "2026-10-08",
+    "sector": "Consumer Non-Cyclicals",
+    "industry": "Agricultural Products",
+    "website": "www.cp.co.id",
+    "market_cap": 48046140000000,
+    "annual_year": 2025,
+    "valuation_year": 2026,
+    "metrics": [
+      {
+        "label": "Pendapatan",
+        "value": "Rp 70,70 T"
+      },
+      {
+        "label": "Laba bersih",
+        "value": "Rp 5,64 T"
+      },
+      {
+        "label": "Total aset",
+        "value": "Rp 45,86 T"
+      },
+      {
+        "label": "Ekuitas",
+        "value": "Rp 34,15 T"
+      },
+      {
+        "label": "EPS",
+        "value": "Rp 344,18"
+      },
+      {
+        "label": "P/E TTM",
+        "value": "6,45×"
+      },
+      {
+        "label": "P/B",
+        "value": "1,38×"
+      }
+    ]
+  },
+  "fundamental_peers": [
+    {
+      "symbol": "CPIN",
+      "name": "Charoen Pokphand Indonesia Tbk",
+      "year": 2025,
+      "market_cap": 48210120000000,
+      "pe": 6.46959131904051,
+      "pb": 1.38149042415462,
+      "revenue": 70704988000000,
+      "in_universe": true
+    },
+    {
+      "symbol": "JPFA",
+      "name": "JAPFA Comfeed Indonesia Tbk",
+      "year": 2025,
+      "market_cap": 23687681906020,
+      "pe": 4.51783152351648,
+      "pb": 1.19497793317195,
+      "revenue": 60715806000000,
+      "in_universe": false
+    },
+    {
+      "symbol": "RLCO",
+      "name": "PT Abadi Lestari Indonesia Tbk",
+      "year": 2025,
+      "market_cap": 13125000000000,
+      "pe": 644.441876639941,
+      "pb": 40.3827687590047,
+      "revenue": 635168976387,
+      "in_universe": false
+    },
+    {
+      "symbol": "NEST",
+      "name": "PT Esta Indonesia Tbk",
+      "year": 2025,
+      "market_cap": 3475062500000,
+      "pe": 142.0334221901,
+      "pb": 9.14206525624623,
+      "revenue": 360839166938,
+      "in_universe": false
+    },
+    {
+      "symbol": "CPRO",
+      "name": "Central Proteina Prima Tbk",
+      "year": 2025,
+      "market_cap": 2442467694267,
+      "pe": 7.56598897927341,
+      "pb": 0.613598706480894,
+      "revenue": 9947122000000,
+      "in_universe": false
+    },
+    {
+      "symbol": "AYAM",
+      "name": "PT Janu Putra Sejahtera Tbk.",
+      "year": 2025,
+      "market_cap": 2120000000000,
+      "pe": 1332.91504363486,
+      "pb": 10.02498180993,
+      "revenue": 267063247239,
+      "in_universe": false
+    },
+    {
+      "symbol": "AGAR",
+      "name": "PT Asia Sejahtera Mina Tbk",
+      "year": 2025,
+      "market_cap": 2030000000000,
+      "pe": 284.965438574615,
+      "pb": 17.9587704913371,
+      "revenue": 234569706036,
+      "in_universe": false
+    },
+    {
+      "symbol": "SIPD",
+      "name": "PT Sreeya Sewu Indonesia Tbk",
+      "year": 2025,
+      "market_cap": 1471281644800,
+      "pe": -153.067170703288,
+      "pb": 1.24343467496028,
+      "revenue": 5441546000000,
+      "in_universe": false
+    },
+    {
+      "symbol": "MAIN",
+      "name": "Malindo Feedmill Tbk",
+      "year": 2025,
+      "market_cap": 1455187500000,
+      "pe": 3.12582001255619,
+      "pb": 0.508020732833757,
+      "revenue": 12692871511000,
+      "in_universe": false
+    },
+    {
+      "symbol": "WMPP",
+      "name": "PT Widodo Makmur Perkasa Tbk",
+      "year": 2025,
+      "market_cap": 823732000000,
+      "pe": 20.2223297554313,
+      "pb": 2.11136152739535,
+      "revenue": 1011900895118,
+      "in_universe": false
+    }
+  ],
+  "market_history": [
+    {
+      "date": "2026-04-01",
+      "ihsg": 7184.438,
+      "market_cap": 12646140309231200
+    },
+    {
+      "date": "2026-04-02",
+      "ihsg": 7026.782,
+      "market_cap": 12301402169484936
+    },
+    {
+      "date": "2026-04-06",
+      "ihsg": 6989.426,
+      "market_cap": 12181292965738515
+    },
+    {
+      "date": "2026-04-07",
+      "ihsg": 6971.027,
+      "market_cap": 12220087895953627
+    },
+    {
+      "date": "2026-04-08",
+      "ihsg": 7279.209,
+      "market_cap": 12745135690725105
+    },
+    {
+      "date": "2026-04-09",
+      "ihsg": 7307.589,
+      "market_cap": 12927661360702306
+    },
+    {
+      "date": "2026-04-10",
+      "ihsg": 7458.496,
+      "market_cap": 13183485554446575
+    },
+    {
+      "date": "2026-04-13",
+      "ihsg": 7500.187,
+      "market_cap": 13334711369769658
+    },
+    {
+      "date": "2026-04-14",
+      "ihsg": 7675.951,
+      "market_cap": 13680203483861089
+    },
+    {
+      "date": "2026-04-15",
+      "ihsg": 7623.586,
+      "market_cap": 13577551326427693
+    },
+    {
+      "date": "2026-04-16",
+      "ihsg": 7621.382,
+      "market_cap": 13580909513734445
+    },
+    {
+      "date": "2026-04-17",
+      "ihsg": 7634.004,
+      "market_cap": 13631805736754862
+    },
+    {
+      "date": "2026-04-20",
+      "ihsg": 7594.111,
+      "market_cap": 13530051609880990
+    },
+    {
+      "date": "2026-04-21",
+      "ihsg": 7559.38,
+      "market_cap": 13439346111420433
+    },
+    {
+      "date": "2026-04-22",
+      "ihsg": 7541.612,
+      "market_cap": 13331962629649015
+    },
+    {
+      "date": "2026-04-23",
+      "ihsg": 7378.606,
+      "market_cap": 13176851273619842
+    },
+    {
+      "date": "2026-04-24",
+      "ihsg": 7129.49,
+      "market_cap": 12732776963937495
+    },
+    {
+      "date": "2026-04-27",
+      "ihsg": 7106.52,
+      "market_cap": 12687518028997883
+    },
+    {
+      "date": "2026-04-28",
+      "ihsg": 7072.392,
+      "market_cap": 12590034125678447
+    },
+    {
+      "date": "2026-04-29",
+      "ihsg": 7101.226,
+      "market_cap": 12635384034178860
+    },
+    {
+      "date": "2026-04-30",
+      "ihsg": 6956.804,
+      "market_cap": 12378413759882228
+    },
+    {
+      "date": "2026-05-04",
+      "ihsg": 6971.953,
+      "market_cap": 12411009903513114
+    },
+    {
+      "date": "2026-05-05",
+      "ihsg": 7057.106,
+      "market_cap": 12626309574250122
+    },
+    {
+      "date": "2026-05-06",
+      "ihsg": 7092.467,
+      "market_cap": 12699830398460331
+    },
+    {
+      "date": "2026-05-07",
+      "ihsg": 7174.321,
+      "market_cap": 12778962713690869
+    },
+    {
+      "date": "2026-05-08",
+      "ihsg": 6969.396,
+      "market_cap": 12402407487340402
+    },
+    {
+      "date": "2026-05-11",
+      "ihsg": 6905.62,
+      "market_cap": 12280030079664830
+    },
+    {
+      "date": "2026-05-12",
+      "ihsg": 6858.899,
+      "market_cap": 12142773427321380
+    },
+    {
+      "date": "2026-05-13",
+      "ihsg": 6723.32,
+      "market_cap": 11821690407165346
+    },
+    {
+      "date": "2026-05-18",
+      "ihsg": 6599.24,
+      "market_cap": 11535132183193835
+    },
+    {
+      "date": "2026-05-19",
+      "ihsg": 6370.679,
+      "market_cap": 11105372542285443
+    },
+    {
+      "date": "2026-05-20",
+      "ihsg": 6318.5,
+      "market_cap": 10959980491971602
+    },
+    {
+      "date": "2026-05-21",
+      "ihsg": 6094.941,
+      "market_cap": 10549507904767653
+    },
+    {
+      "date": "2026-05-22",
+      "ihsg": 6162.045,
+      "market_cap": 10631421768765943
+    },
+    {
+      "date": "2026-05-25",
+      "ihsg": 6206.349,
+      "market_cap": 10692705367587005
+    },
+    {
+      "date": "2026-05-26",
+      "ihsg": 6130.19,
+      "market_cap": 10613054794742598
+    },
+    {
+      "date": "2026-05-29",
+      "ihsg": 6127.381,
+      "market_cap": 10725485605975573
+    },
+    {
+      "date": "2026-06-02",
+      "ihsg": 6195.427,
+      "market_cap": 10891278361519046
+    },
+    {
+      "date": "2026-06-03",
+      "ihsg": 5941.066,
+      "market_cap": 10451829355656557
+    },
+    {
+      "date": "2026-06-04",
+      "ihsg": 5839.785,
+      "market_cap": 10259085293637228
+    },
+    {
+      "date": "2026-06-05",
+      "ihsg": 5594.765,
+      "market_cap": 9803592659706909
+    },
+    {
+      "date": "2026-06-08",
+      "ihsg": 5342.137,
+      "market_cap": 9414771844192581
+    },
+    {
+      "date": "2026-06-09",
+      "ihsg": 5746.648,
+      "market_cap": 10095511071726246
+    },
+    {
+      "date": "2026-06-10",
+      "ihsg": 5902.376,
+      "market_cap": 10341178905408617
+    },
+    {
+      "date": "2026-06-11",
+      "ihsg": 5886.032,
+      "market_cap": 10287950241660193
+    },
+    {
+      "date": "2026-06-12",
+      "ihsg": 6007.656,
+      "market_cap": 10520825968837381
+    },
+    {
+      "date": "2026-06-15",
+      "ihsg": 6254.966,
+      "market_cap": 10899408952482727
+    },
+    {
+      "date": "2026-06-17",
+      "ihsg": 6220.74,
+      "market_cap": 10776148487729844
+    },
+    {
+      "date": "2026-06-18",
+      "ihsg": 6172.34,
+      "market_cap": 10736980009961606
+    },
+    {
+      "date": "2026-06-19",
+      "ihsg": 6177.139,
+      "market_cap": 10784594953877444
+    },
+    {
+      "date": "2026-06-22",
+      "ihsg": 6116.69,
+      "market_cap": 10708711379319414
+    },
+    {
+      "date": "2026-06-23",
+      "ihsg": 6101.333,
+      "market_cap": 10685047810158781
+    },
+    {
+      "date": "2026-06-24",
+      "ihsg": 5883.881,
+      "market_cap": 10312029789078805
+    },
+    {
+      "date": "2026-06-25",
+      "ihsg": 5999.038,
+      "market_cap": 10515718128770631
+    },
+    {
+      "date": "2026-06-26",
+      "ihsg": 5896.134,
+      "market_cap": 10298280398969010
+    },
+    {
+      "date": "2026-06-29",
+      "ihsg": 5820.79,
+      "market_cap": 10179250800138493
+    },
+    {
+      "date": "2026-06-30",
+      "ihsg": 5643.194,
+      "market_cap": 9894028079914985
+    },
+    {
+      "date": "2026-07-01",
+      "ihsg": 5695.116,
+      "market_cap": 10007947906561450
+    },
+    {
+      "date": "2026-07-02",
+      "ihsg": 5744.556,
+      "market_cap": 10060923668899571
+    },
+    {
+      "date": "2026-07-03",
+      "ihsg": 5875.78,
+      "market_cap": 10283558418117973
+    },
+    {
+      "date": "2026-07-06",
+      "ihsg": 5916.07,
+      "market_cap": 10352610980350056
+    },
+    {
+      "date": "2026-07-07",
+      "ihsg": 5986.497,
+      "market_cap": 10462196902308353
+    },
+    {
+      "date": "2026-07-08",
+      "ihsg": 5873.372,
+      "market_cap": 10272894518876036
+    },
+    {
+      "date": "2026-07-09",
+      "ihsg": 5912.442,
+      "market_cap": 10324456194315119
+    },
+    {
+      "date": "2026-07-10",
+      "ihsg": 5924.36,
+      "market_cap": 10336481815483724
+    },
+    {
+      "date": "2026-07-13",
+      "ihsg": 6037.842,
+      "market_cap": 10506156813352519
+    },
+    {
+      "date": "2026-07-14",
+      "ihsg": 6039.521,
+      "market_cap": 10524135196509080
+    },
+    {
+      "date": "2026-07-15",
+      "ihsg": 6041.972,
+      "market_cap": 10548175926837826
+    },
+    {
+      "date": "2026-07-16",
+      "ihsg": 6108.209,
+      "market_cap": 10655671296610599
+    },
+    {
+      "date": "2026-07-17",
+      "ihsg": 6175.535,
+      "market_cap": 10745282583293599
+    },
+    {
+      "date": "2026-07-20",
+      "ihsg": 6231.78,
+      "market_cap": 10832728685598542
+    },
+    {
+      "date": "2026-07-21",
+      "ihsg": 6340.02,
+      "market_cap": 11041209401983643
+    },
+    {
+      "date": "2026-07-22",
+      "ihsg": 6334.476,
+      "market_cap": 11064991318794462
+    },
+    {
+      "date": "2026-07-23",
+      "ihsg": 6315.311,
+      "market_cap": 11058096720739904
+    },
+    {
+      "date": "2026-07-24",
+      "ihsg": 6196.43,
+      "market_cap": 10866941513180025
+    },
+    {
+      "date": "2026-07-27",
+      "ihsg": 6185.783,
+      "market_cap": 10846820086978302
+    },
+    {
+      "date": "2026-07-28",
+      "ihsg": 6130.588,
+      "market_cap": 10748777396682842
+    },
+    {
+      "date": "2026-07-29",
+      "ihsg": 6091.386,
+      "market_cap": 10671925079765237
+    },
+    {
+      "date": "2026-07-30",
+      "ihsg": 6186.363,
+      "market_cap": 10808753111947654
+    },
+    {
+      "date": "2026-07-31",
+      "ihsg": 6236.126,
+      "market_cap": 10919632662108419
+    },
+    {
+      "date": "2026-08-03",
+      "ihsg": 6234.497,
+      "market_cap": 10891533376788029
+    },
+    {
+      "date": "2026-08-04",
+      "ihsg": 6319.613,
+      "market_cap": 11026919553266172
+    },
+    {
+      "date": "2026-08-05",
+      "ihsg": 6351.139,
+      "market_cap": 11081557528513146
+    },
+    {
+      "date": "2026-08-06",
+      "ihsg": 6343.711,
+      "market_cap": 11091230654708629
+    },
+    {
+      "date": "2026-08-07",
+      "ihsg": 6409.654,
+      "market_cap": 11208370900071437
+    },
+    {
+      "date": "2026-08-10",
+      "ihsg": 6365.374,
+      "market_cap": 11127673938712190
+    },
+    {
+      "date": "2026-08-11",
+      "ihsg": 6267.88,
+      "market_cap": 10951983899532200
+    },
+    {
+      "date": "2026-08-12",
+      "ihsg": 6373.849,
+      "market_cap": 11170270993004848
+    },
+    {
+      "date": "2026-08-13",
+      "ihsg": 6301.765,
+      "market_cap": 11047038481790783
+    },
+    {
+      "date": "2026-08-14",
+      "ihsg": 6401.888,
+      "market_cap": 11239913404397486
+    },
+    {
+      "date": "2026-08-18",
+      "ihsg": 6449.83,
+      "market_cap": 11344776423883178
+    },
+    {
+      "date": "2026-08-19",
+      "ihsg": 6394.125,
+      "market_cap": 11242710814171051
+    },
+    {
+      "date": "2026-08-20",
+      "ihsg": 6501.585,
+      "market_cap": 11417105165375641
+    },
+    {
+      "date": "2026-08-21",
+      "ihsg": 6525.69,
+      "market_cap": 11445451211005613
+    },
+    {
+      "date": "2026-08-24",
+      "ihsg": 6501.667,
+      "market_cap": 11400829359169202
+    },
+    {
+      "date": "2026-08-26",
+      "ihsg": 6405.685,
+      "market_cap": 11226539253653372
+    },
+    {
+      "date": "2026-08-27",
+      "ihsg": 6521.75,
+      "market_cap": 11444254799160097
+    },
+    {
+      "date": "2026-08-28",
+      "ihsg": 6518.121,
+      "market_cap": 11427514258790209
+    },
+    {
+      "date": "2026-08-31",
+      "ihsg": 6525.478,
+      "market_cap": 11420266337232824
+    },
+    {
+      "date": "2026-09-01",
+      "ihsg": 6599.943,
+      "market_cap": 11528076154461080
+    },
+    {
+      "date": "2026-09-02",
+      "ihsg": 6595.776,
+      "market_cap": 11521577604064942
+    },
+    {
+      "date": "2026-09-03",
+      "ihsg": 6667.891,
+      "market_cap": 11637538684241799
+    },
+    {
+      "date": "2026-09-04",
+      "ihsg": 6636.475,
+      "market_cap": 11595660058206448
+    },
+    {
+      "date": "2026-09-07",
+      "ihsg": 6619.673,
+      "market_cap": 11571807924987264
+    },
+    {
+      "date": "2026-09-08",
+      "ihsg": 6686.442,
+      "market_cap": 11668902562815871
+    },
+    {
+      "date": "2026-09-09",
+      "ihsg": 6678.201,
+      "market_cap": 11671538636715858
+    },
+    {
+      "date": "2026-09-10",
+      "ihsg": 6589.338,
+      "market_cap": 11526136904331476
+    },
+    {
+      "date": "2026-09-11",
+      "ihsg": 6541.377,
+      "market_cap": 11442963914395062
+    },
+    {
+      "date": "2026-09-14",
+      "ihsg": 6534.693,
+      "market_cap": 11368110758085182
+    },
+    {
+      "date": "2026-09-15",
+      "ihsg": 6461.153,
+      "market_cap": 11257912210981978
+    },
+    {
+      "date": "2026-09-16",
+      "ihsg": 6436.853,
+      "market_cap": 11225219420982876
+    },
+    {
+      "date": "2026-09-17",
+      "ihsg": 6462.431,
+      "market_cap": 11270346560839989
+    },
+    {
+      "date": "2026-09-18",
+      "ihsg": 6441.159,
+      "market_cap": 11262605698050558
+    },
+    {
+      "date": "2026-09-21",
+      "ihsg": 6384.726,
+      "market_cap": 11161910095429389
+    },
+    {
+      "date": "2026-09-22",
+      "ihsg": 6277.044,
+      "market_cap": 10971287923179805
+    },
+    {
+      "date": "2026-09-23",
+      "ihsg": 6374.912,
+      "market_cap": 11141915820582293
+    },
+    {
+      "date": "2026-09-24",
+      "ihsg": 6298.607,
+      "market_cap": 11021365748586840
+    },
+    {
+      "date": "2026-09-25",
+      "ihsg": 6241.892,
+      "market_cap": 10902018198054911
+    },
+    {
+      "date": "2026-09-28",
+      "ihsg": 6147.859,
+      "market_cap": 10755457591436344
+    },
+    {
+      "date": "2026-09-29",
+      "ihsg": 6121.7,
+      "market_cap": 10754858845786069
+    },
+    {
+      "date": "2026-09-30",
+      "ihsg": 6071.138,
+      "market_cap": 10691719699169471
+    }
+  ],
+  "relevant_news": [
+    {
+      "title": "Foreign investor sells 4.05 million PT Charoen Pokphand Indonesia Tbk (CPIN) shares at Rp3,132 each",
+      "timestamp": "2026-09-28T10:17:17",
+      "source": "https://www.cnbcindonesia.com/market/20260928093613-17-771361/ada-investor-asing-yang-jual-405-juta-saham-cpin-di-harga-rp3132",
+      "tags": [
+        "Foreign Investment",
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Ubs Ag Ldn Branch A/C Client Sell Shares of Charoen Pokphand Indonesia",
+      "timestamp": "2026-09-24T17:15:09",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24092026-5504-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "PT Bank Rakyat Indonesia Tbk (BBRI) and PT Bank Mandiri Tbk (BMRI) lead foreign net sell list as IHSG rebounds.",
+      "timestamp": "2026-09-24T08:19:00",
+      "source": "https://investasi.kontan.co.id/news/bbri-bmri-teratas-cek-saham-net-sell-terbesar-asing-saat-ihsg-melonjak-kemarin",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas forecasts IHSG rise and recommends top-performing stocks on 24 Sep 2026",
+      "timestamp": "2026-09-24T05:40:00",
+      "source": "https://market.bisnis.com/read/20260924/7/2006644/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-kamis-24-september-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors heavily bought ten stocks as the IHSG fell 1.68% to 6,277 on Tuesday (22/9)",
+      "timestamp": "2026-09-23T05:00:00",
+      "source": "https://investasi.kontan.co.id/news/saham-saham-ini-banyak-ditadah-asing-saat-ihsg-ambruk-168-ke-6277-selasa-229",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net sold Rp 510.07 bn of Indonesian stocks, led by PT Bank Mandiri Tbk (BMRI)",
+      "timestamp": "2026-09-21T21:14:00",
+      "source": "https://investasi.kontan.co.id/news/asing-net-sell-jumbo-rp-510-miliar-cek-saham-yang-banyak-dijual-di-awal-pekan",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "UBS AG LDN BRANCH A/C CLIENT increases its stake in PT Charoen Pokphand Indonesia Tbk (CPIN)",
+      "timestamp": "2026-09-21T20:01:00",
+      "source": "https://emitennews.com/news/tambah-saham-charoen-pokphand-indonesia-cpin-lagi-ubs-ag-sasar-ini",
+      "tags": [
+        "Ownership",
+        "Foreign Investment",
+        "Institutional Investor"
+      ]
+    },
+    {
+      "title": "Ubs Ag Ldn Branch A/C Client Buy Shares of Charoen Pokphand Indonesia",
+      "timestamp": "2026-09-21T13:43:49",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-2312-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "Hery Buys Shares of Charoen Pokphand Indonesia",
+      "timestamp": "2026-09-21T11:43:46",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-2278-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "Foreign investors sell shares of major banks and Prajogo‑linked stocks",
+      "timestamp": "2026-09-19T08:40:00",
+      "source": "https://market.bisnis.com/read/20260919/7/2005470/saham-bank-jumbo-hingga-prajogo-dilepas-investor-asing",
+      "tags": [
+        "Foreign Investment",
+        "Central Bank",
+        "Interest Rate",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Ubs Ag Ldn Branch A/C Client Sell Shares of Charoen Pokphand Indonesia",
+      "timestamp": "2026-09-18T16:20:56",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-7771-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "Ubs Ag Ldn Branch A/C Client Buys Shares of Charoen Pokphand Indonesia",
+      "timestamp": "2026-09-17T15:08:45",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17092026-1342-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "Ubs Ag Ldn Branch A/C Client Sell Shares of Charoen Pokphand Indonesia",
+      "timestamp": "2026-09-10T14:58:29",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10092026-4735-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "Foreign investors heavily bought BBRI shares and sold CPIN and BRMS in the week of August 31–September 4, 2026.",
+      "timestamp": "2026-09-07T08:26:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/120665/saham-bbri-diborong-investor-asing-sepekan-cpin-brms-dilego",
+      "tags": [
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors heavily buy big bank stocks PT Bank Rakyat Indonesia Tbk, PT Bank Central Asia Tbk and PT Bank Mandiri Tbk in the past week.",
+      "timestamp": "2026-09-07T07:23:00",
+      "source": "https://investasi.kontan.co.id/news/asing-ramai-borong-saham-big-banks-bbri-bbca-dan-bmri-sepekan-terakhir",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Popular News Roundup: CPIN Earnings Surge, Strong Foreign Buying in BBCA, BBRI and BUMI, and Steady Gold Jewelry Prices",
+      "timestamp": "2026-09-07T05:21:32",
+      "source": "https://investor.id/market/453043/berita-populer-potensi-cuan-besar-saham-cpin-hingga-harga-emas-perhiasan-kokoh",
+      "tags": [
+        "Financial Metrics",
+        "Foreign Investment",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Charoen Pokphand Indonesia Tbk reports 211% year‑on‑year net profit rise to Rp1.13 trillion in Q2 2026",
+      "timestamp": "2026-09-06T15:28:08",
+      "source": "https://investor.id/market/453013/saham-raksasa-unggas-diobral-laba-rp7-triliun-potensi-cuan-30-lebih",
+      "tags": [
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG and Asian Exchanges Cheerful This Morning",
+      "timestamp": "2026-09-04T09:27:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/120491/ihsg-dan-bursa-asia-semringah-pagi-ini",
+      "tags": [
+        "Foreign Investment",
+        "Currency & FX",
+        "Commodities",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "IHSG outlook driven by Fed rate expectations and technical breakout targeting 6,724, with BRI Danareksa recommending BBCA, LSIP, and ARCI.",
+      "timestamp": "2026-09-04T07:07:00",
+      "source": "https://market.bisnis.com/read/20260904/189/2001283/ihsg-dipengaruhi-ekspektasi-the-fed-peluang-ke-6724",
+      "tags": [
+        "Interest Rate",
+        "Central Bank",
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign Investors Net Buy Rp1.07 Trillion, Lifting IHSG 1.09% as Jumbo Banks Lead Inflows",
+      "timestamp": "2026-09-04T07:00:36",
+      "source": "https://www.cnbcindonesia.com/market/20260904053931-17-764827/ihsg-naik-1-ditopang-asing-serok-saham-bank-jumbo",
+      "tags": [
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Charoen Pokphand Indonesia Tbk added to MSCI Small Cap Index as shares rally 8.25%",
+      "timestamp": "2026-09-04T06:45:25",
+      "source": "https://investor.id/market/452789/saham-msci-ini-menyita-perhatian",
+      "tags": [
+        "Global Index",
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Breaks 6,650, BRI Danareksa Sekuritas Recommends Three Stocks to Buy",
+      "timestamp": "2026-09-04T06:35:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-tembus-6650-bri-danareksa-rekomendasikan-3-saham-untuk-dibeli",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG May Face Correction on Friday (4/9) – Projections and Stock Recommendations",
+      "timestamp": "2026-09-03T19:29:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-berpeluang-terkoreksi-jumat-49-simak-proyeksi-dan-rekomendasi-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net buy Rp1 trillion, collectively snapping up PT Bank Mandiri Tbk and PT Bank Negara Indonesia Tbk shares",
+      "timestamp": "2026-09-03T18:41:38",
+      "source": "https://www.cnbcindonesia.com/market/20260903180536-17-764793/asing-net-buy-rp1-triliun-kompak-borong-saham-bmri-bbni",
+      "tags": [
+        "Foreign Investment",
+        "Central Bank",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Two Stocks Swallowed by Foreign Investors",
+      "timestamp": "2026-09-03T12:34:29",
+      "source": "https://investor.id/market/452710/2-saham-dilahap-habishabisan",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "The Fate of Indonesian Stocks Amid MSCI's Whirlwind",
+      "timestamp": "2026-09-03T06:22:02",
+      "source": "https://investor.id/market/452657/nasib-saham-di-pusaran-msci",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Foreign investors buy large stakes in BBRI, BBCA and TPIA as the IHSG nears 6,600",
+      "timestamp": "2026-09-01T19:28:00",
+      "source": "https://market.bisnis.com/read/20260901/7/2000549/asing-borong-saham-bbri-bbca-hingga-tpia-saat-ihsg-dekati-6600",
+      "tags": [
+        "Foreign Investment",
+        "Inflation",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BNI Sekuritas forecasts a modest rise in the IHSG and issues buy recommendations for six Indonesian stocks",
+      "timestamp": "2026-09-01T09:00:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-berpotensi-menguat-di-perdagangan-hari-ini-19-cek-rekomendasi-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Charoen Pokphand Indonesia Tbk faces heavy foreign selling and MSCI index downgrade, analyst sees constructive outlook",
+      "timestamp": "2026-09-01T07:36:00",
+      "source": "https://emitennews.com/news/timang-timang-cpin-kemarin-top-sell-nasib-ke-depan-bagaimana",
+      "tags": [
+        "Foreign Investment",
+        "Global Index",
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "CPIN drops after MSCI downgrade as foreign investors sell heavily on Aug 31",
+      "timestamp": "2026-08-31T19:00:00",
+      "source": "https://emitennews.com/news/emiten-depakan-msci-dilego-asing-senin-sore-ini-318-cpin-top-sell",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG projected sideways‑bearish for September 2026 with key support at 6,400‑6,500 and stock picks from Phintraco and Sucor Sekuritas",
+      "timestamp": "2026-08-31T17:05:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diproyeksi-sideways-bearish-di-september-2026-cek-rekomendasi-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG September 2026 Outlook Highlights Potential Volatility Amid Global Risks",
+      "timestamp": "2026-08-31T09:54:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-september-2026-berpotensi-volatil-investor-perlu-cermati-risiko-global",
+      "tags": [
+        "Market Sentiment",
+        "Global Economy",
+        "Commodities",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "IHSG Weakens Slightly; Today's Stock Recommendations",
+      "timestamp": "2026-08-31T08:45:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8641292/ihsg-melemah-tipis-cek-rekomendasi-saham-hari-ini",
+      "tags": [
+        "Market Sentiment",
+        "Foreign Investment",
+        "Private Placement",
+        "Capital & Funding",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG September 2026 Outlook Highlights Potential Weakness and Lists Recommended Stocks",
+      "timestamp": "2026-08-30T14:53:00",
+      "source": "https://investasi.kontan.co.id/news/pergerakan-ihsg-di-september-2026-berpotensi-loyo-cek-rekomendasi-saham-pilihannya",
+      "tags": [
+        "Market Sentiment",
+        "Global Economy",
+        "Analyst Ratings",
+        "Interest Rate"
+      ]
+    },
+    {
+      "title": "MSCI Rebalancing Takes PT GoTo Gojek Tokopedia, PT Charoen Pokphand Indonesia and Nine Small‑Cap Stocks Out of Indexes",
+      "timestamp": "2026-08-30T09:32:00",
+      "source": "https://market.bisnis.com/read/20260830/7/1999814/ihsg-diproyeksi-di-level-6400-6600-pekan-depan-investor-waspadai-rebalancing-msci-dan-data-ekonomi",
+      "tags": [
+        "Global Index",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Kiwoom Sekuritas warns of sell pressure on MSCI‑removed Indonesian stocks and issues a buy recommendation for PT Charoen Pokphand Indonesia Tbk",
+      "timestamp": "2026-08-27T19:56:00",
+      "source": "https://investasi.kontan.co.id/news/saham-yang-didepak-dari-msci-berpotensi-tertekan-simak-rekomendasi-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Global Index",
+        "Market Sentiment",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Stocks Impacted by MSCI Rebalancing Face Potential Pressure; Analyst Recommendations Reviewed",
+      "timestamp": "2026-08-27T19:48:00",
+      "source": "https://investasi.kontan.co.id/news/saham-terdampak-rebalancing-msci-berpotensi-tertekan-cek-rekomendasi-analis-berikut",
+      "tags": [
+        "Global Index",
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk (GOTO) removed from MSCI Global Standard Index Indonesia",
+      "timestamp": "2026-08-27T13:59:26",
+      "source": "https://investor.id/market/451817/saham-goto-jadi-bulanbulanan",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Short‑Term IHSG Outlook Highlights Upcoming MSCI Index Rebalancing and Expected Volatility",
+      "timestamp": "2026-08-27T07:54:00",
+      "source": "https://investasi.kontan.co.id/news/intip-proyeksi-pergerakan-ihsg-jangka-pendek-ada-rebalancing-indeks-msci-pekan-depan",
+      "tags": [
+        "Global Index",
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Foreign Investment"
+      ]
+    },
+    {
+      "title": "IHSG projection ahead of MSCI rebalancing with analyst‑selected stock outlook",
+      "timestamp": "2026-08-26T20:03:50",
+      "source": "https://investor.id/market/451725/proyeksi-ihsg-jelang-rebalancing-msci-cermati-sahampilihan-analis",
+      "tags": [
+        "Global Index",
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Upcoming MSCI Index Rebalancing Ahead of Week, Projected Direction for Indonesia's IHSG",
+      "timestamp": "2026-08-26T17:44:00",
+      "source": "https://investasi.kontan.co.id/news/ada-rebalancing-indeks-msci-pekan-depan-begini-proyeksi-arah-ihsg",
+      "tags": [
+        "Global Index",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Analysts project positive 2026 outlook for PT Charoen Pokphand Indonesia Tbk (CPIN) as poultry prices support growth",
+      "timestamp": "2026-08-26T17:00:00",
+      "source": "https://investasi.kontan.co.id/news/prospek-cpin-hingga-akhir-2026-positif-harga-unggas-jadi-penopang",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Business Expansion",
+        "Mergers & Acquisitions",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts issue hold on CPIN, buy on MAIN and add on JPFA as poultry sector outlook stays positive through 2026",
+      "timestamp": "2026-08-23T14:54:00",
+      "source": "https://investasi.kontan.co.id/news/kinerja-emiten-poultry-diproyeksi-positif-cek-rekomendasi-saham-cpin-main-jpfa",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Commodities",
+        "Risk & Compliance",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts say reduced MBG target has moderate impact on poultry sector and recommend JPFA buy, CPIN wait, MAIN tactical play",
+      "timestamp": "2026-08-23T14:34:00",
+      "source": "https://investasi.kontan.co.id/news/dampak-target-mbg-hanya-moderat-intip-rekomendasi-saham-poultry",
+      "tags": [
+        "Analyst Ratings",
+        "Government Policy",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts Keep Poultry Sector Overweight and Recommend Buy on PT Charoen Pokphand Indonesia Tbk, PT Japfa Comfeed Indonesia Tbk, and PT Malindo Feedmill Indonesia Tbk Amid MBG Target Reduction",
+      "timestamp": "2026-08-23T12:41:00",
+      "source": "https://investasi.kontan.co.id/news/pemangkasan-target-mbg-membayangi-sektor-perunggasan-cek-prospek-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "After Two Days of Gains, PT Bayan Resources Tbk’s Sell‑off Drives IHSG Down Over 1%",
+      "timestamp": "2026-08-19T10:11:48",
+      "source": "https://www.cnbcindonesia.com/market/20260819091402-17-760500/setelah-dua-hari-hijau-ini-penyebab-ihsg-turun-1",
+      "tags": [
+        "Market Sentiment",
+        "Central Bank",
+        "Mergers & Acquisitions",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign investors recorded a net sell of Rp 355 billion on Tuesday, with PT Indosat Tbk leading the list of heavily sold stocks.",
+      "timestamp": "2026-08-19T08:22:00",
+      "source": "https://investasi.kontan.co.id/news/asing-net-sell-rp-355-miliar-cermati-saham-yang-banyak-dijual-selasa-188",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "LQ45 lowest‑PER stocks rally while highest‑PER stocks show mixed moves on 14 August 2026",
+      "timestamp": "2026-08-18T04:28:00",
+      "source": "https://investasi.kontan.co.id/news/daftar-saham-per-terendah-tertinggi-lq45-14-agustus-2026-jpfa-dan-mdka-disorot",
+      "tags": [
+        "Market Sentiment",
+        "Foreign Investment",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "IHSG projected to rise on Tuesday (18 Aug) with stock picks AADI, ANTM, and VKTR highlighted",
+      "timestamp": "2026-08-17T16:22:00",
+      "source": "https://investasi.kontan.co.id/news/intip-proyeksi-ihsg-dan-saham-pilihan-untuk-perdagangan-selasa-188",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Foreign Investment"
+      ]
+    },
+    {
+      "title": "BRI Danareksa Sekuritas maintains positive outlook on PT Charoen Pokphand Indonesia Tbk despite reduced MBG recipient target",
+      "timestamp": "2026-08-16T16:05:56",
+      "source": "https://investor.id/market/450562/nasib-charoen-pokphand-cpin-di-tengah-pemangkasan-penerima-mbg",
+      "tags": [
+        "Analyst Ratings",
+        "Government Policy",
+        "Import",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts Keep Buy Ratings on PT Charoen Pokphand Indonesia Tbk and PT Japfa Comfeed Indonesia Tbk as Poultry Prices Recover in H2‑2026",
+      "timestamp": "2026-08-16T13:45:00",
+      "source": "https://investasi.kontan.co.id/news/intip-rekomendasi-saham-dan-prospek-kinerja-emiten-unggas-di-semester-ii-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Potential foreign outflows of up to Rp 1 trillion loom after MSCI August 2026 review removes GOTO and CPIN from the Global Standard Index",
+      "timestamp": "2026-08-16T08:08:00",
+      "source": "https://money.kompas.com/read/2026/08/16/080844026/potensi-asing-cabut-dari-bursa-rp-1-triliun-usai-review-msci-agustus",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG rises 1.59% to 6,401.89 as investors watch MSCI rebalancing impact",
+      "timestamp": "2026-08-15T06:30:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-menguat-159-menjadi-640189-investor-masih-cermati-dampak-msci",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI removes 10 Indonesian stocks, all tumble on Thursday",
+      "timestamp": "2026-08-14T07:00:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8617544/ditendang-msci-10-saham-ri-langsung-rontok",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI August 2026 review deletes 13 Indonesian stocks while foreign investors net‑sell Rp1.41 trillion",
+      "timestamp": "2026-08-14T06:30:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/118276/posisi-investor-asing-kala-review-msci-agustus-2026",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI Keeps Indonesia in Emerging‑Market Category While Removing Ten Indonesian Stocks from Its Indexes Effective Aug 31 2026",
+      "timestamp": "2026-08-14T05:55:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8617532/msci-pertahankan-ri-emerging-market-setara-malaysia-hingga-china",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Understanding MSCI: Global Index Guiding International Investors and Its Impact on Indonesian Stocks",
+      "timestamp": "2026-08-14T05:00:00",
+      "source": "https://market.bisnis.com/read/20260814/7/1996138/mengenal-msci-indeks-global-yang-menjadi-acuan-investor-internasional",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI Keeps Indonesia in Emerging Market Category as GOTO Dropped and CPIN Downgraded, Weighing on IHSG",
+      "timestamp": "2026-08-13T22:37:00",
+      "source": "https://investasi.kontan.co.id/news/msci-pertahankan-status-indonesia-sebagai-emerging-market-ihsg-berpeluang-rebound",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "GoTo Gojek Tokopedia Tbk removed from MSCI Global Standard Index but stays in LQ45, IDX30 and IDX80",
+      "timestamp": "2026-08-13T19:48:00",
+      "source": "https://market.bisnis.com/read/20260813/189/1996130/lepas-dari-msci-goto-masih-nyaman-di-lq45-hingga-idx80",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Investor Confidence Weakens During Prabowo Administration as MSCI Removes 11 Indonesian Stocks, IHSG Could Slip Below 6,000",
+      "timestamp": "2026-08-13T19:11:00",
+      "source": "https://investasi.kontan.co.id/news/kepercayaan-investor-melemah-selama-pemerintahan-prabowo-ihsg-bisa-ke-bawah-6000",
+      "tags": [
+        "Market Sentiment",
+        "Global Index",
+        "Currency & FX",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI Keeps Indonesia in Emerging Markets but Removes Ten Local Stocks, Prompting Potential Passive Outflows",
+      "timestamp": "2026-08-13T18:32:00",
+      "source": "https://market.bisnis.com/read/20260813/7/1996072/brief-insight-selamat-dari-frontier-market-indonesia-masih-punya-pr-besar-di-msci",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Several Indonesian Stocks Removed from MSCI Indices: Outlook Ahead",
+      "timestamp": "2026-08-13T18:32:00",
+      "source": "https://investasi.kontan.co.id/news/sederet-saham-terdepak-dari-msci-bagaimana-prospeknya-ke-depan",
+      "tags": [
+        "Global Index",
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Analysts project poultry issuers' performance to rebound in H2 2026, citing CPIN’s strong H1 results and continued MBG support",
+      "timestamp": "2026-08-13T17:35:00",
+      "source": "https://investasi.kontan.co.id/news/kinerja-emiten-unggas-berpotensi-pulih-pada-semester-ii-2026-didukung-program-mbg",
+      "tags": [
+        "Analyst Ratings",
+        "Government Policy",
+        "Commodities",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MSCI removes PT Charoen Pokphand Indonesia Tbk (CPIN) from Global Standard Index",
+      "timestamp": "2026-08-13T17:32:00",
+      "source": "https://emitennews.com/news/nasib-charoen-pokphand-cpin-usai-ditendang-msci-analis-ungkap-ini",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG closes weaker 1.13% at 6,301.77, pressured by MSCI rebalancing announcement",
+      "timestamp": "2026-08-13T16:18:00",
+      "source": "https://market.bisnis.com/read/20260813/7/1996021/ihsg-ditutup-melemah-113-ke-630177-tertekan-pengumuman-rebalancing-msci",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "GoTo Gojek Tokopedia Tbk removed from MSCI Global Standard Index",
+      "timestamp": "2026-08-13T15:51:43",
+      "source": "https://www.cnbcindonesia.com/market/20260813131018-17-758930/goto-didepak-dari-indeks-msci-manajemen-sebut-harga-saham-gocap",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk Shares Removed from MSCI Global Standard Indexes Effective Aug 31 2026",
+      "timestamp": "2026-08-13T15:45:59",
+      "source": "https://investor.id/market/450227/meski-didepak-dari-indeks-msci-saham-goto-masih-eksklusif",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Charoen Pokphand Indonesia Tbk downgraded and PT GoTo Gojek Tokopedia Tbk removed from MSCI, a wake‑up call for Indonesia’s capital market",
+      "timestamp": "2026-08-13T15:01:00",
+      "source": "https://money.kompas.com/read/2026/08/13/150138026/cpin-turun-kelas-dan-goto-terdepak-dari-msci-sinyal-peringatan-untuk-pasar",
+      "tags": [
+        "Global Index",
+        "Market Sentiment",
+        "Foreign Investment",
+        "Politics & Regulation",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk exits MSCI Global Standard Indexes but remains in BEI’s LQ45, IDX30, IDX80 and KOMPAS100",
+      "timestamp": "2026-08-13T14:37:00",
+      "source": "https://investasi.kontan.co.id/news/goto-keluar-dari-msci-tetapi-masih-bertahan-di-indeks-utama-bei",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI August 2026 Review Highlights Liquidity Issues as CPIN Downgraded and GOTO Dropped from Index",
+      "timestamp": "2026-08-13T13:35:00",
+      "source": "https://investasi.kontan.co.id/news/review-msci-indonesia-agustus-2026-cerminkan-masalah-kualitas-likuiditas",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG falls 1.18% to 6,298 in Session I as MSCI deletions pressure stocks such as ESSA and CPIN",
+      "timestamp": "2026-08-13T13:07:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/118205/ihsg-turun-saham-essa-jatuh-7-imbas-didepak-msci",
+      "tags": [
+        "Global Index",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI removes PT GoTo Gojek Tokopedia Tbk and PT Charoen Pokphand Indonesia Tbk from Global Standard Indexes, triggering estimated Rp13.45 trillion outflow",
+      "timestamp": "2026-08-13T13:01:32",
+      "source": "https://www.cnbcindonesia.com/market/20260813113725-17-758878/10-saham-ditendang-msci-risiko-asing-kabur-rp-1345-triliun",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk says MSCI removal is purely technical, not performance‑related",
+      "timestamp": "2026-08-13T12:55:00",
+      "source": "https://market.bisnis.com/read/20260813/192/1995940/goto-penghapusan-dari-msci-murni-teknis-bukan-karena-kinerja",
+      "tags": [
+        "Global Index",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI removes PT GoTo Gojek Tokopedia Tbk and downgrades PT Charoen Pokphand Indonesia Tbk, raising passive outflow risk up to Rp1 trillion",
+      "timestamp": "2026-08-13T12:44:00",
+      "source": "https://market.bisnis.com/read/20260813/7/1995937/msci-depak-goto-dan-turunkan-cpin-ada-potensi-outflow-rp1-triliun",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "GoTo Gojek Tokopedia Excluded from MSCI Global Standard Index as Company Reports Q2 Profit and EBITDA Milestones",
+      "timestamp": "2026-08-13T12:44:00",
+      "source": "https://market.bisnis.com/read/20260813/7/1995936/goto-tanggapi-msci-tegaskan-kinerja-perusahaan-sudah-cetak-laba",
+      "tags": [
+        "Global Index",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG closes down 1.18% to 6,298.34 as MSCI removes CPIN and GOTO from Global Standard Indexes",
+      "timestamp": "2026-08-13T12:22:00",
+      "source": "https://market.bisnis.com/read/20260813/7/1995928/ihsg-ditutup-turun-118-ke-629834-sesi-i-sentimen-msci-membebani",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PR dynamics behind GOTO and CPIN’s exit from MSCI Global Standard Index",
+      "timestamp": "2026-08-13T12:16:00",
+      "source": "https://market.bisnis.com/read/20260813/7/1995923/sejumlah-pr-di-balik-keluarnya-goto-cpin-dari-msci-global-standard-index",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Portfolio",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI Excludes PT GoTo Gojek Tokopedia Tbk from Global Standard Indexes Effective 31 August 2026",
+      "timestamp": "2026-08-13T12:13:32",
+      "source": "https://www.cnbcindonesia.com/market/20260813120931-17-758901/respons-indeks-msci-goto-tegaskan-fundamental-solid-cetak-laba",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk removed from MSCI Global Standard Indexes as MSCI cites low share price and trading volume",
+      "timestamp": "2026-08-13T12:12:00",
+      "source": "https://market.bisnis.com/read/20260813/192/1995924/manajemen-buka-suara-soal-saham-goto-terdepak-dari-indeks-msci",
+      "tags": [
+        "Global Index",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI removes ten Indonesian stocks, including GoTo Gojek Tokopedia and Charoen Pokphand Indonesia, from its global indexes effective Aug 31 2026",
+      "timestamp": "2026-08-13T12:03:38",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260813105639-92-1391758/bei-buka-suara-usai-msci-terbitkan-hasil-rebalancing-terbaru",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Goto Gojek Tokopedia Tbk excluded from MSCI Global Standard Index Indonesia",
+      "timestamp": "2026-08-13T12:00:00",
+      "source": "https://investor.id/market/450202/goto-buka-suara-usai-sahamnya-didepak-dari-indeks-msci",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI rebalancing may trigger potential outflows up to Rp 1 trillion",
+      "timestamp": "2026-08-13T11:59:54",
+      "source": "https://investor.id/market/450197/rebalancing-msci-memicupotensi-outflow-hingga-rp-1-triliun",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG falls 1.38% as MSCI removes GOTO and downgrades CPIN",
+      "timestamp": "2026-08-13T11:03:32",
+      "source": "https://www.cnbcindonesia.com/market/20260813100407-17-758833/breaking-news-ihsg-turun-138",
+      "tags": [
+        "Global Index",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk and PT Charoen Pokphand Indonesia Tbk face MSCI index downgrades, serving as a wake‑up call for Indonesia’s market reforms.",
+      "timestamp": "2026-08-13T10:59:54",
+      "source": "https://investor.id/market/450194/goto-dan-cpin-jadi-wakeup-call",
+      "tags": [
+        "Global Index",
+        "Institutional Investor",
+        "Politics & Regulation",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Bursa Efek Indonesia comments on MSCI’s August 2026 index rebalancing that removes Charoen Pokphand Indonesia and GoTo Gojek Tokopedia and nine other Indonesian issuers",
+      "timestamp": "2026-08-13T10:59:54",
+      "source": "https://investor.id/market/450195/bei-buka-suara-soal-keputusan-msci",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI removes ten Indonesian stocks and demotes one, BEI says it will keep communicating with investors",
+      "timestamp": "2026-08-13T10:41:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8616349/10-saham-didepak-msci-bos-bursa-kami-komunikasi-terus-dengan-investor",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "CPIN shares fall 2.54% after downgrade to MSCI Global Small Cap index",
+      "timestamp": "2026-08-13T10:29:00",
+      "source": "https://market.bisnis.com/read/20260813/7/1995894/turun-kelas-ke-msci-global-small-cap-saham-cpin-kontraksi-254",
+      "tags": [
+        "Global Index",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Ten Indonesian stocks removed from MSCI indexes see 2%‑7% price drops",
+      "timestamp": "2026-08-13T10:18:00",
+      "source": "https://market.bisnis.com/read/20260813/7/1995892/saham-terdepak-dari-indeks-msci-kompak-merah-turun-2-sampai-7",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI removes nine Indonesian stocks from the Global Small Cap Index and reclassifies two, sending the affected shares lower",
+      "timestamp": "2026-08-13T10:15:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/118176/terbuang-dari-msci-pasar-hukum-saham-manoj-punjabi-hingga-bumn",
+      "tags": [
+        "Global Index",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Ten Indonesian stocks, including PT GoTo Gojek Tokopedia Tbk and PT Charoen Pokphand Indonesia Tbk, fell after MSCI removed them from its index, effective Aug 31 2026.",
+      "timestamp": "2026-08-13T10:03:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8616289/10-saham-ambruk-usai-didepak-msci",
+      "tags": [
+        "Global Index",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG slides 1% as MSCI review and upcoming budget speech weigh on market",
+      "timestamp": "2026-08-13T09:57:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/118174/ihsg-terpeleset-1-pagi-ini-tersengat-hasil-review-msci",
+      "tags": [
+        "Global Index",
+        "Government Policy",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Indonesia's IHSG falls 1.05% as MSCI rebalancing removes CPIN, GOTO and nine small‑cap stocks from its indices",
+      "timestamp": "2026-08-13T09:53:17",
+      "source": "https://investor.id/market/450182/ihsg-terjun-bebas-usai-rebalancing-msci-ini-biang-keroknya",
+      "tags": [
+        "Global Index",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Indonesia's Composite Index Opens 0.47% Lower as Market Awaits MSCI Review Outcomes",
+      "timestamp": "2026-08-13T09:50:00",
+      "source": "https://money.kompas.com/read/2026/08/13/095035826/ihsg-dibuka-melemah-047-persen-pasar-cermati-hasil-review-msci",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI removes ten Indonesian stocks, including GoTo and Charoen Pokphand Indonesia, from its indexes",
+      "timestamp": "2026-08-13T09:17:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8616222/msci-coret-10-saham-ri-ihsg-tertekan",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI removes ten Indonesian stocks, including PT Charoen Pokphand Indonesia Tbk and PT GoTo Gojek Tokopedia Tbk, as the Jakarta Composite Index drops 0.43%",
+      "timestamp": "2026-08-13T09:03:58",
+      "source": "https://www.cnbcindonesia.com/market/20260813082546-17-758783/msci-tendang-10-saham-ihsg-pagi-ini-turun-043",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Today's Stock Recommendations: PTRO, BRPT, and TUGU",
+      "timestamp": "2026-08-13T08:58:58",
+      "source": "https://www.cnbcindonesia.com/market/20260813083630-17-758797/rekomendasi-saham-hari-ini-ptro-brpt-hingga-tugu",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Bumi Resources (BUMI) shares rise 3.93% as the company remains in MSCI Global Small Cap Index Indonesia",
+      "timestamp": "2026-08-13T08:56:17",
+      "source": "https://investor.id/market/450166/bumi-resources-bumi-aman",
+      "tags": [
+        "Global Index",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MSCI Removes GOTO and CPIN from Global Standard Indexes, Adds CPIN to Small‑Cap and Drops Nine Others",
+      "timestamp": "2026-08-13T08:56:17",
+      "source": "https://investor.id/market/450169/msci-ungkap-status-pasar-saham-indonesia",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "EXCL and INPP post strong earnings and dividend announcements as Indonesia market rallies 1.69%",
+      "timestamp": "2026-08-13T08:40:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8616192/excl-dan-inpp-jadi-sorotan-ihsg-menguat-1-69-serta-msci-ubah-konstituen-saham",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MSCI removes PT GoTo Gojek Tokopedia Tbk from its Indonesia Investable Market Index and downgrades PT Charoen Pokphand Indonesia Tbk to Small Cap",
+      "timestamp": "2026-08-13T08:39:00",
+      "source": "https://investasi.kontan.co.id/news/msci-coret-goto-turunkan-cpin-ke-small-cap-ini-prospek-ihsg-selanjutnya",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI removes ten Indonesian stocks, including PT GoTo Gojek Tokopedia Tbk, effective Aug 31 2026",
+      "timestamp": "2026-08-13T07:59:01",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260813064249-92-1391663/daftar-10-saham-indonesia-yang-dikeluarkan-msci-per-agustus-2026",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG projected to rise toward 6,600 as Pilarmas notes MSCI index revisions and recommends JPFA, GZCO, and HRUM",
+      "timestamp": "2026-08-13T07:56:17",
+      "source": "https://investor.id/market/450155/ihsg-berpeluang-menguat-ke-6600-cermati-3-saham-calon-cuan",
+      "tags": [
+        "Global Index",
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MSCI August 2026 review supports IHSG outlook toward 6,400 despite index constituent changes",
+      "timestamp": "2026-08-13T07:35:00",
+      "source": "https://market.bisnis.com/read/20260813/189/1995855/review-msci-jadi-katalis-ihsg-incar-6400",
+      "tags": [
+        "Global Index",
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MSCI Removes Ten Indonesian Stocks, What Is the Outlook for the IHSG?",
+      "timestamp": "2026-08-13T07:19:00",
+      "source": "https://money.kompas.com/read/2026/08/13/071900426/msci-depak-10-saham-ri-bagaimana-nasib-ihsg-",
+      "tags": [
+        "Global Index",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Mirae Asset keeps Overweight on poultry sector as DOC price jumps 51.5% and issues buy recommendations for JPFA and CPIN",
+      "timestamp": "2026-08-13T06:45:00",
+      "source": "https://investasi.kontan.co.id/news/mbg-kembali-berjalan-harga-doc-naik-515-dan-saham-poultry-disarankan-overweight",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Domestic Investor",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MSCI Keeps Indonesia in Emerging Market but Drops GoTo Gojek Tokopedia and Charoen Pokphand Indonesia from Global Standard Cap Index",
+      "timestamp": "2026-08-13T05:52:00",
+      "source": "https://investasi.kontan.co.id/news/review-terbaru-msci-indonesia-masih-masuk-emerging-market",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI August 2026 Index Review removes PT GoTo Gojek Tokopedia Tbk and downgrades PT Charoen Pokphand Indonesia Tbk, affecting ten Indonesian stocks",
+      "timestamp": "2026-08-13T05:51:00",
+      "source": "https://investasi.kontan.co.id/news/resmi-ini-hasil-review-indeks-msci-agustus-2026-cek-prediksi-pasar-saham",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI August 2026 review removes PT GoTo Gojek Tokopedia Tbk and downgrades PT Charoen Pokphand Indonesia Tbk to Small‑Cap",
+      "timestamp": "2026-08-13T05:35:00",
+      "source": "https://www.antaranews.com/berita/5691920/msci-umumkan-tinjauan-agustus-dua-saham-di-indeks-utama-terdampak",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI August 2026 Review Removes CPIN and GOTO from Global Standard Index and Cuts Nine Stocks from Small Cap",
+      "timestamp": "2026-08-13T05:31:00",
+      "source": "https://money.kompas.com/read/2026/08/13/053127226/hasil-review-msci-agustus-cpin-dan-goto-keluar-dari-global-standard-9-saham",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI August 2026 review keeps Indonesia in Emerging Markets but drops PT GoTO Gojek Tokopedia Tbk and PT Charoen Pokphand Indonesia Tbk from Global Standard Indexes",
+      "timestamp": "2026-08-13T05:30:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/118136/review-agustus-2026-indonesia-tetap-di-emerging-markets-msci",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI removes ten Indonesian stocks, including PT GoTo Gojek Tokopedia and PT Charoen Pokphand Indonesia, from its indexes",
+      "timestamp": "2026-08-13T05:27:00",
+      "source": "https://market.bisnis.com/read/20260813/7/1995836/msci-rombak-indeks-10-saham-indonesia-terdepak",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI Confirms Indonesia Remains in Emerging Market Classification While Removing Ten Indonesian Stocks from Its Indexes",
+      "timestamp": "2026-08-13T05:12:00",
+      "source": "https://market.bisnis.com/read/20260813/7/1995838/msci-tegaskan-indonesia-tetap-di-emerging-market",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI removes ten Indonesian stocks from its global indexes, effective 31 August 2026",
+      "timestamp": "2026-08-13T05:11:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8616092/cek-daftar-10-saham-ri-didepak-msci",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI removes PT GoTo Gojek Tokopedia Tbk from Global Standard Index and reclassifies PT Charoen Pokphand Indonesia Tbk to Global Small Cap",
+      "timestamp": "2026-08-13T05:08:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/118135/msci-depak-goto-dari-indeks-cpin-turun-kelas",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI removes PT GoTo Gojek Tokopedia Tbk from the MSCI Indonesia Investable Market Index due to low liquidity",
+      "timestamp": "2026-08-13T05:02:00",
+      "source": "https://market.bisnis.com/read/20260813/192/1995837/msci-hapus-goto-dari-index-ini-alasannya",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI’s decision surprises market by removing eight Indonesian stocks from Small Cap index",
+      "timestamp": "2026-08-13T04:56:17",
+      "source": "https://investor.id/market/450142/keputusan-msci-jadi-kejutan-buat-8-saham",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI removes PT Charoen Pokphand Indonesia Tbk (CPIN) from its Global Standard Index and transfers it to the Small Cap Index",
+      "timestamp": "2026-08-13T04:55:00",
+      "source": "https://emitennews.com/news/emiten-unggas-cpin-ditendang-msci-pindah-ke-small-cap-index",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI removes PT GoTo Gojek Tokopedia Tbk from Global Standard Index and demotes PT Charoen Pokphand Indonesia Tbk to Small Cap",
+      "timestamp": "2026-08-13T04:50:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8616088/msci-depak-goto-cpin-turun-kasta",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI Review Removes PT GoTo Gojek Tokopedia Tbk from Index and Downgrades Charoen Pokphand Indonesia Tbk",
+      "timestamp": "2026-08-13T04:41:00",
+      "source": "https://investasi.kontan.co.id/news/hasil-review-msci-saham-goto-terdepak-saham-cpin-turun-kelas",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Goto Group and Charoen Pokphand performance after removal from MSCI Global Standard",
+      "timestamp": "2026-08-13T04:25:00",
+      "source": "https://emitennews.com/news/intip-performa-goto-dan-cpin-usai-terlempar-dari-msci-global-standard",
+      "tags": [
+        "Global Index",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Charoen Pokphand Indonesia Tbk and PT GoTo Gojek Tokopedia Tbk removed from MSCI Global Standard Index",
+      "timestamp": "2026-08-13T04:18:00",
+      "source": "https://emitennews.com/news/goto-dan-cpin-didepak-dari-msci-global-standard-index",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI August 2026 review removes PT GoTo Gojek Tokopedia Tbk from Global Standard Index and shifts PT Charoen Pokphand Indonesia Tbk to Global Small Cap",
+      "timestamp": "2026-08-13T04:12:00",
+      "source": "https://market.bisnis.com/read/20260813/7/1995833/msci-agustus-2026-cpin-turun-kelas-goto-keluar",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Investors await MSCI’s Indonesia review as analysts project short‑ to long‑term IHSG moves",
+      "timestamp": "2026-08-12T16:30:00",
+      "source": "https://investasi.kontan.co.id/news/investor-menanti-keputusan-msci-cek-proyeksi-ihsg-dalam-jangka-pendek-hingga-panjang",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI Rebalancing to Downgrade CPIN to Small Cap and Remove GOTO from Global Standard Index",
+      "timestamp": "2026-08-12T14:43:00",
+      "source": "https://market.bisnis.com/read/20260812/7/1995643/kisi-kisi-hasil-rebalancing-indeks-msci-saham-cpin-turun-kelas-goto-didepak",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas recommends overweight for JPFA, CPIN and MAIN on basis of solid fundamentals",
+      "timestamp": "2026-08-12T13:49:00",
+      "source": "https://market.bisnis.com/read/20260812/189/1995561/kokok-emiten-unggas-jpfa-cpin-main-ditopang-fundamental-solid",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analyst predicts volatile IHSG ahead of MSCI rebalancing and flags CPIN risk of classification downgrade",
+      "timestamp": "2026-08-12T10:58:00",
+      "source": "https://money.kompas.com/read/2026/08/12/105800426/menanti-rebalancing-msci-ihsg-diprediksi-volatil-cpin-berisiko-turun-kelas-",
+      "tags": [
+        "Global Index",
+        "Analyst Ratings",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Charoen Pokphand Indonesia Tbk Remains in MSCI Standard Index as First‑Half 2026 Earnings Surge",
+      "timestamp": "2026-08-12T08:45:00",
+      "source": "https://emitennews.com/news/masih-bertahan-di-msci-intip-kinerja-cpin-dan-nasibnya-nanti",
+      "tags": [
+        "Global Index",
+        "Financial Metrics",
+        "Dividend Announcement",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BRIDS flags downgrade risk for CPIN, possible deletion of GOTO and removal risk for FILM ahead of MSCI rebalancing on 12 August 2026",
+      "timestamp": "2026-08-12T06:51:35",
+      "source": "https://investor.id/market/449993/bisikan-pengumuman-msci",
+      "tags": [
+        "Global Index",
+        "Risk & Compliance",
+        "Politics & Regulation",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "H1 2026 earnings highlight for Indonesian poultry issuers CPIN, MAIN, AYAM, SIPD and WMUU",
+      "timestamp": "2026-08-07T10:15:00",
+      "source": "https://emitennews.com/news/adu-kinerja-emiten-unggas-cpin-main-ayam-hingga-wmuu",
+      "tags": [
+        "Annual Report",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "CPIN posts 95% YoY net profit rise in H1 2026, analysts keep buy ratings",
+      "timestamp": "2026-08-04T18:17:00",
+      "source": "https://investasi.kontan.co.id/news/laba-cpin-melonjak-95-analis-ungkap-alasan-dan-rekomendasi-sahamnya-terbaru",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Charoen Pokphand Indonesia Tbk reports 95% rise in net profit and 19% increase in sales in the first half of 2026",
+      "timestamp": "2026-08-04T16:57:00",
+      "source": "https://investasi.kontan.co.id/news/charoen-pokphand-cpin-raup-kenaikan-laba-dan-penjualan-pada-semester-i-2026",
+      "tags": [
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "LQ45 constituents post solid first‑half 2026 earnings, with top blue‑chip picks highlighted for semester II",
+      "timestamp": "2026-08-04T05:39:00",
+      "source": "https://investasi.kontan.co.id/news/laba-emiten-lq45-lampaui-ekspektasi-cek-saham-blue-chip-pilihan-semester-ii-2026",
+      "tags": [
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Interest Rate",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analyst highlights strong first‑half 2026 earnings across LQ45 constituents and points to several stocks with upside potential through year‑end 2026",
+      "timestamp": "2026-08-03T19:32:00",
+      "source": "https://investasi.kontan.co.id/news/laba-emiten-lq45-moncer-analis-beberkan-deretan-saham-potensial-hingga-akhir-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Majority of LQ45 Index constituents post solid performance in H1 2026",
+      "timestamp": "2026-08-03T19:03:00",
+      "source": "https://investasi.kontan.co.id/news/mayoritas-emiten-di-indeks-lq45-raih-kinerja-apik-pada-semester-i-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Charoen Pokphand Indonesia Tbk reports H1 2026 net profit of Rp3.70 trillion and raises dividend to Rp2.95 trillion",
+      "timestamp": "2026-08-03T10:20:00",
+      "source": "https://emitennews.com/news/masih-royal-bagi-dividen-cpin-cetak-laba-rp37t-di-semester-i",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "CPIN and GOTO Face Potential Removal from MSCI Index in August 2026 Rebalancing",
+      "timestamp": "2026-07-31T05:45:00",
+      "source": "https://investasi.kontan.co.id/news/rebalancing-msci-agustus-2026-cpin-dan-goto-terancam-keluar-dari-indeks",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI August 2026 review predicts CPIN downgrade, GOTO and FILM removal from indices",
+      "timestamp": "2026-07-30T14:11:00",
+      "source": "https://market.bisnis.com/read/20260730/7/1992333/prediksi-tinjauan-indeks-msci-agustus-2026-cpin-turun-kelas-goto-film-terdepak",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Bisnis-27 Index Closes 0.48% Lower Following the Resignation of Bank Indonesia Governor Perry Warjiyo",
+      "timestamp": "2026-07-27T16:20:00",
+      "source": "https://market.bisnis.com/read/20260727/7/1991405/indeks-bisnis-27-ditutup-melemah-048-usai-gubernur-bi-mundur",
+      "tags": [
+        "Market Sentiment",
+        "Central Bank",
+        "Executive Changes",
+        "Global Economy",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Mirae Asset notes Indonesia MSCI weight stabilizes at 0.5% as CPIN faces downgrade and GOTO’s index status remains uncertain",
+      "timestamp": "2026-07-27T10:40:00",
+      "source": "https://investasi.kontan.co.id/news/bobot-indonesia-di-msci-naik-lagi-saham-goto-dan-cpin-jadi-perhatian-investor",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Institutional Investor",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG predicted to rise modestly today, with analysts recommending BIPI, BKSL, RAJA, JPFA and CPIN",
+      "timestamp": "2026-07-27T06:29:00",
+      "source": "https://money.kompas.com/read/2026/07/27/062900826/ihsg-diprediksi-menguat-terbatas-hari-ini-simak-sentimen-dan-saham-pilihan",
+      "tags": [
+        "Analyst Ratings",
+        "Global Economy",
+        "Government Policy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Stock recommendations for JPF and CPIN today as IHSG looks set to rebound",
+      "timestamp": "2026-07-27T05:04:00",
+      "source": "https://investasi.kontan.co.id/news/simak-rekomendasi-saham-pilihan-hari-ini-277-ihsg-berpeluang-rebound",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Projected to Strengthen on Monday Trading (27/7)",
+      "timestamp": "2026-07-26T15:09:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diproyeksikan-menguat-pada-perdagangan-senin-277",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Financial Reporting Season Begins – Analysts Highlight Banking, Consumer Staples and Telecom as Top Profit‑Generating Sectors for Semester I 2026",
+      "timestamp": "2026-07-26T06:52:00",
+      "source": "https://market.bisnis.com/read/20260726/192/1991071/musim-laporan-keuangan-tiba-cek-sektor-saham-potensi-cuan-boncos-semester-i2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Credit",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Mirae Asset predicts MSCI August 2026 review could trigger up to Rp1.5 trillion passive outflows, with CPIN facing downgrade and GOTO’s inclusion uncertain",
+      "timestamp": "2026-07-26T06:35:00",
+      "source": "https://market.bisnis.com/read/20260726/7/1991070/review-msci-agustus-berpotensi-picu-outflow-rp15-triliun-cek-nasib-cpin-goto",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Mirae Asset Sekuritas expects CPIN to be downgraded to MSCI small‑cap in August review while GOTO’s index inclusion remains uncertain.",
+      "timestamp": "2026-07-25T12:48:00",
+      "source": "https://market.bisnis.com/read/20260725/7/1991003/rebalancing-msci-agustus-cpin-diproyeksi-turun-kelas-goto-masih-tanda-tanya",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI Quarterly Review May Lead to CPIN Demotion and Potential GOTO Removal, Triggering Up to Rp1.5 trillion Outflow",
+      "timestamp": "2026-07-24T15:46:48",
+      "source": "https://investor.id/market/447781/update-msci-dua-saham-top-rawan-kena-hantam-potensi-outflow-gede",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Capital & Funding",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Business-27 Index closes red, pressured by declines in ASII and TLKM stocks",
+      "timestamp": "2026-07-23T16:34:00",
+      "source": "https://market.bisnis.com/read/20260723/7/1990515/indeks-bisnis-27-ditutup-merah-tertekan-pelemahan-saham-asii-hingga-tlkm",
+      "tags": [
+        "Central Bank",
+        "Interest Rate",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Daily stock recommendation roundup for 23 July 2026",
+      "timestamp": "2026-07-23T08:50:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/115953/rangkuman-rekomendasi-saham-hari-ini-23-juli-2026",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Stock Recommendations and IHSG Movement for 23 July 2026",
+      "timestamp": "2026-07-23T08:30:00",
+      "source": "https://market.bisnis.com/read/20260723/7/1990303/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-23-juli-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Reasons for the IHSG Closing Up 1.19% Today",
+      "timestamp": "2026-07-07T16:41:52",
+      "source": "https://www.cnbcindonesia.com/market/20260707160842-17-748866/penyebab-ihsg-ditutup-naik-119-hari-ini",
+      "tags": [
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "IHSG opens lower at 5,905 as analysts recommend BBRI, MDKA, TINS, XCEG, ADRO, BBNI, CPIN, EMTK, and ICBP",
+      "timestamp": "2026-07-07T09:30:25",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260707092322-92-1377710/ihsg-meradang-ke-5905-pagi-ini-239-saham-merah",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Analysts project a positive Q3‑2026 outlook for Indonesia’s poultry stocks, citing strong demand from the MBG program and earnings growth at PT Japfa Comfeed Indonesia Tbk and PT Charoen Pokphand Indonesia Tbk",
+      "timestamp": "2026-07-05T16:43:00",
+      "source": "https://investasi.kontan.co.id/news/mbg-dorong-permintaan-saham-sektor-poultry-masih-positif-di-kuartal-iii-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Government Policy",
+        "Currency & FX",
+        "Commodities",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts issue Buy recommendations for JPFA, MAIN and CPIN with target prices of Rp 3,200, Rp 750 and Rp 5,900",
+      "timestamp": "2026-07-05T16:15:00",
+      "source": "https://investasi.kontan.co.id/news/simak-rekomendasi-saham-jpfa-main-cpin-dari-analis-berikut",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Risk & Compliance",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BRI Danareksa expects soybean‑meal import scheme to lift poultry margins by ~5% and recommends PT Charoen Pokphand Indonesia Tbk, PT Japfa Comfeed Indonesia Tbk and PT Malindo Feedmill Tbk",
+      "timestamp": "2026-07-05T15:33:00",
+      "source": "https://investasi.kontan.co.id/news/skema-impor-bungkil-kedelai-topang-margin-sektor-poultry-masih-layak-dikoleksi",
+      "tags": [
+        "Import",
+        "Analyst Ratings",
+        "Commodities",
+        "Risk & Compliance",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "LQ45 Blue‑Chip Stocks Remain Cheap as Prices Fall, Analysts Suggest Buying Opportunities",
+      "timestamp": "2026-07-03T11:39:00",
+      "source": "https://investasi.kontan.co.id/news/peluang-cuan-lq45-harga-saham-blue-chip-terus-merosot-saatnya-koleksi-lagi",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Financial Metrics",
+        "Global Economy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Blue‑chip stocks are cheap, yet fundamental risks still loom",
+      "timestamp": "2026-07-02T20:12:00",
+      "source": "https://investasi.kontan.co.id/news/saham-bluechip-sudah-murah-tapi-risiko-fundamental-tetap-membayangi",
+      "tags": [
+        "Financial Metrics",
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG volatile as BREN, TLKM and BRPT lead gains while United Tractors launches buyback and Erajaya declares dividend",
+      "timestamp": "2026-07-02T09:33:32",
+      "source": "https://www.cnbcindonesia.com/market/20260702082514-17-747378/ihsg-masih-volatil-deretan-saham-ini-menarik-buat-dilirik",
+      "tags": [
+        "Stock Buyback",
+        "Dividend Announcement",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net sold Rp 577.79 billion on Wednesday, with PT Bank Rakyat Indonesia Tbk leading the list",
+      "timestamp": "2026-07-02T00:25:00",
+      "source": "https://investasi.kontan.co.id/news/asing-lanjut-net-sell-rp-577-miliar-cek-saham-yang-banyak-dijual-asing-rabu-27",
+      "tags": [
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG closes Wednesday July 1, 2026 up 51 points to 5,695.19, PT Petrindo Jaya Kreasi Tbk leads gains",
+      "timestamp": "2026-07-01T16:57:00",
+      "source": "https://money.kompas.com/read/2026/07/01/165732626/ihsg-ditutup-rabu-1-juli-2026-naik-51-poin-ke-569511-cuan-berjaya",
+      "tags": [
+        "Bullish",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "IHSG fluctuates at the start of July trading, ending 0.58% higher at 5,675",
+      "timestamp": "2026-07-01T09:26:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/113560/ihsg-fluktuatif-awali-perdagangan-juli",
+      "tags": [
+        "Market Sentiment",
+        "Inflation",
+        "Commodities",
+        "Global Economy"
+      ]
+    },
+    {
+      "title": "IHSG Predicted to Remain Weak; CGS International Sekuritas Indonesia Highlights Six Potential Winners",
+      "timestamp": "2026-07-01T08:04:24",
+      "source": "https://investor.id/market/444815/ihsg-masih-rawan-koreksi-tapi-bisa-cermati-6-saham-calon-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Commodities",
+        "Currency & FX"
+      ]
+    },
+    {
+      "title": "Danareksa Sekuritas Maintains Overweight on PT Charoen Pokphand Indonesia Tbk Amid Improving Poultry Outlook",
+      "timestamp": "2026-06-27T07:50:00",
+      "source": "https://investasi.kontan.co.id/news/peran-danantara-program-mbg-begini-prospek-saham-poultry-saat-oversupply-reda",
+      "tags": [
+        "Analyst Ratings",
+        "Inflation",
+        "Currency & FX",
+        "Business Expansion",
+        "Import",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Charoen Pokphand Indonesia posts 12.7% revenue growth and 62.7% profit surge in Q1 2026, with livebird price seen as catalyst",
+      "timestamp": "2026-06-22T19:16:00",
+      "source": "https://investasi.kontan.co.id/news/harga-livebird-bisa-jadi-katalis-cermati-prospek-dan-rekomendasi-saham-cpin",
+      "tags": [
+        "Financial Metrics",
+        "Currency & FX",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts project revenue rise and higher soybean‑meal costs for PT Charoen Pokphand Indonesia Tbk",
+      "timestamp": "2026-06-22T18:31:00",
+      "source": "https://investasi.kontan.co.id/news/potensi-kenaikan-harga-pakan-simak-rekomendasi-saham-charoen-pokphand-cpin",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Commodities",
+        "Currency & FX",
+        "Government Policy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BRI Danareksa Sekuritas maintains overweight on poultry sector and recommends buy for CPIN with target price 5,900 IDR",
+      "timestamp": "2026-06-21T18:33:21",
+      "source": "https://investor.id/stock/443509/ternak-cuan-gemuk-di-saham-cpin-dan-jpfa",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Inflation",
+        "Currency & FX",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Mirae Asset keeps Overweight on poultry sector, sets target price Rp 5,550 for PT Charoen Pokphand Indonesia Tbk and Rp 3,750 for PT Japfa Comfeed Indonesia Tbk",
+      "timestamp": "2026-06-13T16:00:00",
+      "source": "https://investasi.kontan.co.id/news/harga-ayam-dan-pakan-naik-saham-sektor-poultry-dinilai-masih-tahan-banting",
+      "tags": [
+        "Analyst Ratings",
+        "Government Policy",
+        "Commodities",
+        "Bullish"
+      ]
+    }
+  ],
+  "corporate_events": [
+    {
+      "date": "2026-05-20",
+      "type": "RUPS",
+      "detail": "Waktu: 14:00:00 · Lokasi: JL. Ancol Viii/1 · Agenda #1: Shareholders approved the 2025 Annual Report and Financial Statements, granting a full discharge of responsibility to the Board of Directors and Board of Commissioners for their management and supervision.\nAgenda #2: The meeting approved a cash dividend of Rp180 per share, totaling Rp2,951,640,000,000 or 52.30% of the 2025 net profit, with the remainder allocated to retained earnings.\nAgenda #3: The Board of Commissioners was authorized to appoint a Public Accountant from Purwantono, Sungkoro & Surja to audit the 2026 Financial Statements.\nAgenda #4: Shareholders approved amending Article 3 of the Articles of Association to align with the 2025 Indonesia Standard Industrial Classification (KBLI) and BPS Regulation No. 7 of 2025."
+    }
+  ],
+  "context_period": {
+    "start": "2026-04-01",
+    "end": "2026-09-30"
+  },
+  "source_availability": {
+    "company_fundamentals": true,
+    "corporate_events": true,
+    "news": true,
+    "peer_comparison": true,
+    "market_context": true,
+    "sector_market_series": false
+  },
+  "news_archive": {
+    "pages": 6,
+    "rows": 166,
+    "pagination_exhausted": true,
+    "totals_seen": [
+      166
+    ]
+  }
 }

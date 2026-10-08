@@ -1,0 +1,242 @@
+{
+  "version": "context-enrichment-1.0",
+  "captured_at": "2026-10-08",
+  "period": {
+    "start": "2026-04-01",
+    "end": "2026-09-30"
+  },
+  "responses": 234,
+  "market_sessions": 121,
+  "news_rows": 4804,
+  "stocks": [
+    {
+      "symbol": "ADRO",
+      "news": 110,
+      "events": 1,
+      "peers": 10,
+      "snapshot_price_date": "2026-10-07",
+      "historical_context_unchanged": true
+    },
+    {
+      "symbol": "AMMN",
+      "news": 178,
+      "events": 1,
+      "peers": 10,
+      "snapshot_price_date": "2026-10-07",
+      "historical_context_unchanged": true
+    },
+    {
+      "symbol": "ANTM",
+      "news": 274,
+      "events": 3,
+      "peers": 10,
+      "snapshot_price_date": "2026-10-07",
+      "historical_context_unchanged": true
+    },
+    {
+      "symbol": "ASII",
+      "news": 241,
+      "events": 4,
+      "peers": 10,
+      "snapshot_price_date": "2026-10-07",
+      "historical_context_unchanged": true
+    },
+    {
+      "symbol": "BBCA",
+      "news": 564,
+      "events": 2,
+      "peers": 10,
+      "snapshot_price_date": "2026-10-07",
+      "historical_context_unchanged": true
+    },
+    {
+      "symbol": "BBNI",
+      "news": 265,
+      "events": 0,
+      "peers": 10,
+      "snapshot_price_date": "2026-10-07",
+      "historical_context_unchanged": true
+    },
+    {
+      "symbol": "BBRI",
+      "news": 492,
+      "events": 2,
+      "peers": 10,
+      "snapshot_price_date": "2026-10-07",
+      "historical_context_unchanged": true
+    },
+    {
+      "symbol": "BMRI",
+      "news": 507,
+      "events": 4,
+      "peers": 10,
+      "snapshot_price_date": "2026-10-07",
+      "historical_context_unchanged": true
+    },
+    {
+      "symbol": "BRMS",
+      "news": 84,
+      "events": 1,
+      "peers": 10,
+      "snapshot_price_date": "2026-10-07",
+      "historical_context_unchanged": true
+    },
+    {
+      "symbol": "BSDE",
+      "news": 46,
+      "events": 1,
+      "peers": 10,
+      "snapshot_price_date": "2026-10-07",
+      "historical_context_unchanged": true
+    },
+    {
+      "symbol": "CPIN",
+      "news": 166,
+      "events": 1,
+      "peers": 10,
+      "snapshot_price_date": "2026-10-07",
+      "historical_context_unchanged": true
+    },
+    {
+      "symbol": "CTRA",
+      "news": 59,
+      "events": 2,
+      "peers": 10,
+      "snapshot_price_date": "2026-10-07",
+      "historical_context_unchanged": true
+    },
+    {
+      "symbol": "EMTK",
+      "news": 34,
+      "events": 2,
+      "peers": 10,
+      "snapshot_price_date": "2026-10-07",
+      "historical_context_unchanged": true
+    },
+    {
+      "symbol": "GOTO",
+      "news": 325,
+      "events": 1,
+      "peers": 10,
+      "snapshot_price_date": "2026-10-07",
+      "historical_context_unchanged": true
+    },
+    {
+      "symbol": "ICBP",
+      "news": 113,
+      "events": 2,
+      "peers": 10,
+      "snapshot_price_date": "2026-10-07",
+      "historical_context_unchanged": true
+    },
+    {
+      "symbol": "INCO",
+      "news": 126,
+      "events": 2,
+      "peers": 10,
+      "snapshot_price_date": "2026-10-07",
+      "historical_context_unchanged": true
+    },
+    {
+      "symbol": "INDF",
+      "news": 53,
+      "events": 2,
+      "peers": 10,
+      "snapshot_price_date": "2026-10-07",
+      "historical_context_unchanged": true
+    },
+    {
+      "symbol": "ISAT",
+      "news": 114,
+      "events": 4,
+      "peers": 10,
+      "snapshot_price_date": "2026-10-07",
+      "historical_context_unchanged": true
+    },
+    {
+      "symbol": "KLBF",
+      "news": 68,
+      "events": 2,
+      "peers": 10,
+      "snapshot_price_date": "2026-10-07",
+      "historical_context_unchanged": true
+    },
+    {
+      "symbol": "MDKA",
+      "news": 145,
+      "events": 2,
+      "peers": 10,
+      "snapshot_price_date": "2026-10-07",
+      "historical_context_unchanged": true
+    },
+    {
+      "symbol": "MIKA",
+      "news": 22,
+      "events": 4,
+      "peers": 10,
+      "snapshot_price_date": "2026-10-07",
+      "historical_context_unchanged": true
+    },
+    {
+      "symbol": "MYOR",
+      "news": 31,
+      "events": 2,
+      "peers": 10,
+      "snapshot_price_date": "2026-10-07",
+      "historical_context_unchanged": true
+    },
+    {
+      "symbol": "NCKL",
+      "news": 56,
+      "events": 2,
+      "peers": 10,
+      "snapshot_price_date": "2026-10-07",
+      "historical_context_unchanged": true
+    },
+    {
+      "symbol": "PGAS",
+      "news": 71,
+      "events": 1,
+      "peers": 10,
+      "snapshot_price_date": "2026-10-07",
+      "historical_context_unchanged": true
+    },
+    {
+      "symbol": "PTBA",
+      "news": 112,
+      "events": 3,
+      "peers": 10,
+      "snapshot_price_date": "2026-10-07",
+      "historical_context_unchanged": true
+    },
+    {
+      "symbol": "TINS",
+      "news": 168,
+      "events": 3,
+      "peers": 10,
+      "snapshot_price_date": "2026-10-07",
+      "historical_context_unchanged": true
+    },
+    {
+      "symbol": "TLKM",
+      "news": 259,
+      "events": 5,
+      "peers": 10,
+      "snapshot_price_date": "2026-10-07",
+      "historical_context_unchanged": true
+    },
+    {
+      "symbol": "UNTR",
+      "news": 121,
+      "events": 3,
+      "peers": 10,
+      "snapshot_price_date": "2026-10-07",
+      "historical_context_unchanged": true
+    }
+  ],
+  "limitations": [
+    "Company snapshots are current retrieval data, not point-in-time historical inputs.",
+    "Offset news pagination is not snapshot-isolated; provider result counts changed during retrieval.",
+    "No full-market activity breadth or detector context score is inferred from index and market-cap data."
+  ]
+}

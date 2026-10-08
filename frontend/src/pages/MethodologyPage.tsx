@@ -1,3 +1,8 @@
+import {NavbarGlass} from "../components/NavbarGlass";
+import {Link} from "react-router-dom";
+import "../overview-mockups.css";
+import "../summary-mockups.css";
+import "../methodology-design.css";
 import { useEffect, useState } from "react";
 import { PilotMethodology } from "../components/PilotMethodology";
 import { getMethodology, getOverview, getReactionValidation } from "../lib/api";
@@ -15,7 +20,7 @@ const FRAMEWORK=[
   ["L","Look Ahead","Surface what to monitor next."]
 ];
 
-export function MethodologyPage(){
+function MethodologyContent(){
   const [data,setData]=useState<MethodologyPayload|null>(null);
   const [reaction,setReaction]=useState<ReactionValidationPayload|null>(null);
   const [overview,setOverview]=useState<OverviewPayload|null>(null);
@@ -65,3 +70,5 @@ function Term({title,text}:{title:string;text:string}){return <div className="v2
 function Read({title,text}:{title:string;text:string}){return <div><strong>{title}</strong><p>{text}</p></div>;}
 function Example({label,value}:{label:string;value:string}){return <div><span>{label}</span><strong>{value}</strong></div>;}
 function human(v:string){return v.replaceAll("_"," ").toLowerCase().replace(/\b\w/g,c=>c.toUpperCase());}
+
+export function MethodologyPage(){return <div className="ov-demo ov-variant-4 su-demo me-demo"><div className="ov-shell su-shell"><header className="ov-glass-nav"><NavbarGlass/><Link className="ov-brand" to="/"><span className="ov-logo"><img src="/signal-logo-generated.png" alt=""/></span>SIGNAL</Link><nav aria-label="Navigasi utama"><Link to="/">Overview</Link><Link to="/investigations">Investigations</Link><Link to="/watchlist">Watchlist</Link><Link className="selected" to="/methodology">Methodology</Link></nav><span className="ov-user">AS</span></header><main><MethodologyContent/></main><footer className="su-footer"><strong>SIGNAL</strong><span>Look closer. Think clearer.</span><Link to="/investigations">Explore investigations ↗</Link></footer></div></div>;}

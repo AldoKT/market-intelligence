@@ -3,8 +3,8 @@
   "as_of": "2026-09-30",
   "identity": {
     "symbol": "MYOR",
-    "company_name": null,
-    "peer_group": null
+    "company_name": "Mayora Indah Tbk",
+    "peer_group": "Food & Beverage"
   },
   "current": {
     "scope": "NO_CONTEXT",
@@ -20,5 +20,1110 @@
   "daily_market": {},
   "notes": [
     "Dataset scope: 28 reviewed stocks. No full-market or peer-context score is computed."
-  ]
+  ],
+  "company_snapshot": {
+    "price_date": "2026-10-07",
+    "captured_at": "2026-10-08",
+    "sector": "Consumer Non-Cyclicals",
+    "industry": "Processed Foods",
+    "website": null,
+    "market_cap": 30631418623250,
+    "annual_year": 2025,
+    "valuation_year": 2026,
+    "metrics": [
+      {
+        "label": "Pendapatan",
+        "value": "Rp 38,68 T"
+      },
+      {
+        "label": "Laba bersih",
+        "value": "Rp 2,87 T"
+      },
+      {
+        "label": "Total aset",
+        "value": "Rp 31,38 T"
+      },
+      {
+        "label": "Ekuitas",
+        "value": "Rp 18,36 T"
+      },
+      {
+        "label": "EPS",
+        "value": "Rp 128,15"
+      },
+      {
+        "label": "P/E TTM",
+        "value": "8,99×"
+      },
+      {
+        "label": "P/B",
+        "value": "1,69×"
+      }
+    ]
+  },
+  "fundamental_peers": [
+    {
+      "symbol": "MYOR",
+      "name": "Mayora Indah Tbk",
+      "year": 2025,
+      "market_cap": 31413973113625,
+      "pe": 9.2177179318999,
+      "pb": 1.72927850553736,
+      "revenue": 38681562261207,
+      "in_universe": true
+    },
+    {
+      "symbol": "ICBP",
+      "name": "Indofood CBP Sukses Makmur Tbk",
+      "year": 2025,
+      "market_cap": 79300974400000,
+      "pe": 10.728884738694,
+      "pb": 1.50287981589361,
+      "revenue": 74850923000000,
+      "in_universe": true
+    },
+    {
+      "symbol": "INDF",
+      "name": "Indofood Sukses Makmur Tbk",
+      "year": 2025,
+      "market_cap": 60145921525000,
+      "pe": 6.2844173835115,
+      "pb": 0.784565128128173,
+      "revenue": 123493214000000,
+      "in_universe": true
+    },
+    {
+      "symbol": "STTP",
+      "name": "PT Siantar Top Tbk",
+      "year": 2025,
+      "market_cap": 11593500000000,
+      "pe": 9.36988668902899,
+      "pb": 1.46860993581221,
+      "revenue": 5235956036238,
+      "in_universe": false
+    },
+    {
+      "symbol": "GOOD",
+      "name": "PT Garudafood Putra Putri Jaya Tbk",
+      "year": 2025,
+      "market_cap": 11438349451050,
+      "pe": 16.3092318820657,
+      "pb": 2.92859186424139,
+      "revenue": 13119632631326,
+      "in_universe": false
+    },
+    {
+      "symbol": "YUPI",
+      "name": "PT Yupi Indo Jelly Gum Tbk",
+      "year": 2025,
+      "market_cap": 10424276214000,
+      "pe": 16.7772377712066,
+      "pb": 5.99072911146275,
+      "revenue": 2935842711060,
+      "in_universe": false
+    },
+    {
+      "symbol": "TGKA",
+      "name": "Tigaraksa Satria Tbk",
+      "year": 2025,
+      "market_cap": 4473059692500,
+      "pe": 10.5429554116482,
+      "pb": 1.97346150698445,
+      "revenue": 13069112000000,
+      "in_universe": false
+    },
+    {
+      "symbol": "TBLA",
+      "name": "Tunas Baru Lampung Tbk",
+      "year": 2025,
+      "market_cap": 3675477756920,
+      "pe": 4.16105639385761,
+      "pb": 0.380129727557395,
+      "revenue": 22878488000000,
+      "in_universe": false
+    },
+    {
+      "symbol": "ROTI",
+      "name": "PT Nippon Indosari Corpindo Tbk",
+      "year": 2025,
+      "market_cap": 3526298666160,
+      "pe": 18.4917140332352,
+      "pb": 2.21045783548198,
+      "revenue": 3757615147215,
+      "in_universe": false
+    },
+    {
+      "symbol": "BEEF",
+      "name": "PT Estika Tata Tiara Tbk.",
+      "year": 2025,
+      "market_cap": 3459226328748,
+      "pe": 44.4619913128996,
+      "pb": 9.3544215185729,
+      "revenue": 6474280326569,
+      "in_universe": false
+    }
+  ],
+  "market_history": [
+    {
+      "date": "2026-04-01",
+      "ihsg": 7184.438,
+      "market_cap": 12646140309231200
+    },
+    {
+      "date": "2026-04-02",
+      "ihsg": 7026.782,
+      "market_cap": 12301402169484936
+    },
+    {
+      "date": "2026-04-06",
+      "ihsg": 6989.426,
+      "market_cap": 12181292965738515
+    },
+    {
+      "date": "2026-04-07",
+      "ihsg": 6971.027,
+      "market_cap": 12220087895953627
+    },
+    {
+      "date": "2026-04-08",
+      "ihsg": 7279.209,
+      "market_cap": 12745135690725105
+    },
+    {
+      "date": "2026-04-09",
+      "ihsg": 7307.589,
+      "market_cap": 12927661360702306
+    },
+    {
+      "date": "2026-04-10",
+      "ihsg": 7458.496,
+      "market_cap": 13183485554446575
+    },
+    {
+      "date": "2026-04-13",
+      "ihsg": 7500.187,
+      "market_cap": 13334711369769658
+    },
+    {
+      "date": "2026-04-14",
+      "ihsg": 7675.951,
+      "market_cap": 13680203483861089
+    },
+    {
+      "date": "2026-04-15",
+      "ihsg": 7623.586,
+      "market_cap": 13577551326427693
+    },
+    {
+      "date": "2026-04-16",
+      "ihsg": 7621.382,
+      "market_cap": 13580909513734445
+    },
+    {
+      "date": "2026-04-17",
+      "ihsg": 7634.004,
+      "market_cap": 13631805736754862
+    },
+    {
+      "date": "2026-04-20",
+      "ihsg": 7594.111,
+      "market_cap": 13530051609880990
+    },
+    {
+      "date": "2026-04-21",
+      "ihsg": 7559.38,
+      "market_cap": 13439346111420433
+    },
+    {
+      "date": "2026-04-22",
+      "ihsg": 7541.612,
+      "market_cap": 13331962629649015
+    },
+    {
+      "date": "2026-04-23",
+      "ihsg": 7378.606,
+      "market_cap": 13176851273619842
+    },
+    {
+      "date": "2026-04-24",
+      "ihsg": 7129.49,
+      "market_cap": 12732776963937495
+    },
+    {
+      "date": "2026-04-27",
+      "ihsg": 7106.52,
+      "market_cap": 12687518028997883
+    },
+    {
+      "date": "2026-04-28",
+      "ihsg": 7072.392,
+      "market_cap": 12590034125678447
+    },
+    {
+      "date": "2026-04-29",
+      "ihsg": 7101.226,
+      "market_cap": 12635384034178860
+    },
+    {
+      "date": "2026-04-30",
+      "ihsg": 6956.804,
+      "market_cap": 12378413759882228
+    },
+    {
+      "date": "2026-05-04",
+      "ihsg": 6971.953,
+      "market_cap": 12411009903513114
+    },
+    {
+      "date": "2026-05-05",
+      "ihsg": 7057.106,
+      "market_cap": 12626309574250122
+    },
+    {
+      "date": "2026-05-06",
+      "ihsg": 7092.467,
+      "market_cap": 12699830398460331
+    },
+    {
+      "date": "2026-05-07",
+      "ihsg": 7174.321,
+      "market_cap": 12778962713690869
+    },
+    {
+      "date": "2026-05-08",
+      "ihsg": 6969.396,
+      "market_cap": 12402407487340402
+    },
+    {
+      "date": "2026-05-11",
+      "ihsg": 6905.62,
+      "market_cap": 12280030079664830
+    },
+    {
+      "date": "2026-05-12",
+      "ihsg": 6858.899,
+      "market_cap": 12142773427321380
+    },
+    {
+      "date": "2026-05-13",
+      "ihsg": 6723.32,
+      "market_cap": 11821690407165346
+    },
+    {
+      "date": "2026-05-18",
+      "ihsg": 6599.24,
+      "market_cap": 11535132183193835
+    },
+    {
+      "date": "2026-05-19",
+      "ihsg": 6370.679,
+      "market_cap": 11105372542285443
+    },
+    {
+      "date": "2026-05-20",
+      "ihsg": 6318.5,
+      "market_cap": 10959980491971602
+    },
+    {
+      "date": "2026-05-21",
+      "ihsg": 6094.941,
+      "market_cap": 10549507904767653
+    },
+    {
+      "date": "2026-05-22",
+      "ihsg": 6162.045,
+      "market_cap": 10631421768765943
+    },
+    {
+      "date": "2026-05-25",
+      "ihsg": 6206.349,
+      "market_cap": 10692705367587005
+    },
+    {
+      "date": "2026-05-26",
+      "ihsg": 6130.19,
+      "market_cap": 10613054794742598
+    },
+    {
+      "date": "2026-05-29",
+      "ihsg": 6127.381,
+      "market_cap": 10725485605975573
+    },
+    {
+      "date": "2026-06-02",
+      "ihsg": 6195.427,
+      "market_cap": 10891278361519046
+    },
+    {
+      "date": "2026-06-03",
+      "ihsg": 5941.066,
+      "market_cap": 10451829355656557
+    },
+    {
+      "date": "2026-06-04",
+      "ihsg": 5839.785,
+      "market_cap": 10259085293637228
+    },
+    {
+      "date": "2026-06-05",
+      "ihsg": 5594.765,
+      "market_cap": 9803592659706909
+    },
+    {
+      "date": "2026-06-08",
+      "ihsg": 5342.137,
+      "market_cap": 9414771844192581
+    },
+    {
+      "date": "2026-06-09",
+      "ihsg": 5746.648,
+      "market_cap": 10095511071726246
+    },
+    {
+      "date": "2026-06-10",
+      "ihsg": 5902.376,
+      "market_cap": 10341178905408617
+    },
+    {
+      "date": "2026-06-11",
+      "ihsg": 5886.032,
+      "market_cap": 10287950241660193
+    },
+    {
+      "date": "2026-06-12",
+      "ihsg": 6007.656,
+      "market_cap": 10520825968837381
+    },
+    {
+      "date": "2026-06-15",
+      "ihsg": 6254.966,
+      "market_cap": 10899408952482727
+    },
+    {
+      "date": "2026-06-17",
+      "ihsg": 6220.74,
+      "market_cap": 10776148487729844
+    },
+    {
+      "date": "2026-06-18",
+      "ihsg": 6172.34,
+      "market_cap": 10736980009961606
+    },
+    {
+      "date": "2026-06-19",
+      "ihsg": 6177.139,
+      "market_cap": 10784594953877444
+    },
+    {
+      "date": "2026-06-22",
+      "ihsg": 6116.69,
+      "market_cap": 10708711379319414
+    },
+    {
+      "date": "2026-06-23",
+      "ihsg": 6101.333,
+      "market_cap": 10685047810158781
+    },
+    {
+      "date": "2026-06-24",
+      "ihsg": 5883.881,
+      "market_cap": 10312029789078805
+    },
+    {
+      "date": "2026-06-25",
+      "ihsg": 5999.038,
+      "market_cap": 10515718128770631
+    },
+    {
+      "date": "2026-06-26",
+      "ihsg": 5896.134,
+      "market_cap": 10298280398969010
+    },
+    {
+      "date": "2026-06-29",
+      "ihsg": 5820.79,
+      "market_cap": 10179250800138493
+    },
+    {
+      "date": "2026-06-30",
+      "ihsg": 5643.194,
+      "market_cap": 9894028079914985
+    },
+    {
+      "date": "2026-07-01",
+      "ihsg": 5695.116,
+      "market_cap": 10007947906561450
+    },
+    {
+      "date": "2026-07-02",
+      "ihsg": 5744.556,
+      "market_cap": 10060923668899571
+    },
+    {
+      "date": "2026-07-03",
+      "ihsg": 5875.78,
+      "market_cap": 10283558418117973
+    },
+    {
+      "date": "2026-07-06",
+      "ihsg": 5916.07,
+      "market_cap": 10352610980350056
+    },
+    {
+      "date": "2026-07-07",
+      "ihsg": 5986.497,
+      "market_cap": 10462196902308353
+    },
+    {
+      "date": "2026-07-08",
+      "ihsg": 5873.372,
+      "market_cap": 10272894518876036
+    },
+    {
+      "date": "2026-07-09",
+      "ihsg": 5912.442,
+      "market_cap": 10324456194315119
+    },
+    {
+      "date": "2026-07-10",
+      "ihsg": 5924.36,
+      "market_cap": 10336481815483724
+    },
+    {
+      "date": "2026-07-13",
+      "ihsg": 6037.842,
+      "market_cap": 10506156813352519
+    },
+    {
+      "date": "2026-07-14",
+      "ihsg": 6039.521,
+      "market_cap": 10524135196509080
+    },
+    {
+      "date": "2026-07-15",
+      "ihsg": 6041.972,
+      "market_cap": 10548175926837826
+    },
+    {
+      "date": "2026-07-16",
+      "ihsg": 6108.209,
+      "market_cap": 10655671296610599
+    },
+    {
+      "date": "2026-07-17",
+      "ihsg": 6175.535,
+      "market_cap": 10745282583293599
+    },
+    {
+      "date": "2026-07-20",
+      "ihsg": 6231.78,
+      "market_cap": 10832728685598542
+    },
+    {
+      "date": "2026-07-21",
+      "ihsg": 6340.02,
+      "market_cap": 11041209401983643
+    },
+    {
+      "date": "2026-07-22",
+      "ihsg": 6334.476,
+      "market_cap": 11064991318794462
+    },
+    {
+      "date": "2026-07-23",
+      "ihsg": 6315.311,
+      "market_cap": 11058096720739904
+    },
+    {
+      "date": "2026-07-24",
+      "ihsg": 6196.43,
+      "market_cap": 10866941513180025
+    },
+    {
+      "date": "2026-07-27",
+      "ihsg": 6185.783,
+      "market_cap": 10846820086978302
+    },
+    {
+      "date": "2026-07-28",
+      "ihsg": 6130.588,
+      "market_cap": 10748777396682842
+    },
+    {
+      "date": "2026-07-29",
+      "ihsg": 6091.386,
+      "market_cap": 10671925079765237
+    },
+    {
+      "date": "2026-07-30",
+      "ihsg": 6186.363,
+      "market_cap": 10808753111947654
+    },
+    {
+      "date": "2026-07-31",
+      "ihsg": 6236.126,
+      "market_cap": 10919632662108419
+    },
+    {
+      "date": "2026-08-03",
+      "ihsg": 6234.497,
+      "market_cap": 10891533376788029
+    },
+    {
+      "date": "2026-08-04",
+      "ihsg": 6319.613,
+      "market_cap": 11026919553266172
+    },
+    {
+      "date": "2026-08-05",
+      "ihsg": 6351.139,
+      "market_cap": 11081557528513146
+    },
+    {
+      "date": "2026-08-06",
+      "ihsg": 6343.711,
+      "market_cap": 11091230654708629
+    },
+    {
+      "date": "2026-08-07",
+      "ihsg": 6409.654,
+      "market_cap": 11208370900071437
+    },
+    {
+      "date": "2026-08-10",
+      "ihsg": 6365.374,
+      "market_cap": 11127673938712190
+    },
+    {
+      "date": "2026-08-11",
+      "ihsg": 6267.88,
+      "market_cap": 10951983899532200
+    },
+    {
+      "date": "2026-08-12",
+      "ihsg": 6373.849,
+      "market_cap": 11170270993004848
+    },
+    {
+      "date": "2026-08-13",
+      "ihsg": 6301.765,
+      "market_cap": 11047038481790783
+    },
+    {
+      "date": "2026-08-14",
+      "ihsg": 6401.888,
+      "market_cap": 11239913404397486
+    },
+    {
+      "date": "2026-08-18",
+      "ihsg": 6449.83,
+      "market_cap": 11344776423883178
+    },
+    {
+      "date": "2026-08-19",
+      "ihsg": 6394.125,
+      "market_cap": 11242710814171051
+    },
+    {
+      "date": "2026-08-20",
+      "ihsg": 6501.585,
+      "market_cap": 11417105165375641
+    },
+    {
+      "date": "2026-08-21",
+      "ihsg": 6525.69,
+      "market_cap": 11445451211005613
+    },
+    {
+      "date": "2026-08-24",
+      "ihsg": 6501.667,
+      "market_cap": 11400829359169202
+    },
+    {
+      "date": "2026-08-26",
+      "ihsg": 6405.685,
+      "market_cap": 11226539253653372
+    },
+    {
+      "date": "2026-08-27",
+      "ihsg": 6521.75,
+      "market_cap": 11444254799160097
+    },
+    {
+      "date": "2026-08-28",
+      "ihsg": 6518.121,
+      "market_cap": 11427514258790209
+    },
+    {
+      "date": "2026-08-31",
+      "ihsg": 6525.478,
+      "market_cap": 11420266337232824
+    },
+    {
+      "date": "2026-09-01",
+      "ihsg": 6599.943,
+      "market_cap": 11528076154461080
+    },
+    {
+      "date": "2026-09-02",
+      "ihsg": 6595.776,
+      "market_cap": 11521577604064942
+    },
+    {
+      "date": "2026-09-03",
+      "ihsg": 6667.891,
+      "market_cap": 11637538684241799
+    },
+    {
+      "date": "2026-09-04",
+      "ihsg": 6636.475,
+      "market_cap": 11595660058206448
+    },
+    {
+      "date": "2026-09-07",
+      "ihsg": 6619.673,
+      "market_cap": 11571807924987264
+    },
+    {
+      "date": "2026-09-08",
+      "ihsg": 6686.442,
+      "market_cap": 11668902562815871
+    },
+    {
+      "date": "2026-09-09",
+      "ihsg": 6678.201,
+      "market_cap": 11671538636715858
+    },
+    {
+      "date": "2026-09-10",
+      "ihsg": 6589.338,
+      "market_cap": 11526136904331476
+    },
+    {
+      "date": "2026-09-11",
+      "ihsg": 6541.377,
+      "market_cap": 11442963914395062
+    },
+    {
+      "date": "2026-09-14",
+      "ihsg": 6534.693,
+      "market_cap": 11368110758085182
+    },
+    {
+      "date": "2026-09-15",
+      "ihsg": 6461.153,
+      "market_cap": 11257912210981978
+    },
+    {
+      "date": "2026-09-16",
+      "ihsg": 6436.853,
+      "market_cap": 11225219420982876
+    },
+    {
+      "date": "2026-09-17",
+      "ihsg": 6462.431,
+      "market_cap": 11270346560839989
+    },
+    {
+      "date": "2026-09-18",
+      "ihsg": 6441.159,
+      "market_cap": 11262605698050558
+    },
+    {
+      "date": "2026-09-21",
+      "ihsg": 6384.726,
+      "market_cap": 11161910095429389
+    },
+    {
+      "date": "2026-09-22",
+      "ihsg": 6277.044,
+      "market_cap": 10971287923179805
+    },
+    {
+      "date": "2026-09-23",
+      "ihsg": 6374.912,
+      "market_cap": 11141915820582293
+    },
+    {
+      "date": "2026-09-24",
+      "ihsg": 6298.607,
+      "market_cap": 11021365748586840
+    },
+    {
+      "date": "2026-09-25",
+      "ihsg": 6241.892,
+      "market_cap": 10902018198054911
+    },
+    {
+      "date": "2026-09-28",
+      "ihsg": 6147.859,
+      "market_cap": 10755457591436344
+    },
+    {
+      "date": "2026-09-29",
+      "ihsg": 6121.7,
+      "market_cap": 10754858845786069
+    },
+    {
+      "date": "2026-09-30",
+      "ihsg": 6071.138,
+      "market_cap": 10691719699169471
+    }
+  ],
+  "relevant_news": [
+    {
+      "title": "PT Mayora Indah Tbk (MYOR) Shares Fall 34% in 2026 as Analysts Issue Mixed Recommendations",
+      "timestamp": "2026-09-30T05:00:00",
+      "source": "https://investasi.kontan.co.id/news/saham-mayora-indah-myor-anjlok-34-sepanjang-tahun-2026-simak-rekomendasi-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Financial Metrics",
+        "Foreign Investment",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Analyst recommendations for consumer‑staples stocks ICBP, MYOR, CMRY and SIDO for Monday, 28 September 2026",
+      "timestamp": "2026-09-27T17:03:00",
+      "source": "https://investasi.kontan.co.id/news/cek-rekomendasi-saham-consumer-staples-icbp-myor-cmry-dan-sido-untuk-senin-289",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Stocks to Watch as the Fed Raises Interest Rates",
+      "timestamp": "2026-09-22T07:12:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/122254/saham-saham-ini-menarik-dicermati-kala-the-fed-kerek-suku-bunga",
+      "tags": [
+        "Interest Rate",
+        "Analyst Ratings",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Rising Wheat Prices Pressure Margins of ICBP, INDF, MYOR and Other Consumer Goods Emitters",
+      "timestamp": "2026-08-30T15:37:00",
+      "source": "https://investasi.kontan.co.id/news/kenaikan-harga-gandum-membayangi-kinerja-emiten-konsumer",
+      "tags": [
+        "Commodities",
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign investors lead net buying in BBRI, BBCA and BMRI, with the ten largest net‑buy stocks on Friday (21/8)",
+      "timestamp": "2026-08-21T21:00:00",
+      "source": "https://investasi.kontan.co.id/news/bbri-bbca-bmri-mulai-diborong-cek-saham-net-buy-terbesar-asing-jumat-218",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "RANS Entertainment Indonesia Discloses IPO Proceeds Allocation, Emphasizing Debt Repayment",
+      "timestamp": "2026-08-11T19:02:20",
+      "source": "https://www.cnbcindonesia.com/market/20260811180008-17-758395/rans-ungkap-penggunaan-dana-hasil-ipo-nagita-buat-pelunasan-utang",
+      "tags": [
+        "Capital & Funding",
+        "Credit",
+        "Asset Purchase",
+        "Artificial Intelligence",
+        "Joint Venture",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Mayora Indah Tbk reports modest net profit rise and 315.8% surge in operating cash flow",
+      "timestamp": "2026-08-11T11:33:00",
+      "source": "https://emitennews.com/news/laba-myor-naik-tipis-arus-kas-operasi-melejit-3158-persen",
+      "tags": [
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Opens Higher Thanks to Destry Damayanti’s Nomination as BI Governor",
+      "timestamp": "2026-08-11T09:14:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/117894/ihsg-dibuka-menguat-berkat-pencalonan-destry-jadi-bi-1",
+      "tags": [
+        "Central Bank",
+        "Market Sentiment",
+        "Currency & FX"
+      ]
+    },
+    {
+      "title": "CGS International Sekuritas reports only 18% of covered issuers missed H1 2026 earnings targets and revises its top‑pick list",
+      "timestamp": "2026-08-06T11:10:00",
+      "source": "https://investasi.kontan.co.id/news/laba-emiten-semester-i-beri-sinyal-membaik-cgs-hanya-18-emiten-meleset-dari-target",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Central Bank",
+        "Government Policy",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Maybank Sekuritas maintains buy on PT Mayora Indah Tbk with target Rp 2,500, citing consumer‑sector safe‑haven benefits as rupiah weakens to Rp 18,000 per USD",
+      "timestamp": "2026-08-04T14:03:00",
+      "source": "https://investasi.kontan.co.id/news/mayora-myor-disebut-bisa-jadi-safe-haven-sektor-konsumer-saat-rupiah-di-rp-18000",
+      "tags": [
+        "Analyst Ratings",
+        "Currency & FX",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Mayora Indah Tbk reports net profit of Rp1.70 trillion, up 46.5% in H1 2026",
+      "timestamp": "2026-08-03T15:40:00",
+      "source": "https://www.idnfinancials.com/id/news/66937/myor-kantongi-laba-rp1-70-triliun-naik-46-5-hingga-juni",
+      "tags": [
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Mayora Indah Tbk reports 46.52% increase in H1 2026 net profit to Rp1.70 trillion",
+      "timestamp": "2026-08-03T11:00:00",
+      "source": "https://market.bisnis.com/read/20260803/192/1993115/laba-bersih-mayora-myor-melonjak-4652-jadi-rp170-triliun-semester-i2026",
+      "tags": [
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Rupiah Weakening Pressures PT Unilever Indonesia Tbk, PT Mayora Indah Tbk, PT Indofood CBP Sukses Makmur Tbk, and PT Mitra Adiperkasa Tbk as Analysts Adjust Recommendations",
+      "timestamp": "2026-08-03T08:48:00",
+      "source": "https://investasi.kontan.co.id/news/dampak-pelemahan-rupiah-ke-unvr-myor-icbp-dan-mapi-cek-rekomendasi-sahamnya",
+      "tags": [
+        "Currency & FX",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Daily stock recommendation roundup for 23 July 2026",
+      "timestamp": "2026-07-23T08:50:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/115953/rangkuman-rekomendasi-saham-hari-ini-23-juli-2026",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "IHSG Remains Shadowed by Hormuz Closure, Energy Stocks Poised for Attention",
+      "timestamp": "2026-07-19T13:19:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-kembali-dibayangi-penutupan-selat-hormuz-saham-energi-berpotensi-curi-perhatian",
+      "tags": [
+        "Commodities",
+        "Currency & FX",
+        "Market Sentiment",
+        "Inflation",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "CGS International Sekuritas Indonesia forecasts limited IHSG upside and recommends six stocks: ANTM, EXCL, ISAT, LSIP, MYOR, HMSP",
+      "timestamp": "2026-07-16T08:43:27",
+      "source": "https://investor.id/market/446717/ihsg-bakal-menguat-terbatas-6-saham-potensi-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Currency & FX"
+      ]
+    },
+    {
+      "title": "Slower consumer spending leads analyst to recommend PT Kalbe Farma Tbk, PT Mayora Indah Tbk and AMRT with target prices",
+      "timestamp": "2026-07-07T16:26:00",
+      "source": "https://investasi.kontan.co.id/news/belanja-masyarakat-melandai-investor-perlu-cermati-dampaknya-ke-emiten-konsumer",
+      "tags": [
+        "Analyst Ratings",
+        "Currency & FX",
+        "Commodities",
+        "Risk & Compliance",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Four Indonesian issuers—PT Mayora Indah Tbk, PT Superior Prima Sukses Tbk, PT Supreme Cable Manufacturing & Commerce Tbk, and PT Topindo Solusi Komunika Tbk—pay cash dividends on July 7, 2026",
+      "timestamp": "2026-07-07T10:07:00",
+      "source": "https://market.bisnis.com/read/20260707/7/1986111/cek-rekening-myor-bles-scco-dan-tosk-bayar-dividen-hari-ini-77",
+      "tags": [
+        "Dividend Announcement",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Four Indonesian issuers—Mayora Indah, Supreme Cable Manufacturing & Commerce, Superior Prima Sukses, and Topindo Solusi—pay cash dividends on 7 July 2026",
+      "timestamp": "2026-07-07T07:52:00",
+      "source": "https://investasi.kontan.co.id/news/cek-rekening-dividen-myor-scco-bles-tosk-cair-hari-ini-simak-besarannya",
+      "tags": [
+        "Dividend Announcement",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Mayora Indah Tbk. to Distribute FY 2025 Cash Dividend, Founder Jogi Hendra Atmadja Projected to Receive Rp338.6 bn",
+      "timestamp": "2026-07-06T15:17:00",
+      "source": "https://market.bisnis.com/read/20260706/192/1985862/jogi-hendra-atmadja-kecipratan-cuan-rp338-miliar-dari-dividen-mayora-myor",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Norway’s sovereign wealth fund earned Rp519.6 billion in dividends from 20 Indonesian issuers, from PT Bank Central Asia Tbk to PT Mayora Indah Tbk.",
+      "timestamp": "2026-07-06T10:05:00",
+      "source": "https://market.bisnis.com/read/20260706/192/1985754/dari-bbca-hingga-myor-ini-20-emiten-andalan-swf-norwegia-di-ri",
+      "tags": [
+        "Dividend Announcement",
+        "Foreign Investment",
+        "Institutional Investor",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Sinarmas Sekuritas flags CMRY, MYOR, and SIDO as attractive despite weak consumer purchasing power",
+      "timestamp": "2026-07-05T16:42:00",
+      "source": "https://market.bisnis.com/read/20260705/189/1985651/saham-cmry-myor-sido-masuk-radar-sinarmas-sekuritas-walau-daya-beli-masih-lemah",
+      "tags": [
+        "Analyst Ratings",
+        "Government Policy",
+        "Currency & FX",
+        "Inflation",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Buyback actions fail to boost stock performance of Indonesian issuers",
+      "timestamp": "2026-07-01T21:02:00",
+      "source": "https://investasi.kontan.co.id/news/aksi-buyback-belum-mampu-mengungkit-performa-saham-emiten",
+      "tags": [
+        "Stock Buyback",
+        "Market Sentiment",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Cermati recommends select Kompas 100 constituents for Semester II‑2026",
+      "timestamp": "2026-07-01T07:50:00",
+      "source": "https://investasi.kontan.co.id/news/cermati-rekomendasi-saham-pilihan-emiten-indeks-kompas-100-di-semester-ii-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Government Policy",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "CGS International Sekuritas Indonesia recommends six stocks amid IHSG weakness",
+      "timestamp": "2026-06-25T08:41:34",
+      "source": "https://investor.id/market/444048/ihsg-masih-akan-tertekan-cermati-6-saham-potensial-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Hendrik Polisar Buys Shares of Mayora Indah",
+      "timestamp": "2026-06-22T16:19:44",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22062026-7824-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "PT Bank Central Asia Tbk and PT Bank Negara Indonesia Tbk Lead Foreign Net Buying as Indonesia Market Rebounds",
+      "timestamp": "2026-06-19T21:55:00",
+      "source": "https://investasi.kontan.co.id/news/bbca-dan-bbni-teratas-cermati-saham-yang-banyak-diborong-asing-akhir-pekan-ini",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesian IHSG gains modestly after US‑Iran peace talks but foreign investors continue large outflows",
+      "timestamp": "2026-06-16T21:08:00",
+      "source": "https://investasi.kontan.co.id/news/melihat-arah-ihsg-pasca-perdamaian-as-iran-investor-asing-kabur-besar-besaran",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Currency & FX",
+        "Central Bank"
+      ]
+    },
+    {
+      "title": "UNVR leads dividend yields near 7% as 14 Indonesian stocks close cum‑dividend on June 12",
+      "timestamp": "2026-06-12T13:52:00",
+      "source": "https://investasi.kontan.co.id/news/panen-dividen-14-saham-ditutup-hari-ini-126-yield-dividen-hampir-7",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Consumer confidence dip to 120.9 may curb growth for discretionary consumer issuers",
+      "timestamp": "2026-06-11T18:23:00",
+      "source": "https://investasi.kontan.co.id/news/masyarakat-mulai-hati-hati-dalam-belanja-emiten-konsumer-bakal-terimbas",
+      "tags": [
+        "Central Bank",
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Consumer Confidence Index Drops to 120.9, Analysts Recommend Consumer Staples Shares",
+      "timestamp": "2026-06-11T15:34:00",
+      "source": "https://investasi.kontan.co.id/news/indeks-kepercayaan-konsumen-turun-saham-emiten-consumer-staples-direkomendasikan",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    }
+  ],
+  "corporate_events": [
+    {
+      "date": "2026-06-15",
+      "type": "Dividen",
+      "detail": "Dividen per saham Rp 60,00 · Pembayaran: 2026-07-07"
+    },
+    {
+      "date": "2026-06-04",
+      "type": "RUPS",
+      "detail": "Waktu: 14:15:00 · Lokasi: Jakarta"
+    }
+  ],
+  "context_period": {
+    "start": "2026-04-01",
+    "end": "2026-09-30"
+  },
+  "source_availability": {
+    "company_fundamentals": true,
+    "corporate_events": true,
+    "news": true,
+    "peer_comparison": true,
+    "market_context": true,
+    "sector_market_series": false
+  },
+  "news_archive": {
+    "pages": 2,
+    "rows": 31,
+    "pagination_exhausted": true,
+    "totals_seen": [
+      31
+    ]
+  }
 }

@@ -3,8 +3,8 @@
   "as_of": "2026-09-30",
   "identity": {
     "symbol": "ISAT",
-    "company_name": null,
-    "peer_group": null
+    "company_name": "PT Indosat Tbk",
+    "peer_group": "Telecommunication"
   },
   "current": {
     "scope": "NO_CONTEXT",
@@ -20,5 +20,2013 @@
   "daily_market": {},
   "notes": [
     "Dataset scope: 28 reviewed stocks. No full-market or peer-context score is computed."
-  ]
+  ],
+  "company_snapshot": {
+    "price_date": "2026-10-07",
+    "captured_at": "2026-10-08",
+    "sector": "Infrastructures",
+    "industry": "Wireless Telecommunication Services",
+    "website": "indosatooredoo.com",
+    "market_cap": 71596800324540,
+    "annual_year": 2025,
+    "valuation_year": 2026,
+    "metrics": [
+      {
+        "label": "Pendapatan",
+        "value": "Rp 56,52 T"
+      },
+      {
+        "label": "Laba bersih",
+        "value": "Rp 5,51 T"
+      },
+      {
+        "label": "Total aset",
+        "value": "Rp 118,63 T"
+      },
+      {
+        "label": "Ekuitas",
+        "value": "Rp 39,51 T"
+      },
+      {
+        "label": "EPS",
+        "value": "Rp 170,84"
+      },
+      {
+        "label": "P/E TTM",
+        "value": "9,57×"
+      },
+      {
+        "label": "P/B",
+        "value": "1,93×"
+      }
+    ]
+  },
+  "fundamental_peers": [
+    {
+      "symbol": "ISAT",
+      "name": "PT Indosat Tbk",
+      "year": 2025,
+      "market_cap": 71596800324540,
+      "pe": 9.56747601303052,
+      "pb": 1.93244513154534,
+      "revenue": 56518141000000,
+      "in_universe": true
+    },
+    {
+      "symbol": "SUPR",
+      "name": "Solusi Tunas Pratama Tbk",
+      "year": 2025,
+      "market_cap": 49882869757300,
+      "pe": 42.6021969079314,
+      "pb": 5.86504422601508,
+      "revenue": 1910682000000,
+      "in_universe": false
+    },
+    {
+      "symbol": "EXCL",
+      "name": "PT XLSMART Telecom Sejahtera Tbk",
+      "year": 2025,
+      "market_cap": 43497671257890,
+      "pe": -10.3683391791387,
+      "pb": 1.50636653175445,
+      "revenue": 42445960000000,
+      "in_universe": false
+    },
+    {
+      "symbol": "MTEL",
+      "name": "PT Dayamitra Telekomunikasi Tbk",
+      "year": 2025,
+      "market_cap": 38270332269352,
+      "pe": 17.9163105685428,
+      "pb": 1.19403336286053,
+      "revenue": 9534083000000,
+      "in_universe": false
+    },
+    {
+      "symbol": "TBIG",
+      "name": "PT Tower Bersama Infrastructure Tbk",
+      "year": 2025,
+      "market_cap": 32399509206350,
+      "pe": 20.7199983669005,
+      "pb": 2.50981820169034,
+      "revenue": 6909629000000,
+      "in_universe": false
+    },
+    {
+      "symbol": "TOWR",
+      "name": "Sarana Menara Nusantara Tbk",
+      "year": 2025,
+      "market_cap": 25293988396868,
+      "pe": 6.5141516615081,
+      "pb": 0.886425184329773,
+      "revenue": 13327907000000,
+      "in_universe": false
+    },
+    {
+      "symbol": "IBST",
+      "name": "Inti Bangun Sejahtera Tbk",
+      "year": 2025,
+      "market_cap": 11448919256325,
+      "pe": 27.869677499927,
+      "pb": 4.17462871698268,
+      "revenue": 871892000000,
+      "in_universe": false
+    },
+    {
+      "symbol": "BALI",
+      "name": "PT Bali Towerindo Sentra Tbk.",
+      "year": 2025,
+      "market_cap": 6137964300000,
+      "pe": 34.3163450225836,
+      "pb": 2.52470556853646,
+      "revenue": 1239210524669,
+      "in_universe": false
+    },
+    {
+      "symbol": "BTEL",
+      "name": "Bakrie Telecom Tbk",
+      "year": null,
+      "market_cap": 3092395176750,
+      "pe": null,
+      "pb": null,
+      "revenue": null,
+      "in_universe": false
+    },
+    {
+      "symbol": "CENT",
+      "name": "PT Centratama Telekomunikasi Indonesia Tbk.",
+      "year": 2025,
+      "market_cap": 3024796095300,
+      "pe": -1.27228000598117,
+      "pb": 1.23594496724014,
+      "revenue": 2536072000000,
+      "in_universe": false
+    }
+  ],
+  "market_history": [
+    {
+      "date": "2026-04-01",
+      "ihsg": 7184.438,
+      "market_cap": 12646140309231200
+    },
+    {
+      "date": "2026-04-02",
+      "ihsg": 7026.782,
+      "market_cap": 12301402169484936
+    },
+    {
+      "date": "2026-04-06",
+      "ihsg": 6989.426,
+      "market_cap": 12181292965738515
+    },
+    {
+      "date": "2026-04-07",
+      "ihsg": 6971.027,
+      "market_cap": 12220087895953627
+    },
+    {
+      "date": "2026-04-08",
+      "ihsg": 7279.209,
+      "market_cap": 12745135690725105
+    },
+    {
+      "date": "2026-04-09",
+      "ihsg": 7307.589,
+      "market_cap": 12927661360702306
+    },
+    {
+      "date": "2026-04-10",
+      "ihsg": 7458.496,
+      "market_cap": 13183485554446575
+    },
+    {
+      "date": "2026-04-13",
+      "ihsg": 7500.187,
+      "market_cap": 13334711369769658
+    },
+    {
+      "date": "2026-04-14",
+      "ihsg": 7675.951,
+      "market_cap": 13680203483861089
+    },
+    {
+      "date": "2026-04-15",
+      "ihsg": 7623.586,
+      "market_cap": 13577551326427693
+    },
+    {
+      "date": "2026-04-16",
+      "ihsg": 7621.382,
+      "market_cap": 13580909513734445
+    },
+    {
+      "date": "2026-04-17",
+      "ihsg": 7634.004,
+      "market_cap": 13631805736754862
+    },
+    {
+      "date": "2026-04-20",
+      "ihsg": 7594.111,
+      "market_cap": 13530051609880990
+    },
+    {
+      "date": "2026-04-21",
+      "ihsg": 7559.38,
+      "market_cap": 13439346111420433
+    },
+    {
+      "date": "2026-04-22",
+      "ihsg": 7541.612,
+      "market_cap": 13331962629649015
+    },
+    {
+      "date": "2026-04-23",
+      "ihsg": 7378.606,
+      "market_cap": 13176851273619842
+    },
+    {
+      "date": "2026-04-24",
+      "ihsg": 7129.49,
+      "market_cap": 12732776963937495
+    },
+    {
+      "date": "2026-04-27",
+      "ihsg": 7106.52,
+      "market_cap": 12687518028997883
+    },
+    {
+      "date": "2026-04-28",
+      "ihsg": 7072.392,
+      "market_cap": 12590034125678447
+    },
+    {
+      "date": "2026-04-29",
+      "ihsg": 7101.226,
+      "market_cap": 12635384034178860
+    },
+    {
+      "date": "2026-04-30",
+      "ihsg": 6956.804,
+      "market_cap": 12378413759882228
+    },
+    {
+      "date": "2026-05-04",
+      "ihsg": 6971.953,
+      "market_cap": 12411009903513114
+    },
+    {
+      "date": "2026-05-05",
+      "ihsg": 7057.106,
+      "market_cap": 12626309574250122
+    },
+    {
+      "date": "2026-05-06",
+      "ihsg": 7092.467,
+      "market_cap": 12699830398460331
+    },
+    {
+      "date": "2026-05-07",
+      "ihsg": 7174.321,
+      "market_cap": 12778962713690869
+    },
+    {
+      "date": "2026-05-08",
+      "ihsg": 6969.396,
+      "market_cap": 12402407487340402
+    },
+    {
+      "date": "2026-05-11",
+      "ihsg": 6905.62,
+      "market_cap": 12280030079664830
+    },
+    {
+      "date": "2026-05-12",
+      "ihsg": 6858.899,
+      "market_cap": 12142773427321380
+    },
+    {
+      "date": "2026-05-13",
+      "ihsg": 6723.32,
+      "market_cap": 11821690407165346
+    },
+    {
+      "date": "2026-05-18",
+      "ihsg": 6599.24,
+      "market_cap": 11535132183193835
+    },
+    {
+      "date": "2026-05-19",
+      "ihsg": 6370.679,
+      "market_cap": 11105372542285443
+    },
+    {
+      "date": "2026-05-20",
+      "ihsg": 6318.5,
+      "market_cap": 10959980491971602
+    },
+    {
+      "date": "2026-05-21",
+      "ihsg": 6094.941,
+      "market_cap": 10549507904767653
+    },
+    {
+      "date": "2026-05-22",
+      "ihsg": 6162.045,
+      "market_cap": 10631421768765943
+    },
+    {
+      "date": "2026-05-25",
+      "ihsg": 6206.349,
+      "market_cap": 10692705367587005
+    },
+    {
+      "date": "2026-05-26",
+      "ihsg": 6130.19,
+      "market_cap": 10613054794742598
+    },
+    {
+      "date": "2026-05-29",
+      "ihsg": 6127.381,
+      "market_cap": 10725485605975573
+    },
+    {
+      "date": "2026-06-02",
+      "ihsg": 6195.427,
+      "market_cap": 10891278361519046
+    },
+    {
+      "date": "2026-06-03",
+      "ihsg": 5941.066,
+      "market_cap": 10451829355656557
+    },
+    {
+      "date": "2026-06-04",
+      "ihsg": 5839.785,
+      "market_cap": 10259085293637228
+    },
+    {
+      "date": "2026-06-05",
+      "ihsg": 5594.765,
+      "market_cap": 9803592659706909
+    },
+    {
+      "date": "2026-06-08",
+      "ihsg": 5342.137,
+      "market_cap": 9414771844192581
+    },
+    {
+      "date": "2026-06-09",
+      "ihsg": 5746.648,
+      "market_cap": 10095511071726246
+    },
+    {
+      "date": "2026-06-10",
+      "ihsg": 5902.376,
+      "market_cap": 10341178905408617
+    },
+    {
+      "date": "2026-06-11",
+      "ihsg": 5886.032,
+      "market_cap": 10287950241660193
+    },
+    {
+      "date": "2026-06-12",
+      "ihsg": 6007.656,
+      "market_cap": 10520825968837381
+    },
+    {
+      "date": "2026-06-15",
+      "ihsg": 6254.966,
+      "market_cap": 10899408952482727
+    },
+    {
+      "date": "2026-06-17",
+      "ihsg": 6220.74,
+      "market_cap": 10776148487729844
+    },
+    {
+      "date": "2026-06-18",
+      "ihsg": 6172.34,
+      "market_cap": 10736980009961606
+    },
+    {
+      "date": "2026-06-19",
+      "ihsg": 6177.139,
+      "market_cap": 10784594953877444
+    },
+    {
+      "date": "2026-06-22",
+      "ihsg": 6116.69,
+      "market_cap": 10708711379319414
+    },
+    {
+      "date": "2026-06-23",
+      "ihsg": 6101.333,
+      "market_cap": 10685047810158781
+    },
+    {
+      "date": "2026-06-24",
+      "ihsg": 5883.881,
+      "market_cap": 10312029789078805
+    },
+    {
+      "date": "2026-06-25",
+      "ihsg": 5999.038,
+      "market_cap": 10515718128770631
+    },
+    {
+      "date": "2026-06-26",
+      "ihsg": 5896.134,
+      "market_cap": 10298280398969010
+    },
+    {
+      "date": "2026-06-29",
+      "ihsg": 5820.79,
+      "market_cap": 10179250800138493
+    },
+    {
+      "date": "2026-06-30",
+      "ihsg": 5643.194,
+      "market_cap": 9894028079914985
+    },
+    {
+      "date": "2026-07-01",
+      "ihsg": 5695.116,
+      "market_cap": 10007947906561450
+    },
+    {
+      "date": "2026-07-02",
+      "ihsg": 5744.556,
+      "market_cap": 10060923668899571
+    },
+    {
+      "date": "2026-07-03",
+      "ihsg": 5875.78,
+      "market_cap": 10283558418117973
+    },
+    {
+      "date": "2026-07-06",
+      "ihsg": 5916.07,
+      "market_cap": 10352610980350056
+    },
+    {
+      "date": "2026-07-07",
+      "ihsg": 5986.497,
+      "market_cap": 10462196902308353
+    },
+    {
+      "date": "2026-07-08",
+      "ihsg": 5873.372,
+      "market_cap": 10272894518876036
+    },
+    {
+      "date": "2026-07-09",
+      "ihsg": 5912.442,
+      "market_cap": 10324456194315119
+    },
+    {
+      "date": "2026-07-10",
+      "ihsg": 5924.36,
+      "market_cap": 10336481815483724
+    },
+    {
+      "date": "2026-07-13",
+      "ihsg": 6037.842,
+      "market_cap": 10506156813352519
+    },
+    {
+      "date": "2026-07-14",
+      "ihsg": 6039.521,
+      "market_cap": 10524135196509080
+    },
+    {
+      "date": "2026-07-15",
+      "ihsg": 6041.972,
+      "market_cap": 10548175926837826
+    },
+    {
+      "date": "2026-07-16",
+      "ihsg": 6108.209,
+      "market_cap": 10655671296610599
+    },
+    {
+      "date": "2026-07-17",
+      "ihsg": 6175.535,
+      "market_cap": 10745282583293599
+    },
+    {
+      "date": "2026-07-20",
+      "ihsg": 6231.78,
+      "market_cap": 10832728685598542
+    },
+    {
+      "date": "2026-07-21",
+      "ihsg": 6340.02,
+      "market_cap": 11041209401983643
+    },
+    {
+      "date": "2026-07-22",
+      "ihsg": 6334.476,
+      "market_cap": 11064991318794462
+    },
+    {
+      "date": "2026-07-23",
+      "ihsg": 6315.311,
+      "market_cap": 11058096720739904
+    },
+    {
+      "date": "2026-07-24",
+      "ihsg": 6196.43,
+      "market_cap": 10866941513180025
+    },
+    {
+      "date": "2026-07-27",
+      "ihsg": 6185.783,
+      "market_cap": 10846820086978302
+    },
+    {
+      "date": "2026-07-28",
+      "ihsg": 6130.588,
+      "market_cap": 10748777396682842
+    },
+    {
+      "date": "2026-07-29",
+      "ihsg": 6091.386,
+      "market_cap": 10671925079765237
+    },
+    {
+      "date": "2026-07-30",
+      "ihsg": 6186.363,
+      "market_cap": 10808753111947654
+    },
+    {
+      "date": "2026-07-31",
+      "ihsg": 6236.126,
+      "market_cap": 10919632662108419
+    },
+    {
+      "date": "2026-08-03",
+      "ihsg": 6234.497,
+      "market_cap": 10891533376788029
+    },
+    {
+      "date": "2026-08-04",
+      "ihsg": 6319.613,
+      "market_cap": 11026919553266172
+    },
+    {
+      "date": "2026-08-05",
+      "ihsg": 6351.139,
+      "market_cap": 11081557528513146
+    },
+    {
+      "date": "2026-08-06",
+      "ihsg": 6343.711,
+      "market_cap": 11091230654708629
+    },
+    {
+      "date": "2026-08-07",
+      "ihsg": 6409.654,
+      "market_cap": 11208370900071437
+    },
+    {
+      "date": "2026-08-10",
+      "ihsg": 6365.374,
+      "market_cap": 11127673938712190
+    },
+    {
+      "date": "2026-08-11",
+      "ihsg": 6267.88,
+      "market_cap": 10951983899532200
+    },
+    {
+      "date": "2026-08-12",
+      "ihsg": 6373.849,
+      "market_cap": 11170270993004848
+    },
+    {
+      "date": "2026-08-13",
+      "ihsg": 6301.765,
+      "market_cap": 11047038481790783
+    },
+    {
+      "date": "2026-08-14",
+      "ihsg": 6401.888,
+      "market_cap": 11239913404397486
+    },
+    {
+      "date": "2026-08-18",
+      "ihsg": 6449.83,
+      "market_cap": 11344776423883178
+    },
+    {
+      "date": "2026-08-19",
+      "ihsg": 6394.125,
+      "market_cap": 11242710814171051
+    },
+    {
+      "date": "2026-08-20",
+      "ihsg": 6501.585,
+      "market_cap": 11417105165375641
+    },
+    {
+      "date": "2026-08-21",
+      "ihsg": 6525.69,
+      "market_cap": 11445451211005613
+    },
+    {
+      "date": "2026-08-24",
+      "ihsg": 6501.667,
+      "market_cap": 11400829359169202
+    },
+    {
+      "date": "2026-08-26",
+      "ihsg": 6405.685,
+      "market_cap": 11226539253653372
+    },
+    {
+      "date": "2026-08-27",
+      "ihsg": 6521.75,
+      "market_cap": 11444254799160097
+    },
+    {
+      "date": "2026-08-28",
+      "ihsg": 6518.121,
+      "market_cap": 11427514258790209
+    },
+    {
+      "date": "2026-08-31",
+      "ihsg": 6525.478,
+      "market_cap": 11420266337232824
+    },
+    {
+      "date": "2026-09-01",
+      "ihsg": 6599.943,
+      "market_cap": 11528076154461080
+    },
+    {
+      "date": "2026-09-02",
+      "ihsg": 6595.776,
+      "market_cap": 11521577604064942
+    },
+    {
+      "date": "2026-09-03",
+      "ihsg": 6667.891,
+      "market_cap": 11637538684241799
+    },
+    {
+      "date": "2026-09-04",
+      "ihsg": 6636.475,
+      "market_cap": 11595660058206448
+    },
+    {
+      "date": "2026-09-07",
+      "ihsg": 6619.673,
+      "market_cap": 11571807924987264
+    },
+    {
+      "date": "2026-09-08",
+      "ihsg": 6686.442,
+      "market_cap": 11668902562815871
+    },
+    {
+      "date": "2026-09-09",
+      "ihsg": 6678.201,
+      "market_cap": 11671538636715858
+    },
+    {
+      "date": "2026-09-10",
+      "ihsg": 6589.338,
+      "market_cap": 11526136904331476
+    },
+    {
+      "date": "2026-09-11",
+      "ihsg": 6541.377,
+      "market_cap": 11442963914395062
+    },
+    {
+      "date": "2026-09-14",
+      "ihsg": 6534.693,
+      "market_cap": 11368110758085182
+    },
+    {
+      "date": "2026-09-15",
+      "ihsg": 6461.153,
+      "market_cap": 11257912210981978
+    },
+    {
+      "date": "2026-09-16",
+      "ihsg": 6436.853,
+      "market_cap": 11225219420982876
+    },
+    {
+      "date": "2026-09-17",
+      "ihsg": 6462.431,
+      "market_cap": 11270346560839989
+    },
+    {
+      "date": "2026-09-18",
+      "ihsg": 6441.159,
+      "market_cap": 11262605698050558
+    },
+    {
+      "date": "2026-09-21",
+      "ihsg": 6384.726,
+      "market_cap": 11161910095429389
+    },
+    {
+      "date": "2026-09-22",
+      "ihsg": 6277.044,
+      "market_cap": 10971287923179805
+    },
+    {
+      "date": "2026-09-23",
+      "ihsg": 6374.912,
+      "market_cap": 11141915820582293
+    },
+    {
+      "date": "2026-09-24",
+      "ihsg": 6298.607,
+      "market_cap": 11021365748586840
+    },
+    {
+      "date": "2026-09-25",
+      "ihsg": 6241.892,
+      "market_cap": 10902018198054911
+    },
+    {
+      "date": "2026-09-28",
+      "ihsg": 6147.859,
+      "market_cap": 10755457591436344
+    },
+    {
+      "date": "2026-09-29",
+      "ihsg": 6121.7,
+      "market_cap": 10754858845786069
+    },
+    {
+      "date": "2026-09-30",
+      "ihsg": 6071.138,
+      "market_cap": 10691719699169471
+    }
+  ],
+  "relevant_news": [
+    {
+      "title": "PT Indosat Tbk (ISAT) Restructures Fiber Optic Transaction, Booking Rp1.64 Trillion Gain",
+      "timestamp": "2026-09-28T14:26:32",
+      "source": "https://www.cnbcindonesia.com/market/20260928130033-17-771437/indosat--isat--rombak-transaksi-fiber-optik-ada-cuan-rp164-triliun",
+      "tags": [
+        "Asset Purchase",
+        "Mergers & Acquisitions",
+        "Subsidiaries",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net sold Rp 4.39 trillion this week, with banks leading the top‑selling stocks",
+      "timestamp": "2026-09-26T22:30:00",
+      "source": "https://investasi.kontan.co.id/news/asing-net-sell-rp-439-triliun-cek-saham-yang-banyak-dijual-asing-sepekan-ini",
+      "tags": [
+        "Bearish",
+        "Foreign Investment",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "PT Indosat Tbk (ISAT) records Rp1.64 trillion profit from fiber asset divestiture to Hashim‑linked group",
+      "timestamp": "2026-09-25T22:45:00",
+      "source": "https://www.idnfinancials.com/id/news/69459/hasil-lepas-aset-fiber-ke-grup-hashim-isat-untung-rp1-64-triliun",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Executive Changes",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net sold a record Rp 1.49 trillion as the IHSG fell, with PT Bank Mandiri Tbk (BMRI) topping the list of heavily shorted stocks.",
+      "timestamp": "2026-09-24T21:44:00",
+      "source": "https://investasi.kontan.co.id/news/asing-net-sell-jumbo-rp-149-triliun-saat-ihsg-ambruk-cek-saham-yagn-banyak-dilego",
+      "tags": [
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Bank Rakyat Indonesia Tbk (BBRI) and PT Bank Mandiri Tbk (BMRI) lead foreign net sell list as IHSG rebounds.",
+      "timestamp": "2026-09-24T08:19:00",
+      "source": "https://investasi.kontan.co.id/news/bbri-bmri-teratas-cek-saham-net-sell-terbesar-asing-saat-ihsg-melonjak-kemarin",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Indosat Tbk (ISAT) invests US$200 million for 37% of Zankore, target price lifted to Rp4,650",
+      "timestamp": "2026-09-23T09:49:00",
+      "source": "https://investasi.kontan.co.id/news/indosat-isat-suntik-us-200-juta-ke-zankore-indo-premier-kerek-target-harga",
+      "tags": [
+        "Asset Purchase",
+        "Artificial Intelligence",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG drops over 1% as PT Bank Rakyat Indonesia (Persero) Tbk (BBRI) drags the index",
+      "timestamp": "2026-09-22T10:54:06",
+      "source": "https://www.cnbcindonesia.com/market/20260922104651-17-769794/tiba-tiba-ihsg-turun-1-lebih-ini-penyebabnya",
+      "tags": [
+        "Central Bank",
+        "Global Economy",
+        "Interest Rate",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Indosat Ooredoo Hutchison Tbk (ISAT) raises 2026 capex to Rp 23 trillion (excluding GPU) and expects monetization of 5G, FWA and NeoCloud to begin in 2027",
+      "timestamp": "2026-09-21T18:23:00",
+      "source": "https://investasi.kontan.co.id/news/capex-tinggi-jadi-tantangan-isat-monetisasi-ekspansi-diproyeksi-mulai-2027",
+      "tags": [
+        "Capital & Funding",
+        "Artificial Intelligence",
+        "Business Expansion",
+        "Analyst Ratings",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Zankore poised to become PT Indosat Ooredoo Hutchison Tbk (ISAT)'s new growth engine; BRI Danareksa lifts target price to Rp 3,430.",
+      "timestamp": "2026-09-21T17:39:00",
+      "source": "https://investasi.kontan.co.id/news/zankore-jadi-mesin-pertumbuhan-baru-isat-ini-target-sahamnya",
+      "tags": [
+        "Business Expansion",
+        "Analyst Ratings",
+        "Joint Venture",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Indosat Ooredoo Hutchison Tbk (ISAT) projects 2026 revenue of Rp 61.33 trillion and net profit of Rp 6.21 trillion as 5G and AI expansion drives growth",
+      "timestamp": "2026-09-21T17:08:00",
+      "source": "https://investasi.kontan.co.id/news/ekspansi-5g-dan-ai-topang-isat-ini-proyeksi-kinerja-dan-sahamnya",
+      "tags": [
+        "Artificial Intelligence",
+        "Business Expansion",
+        "Analyst Ratings",
+        "Capital & Funding",
+        "Debt Issuance",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG Opens Weaker at Start of Week, Pressured by Global Sentiment",
+      "timestamp": "2026-09-14T09:33:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/121427/ihsg-dibuka-melemah-di-awal-pekan-tertekan-sentimen-global",
+      "tags": [
+        "Market Sentiment",
+        "Commodities",
+        "Interest Rate",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign Investor Outflow Rp590 Billion, Two Prajogo Pangestu‑Affiliated Stocks Lead Net Sell",
+      "timestamp": "2026-09-07T20:40:00",
+      "source": "https://www.idnfinancials.com/id/news/68479/outflow-asing-rp590-miliar-dua-saham-prajogo-pangestu-top-net-sell",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign investors heavily buy big bank stocks PT Bank Rakyat Indonesia Tbk, PT Bank Central Asia Tbk and PT Bank Mandiri Tbk in the past week.",
+      "timestamp": "2026-09-07T07:23:00",
+      "source": "https://investasi.kontan.co.id/news/asing-ramai-borong-saham-big-banks-bbri-bbca-dan-bmri-sepekan-terakhir",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Mandiri Sekuritas projects Indonesia's IHSG could reach 7,470 by end‑2026, citing four catalysts",
+      "timestamp": "2026-09-03T18:40:00",
+      "source": "https://market.bisnis.com/read/20260903/7/2001179/mandiri-sekuritas-buka-peluang-ihsg-tembus-7470-akhir-2026-ini-katalisnya",
+      "tags": [
+        "Government Policy",
+        "Capital & Funding",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors dump KOTA, ISAT and EMAS as Jakarta Composite Index climbs",
+      "timestamp": "2026-09-02T07:20:05",
+      "source": "https://investor.id/market/452526/asing-buang-sahamsaham-ini",
+      "tags": [
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Avia Avian Tbk, PT Steel Pipe Industry of Indonesia Tbk, PT Dian Swastatika Sentosa Tbk, PT Indosat Tbk, PT Telkom Indonesia Tbk, PT Kawasan Industri Jababeka Tbk, PT Dayamitra Telekomunikasi Tbk, PT Sarana Menara Nusantara Tbk, PT Mora Telematika Indonesia Tbk and PT Ketrosden Triasmitra Tbk identified as potential beneficiaries of AI‑driven data‑center expansion",
+      "timestamp": "2026-09-02T05:41:00",
+      "source": "https://investasi.kontan.co.id/news/selain-dssa-ini-saham-yang-berpotensi-kecipratan-bisnis-data-center-tren-ai",
+      "tags": [
+        "Artificial Intelligence",
+        "Business Expansion",
+        "Digital Transformation",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors record Rp 2.02 trillion net buy on Indonesian market led by BBRI, BBCA, and BUMI on September 1, 2026",
+      "timestamp": "2026-09-01T21:41:26",
+      "source": "https://investor.id/market/452504/masuk-september-asing-belanja-besar-bbri-bbca-hingga-bumi-diborong",
+      "tags": [
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Data Center Boom Highlights Upside for PT Avia Avian Tbk, PT Steel Pipe Industry of Indonesia Tbk, DSSA, ISAT, TLKM, KIJA, MTEL, TOWR, MORA, KETR, BEST, and DMAS",
+      "timestamp": "2026-09-01T20:27:00",
+      "source": "https://investasi.kontan.co.id/news/bisnis-data-center-berkembang-pesat-ini-saham-yang-berpotensi-kecipratan",
+      "tags": [
+        "Business Expansion",
+        "Digital Transformation",
+        "Artificial Intelligence",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Accelerating Digital Infrastructure Boosts Stock Prospects for Indonesia’s Data Center Leaders PT Telkom Indonesia Tbk, PT Indosat Tbk, PT Dian Swastatika Sentosa Tbk, and PT DCI Indonesia Tbk",
+      "timestamp": "2026-08-30T15:03:00",
+      "source": "https://investasi.kontan.co.id/news/akselerasi-infrastruktur-digital-pacu-prospek-saham-sektor-data-center",
+      "tags": [
+        "Digital Transformation",
+        "Artificial Intelligence",
+        "Analyst Ratings",
+        "Capital & Funding",
+        "Joint Venture",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BRI Danareksa raises PT Indosat Tbk target price by 35.5% on AI joint‑venture Zankore project",
+      "timestamp": "2026-08-30T14:54:15",
+      "source": "https://investor.id/market/452135/indosat-isat-terdongkrak-ai-ada-proyek-jumbo-potensi-cuan-sahamnya-35",
+      "tags": [
+        "Analyst Ratings",
+        "Artificial Intelligence",
+        "Joint Venture",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts recommend PT Telkom Indonesia Tbk, PT Indosat Tbk and PT Dian Swastatika Sentosa Tbk as top data‑center stocks",
+      "timestamp": "2026-08-30T14:53:00",
+      "source": "https://investasi.kontan.co.id/news/3-saham-data-center-pilihan-analis-ada-tlkm-isat-dan-dssa",
+      "tags": [
+        "Analyst Ratings",
+        "Business Expansion",
+        "Joint Venture",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Capex race among TLKM, EXCL and ISAT: assessing which telecom is best positioned for return",
+      "timestamp": "2026-08-29T06:00:00",
+      "source": "https://market.bisnis.com/read/20260829/192/1999081/adu-capex-jumbo-tlkm-excl-dan-isat-siapa-paling-siap-panen-return",
+      "tags": [
+        "Capital & Funding",
+        "Business Expansion",
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG opens higher as market concerns ease",
+      "timestamp": "2026-08-28T09:11:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/119758/kekhawatiran-pasar-mereda-ihsg-dibuka-menguat",
+      "tags": [
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Daily stock recommendation roundup for 28 August 2026",
+      "timestamp": "2026-08-28T08:40:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/119753/rangkuman-rekomendasi-saham-hari-ini-28-agustus-2026",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Foreign investors net‑sell TPIA, ISAT, AMMN, PT Bank Negara Indonesia (Persero) Tbk and PT Bank Rakyat Indonesia (Persero) Tbk as the IHSG drops 95.9 points",
+      "timestamp": "2026-08-27T07:59:26",
+      "source": "https://investor.id/market/451775/asing-lepas-sejumlah-saham-ini",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Dayamitra Telekomunikasi Tbk (MTEL) gains new growth catalyst from spectrum allocation and sees merger talks with TBIG resurface",
+      "timestamp": "2026-08-24T13:15:49",
+      "source": "https://investor.id/market/451429/mtel-dapat-dorongan-baru-target-saham-tinggi-dan-isu-merger-mencuat",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Business Expansion",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BRI Danareksa Sekuritas recommends buying PT Telkom Indonesia Tbk and PT Indosat Tbk as Indonesia’s data‑center market expands toward 3.5 GW by 2030.",
+      "timestamp": "2026-08-22T19:26:00",
+      "source": "https://investasi.kontan.co.id/news/bisnis-emiten-dana-center-makin-moncer-cermati-saham-rekomendasi-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indosat (ISAT) launches Zankore AI platform, aiming for 200 MW capacity by H1 2027 and projecting $13 bn revenue over five years",
+      "timestamp": "2026-08-21T14:01:00",
+      "source": "https://investasi.kontan.co.id/news/indosat-isat-kembangkan-zankore-bisnis-ai-bisa-jadi-sumber-pertumbuhan-baru",
+      "tags": [
+        "Artificial Intelligence",
+        "Business Expansion",
+        "Capital & Funding",
+        "Analyst Ratings",
+        "Digital Transformation",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia data center market projected to grow sharply, with TLKM and ISAT highlighted as top picks",
+      "timestamp": "2026-08-21T13:48:00",
+      "source": "https://investasi.kontan.co.id/news/bisnis-data-center-indonesia-diproyeksi-tumbuh-pesat-tlkm-dan-isat-jadi-pilihan",
+      "tags": [
+        "Business Expansion",
+        "Analyst Ratings",
+        "Artificial Intelligence",
+        "Joint Venture",
+        "Digital Transformation",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors heavily sold large‑cap Indonesian stocks as the IHSG surged 1.68%",
+      "timestamp": "2026-08-21T08:04:32",
+      "source": "https://www.cnbcindonesia.com/market/20260820203648-17-761105/asing-ramai-ramai-jual-saham-ini-saat-ihsg-melesat",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Mega Capital Sekuritas recommends today’s stocks, focusing on TINS, BULL and RMKE",
+      "timestamp": "2026-08-20T08:45:22",
+      "source": "https://www.cnbcindonesia.com/market/20260820081630-17-760779/rekomendasi-saham-hari-ini-cek-tins-bull-hingga-rmke",
+      "tags": [
+        "Analyst Ratings",
+        "Stock Buyback",
+        "Financial Metrics"
+      ]
+    },
+    {
+      "title": "ISAT shares surge 27% in a week, analysts issue cautions",
+      "timestamp": "2026-08-19T15:03:00",
+      "source": "https://emitennews.com/news/isat-reli-27-persen-sepekan-analis-ingatkan-ini",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Rights Issue",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors recorded a net sell of Rp 355 billion on Tuesday, with PT Indosat Tbk leading the list of heavily sold stocks.",
+      "timestamp": "2026-08-19T08:22:00",
+      "source": "https://investasi.kontan.co.id/news/asing-net-sell-rp-355-miliar-cermati-saham-yang-banyak-dijual-selasa-188",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign investors net‑sell shares of PT Indosat Tbk, PT Bank Rakyat Indonesia Tbk, PT Dian Swastatika Sentosa Tbk and PT Chandra Asri Pacific Tbk",
+      "timestamp": "2026-08-18T20:44:48",
+      "source": "https://investor.id/market/450781/4-saham-diberondong-aksi-jual-asing",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Domestic Investor",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG closes up 0.75% at 6,449, becoming top performer in Asian markets driven by energy and big‑cap stock gains",
+      "timestamp": "2026-08-18T18:25:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/118750/penyebab-ihsg-ditutup-menguat-jadi-yang-terbaik-di-bursa-asia",
+      "tags": [
+        "Central Bank",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net sell PT Indosat Tbk shares as the stock rises 2.36% on 18 Aug 2026",
+      "timestamp": "2026-08-18T13:06:18",
+      "source": "https://investor.id/market/450733/saham-isat-mendadak-dilego",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors sell net Rp1.58 trillion of Indonesian stocks, top 10 net‑sell losers listed",
+      "timestamp": "2026-08-18T07:00:57",
+      "source": "https://www.cnbcindonesia.com/market/20260817221515-17-760118/asing-lepas-rp158-triliun-saham-ri-ini-daftarnya",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "KB Valbury and Samuel Sekuritas upgrade TLKM to Buy with new price targets",
+      "timestamp": "2026-08-18T05:59:20",
+      "source": "https://investor.id/market/450661/tlkm-kirim-sinyal-penting-bersiap-tangkap-peluang-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Indosat Tbk schedules extraordinary shareholders meeting for 29 September 2026 after reporting strong H1 2026 performance",
+      "timestamp": "2026-08-17T10:00:00",
+      "source": "https://emitennews.com/news/semester-i-cetak-kinerja-apik-isat-kini-jadwalkan-rupslb-kapan",
+      "tags": [
+        "Shareholders General Meeting",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign Net Sell Boosts Indonesian Stock Market After President’s State‑of‑the‑Nation Speech",
+      "timestamp": "2026-08-14T19:00:00",
+      "source": "https://market.bisnis.com/read/20260814/7/1996472/net-sell-asing-bayangi-pasar-saham-usai-pidato-kenegaraan",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Government Policy"
+      ]
+    },
+    {
+      "title": "Indonesia's IHSG drops 1.18% to 6,298 in Session I, with ESSA, MBMA, and CUAN leading LQ45 losses",
+      "timestamp": "2026-08-13T12:12:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-ambruk-118-ke-6298-sesi-i-top-losers-lq45-essa-mbma-cuan-kamis-138",
+      "tags": [
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG up 1.69% on Aug 13, 2026, with top LQ45 gainers and buy‑on‑weakness picks",
+      "timestamp": "2026-08-13T08:28:00",
+      "source": "https://market.bisnis.com/read/20260813/7/1995791/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-13-agustus-2026",
+      "tags": [
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Indosat Tbk shares surge over 17% hitting three-month high",
+      "timestamp": "2026-08-12T10:54:21",
+      "source": "https://investor.id/market/450033/indosat-isat-pecah-telur",
+      "tags": [
+        "Financial Metrics",
+        "Business Expansion",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG falls 1.53% amid volatility, highlighting movers KLBF, STAR, ISAT and corporate updates from GULA, ITMG and LABS",
+      "timestamp": "2026-08-12T08:54:34",
+      "source": "https://www.cnbcindonesia.com/market/20260812082529-17-758449/ihsg-masih-volatil-deretan-saham-ini-menarik-buat-dilirik",
+      "tags": [
+        "Stock Buyback",
+        "Asset Purchase",
+        "Foreign Investment",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG slips into red zone, see today's stock recommendations",
+      "timestamp": "2026-08-12T08:39:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8614668/ihsg-tergelincir-ke-zona-merah-simak-rekomendasi-saham-hari-ini",
+      "tags": [
+        "Stock Buyback",
+        "Asset Purchase",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Stock Recommendations and IHSG Movement for August 11, 2026",
+      "timestamp": "2026-08-11T08:10:00",
+      "source": "https://market.bisnis.com/read/20260811/7/1995163/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-11-agustus-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Indosat (ISAT) Target Price Raised to Rp 3,600 as AI Zankore Project Projected to Boost Net Profit up to 29%",
+      "timestamp": "2026-08-11T06:35:00",
+      "source": "https://investasi.kontan.co.id/news/proyek-ai-zankore-bisa-tambah-laba-hingga-29-target-saham-indosat-isat-dikerek",
+      "tags": [
+        "Artificial Intelligence",
+        "Analyst Ratings",
+        "Capital & Funding",
+        "Financial Metrics",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indosat Tbk projected to add Rp1.4 trillion annual profit from AI joint venture Zankore, analyst maintains buy rating",
+      "timestamp": "2026-08-10T20:44:00",
+      "source": "https://investasi.kontan.co.id/news/indosat-isat-masuk-bisnis-ai-zankore-bisa-tambah-laba-rp-14-triliun-per-tahun",
+      "tags": [
+        "Artificial Intelligence",
+        "Joint Venture",
+        "Analyst Ratings",
+        "Capital & Funding",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net bought Rp 1.24 trillion over the weekend, with ten Indonesian stocks leading the inflows.",
+      "timestamp": "2026-08-07T22:47:00",
+      "source": "https://investasi.kontan.co.id/news/asing-net-buy-jumbo-rp-124-triliun-cek-saham-yang-banyak-diborong-di-akhir-pekan",
+      "tags": [
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia's IHSG rises to 6,409 as analysts warn of upcoming MSCI and FTSE rebalancing volatility",
+      "timestamp": "2026-08-07T17:23:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-melesat-ke-6409-waspadai-volatilitas-rebalancing-msci-ftse",
+      "tags": [
+        "Analyst Ratings",
+        "Global Index",
+        "Market Sentiment",
+        "Foreign Investment"
+      ]
+    },
+    {
+      "title": "PT Dayamitra Telekomunikasi Tbk reports H1 2026 net profit of Rp1.11 trillion, tower leasing business remains main revenue driver",
+      "timestamp": "2026-08-06T15:20:00",
+      "source": "https://www.idnfinancials.com/id/news/67090/mtel-raup-laba-rp1-11-triliun-bisnis-menara-jadi-penopang-utama",
+      "tags": [
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG opens higher at 6,369.99 as PT Hartadinata Abadi Tbk, PT Aneka Tambang Tbk and PT Indika Energy Tbk post notable gains",
+      "timestamp": "2026-08-06T09:10:00",
+      "source": "https://market.bisnis.com/read/20260806/7/1994111/ihsg-dibuka-naik-ke-6369-saham-hrta-antm-indy-melaju",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Analyst recommends buy on PT Telkom Indonesia Tbk as data‑center expansion underpins 2026 outlook",
+      "timestamp": "2026-08-04T15:38:00",
+      "source": "https://investasi.kontan.co.id/news/bisnis-data-center-topang-prospek-tlkm-cek-rekomendasi-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Business Expansion",
+        "Financial Metrics",
+        "Capital & Funding",
+        "Risk & Compliance",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indosat directors Vikram Sinha and Irsyad Syahroni purchase a total of 4.1 million shares as stock trades below Rp2,000",
+      "timestamp": "2026-08-04T12:10:00",
+      "source": "https://www.idnfinancials.com/id/news/66979/harga-masih-di-bawah-rp2-000-dua-direktur-indosat-borong-saham",
+      "tags": [
+        "Ownership",
+        "Insider Trading",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Director Irsyad Sahroni purchases 1 million shares of PT Indosat Tbk",
+      "timestamp": "2026-08-04T07:52:00",
+      "source": "https://money.kompas.com/read/2026/08/04/075216326/direktur-indosat-borong-1-juta-saham-indosat-isat",
+      "tags": [
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Indosat Tbk directors Vikram Sinha and Irsyad Sahroni collectively purchase 4.08 million shares, investing about Rp7.9 billion.",
+      "timestamp": "2026-08-04T07:25:00",
+      "source": "https://emitennews.com/news/direksi-isat-kompak-borong-saham-siapa-saja",
+      "tags": [
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Indosat Tbk directors Vikram Sinha and Irsyad Sahroni collectively purchase 4.09 million ISAT shares for approximately Rp7.9 billion",
+      "timestamp": "2026-08-04T06:25:00",
+      "source": "https://market.bisnis.com/read/20260804/192/1993381/bos-indosat-kompak-borong-saham-isat",
+      "tags": [
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "LQ45 constituents post solid first‑half 2026 earnings, with top blue‑chip picks highlighted for semester II",
+      "timestamp": "2026-08-04T05:39:00",
+      "source": "https://investasi.kontan.co.id/news/laba-emiten-lq45-lampaui-ekspektasi-cek-saham-blue-chip-pilihan-semester-ii-2026",
+      "tags": [
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Interest Rate",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Vikram Sinha Buys Shares of Indosat",
+      "timestamp": "2026-08-03T20:43:42",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-03082026-6036-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "Irsyad Sahroni Buys Shares of Indosat",
+      "timestamp": "2026-08-03T20:27:55",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-03082026-4727-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "Analyst highlights strong first‑half 2026 earnings across LQ45 constituents and points to several stocks with upside potential through year‑end 2026",
+      "timestamp": "2026-08-03T19:32:00",
+      "source": "https://investasi.kontan.co.id/news/laba-emiten-lq45-moncer-analis-beberkan-deretan-saham-potensial-hingga-akhir-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net sold Rp 250.53 billion over the weekend, with PT MNC Digital Entertainment Tbk leading the top‑10 most‑sold stocks",
+      "timestamp": "2026-07-31T21:21:00",
+      "source": "https://investasi.kontan.co.id/news/asing-catat-net-sell-rp-250-miliar-di-akhir-pekan-cek-saham-yang-banyak-diborong",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Pilarmas Investindo Sekuritas forecasts limited IHSG upside and recommends TINS, ISAT and ENRG for trading",
+      "timestamp": "2026-07-31T07:00:46",
+      "source": "https://investor.id/market/448559/ihsg-akan-menguat-terbatas-3-saham-potensial-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Central Bank",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "The Secret Behind Indosat’s Profit Surge",
+      "timestamp": "2026-07-29T13:29:58",
+      "source": "https://investor.id/market/448302/rahasia-di-balik-lonjakan-indosat-isat",
+      "tags": [
+        "Financial Metrics",
+        "Mergers & Acquisitions",
+        "Subsidiaries",
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indosat's net profit jumps 84.5% YoY to Rp4.31 trillion as revenue rises 13%",
+      "timestamp": "2026-07-29T07:00:00",
+      "source": "https://www.idnfinancials.com/id/news/66674/masih-didominasi-segmen-seluler-laba-indosat-melesat-84-5",
+      "tags": [
+        "Financial Metrics",
+        "Business Expansion",
+        "Partnerships & Agreements",
+        "Digital Transformation",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Indosat Tbk's Net Profit Jumps 84.5% to Rp4.3 Trillion in H1 2026",
+      "timestamp": "2026-07-28T22:16:00",
+      "source": "https://investasi.kontan.co.id/news/laba-bersih-indosat-isat-naik-845-pada-semester-i-2026",
+      "tags": [
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Indosat Tbk reports first‑half 2026 net profit of Rp4.31 trillion, up 84.5% year‑on‑year",
+      "timestamp": "2026-07-28T18:40:00",
+      "source": "https://www.idnfinancials.com/id/news/66671/laba-bersih-isat-semester-i-tembus-rp4-31-triliun-naik-84-5",
+      "tags": [
+        "Financial Metrics",
+        "Joint Venture",
+        "Partnerships & Agreements",
+        "Digital Transformation",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Indosat Tbk reports 84.5% rise in first‑half 2026 profit to Rp4.31 trillion",
+      "timestamp": "2026-07-28T13:55:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/116449/lonjakan-semu-laba-indosat-isat-semester-i-2026",
+      "tags": [
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Indosat Tbk reports net profit of Rp4.31 trillion for H1 2026, up 84.5% YoY",
+      "timestamp": "2026-07-28T13:18:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/116445/indosat-isat-cetak-laba-rp4-31-triliun-semester-i-2026",
+      "tags": [
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Indosat Tbk reports 84.5% year‑on‑year profit surge in the first half of 2026",
+      "timestamp": "2026-07-28T12:54:28",
+      "source": "https://investor.id/market/448145/indosat-isat-labanya-loncat-845",
+      "tags": [
+        "Financial Metrics",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indosat posts net profit of Rp4.31 trillion in H1 2026, up 84.5% YoY",
+      "timestamp": "2026-07-28T12:33:00",
+      "source": "https://market.bisnis.com/read/20260728/192/1991678/laba-indosat-isat-tembus-rp431-t-di-semester-i2026-melesat-845",
+      "tags": [
+        "Financial Metrics",
+        "Business Expansion",
+        "Partnerships & Agreements",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "CGS International Sekuritas Indonesia forecasts an IHSG rebound and recommends AKRA, EMAS, UNVR, ISAT, JPFA, and ADRO for trading",
+      "timestamp": "2026-07-27T09:08:48",
+      "source": "https://investor.id/market/447951/ihsg-berpotensi-rebound-6-saham-siap-tebar-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Kompas100 Index Outperforms IHSG Over the Past Month, Analysts Recommend Several Stocks",
+      "timestamp": "2026-07-26T17:41:00",
+      "source": "https://investasi.kontan.co.id/news/indeks-kompas100-ungguli-ihsg-sebulan-terakhir-cek-rekomendasi-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Mitratel poised for new growth momentum as 700 MHz and 2.6 GHz spectrum allocations boost tower and fiber demand",
+      "timestamp": "2026-07-23T21:02:13",
+      "source": "https://investor.id/market/447651/momentum-pertumbuhan-baru-mitratel",
+      "tags": [
+        "Business Expansion",
+        "Government Policy",
+        "Digital Transformation",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "INET completes mandatory tender offer for PADA, raising its stake to 53.58%",
+      "timestamp": "2026-07-23T18:45:00",
+      "source": "https://investasi.kontan.co.id/news/tender-offer-wajib-pada-berakhir-kepemilikan-inet-menjadi-5358",
+      "tags": [
+        "Ownership",
+        "Mergers & Acquisitions",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "EXCL secures largest 700 MHz spectrum allocation as Indonesia closes 700 MHz and 2.6 GHz auction",
+      "timestamp": "2026-07-23T18:25:00",
+      "source": "https://investasi.kontan.co.id/news/lelang-frekuensi-700-mhz-26-ghz-ditutup-cek-saham-unggulan-sektor-telekomunikasi",
+      "tags": [
+        "Government Policy",
+        "Capital & Funding",
+        "Business Expansion",
+        "Digital Transformation",
+        "Politics & Regulation",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Samuel Sekuritas cites spectrum auction as catalyst and upgrades telecom sector to overweight, recommending TLKM buy, ISAT top pick, EXCL hold",
+      "timestamp": "2026-07-22T10:52:00",
+      "source": "https://market.bisnis.com/read/20260722/189/1990016/katalis-lelang-spektrum-rekomendasi-overweight-excl-isat-hingga-tlkm",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Capital & Funding",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Telekomunikasi Selular, PT Indosat Tbk and PT XLSMART Telecom Sejahtera Tbk Win 2026 700 MHz/2.6 GHz Auction, Obligated to Deploy 4G in 538 Villages and 5G to 51% Population",
+      "timestamp": "2026-07-22T09:30:00",
+      "source": "https://emitennews.com/news/menang-lelang-tiga-emiten-wajib-bangun-5g-dan-internet-desa",
+      "tags": [
+        "Government Policy",
+        "Business Expansion",
+        "Digital Transformation",
+        "Politics & Regulation"
+      ]
+    },
+    {
+      "title": "IHSG Expected to Continue Rising with Six Recommended Stocks Highlighted",
+      "timestamp": "2026-07-22T07:53:03",
+      "source": "https://investor.id/market/447415/ihsg-bakal-lanjut-nanjak-6-saham-jagoan-cuan",
+      "tags": [
+        "Market Sentiment",
+        "Central Bank",
+        "Currency & FX",
+        "Commodities"
+      ]
+    },
+    {
+      "title": "PT Telkom Indonesia Tbk wins largest 5G spectrum auction, prompting target price increase",
+      "timestamp": "2026-07-21T18:37:19",
+      "source": "https://investor.id/market/447363/telkom-tlkm-menang-besar-target-harga-saham-dikerek",
+      "tags": [
+        "Analyst Ratings",
+        "Business Expansion",
+        "Capital & Funding",
+        "Digital Transformation",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Spectrum auction bolsters outlook for telecom issuers PT XLSMART Telecom Sejahtera Tbk, PT Telkom Indonesia (Persero) Tbk, and PT Indosat Tbk",
+      "timestamp": "2026-07-20T09:54:00",
+      "source": "https://investasi.kontan.co.id/news/lelang-spektrum-perkuat-prospek-emiten-telekomunikasi-cermati-saham-tlkm-isat-excl",
+      "tags": [
+        "Government Policy",
+        "Business Expansion",
+        "Analyst Ratings",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts issue Buy on TLKM and EXCL and Add on ISAT as restructuring and 5G expansion drive outlooks",
+      "timestamp": "2026-07-19T16:36:00",
+      "source": "https://investasi.kontan.co.id/news/restrukturisasi-hingga-5g-jadi-penopang-cek-rekomendasi-tlkm-excl-dan-isat",
+      "tags": [
+        "Analyst Ratings",
+        "Business Expansion",
+        "Mergers & Acquisitions",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG projected higher as analysts recommend INCO, INDY, ISAT, OASA, ANTM, ASII, MBMA, MDKA, and PTBA",
+      "timestamp": "2026-07-17T06:46:07",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260717060604-92-1381672/ihsg-diperkirakan-cerah-jelang-akhir-pekan",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Broker Recommendations Highlight ANTM, ARTO, ARCI, INCO, ISAT, and OASA as IHSG Eyes Limited Upside",
+      "timestamp": "2026-07-17T05:51:00",
+      "source": "https://investasi.kontan.co.id/news/intip-rekomendasi-saham-pilihan-hari-ini-177-ihsg-berpeluang-menguat-terbatas",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG projected to gain modestly on Friday, led by BMRI, BBRI, AMMN and ASII",
+      "timestamp": "2026-07-16T18:21:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diproyeksikan-menguat-terbatas-pada-perdagangan-jumat-177",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Currency & FX",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "CGS International Sekuritas Indonesia forecasts limited IHSG upside and recommends six stocks: ANTM, EXCL, ISAT, LSIP, MYOR, HMSP",
+      "timestamp": "2026-07-16T08:43:27",
+      "source": "https://investor.id/market/446717/ihsg-bakal-menguat-terbatas-6-saham-potensi-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Currency & FX"
+      ]
+    },
+    {
+      "title": "BRI Danareksa Sekuritas sets target prices for TLKM, ISAT and EXCL following lower‑than‑expected spectrum auction",
+      "timestamp": "2026-07-13T13:44:12",
+      "source": "https://investor.id/market/446296/target-harga-tlkm-isat-dan-excl-dipatok-segini",
+      "tags": [
+        "Analyst Ratings",
+        "Capital & Funding",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas recommends AADI, BKSL, INCO, and PTRO as IHSG targets amid expected index rise to 6,083–6,203 on July 8 2026",
+      "timestamp": "2026-07-08T09:04:00",
+      "source": "https://market.bisnis.com/read/20260708/189/1986366/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-rabu-8-juli-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "ISAT completes Rp11.71 trillion fiber divestiture as JELI and JECX IPOs see strong oversubscription",
+      "timestamp": "2026-07-08T08:45:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8564567/isat-rampungkan-transaksi-fiber-rp-11-71-triliun-ipo-jeli-dan-jecx-diserbu-investor",
+      "tags": [
+        "IPO",
+        "Mergers & Acquisitions",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Indosat Tbk outlook remains positive through 2026 despite falling prepaid subscribers",
+      "timestamp": "2026-07-07T13:24:00",
+      "source": "https://investasi.kontan.co.id/news/saham-indosat-isat-diproyeksi-masih-prospektif-meski-pelanggan-prabayar-menyusut",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Artificial Intelligence",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Indosat Tbk announces resignation of Commissioner Seppalga Ahmad effective July 5 2026",
+      "timestamp": "2026-07-07T07:55:00",
+      "source": "https://market.bisnis.com/read/20260707/192/1986061/baru-menjabat-seppalga-ahmad-mundur-dari-komisaris-indosat-isat",
+      "tags": [
+        "Executive Changes",
+        "Digital Transformation",
+        "Shareholders General Meeting"
+      ]
+    },
+    {
+      "title": "Indosat (ISAT) Accepts Resignation of Commissioner Seppalga Ahmad Effective July 5, 2026",
+      "timestamp": "2026-07-06T19:00:00",
+      "source": "https://money.kompas.com/read/2026/07/06/190019026/indosat-isat-terima-pengunduran-diri-komisaris-seppalga-ahmad",
+      "tags": [
+        "Executive Changes",
+        "OJK",
+        "Politics & Regulation"
+      ]
+    },
+    {
+      "title": "Indosat Ooredoo Hutchison (PT Indosat Tbk) may issue a special dividend as valuation stays low with upside near 60%",
+      "timestamp": "2026-07-06T18:29:25",
+      "source": "https://investor.id/market/445450/saham-belum-mahal-potensi-cuan-hampir-60-ada-kans-dividen-spesial",
+      "tags": [
+        "Dividend Announcement",
+        "Capital & Funding",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Indosat Tbk may issue special dividend following divestiture of PT Infra Fiber Teknologi assets",
+      "timestamp": "2026-07-06T16:32:00",
+      "source": "https://investasi.kontan.co.id/news/indosat-isat-berpotensi-beri-dividen-spesial-usai-divestasi-aset-fiber-optik",
+      "tags": [
+        "Dividend Announcement",
+        "Mergers & Acquisitions",
+        "Analyst Ratings",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Indosat Ooredoo Hutchison Tbk projected to issue a special dividend after a Rp11.7 trillion fiber asset sale",
+      "timestamp": "2026-07-06T14:29:25",
+      "source": "https://investor.id/market/445418/sinyal-dividen-spesial-jumbo-indosat-keluar-kirakira-segini",
+      "tags": [
+        "Dividend Announcement",
+        "Capital & Funding",
+        "Business Expansion",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Weekly Top 10 IHSG Supporting Stocks: AMMN, DCII and BREN Lead",
+      "timestamp": "2026-07-05T08:06:00",
+      "source": "https://market.bisnis.com/read/20260705/7/1985593/10-saham-penopang-ihsg-sepekan-ammn-dcii-hingga-bren-pimpin-top-leaders",
+      "tags": [
+        "Foreign Investment"
+      ]
+    },
+    {
+      "title": "IHSG ends week green as foreign investors heavily buy BBCA and BMRI",
+      "timestamp": "2026-07-03T19:16:00",
+      "source": "https://money.kompas.com/read/2026/07/03/191638126/ihsg-akhiri-pekan-menghijau-investor-asing-borong-bbca-dan-bmri",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Session I: Indonesian stock market closes higher, led by gains in basic materials, industrials and LQ45 leaders",
+      "timestamp": "2026-07-03T13:53:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/113874/penyebab-ihsg-menguat-2-46-terbaik-di-bursa-asia",
+      "tags": [
+        "Currency & FX",
+        "Market Sentiment",
+        "Global Economy"
+      ]
+    },
+    {
+      "title": "CGS International Sekuritas Indonesia forecasts IHSG to keep rising, recommending ANTM, INCO, ARCI, ISAT, BBCA and BMRI",
+      "timestamp": "2026-07-03T08:17:55",
+      "source": "https://investor.id/market/445102/ihsg-bakal-lanjut-menguat-siapsiap-6-saham-kasih-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts recommend buying PT Indosat Tbk with target prices of Rp 2,500–2,800, citing data consumption growth and AI business expansion",
+      "timestamp": "2026-07-03T07:32:00",
+      "source": "https://investasi.kontan.co.id/news/intip-rekomendasi-saham-indosat-isat-yang-ditopang-pertumbuhan-data-dan-bisnis-ai",
+      "tags": [
+        "Analyst Ratings",
+        "Artificial Intelligence",
+        "Business Expansion",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indosat records Rp 1.6 trillion profit from fiber asset divestment to Nusantara Fiber Teknologi",
+      "timestamp": "2026-07-02T22:21:56",
+      "source": "https://investor.id/market/445067/indosat-isat-untung-rp-16-triliun-dari-divestasi-aset-fiber",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Asset Purchase",
+        "Ownership",
+        "Subsidiaries",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indosat completes Rp11.71 trillion divestiture of majority stake in PT Infra Fiber Teknologi to PT Nusantara Fiber Teknologi",
+      "timestamp": "2026-07-02T19:00:55",
+      "source": "https://www.cnbcindonesia.com/market/20260702175553-17-747630/indosat--isat--divestasi-usaha-fiber-optik-rp1171-t",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Ownership",
+        "Partnerships & Agreements",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Analysts project continued growth for PT Indosat Tbk (ISAT) through 2026 on data and AI expansion",
+      "timestamp": "2026-07-02T18:06:00",
+      "source": "https://investasi.kontan.co.id/news/prospek-saham-isat-masih-cerah-ditopang-pertumbuhan-data-dan-bisnis-ai",
+      "tags": [
+        "Artificial Intelligence",
+        "Business Expansion",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Dayamitra Telekomunikasi Tbk targets Rp 2.9 trillion capex in 2026 to drive tower and fiber expansion",
+      "timestamp": "2026-06-30T19:33:00",
+      "source": "https://investasi.kontan.co.id/news/incar-pertumbuhan-kinerja-di-2026-mitratel-mtel-siapkan-capex-rp-29-triliun",
+      "tags": [
+        "Capital & Funding",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Pelita Teknologi (CHIP) gives Rp1.43 dividend per share",
+      "timestamp": "2026-06-29T18:59:00",
+      "source": "https://market.bisnis.com/read/20260629/192/1984183/pelita-teknologi-chip-tebar-dividen-dan-bersiap-ekspansi-ke-nigeria",
+      "tags": [
+        "Dividend Announcement",
+        "Business Expansion",
+        "Annual Report",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Sarana Menara Nusantara Tbk posts strong Q1 2026 growth with near‑70% upside potential",
+      "timestamp": "2026-06-25T17:21:34",
+      "source": "https://investor.id/market/444118/emiten-grup-djarum-dikeker-saham-murah-potensi-cuan-hampir-70",
+      "tags": [
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas recommends BBCA, ISAT, NCKL, and RAJA with specific price targets for June 23 trading",
+      "timestamp": "2026-06-23T08:21:07",
+      "source": "https://investor.id/market/443720/saham-pilihan-untuk-trading-23-juni-dan-target-harganya",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas analyst warns IHSG correction risk and recommends ISAT, NCKL, ASII, and BBRI",
+      "timestamp": "2026-06-23T08:04:00",
+      "source": "https://money.kompas.com/read/2026/06/23/080400026/ihsg-rawan-koreksi-saham-isat-nckl-asii-hingga-bbri-bisa-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Infrastructure Issuers' Performance Slows in High‑Interest‑Rate Era, Outlook Reviewed",
+      "timestamp": "2026-06-22T19:15:00",
+      "source": "https://investasi.kontan.co.id/news/kinerja-emiten-infrastruktur-lemas-di-era-suku-bunga-tinggi-simak-prospeknya",
+      "tags": [
+        "Interest Rate",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Government Policy",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Bank Central Asia Tbk and PT Bank Negara Indonesia Tbk Lead Foreign Net Buying as Indonesia Market Rebounds",
+      "timestamp": "2026-06-19T21:55:00",
+      "source": "https://investasi.kontan.co.id/news/bbca-dan-bbni-teratas-cermati-saham-yang-banyak-diborong-asing-akhir-pekan-ini",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Sinergi Inti Andalan Prima Tbk launches mandatory tender offer for up to 900 million PT Personel Alih Daya Tbk shares",
+      "timestamp": "2026-06-17T16:17:00",
+      "source": "https://emitennews.com/news/inet-buka-tender-wajib-900-juta-saham-pada-tegaskan-tak-ada-delisting",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Capital & Funding",
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "INET launches mandatory tender offer for 900 million PADA shares at Rp63 per share",
+      "timestamp": "2026-06-17T15:31:28",
+      "source": "https://investor.id/corporate-action/443062/inet-tender-wajib-saham-pada-di-harga-ratarata-tertinggi",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Personel Alih Daya Tbk appoints Tongam Lumban Tobing as Independent Commissioner after acquisition by PT Sinergi Inti Andalan Prima Tbk",
+      "timestamp": "2026-06-12T15:11:00",
+      "source": "https://emitennews.com/news/mundur-dari-inet-tongam-l-tobing-geser-ke-personel-alih-daya-pada",
+      "tags": [
+        "Executive Changes",
+        "Mergers & Acquisitions",
+        "Shareholders General Meeting",
+        "Annual Report"
+      ]
+    },
+    {
+      "title": "LQ45 Index Gains 3.5% to 589.47, Analysts Recommend BMRI and Other Blue‑Chip Stocks",
+      "timestamp": "2026-06-10T20:56:00",
+      "source": "https://investasi.kontan.co.id/news/momentum-penguatan-indeks-lq45-berlanjut-investor-perlu-cermati-deretan-saham-ini",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Interest Rate",
+        "Bullish"
+      ]
+    }
+  ],
+  "corporate_events": [
+    {
+      "date": "2026-09-29",
+      "type": "RUPS",
+      "detail": "Waktu: 14:00:00 · Lokasi: Gedung Indosat Ooredoo Hutchison Jalan Medan Merdeka Barat No. 21 Jakarta 10110 · Agenda #1: Acceptance of resignation of Commissioner Seppalga Ahmad, approved with 96.60% approval, 2.77% dissenting, and 0.63% abstain, effective 5 July 2026, with appreciation and a conditional release/discharge tied to approval of the 2026 annual report.\nAgenda #2: Reappointment of Vikram Sinha as President Director, approved with 96.60% approval, 2.77% dissenting, and 0.63% abstain, for a term from the closing of the 2027 AGM until the closing of the 2032 AGM, subject to the GMS's right to dismiss him anytime.\nAgenda #3: Confirmation of the composition of the Board of Commissioners, approved with 96.60% approval, 2.77% dissenting, and 0.63% abstain, effective from the closing of this meeting until the closing of the 2030 AGM, listing Nezar Patria as President Commissioner, two Deputy Presidents, six Commissioners, and five Independent Commissioners.\nAgenda #4: Granting authority to the Board of Directors and/or Corporate Secretary, approved with 96.60% approval, 2.77% dissenting, and 0.63% abstain, to execute notarial deeds, restate/confirm decisions, notify the Minister of Law, and take necessary actions with right of substitution."
+    },
+    {
+      "date": "2026-05-18",
+      "type": "Dividen",
+      "detail": "Dividen per saham Rp 111,00 · Pembayaran: 2026-06-05"
+    },
+    {
+      "date": "2026-05-05",
+      "type": "RUPS",
+      "detail": "Waktu: 16:30:00 · Lokasi: (Fisik pada: Kantor Pusat Indosat Ooredoo Hutchison, Jalan Medan Merdeka Barat No. 21, Jakarta 10110Elektronik melalui); (Gedung Indosat Ooredoo Hutchison Jalan Medan Merdeka Barat NO. 21 Jakarta 10110 Kotaadm. Jakarta Selatan) · Agenda #1: Shareholders approved the 2025 annual report and ratified the financial statements audited by KAP Rintis, Jumadi, Rianto & Rekan, granting a full discharge of responsibilities to the Board of Directors and Board of Commissioners.\nAgenda #2: The meeting approved a cash dividend of Rp111 per share, totaling Rp3,579,840,016,227, and allocated the remaining Rp1,929,863,318,889 to retained earnings.\nAgenda #3: Shareholders approved a total 2026 remuneration of Rp63,477,342,720 for the Board of Commissioners and delegated the authority to set the Board of Directors' remuneration to the Commissioners.\nAgenda #4: Lok Budianto and KAP Rintis, Jumadi, Rianto & Rekan (PwC network) were appointed to audit the company's financial statements for the fiscal year ending December 31, 2026.\nAgenda #5: The meeting updated the Board compositions, confirming Vikram Sinha as President Director and Nezar Patria as President Commissioner, while appointing new members and dismissing Ahmad Zulfikar. The 9-member Board of Directors and 15-member Board of Commissioners have terms ending in 2027 and 2030 respectively.\nAgenda #6: The Board of Directors and Corporate Secretary were authorized to notarize meeting resolutions and notify the Ministry of Law and Human Rights regarding management changes.\nAgenda #7: The meeting was held on May 5, 2026, and achieved a quorum with 94.2228% of valid shares, representing 30,387,599,006 shares, in attendance."
+    },
+    {
+      "date": "2026-05-04",
+      "type": "RUPS",
+      "detail": "Waktu: 16:30:00 · Lokasi: Fisik pada: Kantor Pusat Indosat Ooredoo Hutchison, Jalan Medan Merdeka Barat No. 21, Jakarta 10110Elektronik melalui"
+    }
+  ],
+  "context_period": {
+    "start": "2026-04-01",
+    "end": "2026-09-30"
+  },
+  "source_availability": {
+    "company_fundamentals": true,
+    "corporate_events": true,
+    "news": true,
+    "peer_comparison": true,
+    "market_context": true,
+    "sector_market_series": false
+  },
+  "news_archive": {
+    "pages": 4,
+    "rows": 114,
+    "pagination_exhausted": true,
+    "totals_seen": [
+      114
+    ]
+  }
 }

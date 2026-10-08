@@ -3,8 +3,8 @@
   "as_of": "2026-09-30",
   "identity": {
     "symbol": "ADRO",
-    "company_name": null,
-    "peer_group": null
+    "company_name": "Alamtri Resources Indonesia Tbk",
+    "peer_group": "Oil, Gas & Coal"
   },
   "current": {
     "scope": "NO_CONTEXT",
@@ -20,5 +20,1955 @@
   "daily_market": {},
   "notes": [
     "Dataset scope: 28 reviewed stocks. No full-market or peer-context score is computed."
-  ]
+  ],
+  "company_snapshot": {
+    "price_date": "2026-10-07",
+    "captured_at": "2026-10-08",
+    "sector": "Energy",
+    "industry": "Coal",
+    "website": "www.alamtri.com",
+    "market_cap": 74881284920000,
+    "annual_year": 2025,
+    "valuation_year": 2026,
+    "metrics": [
+      {
+        "label": "Pendapatan",
+        "value": "Rp 31,36 T"
+      },
+      {
+        "label": "Laba bersih",
+        "value": "Rp 7,49 T"
+      },
+      {
+        "label": "Total aset",
+        "value": "Rp 114,09 T"
+      },
+      {
+        "label": "Ekuitas",
+        "value": "Rp 83,75 T"
+      },
+      {
+        "label": "EPS",
+        "value": "Rp 254,95"
+      },
+      {
+        "label": "P/E TTM",
+        "value": "7,51×"
+      },
+      {
+        "label": "P/B",
+        "value": "0,91×"
+      }
+    ]
+  },
+  "fundamental_peers": [
+    {
+      "symbol": "ADRO",
+      "name": "Alamtri Resources Indonesia Tbk",
+      "year": 2025,
+      "market_cap": 74881284920000,
+      "pe": 7.50673429174899,
+      "pb": 0.907690151651516,
+      "revenue": 31356226430880,
+      "in_universe": true
+    },
+    {
+      "symbol": "BYAN",
+      "name": "Bayan Resources Tbk",
+      "year": 2025,
+      "market_cap": 448333355750000,
+      "pe": 31.6564461208754,
+      "pb": 10.0929840388174,
+      "revenue": 57365496738143,
+      "in_universe": false
+    },
+    {
+      "symbol": "DSSA",
+      "name": "Dian Swastatika Sentosa Tbk",
+      "year": 2025,
+      "market_cap": 224423363200000,
+      "pe": 57.6393134375181,
+      "pb": 6.9973035147782,
+      "revenue": 46715084876817,
+      "in_universe": false
+    },
+    {
+      "symbol": "CUAN",
+      "name": "PT Petrindo Jaya Kreasi Tbk",
+      "year": 2025,
+      "market_cap": 95556065000000,
+      "pe": 37.221013973668,
+      "pb": 15.3779540354139,
+      "revenue": 20345142032280,
+      "in_universe": false
+    },
+    {
+      "symbol": "AADI",
+      "name": "PT Adaro Andalan Indonesia Tbk",
+      "year": 2025,
+      "market_cap": 94416062590000,
+      "pe": 6.80006748677504,
+      "pb": 1.47011602138669,
+      "revenue": 82180420288980,
+      "in_universe": false
+    },
+    {
+      "symbol": "BUMI",
+      "name": "Bumi Resources Tbk",
+      "year": 2025,
+      "market_cap": 68325712140512,
+      "pe": 33.4092828152328,
+      "pb": 2.29280462112777,
+      "revenue": 23845559235376,
+      "in_universe": false
+    },
+    {
+      "symbol": "ADMR",
+      "name": "PT Alamtri Minerals Indonesia Tbk",
+      "year": 2025,
+      "market_cap": 61732320565000,
+      "pe": 11.825046175464,
+      "pb": 2.11217726128167,
+      "revenue": 16283705284080,
+      "in_universe": false
+    },
+    {
+      "symbol": "GEMS",
+      "name": "Golden Energy Mines Tbk",
+      "year": 2025,
+      "market_cap": 50294118150000,
+      "pe": 13.3646483795522,
+      "pb": 3.78155416638668,
+      "revenue": 40402709974502,
+      "in_universe": false
+    },
+    {
+      "symbol": "PTBA",
+      "name": "Bukit Asam Tbk",
+      "year": 2025,
+      "market_cap": 39170241450000,
+      "pe": 8.25190495220792,
+      "pb": 1.55277320929724,
+      "revenue": 42651724000000,
+      "in_universe": true
+    },
+    {
+      "symbol": "ITMG",
+      "name": "Indo Tambangraya Megah Tbk",
+      "year": 2025,
+      "market_cap": 29491042500000,
+      "pe": 8.38438963544212,
+      "pb": 0.86697213156724,
+      "revenue": 31574380995000,
+      "in_universe": false
+    }
+  ],
+  "market_history": [
+    {
+      "date": "2026-04-01",
+      "ihsg": 7184.438,
+      "market_cap": 12646140309231200
+    },
+    {
+      "date": "2026-04-02",
+      "ihsg": 7026.782,
+      "market_cap": 12301402169484936
+    },
+    {
+      "date": "2026-04-06",
+      "ihsg": 6989.426,
+      "market_cap": 12181292965738515
+    },
+    {
+      "date": "2026-04-07",
+      "ihsg": 6971.027,
+      "market_cap": 12220087895953627
+    },
+    {
+      "date": "2026-04-08",
+      "ihsg": 7279.209,
+      "market_cap": 12745135690725105
+    },
+    {
+      "date": "2026-04-09",
+      "ihsg": 7307.589,
+      "market_cap": 12927661360702306
+    },
+    {
+      "date": "2026-04-10",
+      "ihsg": 7458.496,
+      "market_cap": 13183485554446575
+    },
+    {
+      "date": "2026-04-13",
+      "ihsg": 7500.187,
+      "market_cap": 13334711369769658
+    },
+    {
+      "date": "2026-04-14",
+      "ihsg": 7675.951,
+      "market_cap": 13680203483861089
+    },
+    {
+      "date": "2026-04-15",
+      "ihsg": 7623.586,
+      "market_cap": 13577551326427693
+    },
+    {
+      "date": "2026-04-16",
+      "ihsg": 7621.382,
+      "market_cap": 13580909513734445
+    },
+    {
+      "date": "2026-04-17",
+      "ihsg": 7634.004,
+      "market_cap": 13631805736754862
+    },
+    {
+      "date": "2026-04-20",
+      "ihsg": 7594.111,
+      "market_cap": 13530051609880990
+    },
+    {
+      "date": "2026-04-21",
+      "ihsg": 7559.38,
+      "market_cap": 13439346111420433
+    },
+    {
+      "date": "2026-04-22",
+      "ihsg": 7541.612,
+      "market_cap": 13331962629649015
+    },
+    {
+      "date": "2026-04-23",
+      "ihsg": 7378.606,
+      "market_cap": 13176851273619842
+    },
+    {
+      "date": "2026-04-24",
+      "ihsg": 7129.49,
+      "market_cap": 12732776963937495
+    },
+    {
+      "date": "2026-04-27",
+      "ihsg": 7106.52,
+      "market_cap": 12687518028997883
+    },
+    {
+      "date": "2026-04-28",
+      "ihsg": 7072.392,
+      "market_cap": 12590034125678447
+    },
+    {
+      "date": "2026-04-29",
+      "ihsg": 7101.226,
+      "market_cap": 12635384034178860
+    },
+    {
+      "date": "2026-04-30",
+      "ihsg": 6956.804,
+      "market_cap": 12378413759882228
+    },
+    {
+      "date": "2026-05-04",
+      "ihsg": 6971.953,
+      "market_cap": 12411009903513114
+    },
+    {
+      "date": "2026-05-05",
+      "ihsg": 7057.106,
+      "market_cap": 12626309574250122
+    },
+    {
+      "date": "2026-05-06",
+      "ihsg": 7092.467,
+      "market_cap": 12699830398460331
+    },
+    {
+      "date": "2026-05-07",
+      "ihsg": 7174.321,
+      "market_cap": 12778962713690869
+    },
+    {
+      "date": "2026-05-08",
+      "ihsg": 6969.396,
+      "market_cap": 12402407487340402
+    },
+    {
+      "date": "2026-05-11",
+      "ihsg": 6905.62,
+      "market_cap": 12280030079664830
+    },
+    {
+      "date": "2026-05-12",
+      "ihsg": 6858.899,
+      "market_cap": 12142773427321380
+    },
+    {
+      "date": "2026-05-13",
+      "ihsg": 6723.32,
+      "market_cap": 11821690407165346
+    },
+    {
+      "date": "2026-05-18",
+      "ihsg": 6599.24,
+      "market_cap": 11535132183193835
+    },
+    {
+      "date": "2026-05-19",
+      "ihsg": 6370.679,
+      "market_cap": 11105372542285443
+    },
+    {
+      "date": "2026-05-20",
+      "ihsg": 6318.5,
+      "market_cap": 10959980491971602
+    },
+    {
+      "date": "2026-05-21",
+      "ihsg": 6094.941,
+      "market_cap": 10549507904767653
+    },
+    {
+      "date": "2026-05-22",
+      "ihsg": 6162.045,
+      "market_cap": 10631421768765943
+    },
+    {
+      "date": "2026-05-25",
+      "ihsg": 6206.349,
+      "market_cap": 10692705367587005
+    },
+    {
+      "date": "2026-05-26",
+      "ihsg": 6130.19,
+      "market_cap": 10613054794742598
+    },
+    {
+      "date": "2026-05-29",
+      "ihsg": 6127.381,
+      "market_cap": 10725485605975573
+    },
+    {
+      "date": "2026-06-02",
+      "ihsg": 6195.427,
+      "market_cap": 10891278361519046
+    },
+    {
+      "date": "2026-06-03",
+      "ihsg": 5941.066,
+      "market_cap": 10451829355656557
+    },
+    {
+      "date": "2026-06-04",
+      "ihsg": 5839.785,
+      "market_cap": 10259085293637228
+    },
+    {
+      "date": "2026-06-05",
+      "ihsg": 5594.765,
+      "market_cap": 9803592659706909
+    },
+    {
+      "date": "2026-06-08",
+      "ihsg": 5342.137,
+      "market_cap": 9414771844192581
+    },
+    {
+      "date": "2026-06-09",
+      "ihsg": 5746.648,
+      "market_cap": 10095511071726246
+    },
+    {
+      "date": "2026-06-10",
+      "ihsg": 5902.376,
+      "market_cap": 10341178905408617
+    },
+    {
+      "date": "2026-06-11",
+      "ihsg": 5886.032,
+      "market_cap": 10287950241660193
+    },
+    {
+      "date": "2026-06-12",
+      "ihsg": 6007.656,
+      "market_cap": 10520825968837381
+    },
+    {
+      "date": "2026-06-15",
+      "ihsg": 6254.966,
+      "market_cap": 10899408952482727
+    },
+    {
+      "date": "2026-06-17",
+      "ihsg": 6220.74,
+      "market_cap": 10776148487729844
+    },
+    {
+      "date": "2026-06-18",
+      "ihsg": 6172.34,
+      "market_cap": 10736980009961606
+    },
+    {
+      "date": "2026-06-19",
+      "ihsg": 6177.139,
+      "market_cap": 10784594953877444
+    },
+    {
+      "date": "2026-06-22",
+      "ihsg": 6116.69,
+      "market_cap": 10708711379319414
+    },
+    {
+      "date": "2026-06-23",
+      "ihsg": 6101.333,
+      "market_cap": 10685047810158781
+    },
+    {
+      "date": "2026-06-24",
+      "ihsg": 5883.881,
+      "market_cap": 10312029789078805
+    },
+    {
+      "date": "2026-06-25",
+      "ihsg": 5999.038,
+      "market_cap": 10515718128770631
+    },
+    {
+      "date": "2026-06-26",
+      "ihsg": 5896.134,
+      "market_cap": 10298280398969010
+    },
+    {
+      "date": "2026-06-29",
+      "ihsg": 5820.79,
+      "market_cap": 10179250800138493
+    },
+    {
+      "date": "2026-06-30",
+      "ihsg": 5643.194,
+      "market_cap": 9894028079914985
+    },
+    {
+      "date": "2026-07-01",
+      "ihsg": 5695.116,
+      "market_cap": 10007947906561450
+    },
+    {
+      "date": "2026-07-02",
+      "ihsg": 5744.556,
+      "market_cap": 10060923668899571
+    },
+    {
+      "date": "2026-07-03",
+      "ihsg": 5875.78,
+      "market_cap": 10283558418117973
+    },
+    {
+      "date": "2026-07-06",
+      "ihsg": 5916.07,
+      "market_cap": 10352610980350056
+    },
+    {
+      "date": "2026-07-07",
+      "ihsg": 5986.497,
+      "market_cap": 10462196902308353
+    },
+    {
+      "date": "2026-07-08",
+      "ihsg": 5873.372,
+      "market_cap": 10272894518876036
+    },
+    {
+      "date": "2026-07-09",
+      "ihsg": 5912.442,
+      "market_cap": 10324456194315119
+    },
+    {
+      "date": "2026-07-10",
+      "ihsg": 5924.36,
+      "market_cap": 10336481815483724
+    },
+    {
+      "date": "2026-07-13",
+      "ihsg": 6037.842,
+      "market_cap": 10506156813352519
+    },
+    {
+      "date": "2026-07-14",
+      "ihsg": 6039.521,
+      "market_cap": 10524135196509080
+    },
+    {
+      "date": "2026-07-15",
+      "ihsg": 6041.972,
+      "market_cap": 10548175926837826
+    },
+    {
+      "date": "2026-07-16",
+      "ihsg": 6108.209,
+      "market_cap": 10655671296610599
+    },
+    {
+      "date": "2026-07-17",
+      "ihsg": 6175.535,
+      "market_cap": 10745282583293599
+    },
+    {
+      "date": "2026-07-20",
+      "ihsg": 6231.78,
+      "market_cap": 10832728685598542
+    },
+    {
+      "date": "2026-07-21",
+      "ihsg": 6340.02,
+      "market_cap": 11041209401983643
+    },
+    {
+      "date": "2026-07-22",
+      "ihsg": 6334.476,
+      "market_cap": 11064991318794462
+    },
+    {
+      "date": "2026-07-23",
+      "ihsg": 6315.311,
+      "market_cap": 11058096720739904
+    },
+    {
+      "date": "2026-07-24",
+      "ihsg": 6196.43,
+      "market_cap": 10866941513180025
+    },
+    {
+      "date": "2026-07-27",
+      "ihsg": 6185.783,
+      "market_cap": 10846820086978302
+    },
+    {
+      "date": "2026-07-28",
+      "ihsg": 6130.588,
+      "market_cap": 10748777396682842
+    },
+    {
+      "date": "2026-07-29",
+      "ihsg": 6091.386,
+      "market_cap": 10671925079765237
+    },
+    {
+      "date": "2026-07-30",
+      "ihsg": 6186.363,
+      "market_cap": 10808753111947654
+    },
+    {
+      "date": "2026-07-31",
+      "ihsg": 6236.126,
+      "market_cap": 10919632662108419
+    },
+    {
+      "date": "2026-08-03",
+      "ihsg": 6234.497,
+      "market_cap": 10891533376788029
+    },
+    {
+      "date": "2026-08-04",
+      "ihsg": 6319.613,
+      "market_cap": 11026919553266172
+    },
+    {
+      "date": "2026-08-05",
+      "ihsg": 6351.139,
+      "market_cap": 11081557528513146
+    },
+    {
+      "date": "2026-08-06",
+      "ihsg": 6343.711,
+      "market_cap": 11091230654708629
+    },
+    {
+      "date": "2026-08-07",
+      "ihsg": 6409.654,
+      "market_cap": 11208370900071437
+    },
+    {
+      "date": "2026-08-10",
+      "ihsg": 6365.374,
+      "market_cap": 11127673938712190
+    },
+    {
+      "date": "2026-08-11",
+      "ihsg": 6267.88,
+      "market_cap": 10951983899532200
+    },
+    {
+      "date": "2026-08-12",
+      "ihsg": 6373.849,
+      "market_cap": 11170270993004848
+    },
+    {
+      "date": "2026-08-13",
+      "ihsg": 6301.765,
+      "market_cap": 11047038481790783
+    },
+    {
+      "date": "2026-08-14",
+      "ihsg": 6401.888,
+      "market_cap": 11239913404397486
+    },
+    {
+      "date": "2026-08-18",
+      "ihsg": 6449.83,
+      "market_cap": 11344776423883178
+    },
+    {
+      "date": "2026-08-19",
+      "ihsg": 6394.125,
+      "market_cap": 11242710814171051
+    },
+    {
+      "date": "2026-08-20",
+      "ihsg": 6501.585,
+      "market_cap": 11417105165375641
+    },
+    {
+      "date": "2026-08-21",
+      "ihsg": 6525.69,
+      "market_cap": 11445451211005613
+    },
+    {
+      "date": "2026-08-24",
+      "ihsg": 6501.667,
+      "market_cap": 11400829359169202
+    },
+    {
+      "date": "2026-08-26",
+      "ihsg": 6405.685,
+      "market_cap": 11226539253653372
+    },
+    {
+      "date": "2026-08-27",
+      "ihsg": 6521.75,
+      "market_cap": 11444254799160097
+    },
+    {
+      "date": "2026-08-28",
+      "ihsg": 6518.121,
+      "market_cap": 11427514258790209
+    },
+    {
+      "date": "2026-08-31",
+      "ihsg": 6525.478,
+      "market_cap": 11420266337232824
+    },
+    {
+      "date": "2026-09-01",
+      "ihsg": 6599.943,
+      "market_cap": 11528076154461080
+    },
+    {
+      "date": "2026-09-02",
+      "ihsg": 6595.776,
+      "market_cap": 11521577604064942
+    },
+    {
+      "date": "2026-09-03",
+      "ihsg": 6667.891,
+      "market_cap": 11637538684241799
+    },
+    {
+      "date": "2026-09-04",
+      "ihsg": 6636.475,
+      "market_cap": 11595660058206448
+    },
+    {
+      "date": "2026-09-07",
+      "ihsg": 6619.673,
+      "market_cap": 11571807924987264
+    },
+    {
+      "date": "2026-09-08",
+      "ihsg": 6686.442,
+      "market_cap": 11668902562815871
+    },
+    {
+      "date": "2026-09-09",
+      "ihsg": 6678.201,
+      "market_cap": 11671538636715858
+    },
+    {
+      "date": "2026-09-10",
+      "ihsg": 6589.338,
+      "market_cap": 11526136904331476
+    },
+    {
+      "date": "2026-09-11",
+      "ihsg": 6541.377,
+      "market_cap": 11442963914395062
+    },
+    {
+      "date": "2026-09-14",
+      "ihsg": 6534.693,
+      "market_cap": 11368110758085182
+    },
+    {
+      "date": "2026-09-15",
+      "ihsg": 6461.153,
+      "market_cap": 11257912210981978
+    },
+    {
+      "date": "2026-09-16",
+      "ihsg": 6436.853,
+      "market_cap": 11225219420982876
+    },
+    {
+      "date": "2026-09-17",
+      "ihsg": 6462.431,
+      "market_cap": 11270346560839989
+    },
+    {
+      "date": "2026-09-18",
+      "ihsg": 6441.159,
+      "market_cap": 11262605698050558
+    },
+    {
+      "date": "2026-09-21",
+      "ihsg": 6384.726,
+      "market_cap": 11161910095429389
+    },
+    {
+      "date": "2026-09-22",
+      "ihsg": 6277.044,
+      "market_cap": 10971287923179805
+    },
+    {
+      "date": "2026-09-23",
+      "ihsg": 6374.912,
+      "market_cap": 11141915820582293
+    },
+    {
+      "date": "2026-09-24",
+      "ihsg": 6298.607,
+      "market_cap": 11021365748586840
+    },
+    {
+      "date": "2026-09-25",
+      "ihsg": 6241.892,
+      "market_cap": 10902018198054911
+    },
+    {
+      "date": "2026-09-28",
+      "ihsg": 6147.859,
+      "market_cap": 10755457591436344
+    },
+    {
+      "date": "2026-09-29",
+      "ihsg": 6121.7,
+      "market_cap": 10754858845786069
+    },
+    {
+      "date": "2026-09-30",
+      "ihsg": 6071.138,
+      "market_cap": 10691719699169471
+    }
+  ],
+  "relevant_news": [
+    {
+      "title": "New Mining Services Regulation May Pressure ADRO, UNTR, and DEWA",
+      "timestamp": "2026-09-29T16:44:00",
+      "source": "https://investasi.kontan.co.id/news/aturan-baru-jasa-tambang-berpotensi-tekan-adro-untr-hingga-dewa",
+      "tags": [
+        "Politics & Regulation",
+        "Risk & Compliance",
+        "Financial Metrics",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "New Mining Services Regulation Could Pressure PT Alamtri Resources Indonesia Tbk (ADRO) and PT United Tractors Tbk (UNTR), Analysts Say",
+      "timestamp": "2026-09-29T14:03:00",
+      "source": "https://investasi.kontan.co.id/news/aturan-baru-jasa-tambang-berpotensi-menekan-kinerja-adro-dan-untr-ini-kata-analis",
+      "tags": [
+        "Politics & Regulation",
+        "Analyst Ratings",
+        "Risk & Compliance",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Coal Mining Stocks Including PT Adaro Andalan Indonesia Tbk (AADI), PT Alamtri Resources Indonesia Tbk (ADRO), and PT Bukit Asam (Persero) Tbk (PTBA) Weaken After New Rule Restricts Subsidiaries in Mining Operations",
+      "timestamp": "2026-09-29T11:37:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8683923/saham-aadi-adro-hingga-ptba-loyo-usai-anak-usaha-dilarang-garap-tambang",
+      "tags": [
+        "Politics & Regulation",
+        "Commodities",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Alamtri Resources Indonesia Tbk (ADRO) highlighted as a cheap big‑cap stock linked to Boy Thohir",
+      "timestamp": "2026-09-27T06:01:00",
+      "source": "https://investor.id/market/455653/saham-murah-emiten-boy-thohir",
+      "tags": [
+        "Analyst Ratings",
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net sold Rp 4.39 trillion this week, with banks leading the top‑selling stocks",
+      "timestamp": "2026-09-26T22:30:00",
+      "source": "https://investasi.kontan.co.id/news/asing-net-sell-rp-439-triliun-cek-saham-yang-banyak-dijual-asing-sepekan-ini",
+      "tags": [
+        "Bearish",
+        "Foreign Investment",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Popular news roundup: Andy Hakim’s stake in PT Guna Timur Raya Tbk (TRUK), PT NexAI Digital Infrastruktur Tbk (MGLV)’s loan facility, PT Chandra Daya Investasi Tbk (CDIA)’s 22.8% revenue growth, PT Sinergi Inti Andalan Prima Tbk (INET)’s digital infrastructure expansion, and PT Alamtri Resources Indonesia Tbk (ADRO), PT Medco Energi Internasional Tbk (MEDC) and PT Arkora Hydro Tbk (ARKO) competing for green power supply to Singapore",
+      "timestamp": "2026-09-25T05:00:00",
+      "source": "https://investor.id/market/455437/berita-populer-sumber-cuan-baru-andy-hakim-hingga-daya-tahan-cdia",
+      "tags": [
+        "Ownership",
+        "Debt Issuance",
+        "Financial Metrics",
+        "Business Expansion",
+        "ESG",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "ADRO, MEDC, and ARKO Compete for Green Power Export to Singapore",
+      "timestamp": "2026-09-24T11:43:00",
+      "source": "https://investor.id/market/455327/adro-medc-dan-arko-berebut-panggung",
+      "tags": [
+        "Export",
+        "ESG",
+        "Business Expansion",
+        "Capital & Funding",
+        "Partnerships & Agreements",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG projected to weaken on 24 Sept; BNI Sekuritas recommends six stocks",
+      "timestamp": "2026-09-24T08:53:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diproyeksi-melemah-hari-ini-249-cek-rekomendasi-saham-pilihan-bni-sekuritas",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Bank Rakyat Indonesia Tbk (BBRI) and PT Bank Mandiri Tbk (BMRI) lead foreign net sell list as IHSG rebounds.",
+      "timestamp": "2026-09-24T08:19:00",
+      "source": "https://investasi.kontan.co.id/news/bbri-bmri-teratas-cek-saham-net-sell-terbesar-asing-saat-ihsg-melonjak-kemarin",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "BNI Sekuritas forecasts short-term IHSG rebound and recommends six stocks",
+      "timestamp": "2026-09-23T07:47:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-berpotensi-rebound-hari-ini-239-cek-rekomendasi-saham-pilihan-bni-sekuritas",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net sold Rp 510.07 bn of Indonesian stocks, led by PT Bank Mandiri Tbk (BMRI)",
+      "timestamp": "2026-09-21T21:14:00",
+      "source": "https://investasi.kontan.co.id/news/asing-net-sell-jumbo-rp-510-miliar-cek-saham-yang-banyak-dijual-di-awal-pekan",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign investors sell shares of major banks and Prajogo‑linked stocks",
+      "timestamp": "2026-09-19T08:40:00",
+      "source": "https://market.bisnis.com/read/20260919/7/2005470/saham-bank-jumbo-hingga-prajogo-dilepas-investor-asing",
+      "tags": [
+        "Foreign Investment",
+        "Central Bank",
+        "Interest Rate",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Summary of stock recommendations for 8 September 2026 from seven Indonesian securities firms.",
+      "timestamp": "2026-09-08T08:23:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/120829/rangkuman-rekomendasi-saham-hari-ini-8-september-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Pilarmas Investindo Sekuritas recommends ADRO, AMRT and SSMS as IHSG faces limited correction",
+      "timestamp": "2026-09-07T08:27:44",
+      "source": "https://investor.id/market/453058/ihsg-rawan-koreksi-lanjutan-tapi-3-saham-potensial-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Global Economy"
+      ]
+    },
+    {
+      "title": "Foreign investors heavily buy big bank stocks PT Bank Rakyat Indonesia Tbk, PT Bank Central Asia Tbk and PT Bank Mandiri Tbk in the past week.",
+      "timestamp": "2026-09-07T07:23:00",
+      "source": "https://investasi.kontan.co.id/news/asing-ramai-borong-saham-big-banks-bbri-bbca-dan-bmri-sepekan-terakhir",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Still Has Opportunity to Strengthen on Monday (7/9), Here Are Analyst-Recommended Stocks",
+      "timestamp": "2026-09-06T14:00:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-masih-berpeluang-menguat-pada-senin-79-ini-saham-rekomendasi-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Stock Market Gains, Simas Syariah Unggulan Mutual Fund Posts 10.28% Return in August",
+      "timestamp": "2026-09-04T13:24:00",
+      "source": "https://investasi.kontan.co.id/news/pasar-saham-menguat-reksadana-ini-cetak-return-hingga-1028-pada-agustus",
+      "tags": [
+        "Sharia Economy",
+        "Asset Management",
+        "Artificial Intelligence",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG and Asian Exchanges Cheerful This Morning",
+      "timestamp": "2026-09-04T09:27:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/120491/ihsg-dan-bursa-asia-semringah-pagi-ini",
+      "tags": [
+        "Foreign Investment",
+        "Currency & FX",
+        "Commodities",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Foreign Investors Net Buy Rp1.07 Trillion, Lifting IHSG 1.09% as Jumbo Banks Lead Inflows",
+      "timestamp": "2026-09-04T07:00:36",
+      "source": "https://www.cnbcindonesia.com/market/20260904053931-17-764827/ihsg-naik-1-ditopang-asing-serok-saham-bank-jumbo",
+      "tags": [
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Energy Stock Rally Targets ADRO and BUMI",
+      "timestamp": "2026-09-04T06:22:25",
+      "source": "https://investor.id/market/452777/reli-saham-energi-adro-hingga-bumi-dalam-bidikan",
+      "tags": [
+        "Commodities",
+        "Market Sentiment",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Batavia Dana Saham Syariah posts a 6.04% return in August, highlighting data center infrastructure stocks",
+      "timestamp": "2026-09-03T22:23:00",
+      "source": "https://investasi.kontan.co.id/news/return-reksadana-batavia-604-di-agustus-saham-infrastruktur-data-center-dipilih",
+      "tags": [
+        "Sharia Economy",
+        "Financial Metrics",
+        "Asset Management",
+        "Portfolio",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Energy sector stays a market primadona as analysts recommend PT Alamtri Resources Indonesia Tbk and PT Bukit Asam Tbk",
+      "timestamp": "2026-09-03T19:13:00",
+      "source": "https://investasi.kontan.co.id/news/sektor-energi-masih-jadi-primadona-intip-saham-pilihan-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net buy Rp1 trillion, collectively snapping up PT Bank Mandiri Tbk and PT Bank Negara Indonesia Tbk shares",
+      "timestamp": "2026-09-03T18:41:38",
+      "source": "https://www.cnbcindonesia.com/market/20260903180536-17-764793/asing-net-buy-rp1-triliun-kompak-borong-saham-bmri-bbni",
+      "tags": [
+        "Foreign Investment",
+        "Central Bank",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Ten Indonesian coal issuers report H1 2026 net profit growth led by Adaro Andalan Indonesia Tbk and Bayan Resources Tbk",
+      "timestamp": "2026-09-03T18:35:00",
+      "source": "https://market.bisnis.com/read/20260903/192/2001206/10-emiten-batu-bara-dengan-laba-paling-jumbo-semester-i2026-aadi-byan-teratas",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Production & Operations",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "ADRO Enters New Chapter with Aluminum Diversification as Coal Earnings Surge, but Risks Remain",
+      "timestamp": "2026-09-03T13:34:29",
+      "source": "https://investor.id/market/452712/babak-baru-adro-dan-risiko-yang-perlu-dicermati-investor",
+      "tags": [
+        "Business Expansion",
+        "Commodities",
+        "Risk & Compliance",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign Investors Heavily Sell Shares of TLKM, ADRO, ASII, and BUMI",
+      "timestamp": "2026-09-03T07:27:40",
+      "source": "https://investor.id/market/452672/sederet-saham-ramai-ditinggal-asing",
+      "tags": [
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign investors net bought BBRI and BBCA shares on September 2, 2026, while BBRI reported January-July 2026 net profit of Rp 30.9 trillion.",
+      "timestamp": "2026-09-02T20:40:24",
+      "source": "https://investor.id/market/452635/bbri-dan-bbca-disapu",
+      "tags": [
+        "Foreign Investment",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Shares of PT Alamtri Resources Indonesia Tbk and PT Adaro Andalan Indonesia Tbk fall amid tax corruption allegations involving the Boy Thohir group",
+      "timestamp": "2026-09-02T10:31:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/120243/muncul-dugaan-korupsi-pajak-saham-grup-boy-thohir-jatuh",
+      "tags": [
+        "Market Sentiment",
+        "Risk & Compliance",
+        "Politics & Regulation",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Global Coal Price Surge Drives Strong First-Half 2026 Earnings for Indonesian Coal Miners",
+      "timestamp": "2026-09-01T21:20:00",
+      "source": "https://investasi.kontan.co.id/news/lonjakan-harga-komoditas-memoles-kinerja-emiten-batubara",
+      "tags": [
+        "Commodities",
+        "Financial Metrics",
+        "Global Economy",
+        "Analyst Ratings",
+        "Production & Operations",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Adaro Group’s PT Alamtri Resources Indonesia Tbk, PT Alamtri Minerals Indonesia Tbk and PT Adaro Andalan Indonesia Tbk post solid 1H 2026 earnings, PT Adaro Andalan Indonesia Tbk emerges as the primary choice",
+      "timestamp": "2026-09-01T12:04:00",
+      "source": "https://investor.id/market/452413/kinerja-solid-grup-adaro-aadi-jadi-pilihan-utama",
+      "tags": [
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Saratoga Investama Sedaya Tbk reports a first‑half 2026 loss of Rp3.82 trillion",
+      "timestamp": "2026-09-01T09:10:00",
+      "source": "https://www.idnfinancials.com/id/news/68162/porto-minus-srtg-milik-edwin-dan-sandiaga-rugi-rp3-82-triliun",
+      "tags": [
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Popular news roundup highlights solid jewelry gold prices and strong first‑half earnings for PT Adaro Andalan Indonesia (AADI)",
+      "timestamp": "2026-09-01T05:19:07",
+      "source": "https://investor.id/market/452359/berita-populer-harga-emas-perhiasan-solid-hingga-emiten-boy-thohir-aadi-jadi-sorotan",
+      "tags": [
+        "Commodities",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "ADRO and ADMR post solid H1 2026 earnings with strong revenue and profit growth",
+      "timestamp": "2026-08-31T19:07:00",
+      "source": "https://investasi.kontan.co.id/news/cetak-kinerja-positif-simak-prospek-saham-adro-dan-admr",
+      "tags": [
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Saratoga Investama reports a net loss of Rp 3.87 trillion in H1 2026 and outlines its long‑term investment strategy",
+      "timestamp": "2026-08-31T18:13:00",
+      "source": "https://investasi.kontan.co.id/news/saratoga-investama-srtg-rugi-rp-387-triliun-semester-i-ini-strategi-investasinya",
+      "tags": [
+        "Financial Metrics",
+        "Asset Management",
+        "Capital & Funding",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "ADRO reports 77% YoY profit increase in 1H2026 and anticipates aluminium segment catalyst in Q3",
+      "timestamp": "2026-08-31T10:47:21",
+      "source": "https://investor.id/market/452221/katalis-besar-adro-sudah-di-depan-mata",
+      "tags": [
+        "Financial Metrics",
+        "Production & Operations",
+        "Joint Venture",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Alamtri Resources Indonesia (ADRO) shares hit one‑year high of IDR 2,840",
+      "timestamp": "2026-08-31T09:47:21",
+      "source": "https://investor.id/market/452211/level-baru-alamtri-resources-indonesia-adro",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Capital & Funding",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Alamtri Resources Indonesia Tbk's Net Profit Jumps 76.8% in First Half of 2026",
+      "timestamp": "2026-08-29T19:00:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/119886/laba-adro-tumbuh-76-8-di-semester-i-2026",
+      "tags": [
+        "Financial Metrics",
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Alamtri Resources Indonesia reports Rp 17.8 trillion revenue and PBV below 1 for H1 2026",
+      "timestamp": "2026-08-29T13:22:32",
+      "source": "https://investor.id/macroeconomy/452070/emiten-omzetnya-rp-17-triliun-pbv-masih-di-bawah-1",
+      "tags": [
+        "Financial Metrics",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Alamri Resources Indonesia Tbk posts 76.84% increase in net profit for the first half of 2026",
+      "timestamp": "2026-08-29T13:22:00",
+      "source": "https://investasi.kontan.co.id/news/laba-alamtri-resources-adro-melesat-7684-di-semester-i-2026",
+      "tags": [
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Alamtri Indonesia reports 76.84% jump in first‑half 2026 net profit to USD 309.37 million",
+      "timestamp": "2026-08-28T22:09:00",
+      "source": "https://emitennews.com/news/aset-makin-gendut-laba-adro-melejit-7684-persen-semester-i",
+      "tags": [
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Alamtri Resources Indonesia Tbk reports 76.8% jump in net profit to Rp5.52 trillion in H1 2026",
+      "timestamp": "2026-08-28T17:53:00",
+      "source": "https://market.bisnis.com/read/20260828/192/1999599/laba-alamtri-adro-melonjak-7683-jadi-rp552-triliun-semester-i2026",
+      "tags": [
+        "Annual Report",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Mutuagung Lestari Tbk appoints Sandiaga Uno as President Commissioner and PT Data Sinergitama Jaya Tbk names him as Commissioner",
+      "timestamp": "2026-08-28T15:35:00",
+      "source": "https://market.bisnis.com/read/20260828/192/1999568/sandiaga-uno-turun-gunung-menjabat-komisaris-elit-dan-mutu",
+      "tags": [
+        "Executive Changes",
+        "Capital & Funding",
+        "Ownership",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Foreign investors net bought ten Indonesian stocks as the IDX Composite fell 1.48%",
+      "timestamp": "2026-08-27T07:07:00",
+      "source": "https://money.kompas.com/read/2026/08/27/070700026/10-saham-yang-diborong-asing-saat-ihsg-anjlok-1-48-persen",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas recommends ADRO, BUVA, DSNG, and MAPA as IHSG rebound candidates on Thursday 27 August 2026",
+      "timestamp": "2026-08-27T05:15:00",
+      "source": "https://market.bisnis.com/read/20260827/7/1999080/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-kamis-27-agustus-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Global Economy"
+      ]
+    },
+    {
+      "title": "Foreign investors net bought Rp 1.37 trillion on Wednesday, PT Dian Swastatika Sentosa Tbk topping the list as the IHSG dropped 1.48%",
+      "timestamp": "2026-08-26T20:04:00",
+      "source": "https://investasi.kontan.co.id/news/asing-net-buy-jumbo-rp-137-triliun-saat-ihsg-ambruk-cek-saham-yang-banyak-diborong",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia's Composite Index Opens in Red Zone as Brokers Cite Economic Data and Global Sentiment",
+      "timestamp": "2026-08-26T09:25:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/119479/ihsg-awali-perdagangan-di-zona-merah-ini-penyebabnya",
+      "tags": [
+        "Market Sentiment",
+        "Global Economy",
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Popular news roundup highlights steady jewelry gold prices, foreign investors’ net buying of BBCA, volume spikes in BUMI and ADRO, and upgraded earnings outlook for GGRM",
+      "timestamp": "2026-08-25T04:55:41",
+      "source": "https://investor.id/market/451502/berita-populer-harga-emas-perhiasan-tangguh-hingga-asing-giat-incar-saham-bbca",
+      "tags": [
+        "Commodities",
+        "Foreign Investment",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Alamtri Resources Indonesia shares jump 3.1% to three‑month high",
+      "timestamp": "2026-08-24T15:15:49",
+      "source": "https://investor.id/market/451438/lompatan-alamtri-resources-indonesia-adro",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG projected to move within a narrow range on Wednesday 19 August, with stock recommendations for BYAN, BRMS, EMAS, PGEO, TAPG, EMTK, ADRO and BWPT",
+      "timestamp": "2026-08-19T07:00:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-berpeluang-bergerak-terbatas-pada-rabu-198-saham-saham-ini-bisa-ditimbang",
+      "tags": [
+        "Analyst Ratings",
+        "Central Bank",
+        "Interest Rate",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Vulnerable to Profit Taking; Analysts Recommend Selected Stocks for Wednesday (19 Aug)",
+      "timestamp": "2026-08-18T21:56:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-rawan-profit-taking-simak-saham-pilihan-analis-untuk-rabu-198",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG dip limited after Independence Day holiday as Pilarmas recommends SSIA, ITMG, and ADRO for profit",
+      "timestamp": "2026-08-18T06:59:20",
+      "source": "https://investor.id/market/450678/ihsg-bakal-melemah-terbatas-usai-hut-ke81-ri-3-saham-justru-dijagokancuan",
+      "tags": [
+        "Analyst Ratings",
+        "Government Policy",
+        "Commodities"
+      ]
+    },
+    {
+      "title": "Popular news roundup: jewelry gold price trends and foreign buying of PT Timah Tbk, PT Gudang Garam Tbk, PT Bank Central Asia Tbk, and PT Alamtri Resources Indonesia Tbk",
+      "timestamp": "2026-08-18T04:59:20",
+      "source": "https://investor.id/market/450667/berita-populer-dinamika-harga-emas-perhiasan-hingga-saham-tins-diborong-asing",
+      "tags": [
+        "Foreign Investment",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "DBS maintains buy on PT Alamri Resources Indonesia Tbk (ADRO) with Rp3,200 target as its aluminium subsidiary KAI begins sales",
+      "timestamp": "2026-08-17T14:05:03",
+      "source": "https://investor.id/market/450617/adro-temukan-tambang-duit-baru-saham-diramal-ngacir-26",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "RAPBN 2027’s expansive budget could lift a range of Indonesian stocks, according to RHB Sekuritas research",
+      "timestamp": "2026-08-14T19:20:00",
+      "source": "https://market.bisnis.com/read/20260814/7/1996485/rapbn-2027-ekspansif-ini-deretan-saham-yang-berpotensi-ketiban-berkah",
+      "tags": [
+        "Government Policy",
+        "Commodities",
+        "Export",
+        "Dividend Announcement",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Opens Higher Thanks to Destry Damayanti’s Nomination as BI Governor",
+      "timestamp": "2026-08-11T09:14:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/117894/ihsg-dibuka-menguat-berkat-pencalonan-destry-jadi-bi-1",
+      "tags": [
+        "Central Bank",
+        "Market Sentiment",
+        "Currency & FX"
+      ]
+    },
+    {
+      "title": "Indonesia's IHSG rises to 6,409 as analysts warn of upcoming MSCI and FTSE rebalancing volatility",
+      "timestamp": "2026-08-07T17:23:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-melesat-ke-6409-waspadai-volatilitas-rebalancing-msci-ftse",
+      "tags": [
+        "Analyst Ratings",
+        "Global Index",
+        "Market Sentiment",
+        "Foreign Investment"
+      ]
+    },
+    {
+      "title": "Some High‑Dividend Index Stocks Still Deliver Capital Gains Amid Market Volatility",
+      "timestamp": "2026-08-06T18:53:00",
+      "source": "https://investasi.kontan.co.id/news/tak-semua-saham-dividen-menguntungkan-ini-emiten-yang-masih-beri-capital-gain",
+      "tags": [
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG opens higher at 6,369.99 as PT Hartadinata Abadi Tbk, PT Aneka Tambang Tbk and PT Indika Energy Tbk post notable gains",
+      "timestamp": "2026-08-06T09:10:00",
+      "source": "https://market.bisnis.com/read/20260806/7/1994111/ihsg-dibuka-naik-ke-6369-saham-hrta-antm-indy-melaju",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas recommends ADRO, ASII, BKSL and EXCL as IHSG eyes 6,403‑6,420 range on Thursday, Aug 6 2026",
+      "timestamp": "2026-08-06T09:05:00",
+      "source": "https://market.bisnis.com/read/20260806/189/1994068/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-kamis-6-agustus-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Alamtri Resources Indonesia (ADRO) enters new growth phase with first aluminium export and upgraded 2026 earnings outlook",
+      "timestamp": "2026-08-06T06:47:34",
+      "source": "https://investor.id/market/449281/babak-baru-alamtri-resources-indonesia-adro",
+      "tags": [
+        "Export",
+        "Business Expansion",
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Production & Operations",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts anticipate continued IHSG gains and recommend ADRO, BKSL, and EXCL stocks",
+      "timestamp": "2026-08-06T06:40:00",
+      "source": "https://money.kompas.com/read/2026/08/06/064000826/ihsg-bakal-lanjut-menguat-simak-rekomendasi-saham-dari-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia's IHSG poised to extend gains on Thursday, analyst highlights ADRO, BKSL and EXCL",
+      "timestamp": "2026-08-05T17:10:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-berpeluang-lanjutkan-penguatan-pada-kamis-68-ini-rekomendasi-analis",
+      "tags": [
+        "Commodities",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "IHSG Edges Higher, Review Today's Stock Recommendations",
+      "timestamp": "2026-08-03T08:46:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8601639/ihsg-menguat-tipis-cek-rekomendasi-saham-hari-ini",
+      "tags": [
+        "Stock Buyback",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG climbs 6.13% to 6,236 as foreign investors net‑buy ten large‑cap stocks",
+      "timestamp": "2026-08-01T13:29:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-menguat-613-ke-6236-sebulan-terakhir-cek-saham-yang-banyak-diborong-asing",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG projected to stay in correction range amid short‑term rebound potential",
+      "timestamp": "2026-07-30T06:38:48",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260730014400-92-1386389/ihsg-diramal-merah-hari-ini",
+      "tags": [
+        "Market Sentiment",
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Sharia stock indices rebound as energy and commodity stocks lead the recovery",
+      "timestamp": "2026-07-29T18:21:00",
+      "source": "https://investasi.kontan.co.id/news/indeks-saham-syariah-bangkit-dari-tekanan-sektor-energi-dan-komoditas-jadi-penggerak",
+      "tags": [
+        "Sharia Economy",
+        "Commodities",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Reasons behind the IHSG closing at 6,130",
+      "timestamp": "2026-07-28T17:45:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/116489/penyebab-ihsg-ditutup-di-posisi-6-130",
+      "tags": [
+        "Central Bank",
+        "Currency & FX",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "CGS International Sekuritas Indonesia forecasts an IHSG rebound and recommends AKRA, EMAS, UNVR, ISAT, JPFA, and ADRO for trading",
+      "timestamp": "2026-07-27T09:08:48",
+      "source": "https://investor.id/market/447951/ihsg-berpotensi-rebound-6-saham-siap-tebar-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Alamtri Resources (ADRO) posts 67% Q1 net profit jump and lifts 2026 earnings forecast ahead of Q2 report",
+      "timestamp": "2026-07-25T16:08:57",
+      "source": "https://investor.id/market/447840/diungkit-soal-laporan-keuangan-alamtri-resources-adro",
+      "tags": [
+        "Financial Metrics",
+        "Export",
+        "Analyst Ratings",
+        "Business Expansion",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Extends Three-Day Decline; Sentiment Weakens and Outlook Remains Mixed",
+      "timestamp": "2026-07-25T06:30:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-ambles-tiga-hari-beruntun-ini-sentimen-dan-proyeksi-pekan-depan",
+      "tags": [
+        "Market Sentiment",
+        "Global Economy",
+        "Commodities"
+      ]
+    },
+    {
+      "title": "Foreign investors net sell Rp759.46 billion in Session I, led by BMRI and BUMI",
+      "timestamp": "2026-07-24T13:34:16",
+      "source": "https://www.cnbcindonesia.com/market/20260724132831-17-753577/asing-net-sell-rp75946-miliar-di-sesi-i-ini-daftar-sahamnya",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Business-27 Index closes red, pressured by declines in ASII and TLKM stocks",
+      "timestamp": "2026-07-23T16:34:00",
+      "source": "https://market.bisnis.com/read/20260723/7/1990515/indeks-bisnis-27-ditutup-merah-tertekan-pelemahan-saham-asii-hingga-tlkm",
+      "tags": [
+        "Central Bank",
+        "Interest Rate",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "BI Rate Stays at 5.75% in July 2026, Projected Impact on IHSG",
+      "timestamp": "2026-07-22T18:57:00",
+      "source": "https://investasi.kontan.co.id/news/suku-bunga-bi-575-pada-juli-2026-ini-dampaknya-ke-ihsg",
+      "tags": [
+        "Central Bank",
+        "Interest Rate",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts project PT Bukit Asam Tbk earnings to rise in 2026 as coal prices climb and recommend buy with target Rp3,200",
+      "timestamp": "2026-07-22T17:08:00",
+      "source": "https://investasi.kontan.co.id/news/harga-batubara-naik-kinerja-ptba-diproyeksi-membaik-simak-rekomendasi-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Commodities",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Mirae Asset cuts 2026 IHSG target to 6,800 and recommends eight defensive stocks",
+      "timestamp": "2026-07-21T11:35:00",
+      "source": "https://market.bisnis.com/read/20260721/189/1989696/target-ihsg-2026-dipangkas-mirae-rekomendasi-8-saham",
+      "tags": [
+        "Analyst Ratings",
+        "Interest Rate",
+        "Currency & FX",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Popular news roundup highlights ADRO’s new stock target and first aluminium export, plus updates on gold prices, big‑cap stocks and BBRI recommendation",
+      "timestamp": "2026-07-20T05:07:25",
+      "source": "https://investor.id/market/447108/berita-populer-target-harga-saham-adro-terbaru-hingga-harga-emas-perhiasan-kokoh",
+      "tags": [
+        "Analyst Ratings",
+        "Export",
+        "Commodities",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG climbs 4.24% as analysts flag ADRO, ESSA, and ITMG for retail attention next week",
+      "timestamp": "2026-07-19T11:00:00",
+      "source": "https://money.kompas.com/read/2026/07/19/110000726/ihsg-naik-4-24-persen-saham-adro-essa-dan-itmg-bisa-dicermati-ritel-pekan",
+      "tags": [
+        "Analyst Ratings",
+        "Domestic Investor",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG gains 4.24% weekly as brokers project modest upside and spotlight ADRO, ESSA, and ITMG",
+      "timestamp": "2026-07-19T06:30:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-menguat-424-dalam-sepekan-ini-simak-proyeksinya-untuk-pekan-depan",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "IHSG climbs 4.24% to 6,175.54 this week as analysts spotlight ADRO, ESSA and ITMG",
+      "timestamp": "2026-07-17T17:54:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-menguat-424-ke-6175-pekan-ini-cek-pemicunya-dan-proyeksi-pekan-depan",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Coal Emitters Diversifying into Green Energy: Stock Recommendations for INDY, DSSA, ADRO, and TOBA",
+      "timestamp": "2026-07-17T07:49:00",
+      "source": "https://investasi.kontan.co.id/news/simak-rekomendasi-saham-emiten-batubara-yang-gencar-masuk-ke-sektor-energi-hijau",
+      "tags": [
+        "Diversification",
+        "Analyst Ratings",
+        "Business Expansion",
+        "ESG",
+        "Joint Venture",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesian coal miners intensify diversification into green energy, focusing on INDY, DSSA, ADRO and TOBA",
+      "timestamp": "2026-07-16T20:23:00",
+      "source": "https://investasi.kontan.co.id/news/emiten-batubara-berlomba-lomba-diversifikasi-sektor-energi-hijau",
+      "tags": [
+        "Diversification",
+        "Business Expansion",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "ADRO Announces Disclosure of Q2 2026 Financial Report and Reports Q1 2026 Revenue and Net Profit",
+      "timestamp": "2026-07-14T08:42:51",
+      "source": "https://investor.id/market/446416/adro-ungkap-info-terkait-lapkeu",
+      "tags": [
+        "Annual Report",
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "ADRO targets 350,000 tons of aluminium ingot sales in 2026",
+      "timestamp": "2026-07-13T17:12:00",
+      "source": "https://market.bisnis.com/read/20260713/192/1987699/grup-adro-targetkan-penjualan-aluminium-350000-ton-pada-2026",
+      "tags": [
+        "Business Expansion",
+        "Production & Operations",
+        "Capital & Funding",
+        "Government Policy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "ADRO shares reduced after 589.2 million share buyback; CGS International Sekuritas issues spec‑buy recommendation",
+      "timestamp": "2026-07-13T08:05:25",
+      "source": "https://investor.id/market/446258/saham-adro-menciut-janganjangan-jadi-segini",
+      "tags": [
+        "Stock Buyback",
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Phintraco Sekuritas forecasts IHSG consolidation this week and highlights ADRO as a top pick",
+      "timestamp": "2026-07-13T06:05:25",
+      "source": "https://investor.id/market/446250/ihsg-masih-konsolidasi-simak-saham-pilihan-pekan-ini",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Market Sentiment",
+        "Global Economy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts project early‑week IHSG volatility and recommend buying ADRO, PGEO, PGAS and TINS",
+      "timestamp": "2026-07-13T05:46:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diproyeksi-fluktuatif-di-awal-pekan-simak-saham-rekomendasi-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Analysts project a volatile IHSG range and recommend buying GULA, AMRT, ADRO, PGEO, PGAS, and TINS for Monday trade (13 July)",
+      "timestamp": "2026-07-12T15:14:00",
+      "source": "https://investasi.kontan.co.id/news/proyeksi-ihsg-dan-rekomendasi-saham-untuk-perdagangan-senin-137",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Popular news roundup highlights Andry Hakim’s blunt remarks, Poland’s gold purchases, PT Alamtri Resources Indonesia Tbk buyback and Indonesian gold‑price updates",
+      "timestamp": "2026-07-12T04:58:14",
+      "source": "https://investor.id/market/446191/berita-populer-andry-hakim-blakblakan-hingga-berlanjutnya-aksi-timbun-emas",
+      "tags": [
+        "Commodities",
+        "Stock Buyback",
+        "Central Bank",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Alamtri Resources Indonesia Tbk (ADRO) announces share buyback of 589.2 million shares, reducing capital",
+      "timestamp": "2026-07-11T10:09:49",
+      "source": "https://investor.id/market/446112/munculupdate-adro",
+      "tags": [
+        "Stock Buyback",
+        "Shareholders General Meeting",
+        "Analyst Ratings",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors record net purchases of BMRI and ADRO shares on July 10, 2026",
+      "timestamp": "2026-07-10T20:59:05",
+      "source": "https://investor.id/market/446079/saham-bmri-dicicil-lagi-adro-juga",
+      "tags": [
+        "Foreign Investment",
+        "Stock Buyback",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Kalimantan Aluminium Industry ships first export of 31,494 metric tons of aluminium to the United States",
+      "timestamp": "2026-07-10T15:53:00",
+      "source": "https://money.kompas.com/read/2026/07/10/155358926/smelter-aluminium-alamtri-tembus-pasar-as-ekspor-perdana-capai-31494-ton",
+      "tags": [
+        "Export",
+        "Commodities",
+        "Global Economy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Boy Thohir says Indonesia’s IHSG will rebound to 9,000 on strong issuer fundamentals",
+      "timestamp": "2026-07-10T14:16:00",
+      "source": "https://www.antaranews.com/berita/5643955/boy-thohir-yakin-ihsg-balik-ke-9000-ditopang-fundamental-kuat-emiten",
+      "tags": [
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG opens lower at 5,905 as analysts recommend BBRI, MDKA, TINS, XCEG, ADRO, BBNI, CPIN, EMTK, and ICBP",
+      "timestamp": "2026-07-07T09:30:25",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260707092322-92-1377710/ihsg-meradang-ke-5905-pagi-ini-239-saham-merah",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Big‑Cap Issuers: Trillion‑Rupiah Buybacks Unable to Prevent Stock Corrections",
+      "timestamp": "2026-07-02T07:53:00",
+      "source": "https://investasi.kontan.co.id/news/emiten-big-caps-buyback-triliunan-tak-mampu-bendung-koreksi-harga-saham",
+      "tags": [
+        "Stock Buyback",
+        "Market Sentiment",
+        "Foreign Investment",
+        "Capital & Funding",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Buyback‑initiating Indonesian stocks continue to fall, analysts cite macro pressure as the cause",
+      "timestamp": "2026-07-01T20:30:00",
+      "source": "https://investasi.kontan.co.id/news/saham-emiten-yang-menggelar-buyback-masih-turun-ini-penyebabnya",
+      "tags": [
+        "Stock Buyback",
+        "Market Sentiment",
+        "Global Economy",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG climbs green to 5,688 points this morning",
+      "timestamp": "2026-07-01T10:12:58",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260701080107-92-1375390/ihsg-merangkak-hijau-ke-level-5688-pagi-ini",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "IHSG Projected to Open July Red as Analysts Recommend Specific Stocks",
+      "timestamp": "2026-07-01T07:16:23",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260630210016-92-1375299/ihsg-diramal-merah-mengawali-juli-ini-rekomendasi-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Foreign Investors Dump Rp 766.36 billion of PT Bank Central Asia Tbk Shares in Late June 2026",
+      "timestamp": "2026-06-30T20:09:00",
+      "source": "https://investasi.kontan.co.id/news/asing-net-sell-jumbo-rp-1-triliun-cek-saham-yang-banyak-dilego-di-akhir-juni-2026",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Stock recommendation roundup for June 30, 2026 highlights multiple Indonesian equities",
+      "timestamp": "2026-06-30T08:35:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/113420/rangkuman-rekomendasi-saham-hari-ini-30-juni-2026",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Alamtri Group Stocks Remain Attractive, AADI Seen as Most Prospective for H2‑2026",
+      "timestamp": "2026-06-29T22:54:00",
+      "source": "https://investasi.kontan.co.id/news/saham-grup-alamtri-masih-menarik-aadi-dinilai-paling-prospektif-di-semester-ii-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Stock Buyback",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Mirae Asset recommends Buy on PT Alamtri Resources Indonesia Tbk as weaker rupiah boosts earnings",
+      "timestamp": "2026-06-29T20:01:00",
+      "source": "https://investasi.kontan.co.id/news/saham-adro-diuntungkan-pelemahan-rupiah-cek-rekomendasi-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Currency & FX",
+        "Export",
+        "Financial Metrics",
+        "Global Economy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts See ADRO and AADI Leading Grup Alamtri Stocks Through H2 2026",
+      "timestamp": "2026-06-29T19:28:00",
+      "source": "https://investasi.kontan.co.id/news/menakar-prospek-saham-grup-alamtri-pada-sisa-2026-siapa-berpeluang-unggul",
+      "tags": [
+        "Analyst Ratings",
+        "Stock Buyback",
+        "Commodities",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Expected to Trade Sideways as Brokers Highlight BULL, INCO and ITMG for Retail Investors",
+      "timestamp": "2026-06-29T06:35:00",
+      "source": "https://money.kompas.com/read/2026/06/29/063500026/ihsg-diprediksi-sideways-investor-ritel-bisa-cermati-saham-bull-inco-hingga",
+      "tags": [
+        "Market Sentiment",
+        "Currency & FX",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "ADRO, ITMG, INCO, and INKP poised for earnings boost as rupiah weakens",
+      "timestamp": "2026-06-28T14:56:00",
+      "source": "https://investasi.kontan.co.id/news/rupiah-melemah-emiten-eksportir-berpotensi-cuan-cek-saham-pilihan-analis",
+      "tags": [
+        "Currency & FX",
+        "Analyst Ratings",
+        "Export",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Buy Recommendations for INKP, INCO, ADRO and ITMG Amid Strong US Dollar",
+      "timestamp": "2026-06-28T13:57:00",
+      "source": "https://investasi.kontan.co.id/news/dolar-as-perkasa-simak-rekomendasi-saham-inkp-inco-adro-dan-itmg",
+      "tags": [
+        "Analyst Ratings",
+        "Currency & FX",
+        "Export",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Projected to Remain Under Pressure Amid MSCI Sentiment, Short‑Term Bottom 5,600‑5,750",
+      "timestamp": "2026-06-25T19:06:00",
+      "source": "https://investasi.kontan.co.id/news/proyeksi-ihsg-sentimen-msci-masih-tekan-pasar-ini-level-kritis-ihsg",
+      "tags": [
+        "Market Sentiment",
+        "Foreign Investment",
+        "Currency & FX",
+        "Global Index"
+      ]
+    },
+    {
+      "title": "Investor Concerns Over DSI Ease, Lifting Indonesian Coal Exporter Shares",
+      "timestamp": "2026-06-19T15:00:00",
+      "source": "https://money.kompas.com/read/2026/06/19/150048126/kekhawatiran-soal-dsi-mereda-analis-sebut-risiko-terburuk-bagi-eksportir-batu",
+      "tags": [
+        "Export",
+        "Commodities",
+        "Government Policy",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia's BI Rate Hike to 5.75% Triggers Weakening of Rupiah and IHSG",
+      "timestamp": "2026-06-18T17:43:00",
+      "source": "https://investasi.kontan.co.id/news/bi-rate-sudah-naik-100-bps-tapi-mengapa-rupiah-dan-ihsg-masih-melemah",
+      "tags": [
+        "Central Bank",
+        "Interest Rate",
+        "Currency & FX",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG Projected to Keep Rising as CGS International Sekuritas Indonesia Picks Six Stocks",
+      "timestamp": "2026-06-15T07:28:03",
+      "source": "https://investor.id/stock/442740/ihsg-siap-lanjut-menguat-6-saham-bakal-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "LQ45 Index Gains 3.5% to 589.47, Analysts Recommend BMRI and Other Blue‑Chip Stocks",
+      "timestamp": "2026-06-10T20:56:00",
+      "source": "https://investasi.kontan.co.id/news/momentum-penguatan-indeks-lq45-berlanjut-investor-perlu-cermati-deretan-saham-ini",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Interest Rate",
+        "Bullish"
+      ]
+    }
+  ],
+  "corporate_events": [
+    {
+      "date": "2026-04-17",
+      "type": "RUPS",
+      "detail": "Waktu: 09:00:00 · Lokasi: Samisara Grand Ballroom Sopo DEL Tower Lantai 1, JL, Mega Kuningan Barat Iii, Kuningan, Jakarta Selatan · Agenda #1: Shareholders approved the 2025 Annual Report and ratified the financial statements audited by PwC Indonesia, granting a full discharge of liability to the Board of Directors and Commissioners. The Board of Directors was authorized to submit these reports to the Ministry of Law.\nAgenda #2: The meeting approved the allocation of US$447,694,220 in net profit, with US$447,500,000 designated as cash dividends and US$194,220 as retained earnings. A final dividend of US$197,500,000 will be distributed following the previously paid interim dividend.\nAgenda #3: Shareholders approved the reappointment of KAP Rintis, Jumadi, Rianto dan Rekan (PwC) and Public Accountant Firman Sababalat to audit the 2026 financial statements. The Board of Commissioners is authorized to replace the firm or accountant if necessary.\nAgenda #4: The Board of Commissioners was granted the authority to determine the remuneration and allowances for both the Board of Commissioners and Board of Directors for the 2026 fiscal year. This determination must take the company's financial condition into account.\nAgenda #5: Shareholders approved a capital reduction by retiring 589,195,200 treasury shares, resulting in a new total of 28,800,494,200 issued shares. The Board of Directors was authorized to take all necessary legal actions to implement this change.\nAgenda #6: Shareholders approved a share buyback of up to Rp5,000,000,000,000 in accordance with OJK Regulation No. 29/2023. The Board of Directors was granted authority to execute the buyback and appoint necessary parties.\nAgenda #7: The meeting approved adjusting the Company's Articles of Association to align with the 2025 Indonesia Standard Industrial Classification (KBLI) per BPS Regulation No. 7/2025. The Board of Directors is authorized to handle all legal formalities, including Notarial deeds and Ministry approvals."
+    }
+  ],
+  "context_period": {
+    "start": "2026-04-01",
+    "end": "2026-09-30"
+  },
+  "source_availability": {
+    "company_fundamentals": true,
+    "corporate_events": true,
+    "news": true,
+    "peer_comparison": true,
+    "market_context": true,
+    "sector_market_series": false
+  },
+  "news_archive": {
+    "pages": 4,
+    "rows": 110,
+    "pagination_exhausted": true,
+    "totals_seen": [
+      110
+    ]
+  }
 }

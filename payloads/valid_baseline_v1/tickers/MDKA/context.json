@@ -3,8 +3,8 @@
   "as_of": "2026-09-30",
   "identity": {
     "symbol": "MDKA",
-    "company_name": null,
-    "peer_group": null
+    "company_name": "PT Merdeka Copper Gold Tbk",
+    "peer_group": "Basic Materials"
   },
   "current": {
     "scope": "NO_CONTEXT",
@@ -20,5 +20,2324 @@
   "daily_market": {},
   "notes": [
     "Dataset scope: 28 reviewed stocks. No full-market or peer-context score is computed."
-  ]
+  ],
+  "company_snapshot": {
+    "price_date": "2026-10-07",
+    "captured_at": "2026-10-08",
+    "sector": "Basic Materials",
+    "industry": "Metals & Minerals",
+    "website": "www.merdekacoppergold.com",
+    "market_cap": 71461112611320,
+    "annual_year": 2025,
+    "valuation_year": 2026,
+    "metrics": [
+      {
+        "label": "Pendapatan",
+        "value": "Rp 31,71 T"
+      },
+      {
+        "label": "Laba bersih",
+        "value": "Rp -1,04 T"
+      },
+      {
+        "label": "Total aset",
+        "value": "Rp 95,52 T"
+      },
+      {
+        "label": "Ekuitas",
+        "value": "Rp 48,95 T"
+      },
+      {
+        "label": "EPS",
+        "value": "Rp -42,44"
+      },
+      {
+        "label": "P/E TTM",
+        "value": "8.583,18×"
+      },
+      {
+        "label": "P/B",
+        "value": "4,94×"
+      }
+    ]
+  },
+  "fundamental_peers": [
+    {
+      "symbol": "MDKA",
+      "name": "PT Merdeka Copper Gold Tbk",
+      "year": 2025,
+      "market_cap": 72684761799870,
+      "pe": 8730.14741065861,
+      "pb": 5.01954454106336,
+      "revenue": 31711634163195,
+      "in_universe": true
+    },
+    {
+      "symbol": "EMAS",
+      "name": "PT Merdeka Gold Resources Tbk",
+      "year": 2025,
+      "market_cap": 113431518662000,
+      "pe": -330.037171244809,
+      "pb": 17.5292801315661,
+      "revenue": 2208610207,
+      "in_universe": false
+    },
+    {
+      "symbol": "ARCI",
+      "name": "PT Archi Indonesia Tbk",
+      "year": 2025,
+      "market_cap": 32048450000000,
+      "pe": 12.6834084565949,
+      "pb": 4.34816771502128,
+      "revenue": 8305130583447,
+      "in_universe": false
+    },
+    {
+      "symbol": "PSAB",
+      "name": "J Resources Asia Pasifik Tbk",
+      "year": 2025,
+      "market_cap": 13891500000000,
+      "pe": 4.45267825386979,
+      "pb": 1.78210905612863,
+      "revenue": 4826638024956,
+      "in_universe": false
+    },
+    {
+      "symbol": "SQMI",
+      "name": "Wilton Makmur Indonesia Tbk",
+      "year": 2025,
+      "market_cap": 1507146368613,
+      "pe": -239.013933705081,
+      "pb": 15.4316711190948,
+      "revenue": 1711772107,
+      "in_universe": false
+    },
+    {
+      "symbol": "AMMN",
+      "name": "PT Amman Mineral Internasional Tbk.",
+      "year": 2025,
+      "market_cap": 326331979452000,
+      "pe": 35.3948146888965,
+      "pb": 3.49937673204022,
+      "revenue": 30904224855660,
+      "in_universe": true
+    },
+    {
+      "symbol": "BRMS",
+      "name": "Bumi Resources Minerals Tbk",
+      "year": 2025,
+      "market_cap": 85779344404490,
+      "pe": 128.681108271325,
+      "pb": 3.80749435448613,
+      "revenue": 4173309138074,
+      "in_universe": true
+    },
+    {
+      "symbol": "ANTM",
+      "name": "Aneka Tambang Tbk.",
+      "year": 2025,
+      "market_cap": 78099985356250,
+      "pe": 8.77424408988265,
+      "pb": 2.09551817294205,
+      "revenue": 84642439000000,
+      "in_universe": true
+    },
+    {
+      "symbol": "NCKL",
+      "name": "PT Trimegah Bangun Persada Tbk",
+      "year": 2025,
+      "market_cap": 54895782000000,
+      "pe": 5.14801415334402,
+      "pb": 1.25126094740861,
+      "revenue": 29632799000000,
+      "in_universe": true
+    },
+    {
+      "symbol": "MBMA",
+      "name": "PT Merdeka Battery Materials Tbk",
+      "year": 2025,
+      "market_cap": 53133746590800,
+      "pe": 50.3527116240155,
+      "pb": 1.92970800646396,
+      "revenue": 24008773360660,
+      "in_universe": false
+    }
+  ],
+  "market_history": [
+    {
+      "date": "2026-04-01",
+      "ihsg": 7184.438,
+      "market_cap": 12646140309231200
+    },
+    {
+      "date": "2026-04-02",
+      "ihsg": 7026.782,
+      "market_cap": 12301402169484936
+    },
+    {
+      "date": "2026-04-06",
+      "ihsg": 6989.426,
+      "market_cap": 12181292965738515
+    },
+    {
+      "date": "2026-04-07",
+      "ihsg": 6971.027,
+      "market_cap": 12220087895953627
+    },
+    {
+      "date": "2026-04-08",
+      "ihsg": 7279.209,
+      "market_cap": 12745135690725105
+    },
+    {
+      "date": "2026-04-09",
+      "ihsg": 7307.589,
+      "market_cap": 12927661360702306
+    },
+    {
+      "date": "2026-04-10",
+      "ihsg": 7458.496,
+      "market_cap": 13183485554446575
+    },
+    {
+      "date": "2026-04-13",
+      "ihsg": 7500.187,
+      "market_cap": 13334711369769658
+    },
+    {
+      "date": "2026-04-14",
+      "ihsg": 7675.951,
+      "market_cap": 13680203483861089
+    },
+    {
+      "date": "2026-04-15",
+      "ihsg": 7623.586,
+      "market_cap": 13577551326427693
+    },
+    {
+      "date": "2026-04-16",
+      "ihsg": 7621.382,
+      "market_cap": 13580909513734445
+    },
+    {
+      "date": "2026-04-17",
+      "ihsg": 7634.004,
+      "market_cap": 13631805736754862
+    },
+    {
+      "date": "2026-04-20",
+      "ihsg": 7594.111,
+      "market_cap": 13530051609880990
+    },
+    {
+      "date": "2026-04-21",
+      "ihsg": 7559.38,
+      "market_cap": 13439346111420433
+    },
+    {
+      "date": "2026-04-22",
+      "ihsg": 7541.612,
+      "market_cap": 13331962629649015
+    },
+    {
+      "date": "2026-04-23",
+      "ihsg": 7378.606,
+      "market_cap": 13176851273619842
+    },
+    {
+      "date": "2026-04-24",
+      "ihsg": 7129.49,
+      "market_cap": 12732776963937495
+    },
+    {
+      "date": "2026-04-27",
+      "ihsg": 7106.52,
+      "market_cap": 12687518028997883
+    },
+    {
+      "date": "2026-04-28",
+      "ihsg": 7072.392,
+      "market_cap": 12590034125678447
+    },
+    {
+      "date": "2026-04-29",
+      "ihsg": 7101.226,
+      "market_cap": 12635384034178860
+    },
+    {
+      "date": "2026-04-30",
+      "ihsg": 6956.804,
+      "market_cap": 12378413759882228
+    },
+    {
+      "date": "2026-05-04",
+      "ihsg": 6971.953,
+      "market_cap": 12411009903513114
+    },
+    {
+      "date": "2026-05-05",
+      "ihsg": 7057.106,
+      "market_cap": 12626309574250122
+    },
+    {
+      "date": "2026-05-06",
+      "ihsg": 7092.467,
+      "market_cap": 12699830398460331
+    },
+    {
+      "date": "2026-05-07",
+      "ihsg": 7174.321,
+      "market_cap": 12778962713690869
+    },
+    {
+      "date": "2026-05-08",
+      "ihsg": 6969.396,
+      "market_cap": 12402407487340402
+    },
+    {
+      "date": "2026-05-11",
+      "ihsg": 6905.62,
+      "market_cap": 12280030079664830
+    },
+    {
+      "date": "2026-05-12",
+      "ihsg": 6858.899,
+      "market_cap": 12142773427321380
+    },
+    {
+      "date": "2026-05-13",
+      "ihsg": 6723.32,
+      "market_cap": 11821690407165346
+    },
+    {
+      "date": "2026-05-18",
+      "ihsg": 6599.24,
+      "market_cap": 11535132183193835
+    },
+    {
+      "date": "2026-05-19",
+      "ihsg": 6370.679,
+      "market_cap": 11105372542285443
+    },
+    {
+      "date": "2026-05-20",
+      "ihsg": 6318.5,
+      "market_cap": 10959980491971602
+    },
+    {
+      "date": "2026-05-21",
+      "ihsg": 6094.941,
+      "market_cap": 10549507904767653
+    },
+    {
+      "date": "2026-05-22",
+      "ihsg": 6162.045,
+      "market_cap": 10631421768765943
+    },
+    {
+      "date": "2026-05-25",
+      "ihsg": 6206.349,
+      "market_cap": 10692705367587005
+    },
+    {
+      "date": "2026-05-26",
+      "ihsg": 6130.19,
+      "market_cap": 10613054794742598
+    },
+    {
+      "date": "2026-05-29",
+      "ihsg": 6127.381,
+      "market_cap": 10725485605975573
+    },
+    {
+      "date": "2026-06-02",
+      "ihsg": 6195.427,
+      "market_cap": 10891278361519046
+    },
+    {
+      "date": "2026-06-03",
+      "ihsg": 5941.066,
+      "market_cap": 10451829355656557
+    },
+    {
+      "date": "2026-06-04",
+      "ihsg": 5839.785,
+      "market_cap": 10259085293637228
+    },
+    {
+      "date": "2026-06-05",
+      "ihsg": 5594.765,
+      "market_cap": 9803592659706909
+    },
+    {
+      "date": "2026-06-08",
+      "ihsg": 5342.137,
+      "market_cap": 9414771844192581
+    },
+    {
+      "date": "2026-06-09",
+      "ihsg": 5746.648,
+      "market_cap": 10095511071726246
+    },
+    {
+      "date": "2026-06-10",
+      "ihsg": 5902.376,
+      "market_cap": 10341178905408617
+    },
+    {
+      "date": "2026-06-11",
+      "ihsg": 5886.032,
+      "market_cap": 10287950241660193
+    },
+    {
+      "date": "2026-06-12",
+      "ihsg": 6007.656,
+      "market_cap": 10520825968837381
+    },
+    {
+      "date": "2026-06-15",
+      "ihsg": 6254.966,
+      "market_cap": 10899408952482727
+    },
+    {
+      "date": "2026-06-17",
+      "ihsg": 6220.74,
+      "market_cap": 10776148487729844
+    },
+    {
+      "date": "2026-06-18",
+      "ihsg": 6172.34,
+      "market_cap": 10736980009961606
+    },
+    {
+      "date": "2026-06-19",
+      "ihsg": 6177.139,
+      "market_cap": 10784594953877444
+    },
+    {
+      "date": "2026-06-22",
+      "ihsg": 6116.69,
+      "market_cap": 10708711379319414
+    },
+    {
+      "date": "2026-06-23",
+      "ihsg": 6101.333,
+      "market_cap": 10685047810158781
+    },
+    {
+      "date": "2026-06-24",
+      "ihsg": 5883.881,
+      "market_cap": 10312029789078805
+    },
+    {
+      "date": "2026-06-25",
+      "ihsg": 5999.038,
+      "market_cap": 10515718128770631
+    },
+    {
+      "date": "2026-06-26",
+      "ihsg": 5896.134,
+      "market_cap": 10298280398969010
+    },
+    {
+      "date": "2026-06-29",
+      "ihsg": 5820.79,
+      "market_cap": 10179250800138493
+    },
+    {
+      "date": "2026-06-30",
+      "ihsg": 5643.194,
+      "market_cap": 9894028079914985
+    },
+    {
+      "date": "2026-07-01",
+      "ihsg": 5695.116,
+      "market_cap": 10007947906561450
+    },
+    {
+      "date": "2026-07-02",
+      "ihsg": 5744.556,
+      "market_cap": 10060923668899571
+    },
+    {
+      "date": "2026-07-03",
+      "ihsg": 5875.78,
+      "market_cap": 10283558418117973
+    },
+    {
+      "date": "2026-07-06",
+      "ihsg": 5916.07,
+      "market_cap": 10352610980350056
+    },
+    {
+      "date": "2026-07-07",
+      "ihsg": 5986.497,
+      "market_cap": 10462196902308353
+    },
+    {
+      "date": "2026-07-08",
+      "ihsg": 5873.372,
+      "market_cap": 10272894518876036
+    },
+    {
+      "date": "2026-07-09",
+      "ihsg": 5912.442,
+      "market_cap": 10324456194315119
+    },
+    {
+      "date": "2026-07-10",
+      "ihsg": 5924.36,
+      "market_cap": 10336481815483724
+    },
+    {
+      "date": "2026-07-13",
+      "ihsg": 6037.842,
+      "market_cap": 10506156813352519
+    },
+    {
+      "date": "2026-07-14",
+      "ihsg": 6039.521,
+      "market_cap": 10524135196509080
+    },
+    {
+      "date": "2026-07-15",
+      "ihsg": 6041.972,
+      "market_cap": 10548175926837826
+    },
+    {
+      "date": "2026-07-16",
+      "ihsg": 6108.209,
+      "market_cap": 10655671296610599
+    },
+    {
+      "date": "2026-07-17",
+      "ihsg": 6175.535,
+      "market_cap": 10745282583293599
+    },
+    {
+      "date": "2026-07-20",
+      "ihsg": 6231.78,
+      "market_cap": 10832728685598542
+    },
+    {
+      "date": "2026-07-21",
+      "ihsg": 6340.02,
+      "market_cap": 11041209401983643
+    },
+    {
+      "date": "2026-07-22",
+      "ihsg": 6334.476,
+      "market_cap": 11064991318794462
+    },
+    {
+      "date": "2026-07-23",
+      "ihsg": 6315.311,
+      "market_cap": 11058096720739904
+    },
+    {
+      "date": "2026-07-24",
+      "ihsg": 6196.43,
+      "market_cap": 10866941513180025
+    },
+    {
+      "date": "2026-07-27",
+      "ihsg": 6185.783,
+      "market_cap": 10846820086978302
+    },
+    {
+      "date": "2026-07-28",
+      "ihsg": 6130.588,
+      "market_cap": 10748777396682842
+    },
+    {
+      "date": "2026-07-29",
+      "ihsg": 6091.386,
+      "market_cap": 10671925079765237
+    },
+    {
+      "date": "2026-07-30",
+      "ihsg": 6186.363,
+      "market_cap": 10808753111947654
+    },
+    {
+      "date": "2026-07-31",
+      "ihsg": 6236.126,
+      "market_cap": 10919632662108419
+    },
+    {
+      "date": "2026-08-03",
+      "ihsg": 6234.497,
+      "market_cap": 10891533376788029
+    },
+    {
+      "date": "2026-08-04",
+      "ihsg": 6319.613,
+      "market_cap": 11026919553266172
+    },
+    {
+      "date": "2026-08-05",
+      "ihsg": 6351.139,
+      "market_cap": 11081557528513146
+    },
+    {
+      "date": "2026-08-06",
+      "ihsg": 6343.711,
+      "market_cap": 11091230654708629
+    },
+    {
+      "date": "2026-08-07",
+      "ihsg": 6409.654,
+      "market_cap": 11208370900071437
+    },
+    {
+      "date": "2026-08-10",
+      "ihsg": 6365.374,
+      "market_cap": 11127673938712190
+    },
+    {
+      "date": "2026-08-11",
+      "ihsg": 6267.88,
+      "market_cap": 10951983899532200
+    },
+    {
+      "date": "2026-08-12",
+      "ihsg": 6373.849,
+      "market_cap": 11170270993004848
+    },
+    {
+      "date": "2026-08-13",
+      "ihsg": 6301.765,
+      "market_cap": 11047038481790783
+    },
+    {
+      "date": "2026-08-14",
+      "ihsg": 6401.888,
+      "market_cap": 11239913404397486
+    },
+    {
+      "date": "2026-08-18",
+      "ihsg": 6449.83,
+      "market_cap": 11344776423883178
+    },
+    {
+      "date": "2026-08-19",
+      "ihsg": 6394.125,
+      "market_cap": 11242710814171051
+    },
+    {
+      "date": "2026-08-20",
+      "ihsg": 6501.585,
+      "market_cap": 11417105165375641
+    },
+    {
+      "date": "2026-08-21",
+      "ihsg": 6525.69,
+      "market_cap": 11445451211005613
+    },
+    {
+      "date": "2026-08-24",
+      "ihsg": 6501.667,
+      "market_cap": 11400829359169202
+    },
+    {
+      "date": "2026-08-26",
+      "ihsg": 6405.685,
+      "market_cap": 11226539253653372
+    },
+    {
+      "date": "2026-08-27",
+      "ihsg": 6521.75,
+      "market_cap": 11444254799160097
+    },
+    {
+      "date": "2026-08-28",
+      "ihsg": 6518.121,
+      "market_cap": 11427514258790209
+    },
+    {
+      "date": "2026-08-31",
+      "ihsg": 6525.478,
+      "market_cap": 11420266337232824
+    },
+    {
+      "date": "2026-09-01",
+      "ihsg": 6599.943,
+      "market_cap": 11528076154461080
+    },
+    {
+      "date": "2026-09-02",
+      "ihsg": 6595.776,
+      "market_cap": 11521577604064942
+    },
+    {
+      "date": "2026-09-03",
+      "ihsg": 6667.891,
+      "market_cap": 11637538684241799
+    },
+    {
+      "date": "2026-09-04",
+      "ihsg": 6636.475,
+      "market_cap": 11595660058206448
+    },
+    {
+      "date": "2026-09-07",
+      "ihsg": 6619.673,
+      "market_cap": 11571807924987264
+    },
+    {
+      "date": "2026-09-08",
+      "ihsg": 6686.442,
+      "market_cap": 11668902562815871
+    },
+    {
+      "date": "2026-09-09",
+      "ihsg": 6678.201,
+      "market_cap": 11671538636715858
+    },
+    {
+      "date": "2026-09-10",
+      "ihsg": 6589.338,
+      "market_cap": 11526136904331476
+    },
+    {
+      "date": "2026-09-11",
+      "ihsg": 6541.377,
+      "market_cap": 11442963914395062
+    },
+    {
+      "date": "2026-09-14",
+      "ihsg": 6534.693,
+      "market_cap": 11368110758085182
+    },
+    {
+      "date": "2026-09-15",
+      "ihsg": 6461.153,
+      "market_cap": 11257912210981978
+    },
+    {
+      "date": "2026-09-16",
+      "ihsg": 6436.853,
+      "market_cap": 11225219420982876
+    },
+    {
+      "date": "2026-09-17",
+      "ihsg": 6462.431,
+      "market_cap": 11270346560839989
+    },
+    {
+      "date": "2026-09-18",
+      "ihsg": 6441.159,
+      "market_cap": 11262605698050558
+    },
+    {
+      "date": "2026-09-21",
+      "ihsg": 6384.726,
+      "market_cap": 11161910095429389
+    },
+    {
+      "date": "2026-09-22",
+      "ihsg": 6277.044,
+      "market_cap": 10971287923179805
+    },
+    {
+      "date": "2026-09-23",
+      "ihsg": 6374.912,
+      "market_cap": 11141915820582293
+    },
+    {
+      "date": "2026-09-24",
+      "ihsg": 6298.607,
+      "market_cap": 11021365748586840
+    },
+    {
+      "date": "2026-09-25",
+      "ihsg": 6241.892,
+      "market_cap": 10902018198054911
+    },
+    {
+      "date": "2026-09-28",
+      "ihsg": 6147.859,
+      "market_cap": 10755457591436344
+    },
+    {
+      "date": "2026-09-29",
+      "ihsg": 6121.7,
+      "market_cap": 10754858845786069
+    },
+    {
+      "date": "2026-09-30",
+      "ihsg": 6071.138,
+      "market_cap": 10691719699169471
+    }
+  ],
+  "relevant_news": [
+    {
+      "title": "Two Directors of PT Merdeka Copper Gold Tbk (MDKA) Buy 1 Million Shares at Rp2,830 Each",
+      "timestamp": "2026-09-29T11:00:22",
+      "source": "https://www.cnbcindonesia.com/market/20260929100943-17-771675/2-bos-mdka-kompakan-borong-1-juta-saham-di-harga-rp2830",
+      "tags": [
+        "Private Placement",
+        "Ownership",
+        "Capital & Funding",
+        "Insider Trading",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Merdeka Copper Gold Posts US$101.56 Million Net Profit, ANTM Buys 9 Tons of Gold from Freeport Indonesia, UNTR Sets Interim Dividend",
+      "timestamp": "2026-09-29T08:30:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8683659/mdka-balik-cetak-laba-us-101-56-juta-antm-borong-9-ton-emas",
+      "tags": [
+        "Financial Metrics",
+        "Dividend Announcement",
+        "Commodities",
+        "Business Expansion",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "PT Merdeka Copper Gold Tbk (MDKA) Swings to US$101.56 Million Net Profit in H1 2026",
+      "timestamp": "2026-09-28T13:50:00",
+      "source": "https://www.idnfinancials.com/id/news/69528/balikkan-kerugian-merdeka-copper-gold-raup-laba-us101-56-juta",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Production & Operations",
+        "Export",
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Market Still Volatile, Check IPOT's Stock Picks",
+      "timestamp": "2026-09-28T12:38:00",
+      "source": "https://investasi.kontan.co.id/news/pasar-masih-volatil-simak-rekomendasi-saham-pilihan-ipot",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Central Bank",
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Merdeka Copper Gold Tbk (MDKA) targets stronger H2 2026 performance, backed by Tambang Emas Pani and HPAL projects",
+      "timestamp": "2026-09-27T16:27:00",
+      "source": "https://emitennews.com/news/mdka-bidik-kinerja-lebih-kuat-di-semester-ii-ditopang-dua-proyek",
+      "tags": [
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Merdeka Copper Gold Tbk (MDKA) records largest foreign net buy as market sells intensify",
+      "timestamp": "2026-09-27T09:17:00",
+      "source": "https://investor.id/market/455660/saham-emiten-edwin-soeryadjaya-menembus-badai",
+      "tags": [
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors dump these stocks over the week as the IDX Composite falls 3.09% to 6,241.89",
+      "timestamp": "2026-09-26T22:46:00",
+      "source": "https://investasi.kontan.co.id/news/asing-banyak-tadah-saham-saham-ini-sepekan-saat-ihsg-ambruk-309-ke-6241",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "PT Merdeka Copper Gold Tbk (MDKA) reports US$102 million net profit for H1 2026, reversing US$16 million loss",
+      "timestamp": "2026-09-26T20:24:00",
+      "source": "https://investor.id/market/455641/mesin-cuan-mdka-makin-panas",
+      "tags": [
+        "Annual Report",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Merdeka Copper Gold Tbk (MDKA) posts H1 2026 net profit of US$102 million",
+      "timestamp": "2026-09-26T12:56:00",
+      "source": "https://investasi.kontan.co.id/news/kinerja-emas-nikel-menguat-merdeka-copper-mdka-kembali-cetak-laba-us-102-juta",
+      "tags": [
+        "Annual Report",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Merdeka (MDKA) reports USD101.8 million net profit in 2026, a 743% surge from last year’s loss",
+      "timestamp": "2026-09-26T10:15:00",
+      "source": "https://emitennews.com/news/usai-rugi-emiten-boy-thohir-tabulasi-laba-melonjak-ratusan-persen",
+      "tags": [
+        "Annual Report",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Merdeka Copper Gold Insider Titien Supeno Reports Shareholding Change",
+      "timestamp": "2026-09-25T18:11:56",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-1031-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "Merdeka Copper Gold Insider Albert Saputro Reports Shareholding Change",
+      "timestamp": "2026-09-25T18:02:01",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-0467-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "IHSG rises 1.56% to 6,374.91 as foreign investors net buy ten leading stocks",
+      "timestamp": "2026-09-24T08:01:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-melesat-156-ke-6374-cermati-saham-yang-banyak-diborong-asing-kemarin",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas forecasts IHSG rise and recommends top-performing stocks on 24 Sep 2026",
+      "timestamp": "2026-09-24T05:40:00",
+      "source": "https://market.bisnis.com/read/20260924/7/2006644/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-kamis-24-september-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign Net Sell Surpasses Rp 100 Trillion, Keeping PT Bank Rakyat Indonesia Tbk (BBRI), PT Bank Mandiri Tbk (BMRI) and PT Telkom Indonesia Tbk (TLKM) Under Pressure",
+      "timestamp": "2026-09-23T20:26:00",
+      "source": "https://investor.id/market/455251/net-sell-asing-menggunung-tembus-rp-100-triliun-saham-ini-terus-ditekan",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Central Bank",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "BNI Sekuritas forecasts short-term IHSG rebound and recommends six stocks",
+      "timestamp": "2026-09-23T07:47:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-berpotensi-rebound-hari-ini-239-cek-rekomendasi-saham-pilihan-bni-sekuritas",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors heavily bought ten stocks as the IHSG fell 1.68% to 6,277 on Tuesday (22/9)",
+      "timestamp": "2026-09-23T05:00:00",
+      "source": "https://investasi.kontan.co.id/news/saham-saham-ini-banyak-ditadah-asing-saat-ihsg-ambruk-168-ke-6277-selasa-229",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Stocks to Watch as the Fed Raises Interest Rates",
+      "timestamp": "2026-09-22T07:12:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/122254/saham-saham-ini-menarik-dicermati-kala-the-fed-kerek-suku-bunga",
+      "tags": [
+        "Interest Rate",
+        "Analyst Ratings",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net sold Rp 510.07 bn of Indonesian stocks, led by PT Bank Mandiri Tbk (BMRI)",
+      "timestamp": "2026-09-21T21:14:00",
+      "source": "https://investasi.kontan.co.id/news/asing-net-sell-jumbo-rp-510-miliar-cek-saham-yang-banyak-dijual-di-awal-pekan",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign outflow hits Rp1.79 trillion, with BBCA and BMRI leading net sells",
+      "timestamp": "2026-09-18T20:20:00",
+      "source": "https://www.idnfinancials.com/id/news/69078/outflow-asing-capai-rp1-79-triliun-bbca-dan-bmri-top-net-sell",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Capital & Funding",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "VanEck GDX Index Review May Generate $43 million Inflow to AMMN, $37 million to BRMS, and $3 million to ARCI",
+      "timestamp": "2026-09-14T09:55:00",
+      "source": "https://market.bisnis.com/read/20260914/192/2003867/peluang-dana-asing-masuk-ammn-brms-dan-arci-dari-evaluasi-indeks-emas-gdx",
+      "tags": [
+        "Foreign Investment",
+        "Asset Management",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Opens Weaker at Start of Week, Pressured by Global Sentiment",
+      "timestamp": "2026-09-14T09:33:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/121427/ihsg-dibuka-melemah-di-awal-pekan-tertekan-sentimen-global",
+      "tags": [
+        "Market Sentiment",
+        "Commodities",
+        "Interest Rate",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "AMMN and MDKA Shares Rise as Copper Prices Hit Record",
+      "timestamp": "2026-09-09T08:30:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/120980/saham-ammn-mdka-menguat-harga-tembaga-cetak-rekor",
+      "tags": [
+        "Commodities",
+        "Capital & Funding",
+        "Government Policy",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Summary of stock recommendations for 8 September 2026 from seven Indonesian securities firms.",
+      "timestamp": "2026-09-08T08:23:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/120829/rangkuman-rekomendasi-saham-hari-ini-8-september-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "IHSG Projected to Remain Limited on Tuesday (Sept 8), Sentiment Overview",
+      "timestamp": "2026-09-07T19:05:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diproyeksi-masih-bergerak-terbatas-pada-perdagangan-selasa-89",
+      "tags": [
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Currency & FX",
+        "Global Economy",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Phintraco Sekuritas predicts a sideways-weak IHSG while MNC Sekuritas recommends HRUM, INKP, MDKA and TPIA for Tuesday trading",
+      "timestamp": "2026-09-07T18:34:38",
+      "source": "https://investor.id/market/453142/prediksi-ihsg-dan-rekomendasi-saham-selasa-8-september-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Currency & FX",
+        "Global Economy"
+      ]
+    },
+    {
+      "title": "IHSG and Asian Exchanges Cheerful This Morning",
+      "timestamp": "2026-09-04T09:27:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/120491/ihsg-dan-bursa-asia-semringah-pagi-ini",
+      "tags": [
+        "Foreign Investment",
+        "Currency & FX",
+        "Commodities",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "BNI Sekuritas recommends six stocks as IHSG may rebound on Thursday, Sep 3",
+      "timestamp": "2026-09-03T07:18:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-berpotensi-rebound-kamis-39-ini-6-saham-pilihan-bni-sekuritas-hari-ini",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Saratoga Investama reports a net loss of Rp 3.87 trillion in H1 2026 and outlines its long‑term investment strategy",
+      "timestamp": "2026-08-31T18:13:00",
+      "source": "https://investasi.kontan.co.id/news/saratoga-investama-srtg-rugi-rp-387-triliun-semester-i-ini-strategi-investasinya",
+      "tags": [
+        "Financial Metrics",
+        "Asset Management",
+        "Capital & Funding",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "List of 28 IDX issuers planning or completing private placements in 2026 with transaction values, share counts and execution prices",
+      "timestamp": "2026-08-31T12:45:00",
+      "source": "https://market.bisnis.com/read/20260831/192/2000054/daftar-emiten-gelar-private-placement-2026-nilai-dana-jumlah-saham-harga-pelaksanaan",
+      "tags": [
+        "Private Placement",
+        "Capital & Funding",
+        "Shareholders General Meeting",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Early trade shows IHSG slipping to 6,506 amid Fed rate‑hike expectations and MSCI rebalancing",
+      "timestamp": "2026-08-31T09:32:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/119954/simak-dinamika-ihsg-di-awal-perdagangan-hari-ini",
+      "tags": [
+        "Global Index",
+        "Central Bank",
+        "Foreign Investment"
+      ]
+    },
+    {
+      "title": "Summary of stock recommendations for 31 August 2026",
+      "timestamp": "2026-08-31T08:57:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/119947/rangkuman-rekomendasi-saham-hari-ini-31-agustus-2026",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "PT Merdeka Gold Resources Tbk projected to recover performance in H2 2026",
+      "timestamp": "2026-08-29T18:47:00",
+      "source": "https://market.bisnis.com/read/20260829/192/1999754/kinerja-merdeka-gold-emas-diproyeksikan-pulih-semester-ii2026",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Production & Operations",
+        "Subsidiaries",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Merdeka Gold Resources Tbk reports revenue surge and narrowing loss after Tambang Pani begins operations",
+      "timestamp": "2026-08-28T13:04:00",
+      "source": "https://investasi.kontan.co.id/news/tambang-pani-beroperasi-pendapatan-merdeka-gold-emas-melejit-rugi-menyusut",
+      "tags": [
+        "Financial Metrics",
+        "Production & Operations",
+        "Commodities",
+        "Business Expansion",
+        "Subsidiaries",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net bought ten Indonesian stocks as the IDX Composite fell 1.48%",
+      "timestamp": "2026-08-27T07:07:00",
+      "source": "https://money.kompas.com/read/2026/08/27/070700026/10-saham-yang-diborong-asing-saat-ihsg-anjlok-1-48-persen",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net bought Rp 1.37 trillion on Wednesday, PT Dian Swastatika Sentosa Tbk topping the list as the IHSG dropped 1.48%",
+      "timestamp": "2026-08-26T20:04:00",
+      "source": "https://investasi.kontan.co.id/news/asing-net-buy-jumbo-rp-137-triliun-saat-ihsg-ambruk-cek-saham-yang-banyak-diborong",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Merdeka Gold Resources Tbk expands Pani gold mine and advances 12 Mtpa CIL project",
+      "timestamp": "2026-08-26T07:05:00",
+      "source": "https://market.bisnis.com/read/20260826/192/1998847/emas-ekspansi-tambang-pani-pacu-proyek-cil-12-mtpa",
+      "tags": [
+        "Business Expansion",
+        "Production & Operations",
+        "Commodities",
+        "Subsidiaries",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG rises again, five stocks—including PICO—post sharp gains",
+      "timestamp": "2026-08-24T09:09:16",
+      "source": "https://investor.id/market/451390/ihsg-menanjak-lagi-5-saham-melejit-tinggi",
+      "tags": [
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG projected to strengthen at the start of the week",
+      "timestamp": "2026-08-24T07:05:09",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260824062110-92-1395649/ihsg-diproyeksi-bertenaga-di-awal-pekan",
+      "tags": [
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts predict ANTM, HRTA, BRMS and other gold issuers will benefit from the newly launched Indonesia Bullion Market Association",
+      "timestamp": "2026-08-24T05:43:00",
+      "source": "https://investasi.kontan.co.id/news/emiten-emas-ini-diprediksi-diuntungkan-dengan-hadirnya-asosiasi-pasar-bullion",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Gold price tops US$4,500 per ounce, MNC Sekuritas flags ANTM, HRTA, MDKA and peers as potential gainers",
+      "timestamp": "2026-08-20T10:00:00",
+      "source": "https://market.bisnis.com/read/20260820/7/1997662/harga-emas-tembus-us4500-saham-antm-hingga-mdka-berpotensi-cuan",
+      "tags": [
+        "Commodities",
+        "Analyst Ratings",
+        "Central Bank",
+        "Inflation",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Summary of Today's Stock Recommendations, 18 August 2026",
+      "timestamp": "2026-08-18T08:55:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/118637/rangkuman-rekomendasi-saham-hari-ini-18-agustus-2026",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Foreign investors sell Rp 2.5 trillion of stocks as investors await three IHSG catalysts this week",
+      "timestamp": "2026-08-18T05:59:00",
+      "source": "https://money.kompas.com/read/2026/08/18/055901626/usai-asing-jual-saham-rp-25-triliun-investor-menanti-3-katalis-ihsg-pekan-ini",
+      "tags": [
+        "Foreign Investment",
+        "Central Bank",
+        "Market Sentiment",
+        "Global Economy",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "LQ45 lowest‑PER stocks rally while highest‑PER stocks show mixed moves on 14 August 2026",
+      "timestamp": "2026-08-18T04:28:00",
+      "source": "https://investasi.kontan.co.id/news/daftar-saham-per-terendah-tertinggi-lq45-14-agustus-2026-jpfa-dan-mdka-disorot",
+      "tags": [
+        "Market Sentiment",
+        "Foreign Investment",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Basic Materials Stocks Grow Significantly Over the Past Month, Prospects for ANTM, BRMS, MDKA, AMMN and TPIA",
+      "timestamp": "2026-08-17T12:50:00",
+      "source": "https://investasi.kontan.co.id/news/saham-emiten-bahan-baku-tumbuh-signifikan-dalam-sebulan-terakhir-simak-prospeknya",
+      "tags": [
+        "Commodities",
+        "Analyst Ratings",
+        "Risk & Compliance",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "EV sales surge fuels positive stock outlook for NCKL, VKTR, INDY and other EV‑related issuers",
+      "timestamp": "2026-08-14T18:58:00",
+      "source": "https://investasi.kontan.co.id/news/penjualan-ev-melonjak-simak-prospek-saham-di-ekosistem-ev",
+      "tags": [
+        "Analyst Ratings",
+        "Business Expansion",
+        "Market Sentiment",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Merdeka Copper Gold Tbk purchases 100.56 million PT Merdeka Gold Resources Tbk shares, raising its stake to 64.013%",
+      "timestamp": "2026-08-14T17:53:00",
+      "source": "https://investasi.kontan.co.id/news/mdka-borong-10056-juta-saham-emas-kepemilikan-naik-jadi-64013",
+      "tags": [
+        "Ownership",
+        "Mergers & Acquisitions",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Merdeka Copper Gold Tbk raises its stake in PT Merdeka Gold Resources Tbk to 64.01% after buying 100.56 million shares",
+      "timestamp": "2026-08-14T14:49:00",
+      "source": "https://market.bisnis.com/read/20260814/192/1996352/mdka-borong-10056-juta-saham-emas-kepemilikan-naik-jadi-6401",
+      "tags": [
+        "Ownership",
+        "Mergers & Acquisitions",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "DBS projects 221% net profit growth for PT Merdeka Copper Gold Tbk by 2027",
+      "timestamp": "2026-08-14T14:43:11",
+      "source": "https://investor.id/market/450395/saham-tambang-pilihan-asing-ledakan-cuan-50",
+      "tags": [
+        "Commodities",
+        "Financial Metrics",
+        "Production & Operations",
+        "Global Economy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Merdeka Copper Gold Tbk purchases 100.56 million PT Merdeka Gold Resources Tbk shares for Rp657.6 billion, raising its stake to 64.0%",
+      "timestamp": "2026-08-14T09:30:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/118300/mdka-borong-100-juta-saham-emas-rogoh-rp657-6-miliar",
+      "tags": [
+        "Ownership",
+        "Mergers & Acquisitions",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Merdeka Copper raises its stake in Merdeka Gold to 64.0% after buying 100.6 million shares",
+      "timestamp": "2026-08-14T07:56:00",
+      "source": "https://emitennews.com/news/kendali-penuh-mdka-serok-ratusan-juta-saham-emas",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Ownership",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Merdeka Copper Gold Tbk raises its stake in PT Merdeka Gold Resources Tbk to 64.0% after buying about 100 million shares at a 16% discount",
+      "timestamp": "2026-08-14T06:09:00",
+      "source": "https://investasi.kontan.co.id/news/mdka-borong-100-juta-saham-emas-harga-beli-16-di-bawah-harga-pasar",
+      "tags": [
+        "Ownership",
+        "Mergers & Acquisitions",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net‑sell PT Bank Mandiri Tbk, PT Telkom Indonesia Tbk and other stocks as the IHSG rose 1.69%",
+      "timestamp": "2026-08-13T09:01:00",
+      "source": "https://investasi.kontan.co.id/news/bmri-tlkm-teratas-intip-saham-yang-banyak-dijual-asing-saat-ihsg-melonjak-kemarin",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Two Indonesian issuers have cycled out of and back into the MSCI Global Standard Index",
+      "timestamp": "2026-08-12T14:17:00",
+      "source": "https://emitennews.com/news/2-emiten-yang-bisa-keluar-masuk-indeks-utama-msci",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Rising Gold Prices Boost Prospects for ANTM, BRMS, MDKA and EMAS Shares",
+      "timestamp": "2026-08-11T17:36:00",
+      "source": "https://investasi.kontan.co.id/news/harga-emas-kembali-melejit-prospek-saham-antm-brms-mdka-hingga-emas-ikut-terangkat",
+      "tags": [
+        "Commodities",
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analyst Outlook Highlights PT Aneka Tambang Tbk and MDKA as Top Picks Amid Nickel Export Slowdown",
+      "timestamp": "2026-08-11T11:14:00",
+      "source": "https://investasi.kontan.co.id/news/menakar-nasib-emiten-nikel-di-tengah-perlambatan-ekspor",
+      "tags": [
+        "Analyst Ratings",
+        "Export",
+        "Commodities",
+        "Diversification",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Opens Higher Thanks to Destry Damayanti’s Nomination as BI Governor",
+      "timestamp": "2026-08-11T09:14:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/117894/ihsg-dibuka-menguat-berkat-pencalonan-destry-jadi-bi-1",
+      "tags": [
+        "Central Bank",
+        "Market Sentiment",
+        "Currency & FX"
+      ]
+    },
+    {
+      "title": "Stock Recommendations and IHSG Movement for August 11, 2026",
+      "timestamp": "2026-08-11T08:10:00",
+      "source": "https://market.bisnis.com/read/20260811/7/1995163/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-11-agustus-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Weekly Stock Picks Expected to Gain: PT ESSA Industries Indonesia Tbk, PT Chandra Asri Pacific Tbk, PT Merdeka Copper Gold Tbk, PT Buana Lintas Lautan Tbk, PT Bumi Resources Tbk, and PT Multipolar Tbk",
+      "timestamp": "2026-08-10T06:46:53",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260810061710-92-1390401/jejeran-pilihan-saham-berpeluang-cuan-pekan-ini",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Currency & FX",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG May Continue Strengthening on Monday, Analysts Highlight Recommended Stocks",
+      "timestamp": "2026-08-10T05:04:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-berpeluang-lanjut-menguat-senin-108-cek-saham-rekomendasi-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia's Composite Index (IHSG) Projected to Rise on Monday Trading, with Stock Recommendations",
+      "timestamp": "2026-08-09T12:53:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diproyeksikan-menguat-pada-perdagangan-senin-108-cek-rekomendasi-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Currency & FX",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "World copper prices hit a record above $6.7 per pound, with PT Amman Mineral Internasional Tbk (AMMN) seen as the biggest beneficiary.",
+      "timestamp": "2026-08-07T16:36:00",
+      "source": "https://money.kompas.com/read/2026/08/07/163600526/harga-tembaga-dunia-cetak-rekor-saham-ammn-diprediksi-paling-diuntungkan",
+      "tags": [
+        "Commodities",
+        "Export",
+        "Global Economy",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Opens Higher 0.38%, Testing Level 6,300",
+      "timestamp": "2026-08-05T09:43:30",
+      "source": "https://www.cnbcindonesia.com/market/20260805080606-17-756623/ihsg-dibuka-naik-038-uji-level-6300",
+      "tags": [
+        "Foreign Investment",
+        "Global Economy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Merdeka Group companies post solid Q2 2026 operational performance, MDKA reports US$775.6 million revenue",
+      "timestamp": "2026-08-05T08:25:00",
+      "source": "https://investasi.kontan.co.id/news/raih-kinerja-operasional-solid-cek-rekomendasi-saham-emiten-grup-merdeka",
+      "tags": [
+        "Production & Operations",
+        "Commodities",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Gold miner emitters compete in semester II 2026 as MDKA leads while ANTM and BRMS lag",
+      "timestamp": "2026-08-05T06:30:00",
+      "source": "https://market.bisnis.com/read/20260805/192/1993703/adu-siasat-emiten-emas-semester-ii2026-saham-mana-paling-berkilau",
+      "tags": [
+        "Commodities",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Business Expansion",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign investors target PT Bank Central Asia Tbk and PT Bank Rakyat Indonesia Tbk ahead of Q2 economic growth data",
+      "timestamp": "2026-08-05T05:10:00",
+      "source": "https://market.bisnis.com/read/20260805/7/1993705/bbca-bbri-jadi-buruan-investor-asing-jelang-data-pertumbuhan-ekonomi-q2",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Merdeka Copper Gold Tbk reports US$775.6 million revenue in Q2 2026, driven by US$165 million gold sales",
+      "timestamp": "2026-08-04T18:33:00",
+      "source": "https://investasi.kontan.co.id/news/catat-kinerja-operasional-positif-simak-prospek-saham-emiten-grup-merdeka",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Production & Operations",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Merdeka Copper reports diversified Q2 2026 results across gold, copper and nickel",
+      "timestamp": "2026-08-03T20:30:58",
+      "source": "https://investor.id/market/448967/merdeka-copper-mdka-panenhasil-diversifikasi",
+      "tags": [
+        "Commodities",
+        "Financial Metrics",
+        "Business Expansion",
+        "Capital & Funding",
+        "Subsidiaries",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Merdeka Copper Gold Tbk reports Q2‑2026 gold sales of 36,574 ounces and US$775.6 million revenue",
+      "timestamp": "2026-08-03T14:53:00",
+      "source": "https://investasi.kontan.co.id/news/merdeka-copper-mdka-raup-penjualan-emas-36574-ounces-di-kuartal-ii-2026",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Production & Operations",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Stagnates at 6,234.29 in Early Trading",
+      "timestamp": "2026-08-03T13:04:37",
+      "source": "https://www.cnbcindonesia.com/market/20260803121623-17-756035/ihsg-sesi-pertama-stagnan-di-level-6234",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Earnings season drives IHSG opening higher",
+      "timestamp": "2026-07-31T09:35:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/116811/musim-laporan-keuangan-picu-ihsg-dibuka-menguat",
+      "tags": [
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Global Economy"
+      ]
+    },
+    {
+      "title": "IHSG Expected to Extend Rally as Phintraco Sekuritas Highlights Six Key Stocks",
+      "timestamp": "2026-07-31T06:00:46",
+      "source": "https://investor.id/market/448555/ihsg-bersiap-lanjut-reli-6-saham-jadi-andalan",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Global Economy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Phintraco Sekuritas predicts IHSG to test 6,250 level, cites MDKA among six profit‑targeted stocks",
+      "timestamp": "2026-07-31T06:00:46",
+      "source": "https://investor.id/market/448556/ihsg-bakal-uji-level-6250-ada-6-saham-dijagokan-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG Expected to Continue Correction on July 30, 2026, with Analyst Recommendations for ESSA, INDF, MDKA, EMAS, ITMG, and TAPG",
+      "timestamp": "2026-07-30T06:42:00",
+      "source": "https://money.kompas.com/read/2026/07/30/064200826/ihsg-rawan-lanjut-koreksi-simak-rekomendasi-saham-yang-berpotensi-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Central Bank"
+      ]
+    },
+    {
+      "title": "IHSG projected to stay in correction range amid short‑term rebound potential",
+      "timestamp": "2026-07-30T06:38:48",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260730014400-92-1386389/ihsg-diramal-merah-hari-ini",
+      "tags": [
+        "Market Sentiment",
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas warns IHSG may correct on Thursday and highlights three stock picks: ESSA, INDF, and MDKA",
+      "timestamp": "2026-07-29T20:09:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-masih-rawan-koreksi-kamis-307-ini-3-saham-pilihan-mnc-sekuritas",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Currency & FX"
+      ]
+    },
+    {
+      "title": "Sharia stock indices rebound as energy and commodity stocks lead the recovery",
+      "timestamp": "2026-07-29T18:21:00",
+      "source": "https://investasi.kontan.co.id/news/indeks-saham-syariah-bangkit-dari-tekanan-sektor-energi-dan-komoditas-jadi-penggerak",
+      "tags": [
+        "Sharia Economy",
+        "Commodities",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Phintraco Sekuritas forecasts IHSG to consolidate between 6,080‑6,250 and recommends PGAS, INKP, TLKM, MDKA, and ASII for Tuesday trading",
+      "timestamp": "2026-07-28T06:45:07",
+      "source": "https://investor.id/market/448090/prediksi-ihsg-konsolidasi-berlanjut-di-tengah-sentimen-bi-5-saham-siap-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Stock Recommendations and IHSG Movement for Wednesday 22 July 2026",
+      "timestamp": "2026-07-22T08:10:00",
+      "source": "https://market.bisnis.com/read/20260722/7/1989939/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-rabu-22-juli-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Interest Rate",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Mirae Asset, MNC Sekuritas, and Phintraco Sekuritas issue stock picks for Indonesia on 22 July 2026",
+      "timestamp": "2026-07-22T07:46:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/115808/rangkuman-rekomendasi-saham-hari-ini-22-juli-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Interest Rate"
+      ]
+    },
+    {
+      "title": "IHSG Outlook and Stock Recommendations for Wednesday, 22 July 2026",
+      "timestamp": "2026-07-22T05:00:00",
+      "source": "https://investasi.kontan.co.id/news/prediksi-ihsg-dan-rekomendasi-saham-untuk-hari-ini-rabu-227",
+      "tags": [
+        "Analyst Ratings",
+        "Central Bank",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG projected to strengthen on Wednesday (22/7) as investors watch Bank Indonesia rate decision and profit‑taking",
+      "timestamp": "2026-07-21T20:59:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diproyeksi-menguat-rabu-227-investor-waspadai-hasil-rdg-bi-dan-profit-taking",
+      "tags": [
+        "Central Bank",
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Prediksi IHSG menguat dan rekomendasi saham BRMS, MAPA, MDKA, TLKM untuk Rabu, 22 Juli 2026",
+      "timestamp": "2026-07-21T18:37:07",
+      "source": "https://investor.id/market/447352/prediksi-ihsg-dan-rekomendasi-saham-rabu-22-juli-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Central Bank"
+      ]
+    },
+    {
+      "title": "Indonesia market outlook ahead of Bank Indonesia’s July 2026 RDG suggests minimal impact on the IHSG",
+      "timestamp": "2026-07-19T18:06:00",
+      "source": "https://investasi.kontan.co.id/news/menilik-nasib-pasar-keuangan-jelang-rdg-bi-bulan-juli-2026",
+      "tags": [
+        "Central Bank",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "High copper prices offer PT Amman Mineral Internasional Tbk and PT Merdeka Copper Gold Tbk upside potential",
+      "timestamp": "2026-07-19T16:05:00",
+      "source": "https://investasi.kontan.co.id/news/harga-komoditas-masih-tinggi-emiten-tembaga-berpeluang-raih-kinerja-positif",
+      "tags": [
+        "Commodities",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Nickel Issuers Moving Toward a Growth Cycle",
+      "timestamp": "2026-07-17T13:20:28",
+      "source": "https://investor.id/market/446898/emiten-nikel-menuju-siklus-pertumbuhan",
+      "tags": [
+        "Commodities",
+        "Analyst Ratings",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG projected higher as analysts recommend INCO, INDY, ISAT, OASA, ANTM, ASII, MBMA, MDKA, and PTBA",
+      "timestamp": "2026-07-17T06:46:07",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260717060604-92-1381672/ihsg-diperkirakan-cerah-jelang-akhir-pekan",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "JP Morgan highlights PT Aneka Tambang Tbk, PT Merdeka Copper Gold Tbk and PT Vale Indonesia Tbk as top Indonesian nickel stocks with strong 2026 profit outlook",
+      "timestamp": "2026-07-16T19:37:50",
+      "source": "https://investor.id/market/446805/tiga-saham-nikel-andalan-jp-morgan-laba-dan-cuan-gedegede",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Politics & Regulation",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Rising production costs test profit resilience of PT Aneka Tambang Tbk, PT Timah Tbk, and PT Vale Indonesia Tbk",
+      "timestamp": "2026-07-14T07:30:00",
+      "source": "https://market.bisnis.com/read/20260714/192/1987831/beban-produksi-membengkak-cek-daya-tahan-laba-saham-antm-tins-dan-inco",
+      "tags": [
+        "Production & Operations",
+        "Financial Metrics",
+        "Commodities",
+        "Analyst Ratings",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Assessing Basic Materials Sector Prospects for H2 2026, Highlighting ANTM and MDKA as Attractive Picks",
+      "timestamp": "2026-07-13T20:10:00",
+      "source": "https://investasi.kontan.co.id/news/menakar-prospek-sektor-bahan-baku-di-semester-ii-2026-saham-ini-layak-jadi-pilihan",
+      "tags": [
+        "Commodities",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "KB Valbury recommends PT Merdeka Copper Gold Tbk with new price target as Tambang Emas Pani fuels earnings rebound",
+      "timestamp": "2026-07-13T16:45:40",
+      "source": "https://investor.id/market/446337/mdka-ada-penggerak-muncul-target-harga",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Merdeka Copper Gold spends Rp49.49 billion on Q2 2026 exploration across three Indonesian regions",
+      "timestamp": "2026-07-13T08:27:00",
+      "source": "https://emitennews.com/news/mdka-habiskan-dana-rp4949-miliar-eksplorasi-fokus-tiga-wilayah-ini",
+      "tags": [
+        "Commodities",
+        "Capital & Funding",
+        "Production & Operations",
+        "Business Expansion",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Foreign investors record net sells of Rp 421.5 billion on Friday, led by PT Bank Central Asia Tbk and PT Bank Rakyat Indonesia Tbk",
+      "timestamp": "2026-07-10T20:34:00",
+      "source": "https://investasi.kontan.co.id/news/bbca-dan-bbri-tertatas-cermati-saham-net-sell-terbesar-asing-jumat-106",
+      "tags": [
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "List of LQ45 stocks with the lowest and highest PER on 9 July 2026, highlighting strong gains in DEWA and BRPT",
+      "timestamp": "2026-07-10T06:25:00",
+      "source": "https://investasi.kontan.co.id/news/daftar-saham-per-terendah-tertinggi-lq45-9-juli-2026-dewa-dan-brpt-jadi-sorotan",
+      "tags": [
+        "Financial Metrics",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors recorded a net sell of Rp221.68 billion in Session I, with PT Bank Rakyat Indonesia (BBRI) leading the sell‑off and PT Merdeka Battery Materials (MBMA) topping net purchases.",
+      "timestamp": "2026-07-09T14:21:14",
+      "source": "https://www.cnbcindonesia.com/market/20260709140904-17-749466/asing-net-sell-rp221-miliar-di-sesi-i-ini-daftar-sahamnya",
+      "tags": [
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MDKA's 2026 Outlook Raised as Net Profit Swings to $57.5 million and Target Price Increases",
+      "timestamp": "2026-07-09T12:59:44",
+      "source": "https://investor.id/market/445857/mdka-jadi-sorotan-prospek-terangkat-target-harga-melonjak",
+      "tags": [
+        "Financial Metrics",
+        "Production & Operations",
+        "Subsidiaries",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG projected to continue strengthening today with analysts recommending AKRA, ESSA, MEDC, DEWA, KLBF, and MDKA",
+      "timestamp": "2026-07-09T07:20:16",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260708212534-92-1378523/ihsg-diramal-lanjut-menguat-hari-ini",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "S&P Dow Jones Indices signals possible reclassification of Indonesia to frontier market, prompting potential $150‑200 million outflow from Bursa Efek Indonesia",
+      "timestamp": "2026-07-09T07:00:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/114398/alasan-s-p-dow-jones-buka-opsi-geser-indonesia-ke-frontier-market",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG opens lower at 5,905 as analysts recommend BBRI, MDKA, TINS, XCEG, ADRO, BBNI, CPIN, EMTK, and ICBP",
+      "timestamp": "2026-07-07T09:30:25",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260707092322-92-1377710/ihsg-meradang-ke-5905-pagi-ini-239-saham-merah",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas predicts IHSG rise and recommends BBRI, MDKA, and TINS for retail investors",
+      "timestamp": "2026-07-07T05:39:00",
+      "source": "https://money.kompas.com/read/2026/07/07/053924426/ihsg-diprediksi-menguat-investor-ritel-bisa-cermati-saham-mdka-tins-hingga",
+      "tags": [
+        "Analyst Ratings",
+        "Currency & FX",
+        "Commodities",
+        "Domestic Investor",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Spotlight on a Series of Stocks with Profit Potential at the Start of July",
+      "timestamp": "2026-07-06T08:50:40",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260706072743-92-1377251/intip-deret-saham-berpotensi-cuan-di-awal-juli",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Foreign Investment",
+        "Currency & FX",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts Forecast IHSG May Keep Rising on Monday and Highlight Four Stock Picks",
+      "timestamp": "2026-07-05T19:08:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-berpeluang-lanjut-menguat-di-senin-67-ini-rekomendasi-saham-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Domestic Investor",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analyst recommends buying Merdeka Group stocks MDKA, MBMA, EMAS with new target prices",
+      "timestamp": "2026-07-04T10:21:00",
+      "source": "https://investasi.kontan.co.id/news/saham-grup-merdeka-mdka-mbma-emas-layak-beli-ini-targetnya",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analyst recommends buying PT Merdeka Copper Gold Tbk and PT Merdeka Battery Materials Tbk while flagging PT Merdeka Gold Resources Tbk as high‑risk",
+      "timestamp": "2026-07-02T07:00:00",
+      "source": "https://investasi.kontan.co.id/news/cek-rekomendasi-saham-grup-merdeka-mdka-mbma-layak-lirik-emas-berisiko-tinggi",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Risk & Compliance",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Merdeka Copper Gold Tbk reports strong Q1‑2026 results and analysts upgrade stock targets for MDKA, MBMA and EMAS",
+      "timestamp": "2026-07-01T19:28:00",
+      "source": "https://investasi.kontan.co.id/news/grup-merdeka-cetak-kinerja-positif-di-kuartal-i-2026-simak-prospek-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Merdeka Copper Gold Tbk reports Q1 2026 net profit up 4,689% to $120 million",
+      "timestamp": "2026-07-01T18:04:24",
+      "source": "https://investor.id/market/444892/saham-tambang-diramal-ngacir-57-saat-ihsg-bonyok-laba-meroket-4689",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Gudang Garam announces Rp800 per share dividend; Tunas Baru Lampung offers highest dividend yield near 8.9% this week",
+      "timestamp": "2026-06-30T06:54:00",
+      "source": "https://investasi.kontan.co.id/news/cermati-rekomendasi-saham-dan-prospek-emiten-yang-cum-dividen-di-pekan-ini",
+      "tags": [
+        "Dividend Announcement",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Merdeka Copper Gold Tbk posts US$57.4 million net profit in Q1 2026, revenue up 23.5 %",
+      "timestamp": "2026-06-29T20:42:55",
+      "source": "https://investor.id/market/444594/grup-merdeka-mdka-rebound",
+      "tags": [
+        "Financial Metrics",
+        "Export",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Tunas Baru Lampung Tbk offers up to 9% dividend yield in June 2026 cum‑dividend batch",
+      "timestamp": "2026-06-29T19:00:00",
+      "source": "https://investasi.kontan.co.id/news/menilik-prospek-emiten-yang-cum-dividen-di-akhir-juni-2026",
+      "tags": [
+        "Dividend Announcement",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Merdeka Copper Gold Tbk posts Q1 2026 profit of US$57.46 million after loss, driven by MBMA nickel project",
+      "timestamp": "2026-06-29T15:10:00",
+      "source": "https://www.idnfinancials.com/id/news/65340/proyek-nikel-mbma-topang-kinerja-mdka-rugi-jadi-laba-us57-46-juta",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Export",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Merdeka Copper Gold Tbk. posts Rp974.57 billion profit in Q1 2026",
+      "timestamp": "2026-06-29T13:43:00",
+      "source": "https://market.bisnis.com/read/20260629/192/1984077/mdka-balikkan-rugi-jadi-laba-rp97457-miliar-di-kuartal-i2026",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Merdeka Copper Gold Tbk reports US$57.5 million net profit in Q1 2026, reversing a loss",
+      "timestamp": "2026-06-29T13:17:00",
+      "source": "https://investasi.kontan.co.id/news/merdeka-copper-mdka-balikkan-rugi-jadi-laba-us-575-juta-di-kuartal-i-2026",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Merdeka Battery Materials Tbk posts Q1 2026 profit of US$81.9 million, near pre‑IPO record",
+      "timestamp": "2026-06-29T12:56:53",
+      "source": "https://investor.id/market/444510/mbma-untung-besar-dekati-rekor-sebelum-ipo",
+      "tags": [
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Merdeka Copper Gold receives shareholder approval for 2.44 billion‑share private placement",
+      "timestamp": "2026-06-27T19:15:00",
+      "source": "https://emitennews.com/news/dapat-restu-mdka-kebut-private-placement-244-miliar-lembar",
+      "tags": [
+        "Private Placement",
+        "Capital & Funding",
+        "Shareholders General Meeting",
+        "Business Expansion",
+        "Asset Purchase",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "UOB Kay Hian sees crisis‑level IHSG valuation as buying opportunity and recommends selective accumulation of Indonesian stocks",
+      "timestamp": "2026-06-26T14:32:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-anjlok-ke-valuasi-krisis-ini-saham-yang-direkomendasikan-bisa-diakumulasi",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Merdeka Gold Resources Tbk. IPO debut on HKEX drops 8.12% as Merdeka group stocks fall",
+      "timestamp": "2026-06-26T13:45:00",
+      "source": "https://emitennews.com/news/debut-ipo-emas-di-hkex-anjlok-812-persen-trio-merdeka-kompak-merah",
+      "tags": [
+        "IPO",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Indonesia's IHSG rises 0.6% to 6,035 as oil prices fall",
+      "timestamp": "2026-06-26T09:35:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/113117/ihsg-menghijau-saat-bursa-asia-dominan-merah",
+      "tags": [
+        "Commodities",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "CGS International Sekuritas Indonesia recommends JPFA, TINS, WIIM, HMSP, MDKA and BBCA as IHSG likely to strengthen",
+      "timestamp": "2026-06-26T08:49:36",
+      "source": "https://investor.id/market/444199/ihsg-bakallanjut-reli-6-saham-siapbagi-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Currency & FX",
+        "Inflation",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Merdeka Copper Gold Tbk announces up to Rp 300 billion cash dividend",
+      "timestamp": "2026-06-26T07:49:40",
+      "source": "https://investor.id/market/444182/emiten-rugi-bagi-dividen",
+      "tags": [
+        "Dividend Announcement",
+        "Shareholders General Meeting",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Merdeka Copper Gold (MDKA) announces Rp300 billion cash dividend, cum date July 1 2026",
+      "timestamp": "2026-06-26T06:00:00",
+      "source": "https://emitennews.com/news/boncos-mdka-jadwal-dividen-rp300-miliar-cum-date-1-juli-2026",
+      "tags": [
+        "Dividend Announcement",
+        "Shareholders General Meeting",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Merdeka Copper Gold to Distribute Up to Rp 300 Billion Dividend",
+      "timestamp": "2026-06-25T11:41:00",
+      "source": "https://money.kompas.com/read/2026/06/25/114100826/merdeka-copper-gold-mdka-bakal-tebar-dividen-rp-300-miliar",
+      "tags": [
+        "Dividend Announcement",
+        "Capital & Funding",
+        "Shareholders General Meeting",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG expected to rise modestly; analysts recommend PT Barito Renewables Energy Tbk, PT Vale Indonesia Tbk, PT Merdeka Battery Materials Tbk, PT Trimegah Bangun Persada Tbk, PT Merdeka Copper Gold Tbk, PT Sarana Mitra Luas Tbk and PT Pantai Indah Kapuk Dua Tbk",
+      "timestamp": "2026-06-25T06:19:00",
+      "source": "https://money.kompas.com/read/2026/06/25/061900226/prediksi-ihsg-25-juni-2026--ada-peluang-rebound-simak-rekomendasi-saham-hari",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Merdeka Copper Gold Tbk declares Rp300 billion dividend",
+      "timestamp": "2026-06-24T20:20:00",
+      "source": "https://www.idnfinancials.com/id/news/65172/mdka-tebar-dividen-perdana-rp300-miliar-sejak-ipo-2015",
+      "tags": [
+        "Dividend Announcement",
+        "Private Placement",
+        "Shareholders General Meeting",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Merdeka Copper Gold Tbk to distribute up to Rp 300 billion cash dividend",
+      "timestamp": "2026-06-24T18:24:00",
+      "source": "https://investasi.kontan.co.id/news/merdeka-copper-gold-mdka-putuskan-tebar-dividen-rp-300-miliar",
+      "tags": [
+        "Dividend Announcement",
+        "Private Placement",
+        "Executive Changes",
+        "Shareholders General Meeting",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Merdeka Copper Gold Tbk declares up to Rp 300 billion cash dividend",
+      "timestamp": "2026-06-24T15:17:42",
+      "source": "https://investor.id/market/443956/mdka-tebar-dividen-rp-300-miliar",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Commodities",
+        "Shareholders General Meeting",
+        "Production & Operations",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "UOB Kay Hian finds mining stocks attractive as PT Danantara Sumberdaya Indonesia’s export oversight gains clarity",
+      "timestamp": "2026-06-24T11:10:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/112845/arah-saham-tambang-usai-pengawasan-danantara-makin-terang",
+      "tags": [
+        "Export",
+        "Commodities",
+        "Analyst Ratings",
+        "Government Policy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BRI Danareksa Sekuritas recommends OASA, MDKA, and INDY as IHSG rebound candidates",
+      "timestamp": "2026-06-23T08:21:07",
+      "source": "https://investor.id/market/443719/ihsg-berpeluang-rebound-3-saham-siap-tebar-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Credit",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "EMMI targets Rp269 bn IPO as MDKA readies private placement and BIRD announces Rp166 dividend",
+      "timestamp": "2026-06-22T08:44:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8541588/emmi-bidik-dana-ipo-rp-269-miliar-mdka-siapkan-private-placement-dan-bird-tebar-dividen",
+      "tags": [
+        "IPO",
+        "Private Placement",
+        "Dividend Announcement",
+        "Asset Purchase",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Merdeka Copper Gold (MDKA) plans 2.44 billion‑share private placement",
+      "timestamp": "2026-06-22T07:20:00",
+      "source": "https://emitennews.com/news/mdka-private-placement-244-miliar-lembar-besok-izin-investor",
+      "tags": [
+        "Private Placement",
+        "Capital & Funding",
+        "Shareholders General Meeting",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Indonesia's IHSG Rises 3.76% in the Week as Investors Focus on MSCI Review",
+      "timestamp": "2026-06-21T05:30:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-menguat-376-dalam-sepekan-investor-fokus-pada-review-msci",
+      "tags": [
+        "Global Index",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "PT Bank Central Asia Tbk and PT Bank Negara Indonesia Tbk Lead Foreign Net Buying as Indonesia Market Rebounds",
+      "timestamp": "2026-06-19T21:55:00",
+      "source": "https://investasi.kontan.co.id/news/bbca-dan-bbni-teratas-cermati-saham-yang-banyak-diborong-asing-akhir-pekan-ini",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MDKA plans private placement to issue 2.44 billion new shares",
+      "timestamp": "2026-06-19T16:24:58",
+      "source": "https://www.cnbcindonesia.com/market/20260619143519-17-744088/mdka-mau-private-placement-keluarkan-244-miliar-saham-baru",
+      "tags": [
+        "Private Placement",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Merdeka Copper Gold Tbk proposes board reshuffle ahead of June 23 2026 AGM",
+      "timestamp": "2026-06-19T16:18:38",
+      "source": "https://investor.id/corporate-action/443350/merdeka-copper-mdka-mau-rombak-direksi",
+      "tags": [
+        "Executive Changes",
+        "Shareholders General Meeting"
+      ]
+    },
+    {
+      "title": "PT Merdeka Copper Gold Tbk plans private placement of up to 2.447 billion new shares",
+      "timestamp": "2026-06-19T15:28:00",
+      "source": "https://investasi.kontan.co.id/news/mdka-siapkan-private-placement-244-miliar-saham-dananya-akan-digunakan-untuk-ini",
+      "tags": [
+        "Private Placement",
+        "Capital & Funding",
+        "Business Expansion",
+        "Shareholders General Meeting",
+        "Asset Purchase",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Merdeka Copper Gold Tbk (MDKA) Receives Resignations of Three Directors Ahead of June 23 AGM",
+      "timestamp": "2026-06-19T13:20:00",
+      "source": "https://emitennews.com/news/mdka-rombak-manajemen-tiga-direktur-kompak-mundur-jelang-rups",
+      "tags": [
+        "Executive Changes",
+        "Shareholders General Meeting",
+        "Capital & Funding",
+        "Dividend Announcement",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "BRI Danareksa Sekuritas recommends MBMA, MDKA, and DEWA as IHSG eyes rebound",
+      "timestamp": "2026-06-19T08:24:43",
+      "source": "https://investor.id/stock/443285/ihsg-berpotensi-rebound-3-saham-calon-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Central Bank",
+        "Foreign Investment",
+        "Currency & FX",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "CGS International Sekuritas Indonesia forecasts IHSG strength and highlights six stock picks",
+      "timestamp": "2026-06-19T08:24:43",
+      "source": "https://investor.id/stock/443287/ihsg-bakal-menguat-cermati-6-saham-potensial-cuan",
+      "tags": [
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BRI Danareksa Sekuritas recommends Trimegah Bangun Persada, Merdeka Copper Gold and Sarana Mitra Luas while warning Pantai Indah Kapuk Dua amid expected IHSG consolidation",
+      "timestamp": "2026-06-18T06:39:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-berpotensi-konsolidasi-kamis-186-berikut-rekomendasi-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Provident Investasi Bersama Tbk declares Rp 50 billion dividend",
+      "timestamp": "2026-06-17T17:17:00",
+      "source": "https://money.kompas.com/read/2026/06/17/171751126/palm-tebar-dividen-rp-50-miliar-ditopang-lonjakan-laba-193-persen",
+      "tags": [
+        "Dividend Announcement",
+        "Shareholders General Meeting",
+        "Financial Metrics",
+        "Subsidiaries",
+        "Mergers & Acquisitions",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Merdeka Gold Resources Tbk (EMAS) Secures Global Investor Backing Ahead of Hong Kong Stock Exchange Listing",
+      "timestamp": "2026-06-17T11:45:59",
+      "source": "https://investor.id/corporate-action/443021/emas-dapat-dukungan-investor-global-untuk-listing-di-bursa-hong-kong",
+      "tags": [
+        "IPO",
+        "Capital & Funding",
+        "Foreign Investment",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia Composite Index Likely to Keep Rising, BRI Danareksa Sekuritas Picks BMRI, MDKA and SMIL for Gains",
+      "timestamp": "2026-06-17T08:16:48",
+      "source": "https://investor.id/stock/442983/ihsg-bakal-lanjut-menguat-3-saham-siap-tebar-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Currency & FX",
+        "Market Sentiment",
+        "Global Economy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Merdeka Gold Resources Tbk secures 49.9% cornerstone commitment ahead of Hong Kong IPO",
+      "timestamp": "2026-06-17T08:06:00",
+      "source": "https://investasi.kontan.co.id/news/separuh-saham-ipo-diserap-investor-global-emas-melaju-ke-hong-kong-stock-exhange",
+      "tags": [
+        "IPO",
+        "Capital & Funding",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts recommend PT Impack Pratama Industri Tbk, PT Chandra Asri Pacific Tbk, PT Bank Mandiri Tbk, PT Merdeka Copper Gold Tbk, and PT Sarana Mitra Luas Tbk as top buys as BEI reopens",
+      "timestamp": "2026-06-17T05:00:00",
+      "source": "https://investasi.kontan.co.id/news/usai-libur-transaksi-saham-di-bei-buka-lagi-hari-ini-cek-saham-pilihan-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG projected to rise toward 6,360 as analysts recommend select stocks",
+      "timestamp": "2026-06-16T19:38:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diproyeksi-menguat-ke-6360-rabu-176-cek-rekomendasi-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Regulatory Clarity Boosts PT Aneka Tambang Tbk Stock Outlook",
+      "timestamp": "2026-06-13T19:54:00",
+      "source": "https://investasi.kontan.co.id/news/regulasi-tambang-lebih-jelas-sentimen-positif-mengalir-ke-saham-emiten-nikel",
+      "tags": [
+        "Analyst Ratings",
+        "Government Policy",
+        "Commodities",
+        "Bullish"
+      ]
+    }
+  ],
+  "corporate_events": [
+    {
+      "date": "2026-07-02",
+      "type": "Dividen",
+      "detail": "Dividen per saham Rp 12,29 · Pembayaran: 2026-07-24"
+    },
+    {
+      "date": "2026-06-11",
+      "type": "RUPS",
+      "detail": "Waktu: 14:00:00"
+    }
+  ],
+  "context_period": {
+    "start": "2026-04-01",
+    "end": "2026-09-30"
+  },
+  "source_availability": {
+    "company_fundamentals": true,
+    "corporate_events": true,
+    "news": true,
+    "peer_comparison": true,
+    "market_context": true,
+    "sector_market_series": false
+  },
+  "news_archive": {
+    "pages": 5,
+    "rows": 145,
+    "pagination_exhausted": true,
+    "totals_seen": [
+      145
+    ]
+  }
 }

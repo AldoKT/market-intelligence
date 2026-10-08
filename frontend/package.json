@@ -14,6 +14,7 @@
     "test:broker-flow": "node tests/broker-flow.cjs"
   },
   "dependencies": {
+    "@liqui-design/glass": "^0.4.0",
     "lightweight-charts": "^5.2.1",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",

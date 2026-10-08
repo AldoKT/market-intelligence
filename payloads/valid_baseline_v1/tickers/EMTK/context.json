@@ -3,8 +3,8 @@
   "as_of": "2026-09-30",
   "identity": {
     "symbol": "EMTK",
-    "company_name": null,
-    "peer_group": null
+    "company_name": "Elang Mahkota Teknologi Tbk",
+    "peer_group": "Software & IT Services"
   },
   "current": {
     "scope": "NO_CONTEXT",
@@ -20,5 +20,1131 @@
   "daily_market": {},
   "notes": [
     "Dataset scope: 28 reviewed stocks. No full-market or peer-context score is computed."
-  ]
+  ],
+  "company_snapshot": {
+    "price_date": "2026-10-07",
+    "captured_at": "2026-10-08",
+    "sector": "Technology",
+    "industry": "Online Applications & Services",
+    "website": "www.emtek.co.id",
+    "market_cap": 24447727690234,
+    "annual_year": 2025,
+    "valuation_year": 2026,
+    "metrics": [
+      {
+        "label": "Pendapatan",
+        "value": "Rp 19,12 T"
+      },
+      {
+        "label": "Laba bersih",
+        "value": "Rp 6,79 T"
+      },
+      {
+        "label": "Total aset",
+        "value": "Rp 60,77 T"
+      },
+      {
+        "label": "Ekuitas",
+        "value": "Rp 53,39 T"
+      },
+      {
+        "label": "EPS",
+        "value": "Rp 110,53"
+      },
+      {
+        "label": "P/E TTM",
+        "value": "10,90×"
+      },
+      {
+        "label": "P/B",
+        "value": "0,67×"
+      }
+    ]
+  },
+  "fundamental_peers": [
+    {
+      "symbol": "EMTK",
+      "name": "Elang Mahkota Teknologi Tbk",
+      "year": 2025,
+      "market_cap": 25184845108030,
+      "pe": 11.2283318203251,
+      "pb": 0.687611665450199,
+      "revenue": 19119724000000,
+      "in_universe": true
+    },
+    {
+      "symbol": "BELI",
+      "name": "PT Global Digital Niaga Tbk",
+      "year": 2025,
+      "market_cap": 36500250193274,
+      "pe": -21.0029019443226,
+      "pb": 3.98952131463926,
+      "revenue": 22361030000000,
+      "in_universe": false
+    },
+    {
+      "symbol": "GOTO",
+      "name": "PT GoTo Gojek Tokopedia Tbk",
+      "year": 2025,
+      "market_cap": 35357771283820,
+      "pe": 19112.3088020649,
+      "pb": 1.09136735076254,
+      "revenue": 18322117000000,
+      "in_universe": true
+    },
+    {
+      "symbol": "BUKA",
+      "name": "PT Bukalapak.com Tbk",
+      "year": 2025,
+      "market_cap": 10626210349001,
+      "pe": 5.72266599297925,
+      "pb": 0.437333254777157,
+      "revenue": 6510030453000,
+      "in_universe": false
+    },
+    {
+      "symbol": "WIFI",
+      "name": "PT Solusi Sinergi Digital Tbk",
+      "year": 2025,
+      "market_cap": 7697396071750,
+      "pe": 15.0398265721073,
+      "pb": 1.00864750003359,
+      "revenue": 1659396069858,
+      "in_universe": false
+    },
+    {
+      "symbol": "NFCX",
+      "name": "PT NFC Indonesia Tbk",
+      "year": 2025,
+      "market_cap": 1160001450000,
+      "pe": -96.3125305094986,
+      "pb": 4.42056204142194,
+      "revenue": 4069974238531,
+      "in_universe": false
+    },
+    {
+      "symbol": "PGJO",
+      "name": "PT Bahtera Bumi Raya Tbk",
+      "year": 2025,
+      "market_cap": 700356003600,
+      "pe": null,
+      "pb": 254.471261398648,
+      "revenue": 28025828926,
+      "in_universe": false
+    },
+    {
+      "symbol": "CASH",
+      "name": "PT Cashlez Worldwide Indonesia Tbk.",
+      "year": 2025,
+      "market_cap": 611806158432,
+      "pe": null,
+      "pb": -11.9389048867397,
+      "revenue": 110185952915,
+      "in_universe": false
+    },
+    {
+      "symbol": "UVCR",
+      "name": "PT Trimegah Karya Pratama Tbk",
+      "year": 2025,
+      "market_cap": 568041133992,
+      "pe": 44.8700775498633,
+      "pb": 5.11775257812124,
+      "revenue": 982180275164,
+      "in_universe": false
+    },
+    {
+      "symbol": "AWAN",
+      "name": "PT Era Digital Media Tbk",
+      "year": 2025,
+      "market_cap": 539295000000,
+      "pe": -59.6252167141878,
+      "pb": 7.38668446354101,
+      "revenue": 63101970000,
+      "in_universe": false
+    }
+  ],
+  "market_history": [
+    {
+      "date": "2026-04-01",
+      "ihsg": 7184.438,
+      "market_cap": 12646140309231200
+    },
+    {
+      "date": "2026-04-02",
+      "ihsg": 7026.782,
+      "market_cap": 12301402169484936
+    },
+    {
+      "date": "2026-04-06",
+      "ihsg": 6989.426,
+      "market_cap": 12181292965738515
+    },
+    {
+      "date": "2026-04-07",
+      "ihsg": 6971.027,
+      "market_cap": 12220087895953627
+    },
+    {
+      "date": "2026-04-08",
+      "ihsg": 7279.209,
+      "market_cap": 12745135690725105
+    },
+    {
+      "date": "2026-04-09",
+      "ihsg": 7307.589,
+      "market_cap": 12927661360702306
+    },
+    {
+      "date": "2026-04-10",
+      "ihsg": 7458.496,
+      "market_cap": 13183485554446575
+    },
+    {
+      "date": "2026-04-13",
+      "ihsg": 7500.187,
+      "market_cap": 13334711369769658
+    },
+    {
+      "date": "2026-04-14",
+      "ihsg": 7675.951,
+      "market_cap": 13680203483861089
+    },
+    {
+      "date": "2026-04-15",
+      "ihsg": 7623.586,
+      "market_cap": 13577551326427693
+    },
+    {
+      "date": "2026-04-16",
+      "ihsg": 7621.382,
+      "market_cap": 13580909513734445
+    },
+    {
+      "date": "2026-04-17",
+      "ihsg": 7634.004,
+      "market_cap": 13631805736754862
+    },
+    {
+      "date": "2026-04-20",
+      "ihsg": 7594.111,
+      "market_cap": 13530051609880990
+    },
+    {
+      "date": "2026-04-21",
+      "ihsg": 7559.38,
+      "market_cap": 13439346111420433
+    },
+    {
+      "date": "2026-04-22",
+      "ihsg": 7541.612,
+      "market_cap": 13331962629649015
+    },
+    {
+      "date": "2026-04-23",
+      "ihsg": 7378.606,
+      "market_cap": 13176851273619842
+    },
+    {
+      "date": "2026-04-24",
+      "ihsg": 7129.49,
+      "market_cap": 12732776963937495
+    },
+    {
+      "date": "2026-04-27",
+      "ihsg": 7106.52,
+      "market_cap": 12687518028997883
+    },
+    {
+      "date": "2026-04-28",
+      "ihsg": 7072.392,
+      "market_cap": 12590034125678447
+    },
+    {
+      "date": "2026-04-29",
+      "ihsg": 7101.226,
+      "market_cap": 12635384034178860
+    },
+    {
+      "date": "2026-04-30",
+      "ihsg": 6956.804,
+      "market_cap": 12378413759882228
+    },
+    {
+      "date": "2026-05-04",
+      "ihsg": 6971.953,
+      "market_cap": 12411009903513114
+    },
+    {
+      "date": "2026-05-05",
+      "ihsg": 7057.106,
+      "market_cap": 12626309574250122
+    },
+    {
+      "date": "2026-05-06",
+      "ihsg": 7092.467,
+      "market_cap": 12699830398460331
+    },
+    {
+      "date": "2026-05-07",
+      "ihsg": 7174.321,
+      "market_cap": 12778962713690869
+    },
+    {
+      "date": "2026-05-08",
+      "ihsg": 6969.396,
+      "market_cap": 12402407487340402
+    },
+    {
+      "date": "2026-05-11",
+      "ihsg": 6905.62,
+      "market_cap": 12280030079664830
+    },
+    {
+      "date": "2026-05-12",
+      "ihsg": 6858.899,
+      "market_cap": 12142773427321380
+    },
+    {
+      "date": "2026-05-13",
+      "ihsg": 6723.32,
+      "market_cap": 11821690407165346
+    },
+    {
+      "date": "2026-05-18",
+      "ihsg": 6599.24,
+      "market_cap": 11535132183193835
+    },
+    {
+      "date": "2026-05-19",
+      "ihsg": 6370.679,
+      "market_cap": 11105372542285443
+    },
+    {
+      "date": "2026-05-20",
+      "ihsg": 6318.5,
+      "market_cap": 10959980491971602
+    },
+    {
+      "date": "2026-05-21",
+      "ihsg": 6094.941,
+      "market_cap": 10549507904767653
+    },
+    {
+      "date": "2026-05-22",
+      "ihsg": 6162.045,
+      "market_cap": 10631421768765943
+    },
+    {
+      "date": "2026-05-25",
+      "ihsg": 6206.349,
+      "market_cap": 10692705367587005
+    },
+    {
+      "date": "2026-05-26",
+      "ihsg": 6130.19,
+      "market_cap": 10613054794742598
+    },
+    {
+      "date": "2026-05-29",
+      "ihsg": 6127.381,
+      "market_cap": 10725485605975573
+    },
+    {
+      "date": "2026-06-02",
+      "ihsg": 6195.427,
+      "market_cap": 10891278361519046
+    },
+    {
+      "date": "2026-06-03",
+      "ihsg": 5941.066,
+      "market_cap": 10451829355656557
+    },
+    {
+      "date": "2026-06-04",
+      "ihsg": 5839.785,
+      "market_cap": 10259085293637228
+    },
+    {
+      "date": "2026-06-05",
+      "ihsg": 5594.765,
+      "market_cap": 9803592659706909
+    },
+    {
+      "date": "2026-06-08",
+      "ihsg": 5342.137,
+      "market_cap": 9414771844192581
+    },
+    {
+      "date": "2026-06-09",
+      "ihsg": 5746.648,
+      "market_cap": 10095511071726246
+    },
+    {
+      "date": "2026-06-10",
+      "ihsg": 5902.376,
+      "market_cap": 10341178905408617
+    },
+    {
+      "date": "2026-06-11",
+      "ihsg": 5886.032,
+      "market_cap": 10287950241660193
+    },
+    {
+      "date": "2026-06-12",
+      "ihsg": 6007.656,
+      "market_cap": 10520825968837381
+    },
+    {
+      "date": "2026-06-15",
+      "ihsg": 6254.966,
+      "market_cap": 10899408952482727
+    },
+    {
+      "date": "2026-06-17",
+      "ihsg": 6220.74,
+      "market_cap": 10776148487729844
+    },
+    {
+      "date": "2026-06-18",
+      "ihsg": 6172.34,
+      "market_cap": 10736980009961606
+    },
+    {
+      "date": "2026-06-19",
+      "ihsg": 6177.139,
+      "market_cap": 10784594953877444
+    },
+    {
+      "date": "2026-06-22",
+      "ihsg": 6116.69,
+      "market_cap": 10708711379319414
+    },
+    {
+      "date": "2026-06-23",
+      "ihsg": 6101.333,
+      "market_cap": 10685047810158781
+    },
+    {
+      "date": "2026-06-24",
+      "ihsg": 5883.881,
+      "market_cap": 10312029789078805
+    },
+    {
+      "date": "2026-06-25",
+      "ihsg": 5999.038,
+      "market_cap": 10515718128770631
+    },
+    {
+      "date": "2026-06-26",
+      "ihsg": 5896.134,
+      "market_cap": 10298280398969010
+    },
+    {
+      "date": "2026-06-29",
+      "ihsg": 5820.79,
+      "market_cap": 10179250800138493
+    },
+    {
+      "date": "2026-06-30",
+      "ihsg": 5643.194,
+      "market_cap": 9894028079914985
+    },
+    {
+      "date": "2026-07-01",
+      "ihsg": 5695.116,
+      "market_cap": 10007947906561450
+    },
+    {
+      "date": "2026-07-02",
+      "ihsg": 5744.556,
+      "market_cap": 10060923668899571
+    },
+    {
+      "date": "2026-07-03",
+      "ihsg": 5875.78,
+      "market_cap": 10283558418117973
+    },
+    {
+      "date": "2026-07-06",
+      "ihsg": 5916.07,
+      "market_cap": 10352610980350056
+    },
+    {
+      "date": "2026-07-07",
+      "ihsg": 5986.497,
+      "market_cap": 10462196902308353
+    },
+    {
+      "date": "2026-07-08",
+      "ihsg": 5873.372,
+      "market_cap": 10272894518876036
+    },
+    {
+      "date": "2026-07-09",
+      "ihsg": 5912.442,
+      "market_cap": 10324456194315119
+    },
+    {
+      "date": "2026-07-10",
+      "ihsg": 5924.36,
+      "market_cap": 10336481815483724
+    },
+    {
+      "date": "2026-07-13",
+      "ihsg": 6037.842,
+      "market_cap": 10506156813352519
+    },
+    {
+      "date": "2026-07-14",
+      "ihsg": 6039.521,
+      "market_cap": 10524135196509080
+    },
+    {
+      "date": "2026-07-15",
+      "ihsg": 6041.972,
+      "market_cap": 10548175926837826
+    },
+    {
+      "date": "2026-07-16",
+      "ihsg": 6108.209,
+      "market_cap": 10655671296610599
+    },
+    {
+      "date": "2026-07-17",
+      "ihsg": 6175.535,
+      "market_cap": 10745282583293599
+    },
+    {
+      "date": "2026-07-20",
+      "ihsg": 6231.78,
+      "market_cap": 10832728685598542
+    },
+    {
+      "date": "2026-07-21",
+      "ihsg": 6340.02,
+      "market_cap": 11041209401983643
+    },
+    {
+      "date": "2026-07-22",
+      "ihsg": 6334.476,
+      "market_cap": 11064991318794462
+    },
+    {
+      "date": "2026-07-23",
+      "ihsg": 6315.311,
+      "market_cap": 11058096720739904
+    },
+    {
+      "date": "2026-07-24",
+      "ihsg": 6196.43,
+      "market_cap": 10866941513180025
+    },
+    {
+      "date": "2026-07-27",
+      "ihsg": 6185.783,
+      "market_cap": 10846820086978302
+    },
+    {
+      "date": "2026-07-28",
+      "ihsg": 6130.588,
+      "market_cap": 10748777396682842
+    },
+    {
+      "date": "2026-07-29",
+      "ihsg": 6091.386,
+      "market_cap": 10671925079765237
+    },
+    {
+      "date": "2026-07-30",
+      "ihsg": 6186.363,
+      "market_cap": 10808753111947654
+    },
+    {
+      "date": "2026-07-31",
+      "ihsg": 6236.126,
+      "market_cap": 10919632662108419
+    },
+    {
+      "date": "2026-08-03",
+      "ihsg": 6234.497,
+      "market_cap": 10891533376788029
+    },
+    {
+      "date": "2026-08-04",
+      "ihsg": 6319.613,
+      "market_cap": 11026919553266172
+    },
+    {
+      "date": "2026-08-05",
+      "ihsg": 6351.139,
+      "market_cap": 11081557528513146
+    },
+    {
+      "date": "2026-08-06",
+      "ihsg": 6343.711,
+      "market_cap": 11091230654708629
+    },
+    {
+      "date": "2026-08-07",
+      "ihsg": 6409.654,
+      "market_cap": 11208370900071437
+    },
+    {
+      "date": "2026-08-10",
+      "ihsg": 6365.374,
+      "market_cap": 11127673938712190
+    },
+    {
+      "date": "2026-08-11",
+      "ihsg": 6267.88,
+      "market_cap": 10951983899532200
+    },
+    {
+      "date": "2026-08-12",
+      "ihsg": 6373.849,
+      "market_cap": 11170270993004848
+    },
+    {
+      "date": "2026-08-13",
+      "ihsg": 6301.765,
+      "market_cap": 11047038481790783
+    },
+    {
+      "date": "2026-08-14",
+      "ihsg": 6401.888,
+      "market_cap": 11239913404397486
+    },
+    {
+      "date": "2026-08-18",
+      "ihsg": 6449.83,
+      "market_cap": 11344776423883178
+    },
+    {
+      "date": "2026-08-19",
+      "ihsg": 6394.125,
+      "market_cap": 11242710814171051
+    },
+    {
+      "date": "2026-08-20",
+      "ihsg": 6501.585,
+      "market_cap": 11417105165375641
+    },
+    {
+      "date": "2026-08-21",
+      "ihsg": 6525.69,
+      "market_cap": 11445451211005613
+    },
+    {
+      "date": "2026-08-24",
+      "ihsg": 6501.667,
+      "market_cap": 11400829359169202
+    },
+    {
+      "date": "2026-08-26",
+      "ihsg": 6405.685,
+      "market_cap": 11226539253653372
+    },
+    {
+      "date": "2026-08-27",
+      "ihsg": 6521.75,
+      "market_cap": 11444254799160097
+    },
+    {
+      "date": "2026-08-28",
+      "ihsg": 6518.121,
+      "market_cap": 11427514258790209
+    },
+    {
+      "date": "2026-08-31",
+      "ihsg": 6525.478,
+      "market_cap": 11420266337232824
+    },
+    {
+      "date": "2026-09-01",
+      "ihsg": 6599.943,
+      "market_cap": 11528076154461080
+    },
+    {
+      "date": "2026-09-02",
+      "ihsg": 6595.776,
+      "market_cap": 11521577604064942
+    },
+    {
+      "date": "2026-09-03",
+      "ihsg": 6667.891,
+      "market_cap": 11637538684241799
+    },
+    {
+      "date": "2026-09-04",
+      "ihsg": 6636.475,
+      "market_cap": 11595660058206448
+    },
+    {
+      "date": "2026-09-07",
+      "ihsg": 6619.673,
+      "market_cap": 11571807924987264
+    },
+    {
+      "date": "2026-09-08",
+      "ihsg": 6686.442,
+      "market_cap": 11668902562815871
+    },
+    {
+      "date": "2026-09-09",
+      "ihsg": 6678.201,
+      "market_cap": 11671538636715858
+    },
+    {
+      "date": "2026-09-10",
+      "ihsg": 6589.338,
+      "market_cap": 11526136904331476
+    },
+    {
+      "date": "2026-09-11",
+      "ihsg": 6541.377,
+      "market_cap": 11442963914395062
+    },
+    {
+      "date": "2026-09-14",
+      "ihsg": 6534.693,
+      "market_cap": 11368110758085182
+    },
+    {
+      "date": "2026-09-15",
+      "ihsg": 6461.153,
+      "market_cap": 11257912210981978
+    },
+    {
+      "date": "2026-09-16",
+      "ihsg": 6436.853,
+      "market_cap": 11225219420982876
+    },
+    {
+      "date": "2026-09-17",
+      "ihsg": 6462.431,
+      "market_cap": 11270346560839989
+    },
+    {
+      "date": "2026-09-18",
+      "ihsg": 6441.159,
+      "market_cap": 11262605698050558
+    },
+    {
+      "date": "2026-09-21",
+      "ihsg": 6384.726,
+      "market_cap": 11161910095429389
+    },
+    {
+      "date": "2026-09-22",
+      "ihsg": 6277.044,
+      "market_cap": 10971287923179805
+    },
+    {
+      "date": "2026-09-23",
+      "ihsg": 6374.912,
+      "market_cap": 11141915820582293
+    },
+    {
+      "date": "2026-09-24",
+      "ihsg": 6298.607,
+      "market_cap": 11021365748586840
+    },
+    {
+      "date": "2026-09-25",
+      "ihsg": 6241.892,
+      "market_cap": 10902018198054911
+    },
+    {
+      "date": "2026-09-28",
+      "ihsg": 6147.859,
+      "market_cap": 10755457591436344
+    },
+    {
+      "date": "2026-09-29",
+      "ihsg": 6121.7,
+      "market_cap": 10754858845786069
+    },
+    {
+      "date": "2026-09-30",
+      "ihsg": 6071.138,
+      "market_cap": 10691719699169471
+    }
+  ],
+  "relevant_news": [
+    {
+      "title": "PT Elang Mahkota Teknologi Tbk (EMTK) strengthens its position in PT Bukalapak.com Tbk (BUKA) and PT Nitrasanata Dharma Tbk (JECX)",
+      "timestamp": "2026-09-24T08:20:00",
+      "source": "https://www.idnfinancials.com/id/news/69316/emtek-perkuat-posisi-di-buka-dan-jecx",
+      "tags": [
+        "Ownership",
+        "Foreign Investment",
+        "Institutional Investor",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas forecasts IHSG rise and recommends top-performing stocks on 24 Sep 2026",
+      "timestamp": "2026-09-24T05:40:00",
+      "source": "https://market.bisnis.com/read/20260924/7/2006644/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-kamis-24-september-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Kreatif Media Karya increases its stake in PT Bukalapak.com Tbk to 45.68%",
+      "timestamp": "2026-09-07T16:43:00",
+      "source": "https://emitennews.com/news/pengendali-borong-saham-buka-tambah-porsi-kepemilikan-jadi-segini",
+      "tags": [
+        "Ownership",
+        "Domestic Investor",
+        "Mergers & Acquisitions",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Investment holding issuers report weak H1 2026 performance amid portfolio losses",
+      "timestamp": "2026-08-31T19:29:00",
+      "source": "https://investasi.kontan.co.id/news/kinerja-emiten-holding-investasi-masih-lesu-simak-prospeknya-di-semester-ii-2026",
+      "tags": [
+        "Financial Metrics",
+        "Asset Management",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG opens higher as market concerns ease",
+      "timestamp": "2026-08-28T09:11:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/119758/kekhawatiran-pasar-mereda-ihsg-dibuka-menguat",
+      "tags": [
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Daily stock recommendation roundup for 28 August 2026",
+      "timestamp": "2026-08-28T08:40:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/119753/rangkuman-rekomendasi-saham-hari-ini-28-agustus-2026",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Emtek sells 99.99% of PT Abhimata Citra Abadi, ending its subsidiary status",
+      "timestamp": "2026-08-26T10:18:00",
+      "source": "https://investasi.kontan.co.id/news/emtek-emtk-lepas-saham-abhimata-citra-abadi-ini-alasan-dibalik-divestasi",
+      "tags": [
+        "Subsidiaries",
+        "Mergers & Acquisitions",
+        "Ownership",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Elang Mahkota Teknologi Tbk expands AI use to improve efficiency and competitiveness",
+      "timestamp": "2026-08-25T14:09:00",
+      "source": "https://market.bisnis.com/read/20260825/192/1998727/elang-mahkota-emtk-andalkan-ai-untuk-tingkatkan-efisiensi-dan-daya-saing",
+      "tags": [
+        "Artificial Intelligence",
+        "Business Expansion",
+        "Digital Transformation",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "EMTK sells 99.99% of PT Abhimata Citra Abadi shares to Yuslinda Nasution",
+      "timestamp": "2026-08-25T06:22:00",
+      "source": "https://emitennews.com/news/ini-lini-bisnis-perusahaan-it-yang-dilepas-emtk-dan-dibeli-yuslinda",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Ownership",
+        "Subsidiaries",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Elang Mahkota Teknologi Tbk sells 99.99% of PT Abhimata Citra Abadi to former director Yuslinda Nasution",
+      "timestamp": "2026-08-24T16:57:00",
+      "source": "https://emitennews.com/news/usai-mundur-dari-direksi-yuslinda-beli-penuh-perusahaan-it-milik-emtk",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Executive Changes",
+        "Subsidiaries",
+        "Ownership",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Emtek Group (EMTK) sells 99.99% of subsidiary PT Abhimata Citra Abadi to former director Yuslinda Nasution",
+      "timestamp": "2026-08-24T14:33:00",
+      "source": "https://emitennews.com/news/emtek-group-emtk-lepas-bisnis-telekomunikasi-ke-mantan-direkturnya",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Subsidiaries",
+        "Ownership",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "EMTK sells 99.99% of subsidiary PT Abhimata Citra Abadi to former director Yuslinda Nasution",
+      "timestamp": "2026-08-24T14:15:55",
+      "source": "https://investor.id/market/451430/grup-emtek-jual-saham-abhimata-citra-abadi",
+      "tags": [
+        "Subsidiaries",
+        "Mergers & Acquisitions",
+        "Ownership",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "IHSG projected to rise toward 6,544 ahead of the weekend",
+      "timestamp": "2026-08-21T07:04:34",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260821061435-92-1394724/ihsg-berpotensi-tancap-gas-jelang-akhir-pekan-ini",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Big‑cap stocks and a stronger rupiah drove the IHSG higher on 20 August 2026",
+      "timestamp": "2026-08-20T17:50:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/119041/saham-big-caps-rupiah-menguat-jadi-pendorong-penguatan-ihsg",
+      "tags": [
+        "Currency & FX",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "IHSG projected to move within a narrow range on Wednesday 19 August, with stock recommendations for BYAN, BRMS, EMAS, PGEO, TAPG, EMTK, ADRO and BWPT",
+      "timestamp": "2026-08-19T07:00:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-berpeluang-bergerak-terbatas-pada-rabu-198-saham-saham-ini-bisa-ditimbang",
+      "tags": [
+        "Analyst Ratings",
+        "Central Bank",
+        "Interest Rate",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Vulnerable to Profit Taking; Analysts Recommend Selected Stocks for Wednesday (19 Aug)",
+      "timestamp": "2026-08-18T21:56:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-rawan-profit-taking-simak-saham-pilihan-analis-untuk-rabu-198",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG closes up 0.75% at 6,449, becoming top performer in Asian markets driven by energy and big‑cap stock gains",
+      "timestamp": "2026-08-18T18:25:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/118750/penyebab-ihsg-ditutup-menguat-jadi-yang-terbaik-di-bursa-asia",
+      "tags": [
+        "Central Bank",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Stock Recommendations and IHSG Movement for August 11, 2026",
+      "timestamp": "2026-08-11T08:10:00",
+      "source": "https://market.bisnis.com/read/20260811/7/1995163/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-11-agustus-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Elang Mahkota Teknologi Tbk reports 80.24% surge in digital revenue but posts Rp320.6 billion loss in H1 2026",
+      "timestamp": "2026-08-06T16:20:00",
+      "source": "https://www.idnfinancials.com/id/news/67094/pendapatan-digital-emtk-melonjak-80-24-semester-i-rugi-rp320-miliar",
+      "tags": [
+        "Financial Metrics",
+        "Digital Transformation",
+        "Business Expansion",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Assessing Conglomerate Stock Prospects After First‑Half 2026 Performance",
+      "timestamp": "2026-08-05T19:43:00",
+      "source": "https://investasi.kontan.co.id/news/menakar-prospek-saham-konglomerat-usai-rilis-kinerja-semester-i-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Capital & Funding",
+        "Commodities",
+        "Market Sentiment",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "IHSG expected to trade within a narrow range as analysts recommend buying TINS, EMTK, JELI and selling LUCY",
+      "timestamp": "2026-08-04T10:38:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diprediksi-bergerak-terbatas-simak-rekomendasi-saham-hari-ini-48",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG rises 0.33% to 6,254 as Asian markets gain, with broker picks highlighting TINS, ASII, and TLKM",
+      "timestamp": "2026-08-04T09:20:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/117170/ihsg-menguat-pagi-ini-susul-bursa-saham-asia",
+      "tags": [
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BRI Danareksa Sekuritas recommends TINS, EMTK and JELI on Aug 4 2026",
+      "timestamp": "2026-08-04T08:43:23",
+      "source": "https://investor.id/market/449004/rekomendasi-saham-hari-ini-selasa-4-agustus-2026-tins-emtk-jeli",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG projected to trade within a narrow range on Aug 4, with BRI Danareksa Sekuritas recommending buy positions in PT Timah Tbk, PT Elang Mahkota Teknologi Tbk, and PT Niramas Utama Tbk",
+      "timestamp": "2026-08-04T07:35:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diproyeksi-bergerak-terbatas-48-simak-rekomendasi-saham-tins-emtk-dan-jeli",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Global Economy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG closes lower as analysts cite macro data and recommend AMMN, ARCI, HRUM, TINS, EMTK, and JELI for Tuesday",
+      "timestamp": "2026-08-03T18:59:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-ditutup-melemah-analis-ungkap-penyebab-dan-saham-pilihan-besok-selasa-48",
+      "tags": [
+        "Analyst Ratings",
+        "Inflation",
+        "Global Economy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Stock Recommendations and IHSG Movement for 23 July 2026",
+      "timestamp": "2026-07-23T08:30:00",
+      "source": "https://market.bisnis.com/read/20260723/7/1990303/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-23-juli-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "PT Sarana Meditama Metropolitan Tbk increases its shareholding in PT Nitrasanata Dharma Tbk to 27.97%",
+      "timestamp": "2026-07-15T21:55:38",
+      "source": "https://investor.id/market/446686/grup-emtek-tambah-kepemilikan-saham-di-jecx",
+      "tags": [
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "SAME (PT Sarana Meditama Metropolitan Tbk) purchases additional JECX shares at Auto Rejection Top and Bottom, raising its stake to 27.97%",
+      "timestamp": "2026-07-15T10:11:00",
+      "source": "https://www.idnfinancials.com/id/news/66095/same-milik-emtek-borong-saham-jexc-saat-ara-hingga-arb",
+      "tags": [
+        "Ownership",
+        "Mergers & Acquisitions",
+        "Domestic Investor",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Expected to Strengthen Early This Week, Analysts Project Support and Resistance Levels",
+      "timestamp": "2026-07-13T07:09:05",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260713061053-92-1379922/ihsg-diperkirakan-unjuk-gigi-awali-pekan-ini",
+      "tags": [
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "PT RANS Entertainment Indonesia Tbk lists on BEI, shares surge 34.12% to Rp 228, hitting Auto Reject Top",
+      "timestamp": "2026-07-10T10:11:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8567810/ipo-rans-bertabur-konglomerat-ada-haji-isam-hingga-boy-thohir",
+      "tags": [
+        "IPO",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG opens lower at 5,905 as analysts recommend BBRI, MDKA, TINS, XCEG, ADRO, BBNI, CPIN, EMTK, and ICBP",
+      "timestamp": "2026-07-07T09:30:25",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260707092322-92-1377710/ihsg-meradang-ke-5905-pagi-ini-239-saham-merah",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "IHSG climbs green to 5,688 points this morning",
+      "timestamp": "2026-07-01T10:12:58",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260701080107-92-1375390/ihsg-merangkak-hijau-ke-level-5688-pagi-ini",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "IHSG Projected to Open July Red as Analysts Recommend Specific Stocks",
+      "timestamp": "2026-07-01T07:16:23",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260630210016-92-1375299/ihsg-diramal-merah-mengawali-juli-ini-rekomendasi-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Stock recommendation roundup for June 30, 2026 highlights multiple Indonesian equities",
+      "timestamp": "2026-06-30T08:35:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/113420/rangkuman-rekomendasi-saham-hari-ini-30-juni-2026",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    }
+  ],
+  "corporate_events": [
+    {
+      "date": "2026-08-11",
+      "type": "RUPS",
+      "detail": "Waktu: 14:00:00 · Lokasi: Lifestyle & Entertainment Room, Sctv Tower Lantai 19, Senayan City, Jl. Asia · Agenda #1: Approval of change in composition of Board of Directors. The meeting approved the resignation of Yuslinda Nasution as Director effective from the close of the meeting, and approved the new composition of the Board of Commissioners and Directors effective until the AGM in 2029. Voting results showed 96.18% approve, 3.76% against, and 0.06% abstain, with total approve including abstain at 96.24%; quorum was 82.4085% and no questions were raised.\nAgenda #2: Granting authority to Board of Directors for actions related to change in composition. The resolution grants authority and power with substitution to the Board of Directors to take any actions, prepare and execute deeds, and register the new composition with government authorities."
+    },
+    {
+      "date": "2026-05-21",
+      "type": "RUPS",
+      "detail": "Waktu: 14:00:00 · Lokasi: Studio Sctv, Sctv Tower Lantai 8, Senayan City, JL. Asia Afrika Lot. 19, Gelora, Tanah Abang · Agenda #1: The meeting approved the 2025 Annual Report, audited Consolidated Financial Statements, and oversight reports, granting full discharge to the Board of Directors and Commissioners.\nAgenda #2: Shareholders approved a mandatory reserve of Rp1,000,000,000 and a dividend payment of Rp5 per share, totaling Rp305,912,524,665.\nAgenda #3: The Board of Commissioners was authorized to set 2026 remuneration and manage the Management and Employee Stock Ownership Program (MESOP) for up to 300,000,000 shares.\nAgenda #4: KAP Purwanto Susanti dan Surja and Public Accountant Sandy Hasonudin were appointed to audit the 2026 Consolidated Financial Statements."
+    }
+  ],
+  "context_period": {
+    "start": "2026-04-01",
+    "end": "2026-09-30"
+  },
+  "source_availability": {
+    "company_fundamentals": true,
+    "corporate_events": true,
+    "news": true,
+    "peer_comparison": true,
+    "market_context": true,
+    "sector_market_series": false
+  },
+  "news_archive": {
+    "pages": 2,
+    "rows": 34,
+    "pagination_exhausted": true,
+    "totals_seen": [
+      34
+    ]
+  }
 }

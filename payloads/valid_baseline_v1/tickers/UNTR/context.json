@@ -3,8 +3,8 @@
   "as_of": "2026-09-30",
   "identity": {
     "symbol": "UNTR",
-    "company_name": null,
-    "peer_group": null
+    "company_name": "United Tractors Tbk",
+    "peer_group": "Industrial Goods"
   },
   "current": {
     "scope": "NO_CONTEXT",
@@ -20,5 +20,2126 @@
   "daily_market": {},
   "notes": [
     "Dataset scope: 28 reviewed stocks. No full-market or peer-context score is computed."
-  ]
+  ],
+  "company_snapshot": {
+    "price_date": "2026-10-07",
+    "captured_at": "2026-10-08",
+    "sector": "Industrials",
+    "industry": "Machinery",
+    "website": "www.unitedtractors.com",
+    "market_cap": 94558925697600,
+    "annual_year": 2025,
+    "valuation_year": 2026,
+    "metrics": [
+      {
+        "label": "Pendapatan",
+        "value": "Rp 131,30 T"
+      },
+      {
+        "label": "Laba bersih",
+        "value": "Rp 14,81 T"
+      },
+      {
+        "label": "Total aset",
+        "value": "Rp 177,64 T"
+      },
+      {
+        "label": "Ekuitas",
+        "value": "Rp 103,14 T"
+      },
+      {
+        "label": "EPS",
+        "value": "Rp 3.970,48"
+      },
+      {
+        "label": "P/E TTM",
+        "value": "12,38×"
+      },
+      {
+        "label": "P/B",
+        "value": "0,98×"
+      }
+    ]
+  },
+  "fundamental_peers": [
+    {
+      "symbol": "UNTR",
+      "name": "United Tractors Tbk",
+      "year": 2025,
+      "market_cap": 96983513536000,
+      "pe": 12.6997324662176,
+      "pb": 1.00424495610667,
+      "revenue": 131300810000000,
+      "in_universe": true
+    },
+    {
+      "symbol": "SMIL",
+      "name": "PT Sarana Mitra Luas Tbk",
+      "year": 2025,
+      "market_cap": 4130787408808,
+      "pe": 54.531677515947,
+      "pb": 5.18623876130967,
+      "revenue": 409278809028,
+      "in_universe": false
+    },
+    {
+      "symbol": "HEXA",
+      "name": "Hexindo Adiperkasa Tbk",
+      "year": 2025,
+      "market_cap": 2973600000000,
+      "pe": 8.11100445950365,
+      "pb": 0.977506415341665,
+      "revenue": 8696433100961,
+      "in_universe": false
+    },
+    {
+      "symbol": "SKRN",
+      "name": "PT Superkrane Mitra Utama Tbk",
+      "year": 2025,
+      "market_cap": 2955000000000,
+      "pe": 16.498696587099,
+      "pb": 4.83560247591272,
+      "revenue": 800067315250,
+      "in_universe": false
+    },
+    {
+      "symbol": "HOPE",
+      "name": "PT Harapan Duta Pertiwi Tbk",
+      "year": 2025,
+      "market_cap": 592240136434,
+      "pe": -22.572927696575,
+      "pb": 10.8690668523778,
+      "revenue": 40489065300,
+      "in_universe": false
+    },
+    {
+      "symbol": "KOBX",
+      "name": "Kobexindo Tractors Tbk",
+      "year": 2025,
+      "market_cap": 388597500000,
+      "pe": -2.63293571943784,
+      "pb": 0.804634541431899,
+      "revenue": 1675483320797,
+      "in_universe": false
+    },
+    {
+      "symbol": "INTA",
+      "name": "Intraco Penta Tbk",
+      "year": 2025,
+      "market_cap": 203980036342,
+      "pe": -3.33344287393777,
+      "pb": -0.106124744335037,
+      "revenue": 966917000000,
+      "in_universe": false
+    },
+    {
+      "symbol": "NTBK",
+      "name": "PT Nusatama Berkah Tbk",
+      "year": 2025,
+      "market_cap": 189004541390,
+      "pe": -34.9927709717868,
+      "pb": 2.13109653318357,
+      "revenue": 96588990970,
+      "in_universe": false
+    },
+    {
+      "symbol": "IBFN",
+      "name": "PT Intan Baru Prana Tbk",
+      "year": 2025,
+      "market_cap": 95591937987,
+      "pe": -46.5035648908155,
+      "pb": -0.124490806532508,
+      "revenue": 200323360971,
+      "in_universe": false
+    },
+    {
+      "symbol": "WIDI",
+      "name": "PT Widiant Jaya Krenindo Tbk",
+      "year": 2025,
+      "market_cap": 44800887124,
+      "pe": null,
+      "pb": 1.01848467613725,
+      "revenue": 15985626753,
+      "in_universe": false
+    }
+  ],
+  "market_history": [
+    {
+      "date": "2026-04-01",
+      "ihsg": 7184.438,
+      "market_cap": 12646140309231200
+    },
+    {
+      "date": "2026-04-02",
+      "ihsg": 7026.782,
+      "market_cap": 12301402169484936
+    },
+    {
+      "date": "2026-04-06",
+      "ihsg": 6989.426,
+      "market_cap": 12181292965738515
+    },
+    {
+      "date": "2026-04-07",
+      "ihsg": 6971.027,
+      "market_cap": 12220087895953627
+    },
+    {
+      "date": "2026-04-08",
+      "ihsg": 7279.209,
+      "market_cap": 12745135690725105
+    },
+    {
+      "date": "2026-04-09",
+      "ihsg": 7307.589,
+      "market_cap": 12927661360702306
+    },
+    {
+      "date": "2026-04-10",
+      "ihsg": 7458.496,
+      "market_cap": 13183485554446575
+    },
+    {
+      "date": "2026-04-13",
+      "ihsg": 7500.187,
+      "market_cap": 13334711369769658
+    },
+    {
+      "date": "2026-04-14",
+      "ihsg": 7675.951,
+      "market_cap": 13680203483861089
+    },
+    {
+      "date": "2026-04-15",
+      "ihsg": 7623.586,
+      "market_cap": 13577551326427693
+    },
+    {
+      "date": "2026-04-16",
+      "ihsg": 7621.382,
+      "market_cap": 13580909513734445
+    },
+    {
+      "date": "2026-04-17",
+      "ihsg": 7634.004,
+      "market_cap": 13631805736754862
+    },
+    {
+      "date": "2026-04-20",
+      "ihsg": 7594.111,
+      "market_cap": 13530051609880990
+    },
+    {
+      "date": "2026-04-21",
+      "ihsg": 7559.38,
+      "market_cap": 13439346111420433
+    },
+    {
+      "date": "2026-04-22",
+      "ihsg": 7541.612,
+      "market_cap": 13331962629649015
+    },
+    {
+      "date": "2026-04-23",
+      "ihsg": 7378.606,
+      "market_cap": 13176851273619842
+    },
+    {
+      "date": "2026-04-24",
+      "ihsg": 7129.49,
+      "market_cap": 12732776963937495
+    },
+    {
+      "date": "2026-04-27",
+      "ihsg": 7106.52,
+      "market_cap": 12687518028997883
+    },
+    {
+      "date": "2026-04-28",
+      "ihsg": 7072.392,
+      "market_cap": 12590034125678447
+    },
+    {
+      "date": "2026-04-29",
+      "ihsg": 7101.226,
+      "market_cap": 12635384034178860
+    },
+    {
+      "date": "2026-04-30",
+      "ihsg": 6956.804,
+      "market_cap": 12378413759882228
+    },
+    {
+      "date": "2026-05-04",
+      "ihsg": 6971.953,
+      "market_cap": 12411009903513114
+    },
+    {
+      "date": "2026-05-05",
+      "ihsg": 7057.106,
+      "market_cap": 12626309574250122
+    },
+    {
+      "date": "2026-05-06",
+      "ihsg": 7092.467,
+      "market_cap": 12699830398460331
+    },
+    {
+      "date": "2026-05-07",
+      "ihsg": 7174.321,
+      "market_cap": 12778962713690869
+    },
+    {
+      "date": "2026-05-08",
+      "ihsg": 6969.396,
+      "market_cap": 12402407487340402
+    },
+    {
+      "date": "2026-05-11",
+      "ihsg": 6905.62,
+      "market_cap": 12280030079664830
+    },
+    {
+      "date": "2026-05-12",
+      "ihsg": 6858.899,
+      "market_cap": 12142773427321380
+    },
+    {
+      "date": "2026-05-13",
+      "ihsg": 6723.32,
+      "market_cap": 11821690407165346
+    },
+    {
+      "date": "2026-05-18",
+      "ihsg": 6599.24,
+      "market_cap": 11535132183193835
+    },
+    {
+      "date": "2026-05-19",
+      "ihsg": 6370.679,
+      "market_cap": 11105372542285443
+    },
+    {
+      "date": "2026-05-20",
+      "ihsg": 6318.5,
+      "market_cap": 10959980491971602
+    },
+    {
+      "date": "2026-05-21",
+      "ihsg": 6094.941,
+      "market_cap": 10549507904767653
+    },
+    {
+      "date": "2026-05-22",
+      "ihsg": 6162.045,
+      "market_cap": 10631421768765943
+    },
+    {
+      "date": "2026-05-25",
+      "ihsg": 6206.349,
+      "market_cap": 10692705367587005
+    },
+    {
+      "date": "2026-05-26",
+      "ihsg": 6130.19,
+      "market_cap": 10613054794742598
+    },
+    {
+      "date": "2026-05-29",
+      "ihsg": 6127.381,
+      "market_cap": 10725485605975573
+    },
+    {
+      "date": "2026-06-02",
+      "ihsg": 6195.427,
+      "market_cap": 10891278361519046
+    },
+    {
+      "date": "2026-06-03",
+      "ihsg": 5941.066,
+      "market_cap": 10451829355656557
+    },
+    {
+      "date": "2026-06-04",
+      "ihsg": 5839.785,
+      "market_cap": 10259085293637228
+    },
+    {
+      "date": "2026-06-05",
+      "ihsg": 5594.765,
+      "market_cap": 9803592659706909
+    },
+    {
+      "date": "2026-06-08",
+      "ihsg": 5342.137,
+      "market_cap": 9414771844192581
+    },
+    {
+      "date": "2026-06-09",
+      "ihsg": 5746.648,
+      "market_cap": 10095511071726246
+    },
+    {
+      "date": "2026-06-10",
+      "ihsg": 5902.376,
+      "market_cap": 10341178905408617
+    },
+    {
+      "date": "2026-06-11",
+      "ihsg": 5886.032,
+      "market_cap": 10287950241660193
+    },
+    {
+      "date": "2026-06-12",
+      "ihsg": 6007.656,
+      "market_cap": 10520825968837381
+    },
+    {
+      "date": "2026-06-15",
+      "ihsg": 6254.966,
+      "market_cap": 10899408952482727
+    },
+    {
+      "date": "2026-06-17",
+      "ihsg": 6220.74,
+      "market_cap": 10776148487729844
+    },
+    {
+      "date": "2026-06-18",
+      "ihsg": 6172.34,
+      "market_cap": 10736980009961606
+    },
+    {
+      "date": "2026-06-19",
+      "ihsg": 6177.139,
+      "market_cap": 10784594953877444
+    },
+    {
+      "date": "2026-06-22",
+      "ihsg": 6116.69,
+      "market_cap": 10708711379319414
+    },
+    {
+      "date": "2026-06-23",
+      "ihsg": 6101.333,
+      "market_cap": 10685047810158781
+    },
+    {
+      "date": "2026-06-24",
+      "ihsg": 5883.881,
+      "market_cap": 10312029789078805
+    },
+    {
+      "date": "2026-06-25",
+      "ihsg": 5999.038,
+      "market_cap": 10515718128770631
+    },
+    {
+      "date": "2026-06-26",
+      "ihsg": 5896.134,
+      "market_cap": 10298280398969010
+    },
+    {
+      "date": "2026-06-29",
+      "ihsg": 5820.79,
+      "market_cap": 10179250800138493
+    },
+    {
+      "date": "2026-06-30",
+      "ihsg": 5643.194,
+      "market_cap": 9894028079914985
+    },
+    {
+      "date": "2026-07-01",
+      "ihsg": 5695.116,
+      "market_cap": 10007947906561450
+    },
+    {
+      "date": "2026-07-02",
+      "ihsg": 5744.556,
+      "market_cap": 10060923668899571
+    },
+    {
+      "date": "2026-07-03",
+      "ihsg": 5875.78,
+      "market_cap": 10283558418117973
+    },
+    {
+      "date": "2026-07-06",
+      "ihsg": 5916.07,
+      "market_cap": 10352610980350056
+    },
+    {
+      "date": "2026-07-07",
+      "ihsg": 5986.497,
+      "market_cap": 10462196902308353
+    },
+    {
+      "date": "2026-07-08",
+      "ihsg": 5873.372,
+      "market_cap": 10272894518876036
+    },
+    {
+      "date": "2026-07-09",
+      "ihsg": 5912.442,
+      "market_cap": 10324456194315119
+    },
+    {
+      "date": "2026-07-10",
+      "ihsg": 5924.36,
+      "market_cap": 10336481815483724
+    },
+    {
+      "date": "2026-07-13",
+      "ihsg": 6037.842,
+      "market_cap": 10506156813352519
+    },
+    {
+      "date": "2026-07-14",
+      "ihsg": 6039.521,
+      "market_cap": 10524135196509080
+    },
+    {
+      "date": "2026-07-15",
+      "ihsg": 6041.972,
+      "market_cap": 10548175926837826
+    },
+    {
+      "date": "2026-07-16",
+      "ihsg": 6108.209,
+      "market_cap": 10655671296610599
+    },
+    {
+      "date": "2026-07-17",
+      "ihsg": 6175.535,
+      "market_cap": 10745282583293599
+    },
+    {
+      "date": "2026-07-20",
+      "ihsg": 6231.78,
+      "market_cap": 10832728685598542
+    },
+    {
+      "date": "2026-07-21",
+      "ihsg": 6340.02,
+      "market_cap": 11041209401983643
+    },
+    {
+      "date": "2026-07-22",
+      "ihsg": 6334.476,
+      "market_cap": 11064991318794462
+    },
+    {
+      "date": "2026-07-23",
+      "ihsg": 6315.311,
+      "market_cap": 11058096720739904
+    },
+    {
+      "date": "2026-07-24",
+      "ihsg": 6196.43,
+      "market_cap": 10866941513180025
+    },
+    {
+      "date": "2026-07-27",
+      "ihsg": 6185.783,
+      "market_cap": 10846820086978302
+    },
+    {
+      "date": "2026-07-28",
+      "ihsg": 6130.588,
+      "market_cap": 10748777396682842
+    },
+    {
+      "date": "2026-07-29",
+      "ihsg": 6091.386,
+      "market_cap": 10671925079765237
+    },
+    {
+      "date": "2026-07-30",
+      "ihsg": 6186.363,
+      "market_cap": 10808753111947654
+    },
+    {
+      "date": "2026-07-31",
+      "ihsg": 6236.126,
+      "market_cap": 10919632662108419
+    },
+    {
+      "date": "2026-08-03",
+      "ihsg": 6234.497,
+      "market_cap": 10891533376788029
+    },
+    {
+      "date": "2026-08-04",
+      "ihsg": 6319.613,
+      "market_cap": 11026919553266172
+    },
+    {
+      "date": "2026-08-05",
+      "ihsg": 6351.139,
+      "market_cap": 11081557528513146
+    },
+    {
+      "date": "2026-08-06",
+      "ihsg": 6343.711,
+      "market_cap": 11091230654708629
+    },
+    {
+      "date": "2026-08-07",
+      "ihsg": 6409.654,
+      "market_cap": 11208370900071437
+    },
+    {
+      "date": "2026-08-10",
+      "ihsg": 6365.374,
+      "market_cap": 11127673938712190
+    },
+    {
+      "date": "2026-08-11",
+      "ihsg": 6267.88,
+      "market_cap": 10951983899532200
+    },
+    {
+      "date": "2026-08-12",
+      "ihsg": 6373.849,
+      "market_cap": 11170270993004848
+    },
+    {
+      "date": "2026-08-13",
+      "ihsg": 6301.765,
+      "market_cap": 11047038481790783
+    },
+    {
+      "date": "2026-08-14",
+      "ihsg": 6401.888,
+      "market_cap": 11239913404397486
+    },
+    {
+      "date": "2026-08-18",
+      "ihsg": 6449.83,
+      "market_cap": 11344776423883178
+    },
+    {
+      "date": "2026-08-19",
+      "ihsg": 6394.125,
+      "market_cap": 11242710814171051
+    },
+    {
+      "date": "2026-08-20",
+      "ihsg": 6501.585,
+      "market_cap": 11417105165375641
+    },
+    {
+      "date": "2026-08-21",
+      "ihsg": 6525.69,
+      "market_cap": 11445451211005613
+    },
+    {
+      "date": "2026-08-24",
+      "ihsg": 6501.667,
+      "market_cap": 11400829359169202
+    },
+    {
+      "date": "2026-08-26",
+      "ihsg": 6405.685,
+      "market_cap": 11226539253653372
+    },
+    {
+      "date": "2026-08-27",
+      "ihsg": 6521.75,
+      "market_cap": 11444254799160097
+    },
+    {
+      "date": "2026-08-28",
+      "ihsg": 6518.121,
+      "market_cap": 11427514258790209
+    },
+    {
+      "date": "2026-08-31",
+      "ihsg": 6525.478,
+      "market_cap": 11420266337232824
+    },
+    {
+      "date": "2026-09-01",
+      "ihsg": 6599.943,
+      "market_cap": 11528076154461080
+    },
+    {
+      "date": "2026-09-02",
+      "ihsg": 6595.776,
+      "market_cap": 11521577604064942
+    },
+    {
+      "date": "2026-09-03",
+      "ihsg": 6667.891,
+      "market_cap": 11637538684241799
+    },
+    {
+      "date": "2026-09-04",
+      "ihsg": 6636.475,
+      "market_cap": 11595660058206448
+    },
+    {
+      "date": "2026-09-07",
+      "ihsg": 6619.673,
+      "market_cap": 11571807924987264
+    },
+    {
+      "date": "2026-09-08",
+      "ihsg": 6686.442,
+      "market_cap": 11668902562815871
+    },
+    {
+      "date": "2026-09-09",
+      "ihsg": 6678.201,
+      "market_cap": 11671538636715858
+    },
+    {
+      "date": "2026-09-10",
+      "ihsg": 6589.338,
+      "market_cap": 11526136904331476
+    },
+    {
+      "date": "2026-09-11",
+      "ihsg": 6541.377,
+      "market_cap": 11442963914395062
+    },
+    {
+      "date": "2026-09-14",
+      "ihsg": 6534.693,
+      "market_cap": 11368110758085182
+    },
+    {
+      "date": "2026-09-15",
+      "ihsg": 6461.153,
+      "market_cap": 11257912210981978
+    },
+    {
+      "date": "2026-09-16",
+      "ihsg": 6436.853,
+      "market_cap": 11225219420982876
+    },
+    {
+      "date": "2026-09-17",
+      "ihsg": 6462.431,
+      "market_cap": 11270346560839989
+    },
+    {
+      "date": "2026-09-18",
+      "ihsg": 6441.159,
+      "market_cap": 11262605698050558
+    },
+    {
+      "date": "2026-09-21",
+      "ihsg": 6384.726,
+      "market_cap": 11161910095429389
+    },
+    {
+      "date": "2026-09-22",
+      "ihsg": 6277.044,
+      "market_cap": 10971287923179805
+    },
+    {
+      "date": "2026-09-23",
+      "ihsg": 6374.912,
+      "market_cap": 11141915820582293
+    },
+    {
+      "date": "2026-09-24",
+      "ihsg": 6298.607,
+      "market_cap": 11021365748586840
+    },
+    {
+      "date": "2026-09-25",
+      "ihsg": 6241.892,
+      "market_cap": 10902018198054911
+    },
+    {
+      "date": "2026-09-28",
+      "ihsg": 6147.859,
+      "market_cap": 10755457591436344
+    },
+    {
+      "date": "2026-09-29",
+      "ihsg": 6121.7,
+      "market_cap": 10754858845786069
+    },
+    {
+      "date": "2026-09-30",
+      "ihsg": 6071.138,
+      "market_cap": 10691719699169471
+    }
+  ],
+  "relevant_news": [
+    {
+      "title": "New Mining Services Rules Seen Having Varied Impacts on Mineral and Coal Issuers",
+      "timestamp": "2026-09-29T17:54:00",
+      "source": "https://investasi.kontan.co.id/news/aturan-baru-jasa-tambang-dampaknya-akan-berbeda-ke-emiten-minerba",
+      "tags": [
+        "Politics & Regulation",
+        "Analyst Ratings",
+        "Commodities",
+        "Production & Operations",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "New Mining Services Regulation May Pressure ADRO, UNTR, and DEWA",
+      "timestamp": "2026-09-29T16:44:00",
+      "source": "https://investasi.kontan.co.id/news/aturan-baru-jasa-tambang-berpotensi-tekan-adro-untr-hingga-dewa",
+      "tags": [
+        "Politics & Regulation",
+        "Risk & Compliance",
+        "Financial Metrics",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "New Mining Services Regulation Could Pressure PT Alamtri Resources Indonesia Tbk (ADRO) and PT United Tractors Tbk (UNTR), Analysts Say",
+      "timestamp": "2026-09-29T14:03:00",
+      "source": "https://investasi.kontan.co.id/news/aturan-baru-jasa-tambang-berpotensi-menekan-kinerja-adro-dan-untr-ini-kata-analis",
+      "tags": [
+        "Politics & Regulation",
+        "Analyst Ratings",
+        "Risk & Compliance",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Merdeka Copper Gold Posts US$101.56 Million Net Profit, ANTM Buys 9 Tons of Gold from Freeport Indonesia, UNTR Sets Interim Dividend",
+      "timestamp": "2026-09-29T08:30:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8683659/mdka-balik-cetak-laba-us-101-56-juta-antm-borong-9-ton-emas",
+      "tags": [
+        "Financial Metrics",
+        "Dividend Announcement",
+        "Commodities",
+        "Business Expansion",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "PT United Tractors Tbk (UNTR) Announces Interim Dividend of Rp 430 per Share with PBV Below 1",
+      "timestamp": "2026-09-29T06:00:00",
+      "source": "https://investor.id/market/455873/ada-dividen-interim-rp-430-per-saham-pbv-di-bawah-1",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Undervalued",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "United Tractors' long journey toward a sustainable industry",
+      "timestamp": "2026-09-26T20:30:00",
+      "source": "https://investor.id/market/455639/jejak-panjang-united-tractors-menempuh-industri-berkelanjutan",
+      "tags": [
+        "Annual Report",
+        "ESG",
+        "Business Expansion",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "PT United Tractors Tbk (UNTR) raises coal RKAB to 12.4 million tons and continues to boost mineral mining business",
+      "timestamp": "2026-09-23T17:25:00",
+      "source": "https://investasi.kontan.co.id/news/rkab-batubara-untr-naik-bisnis-tambang-mineral-terus-digenjot",
+      "tags": [
+        "Business Expansion",
+        "Commodities",
+        "Analyst Ratings",
+        "Stock Buyback",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk (ASII) realizes Rp17 trillion capex in H1 2026.",
+      "timestamp": "2026-09-23T17:00:00",
+      "source": "https://www.idnfinancials.com/id/news/69314/asii-merealisasikan-capex-rp17-triliun-pada-semester-satu-2026",
+      "tags": [
+        "Capital & Funding",
+        "Asset Purchase",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT United Tractors Tbk (UNTR) receives approval to raise coal RKAB to 12.4 million tons",
+      "timestamp": "2026-09-23T16:46:50",
+      "source": "https://www.cnbcindonesia.com/market/20260923151031-17-770261/united-tractor-kantongi-rkab-124-juta-ton",
+      "tags": [
+        "Business Expansion",
+        "Government Policy",
+        "Commodities",
+        "Production & Operations",
+        "Capital & Funding",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT United Tractors Tbk (UNTR) earmarks Rp7.1 trillion for share buyback through June 2026",
+      "timestamp": "2026-09-23T14:54:00",
+      "source": "https://market.bisnis.com/read/20260923/192/2006531/united-tractors-untr-rogoh-rp71-triliun-lakukan-buyback-hingga-juni-2026",
+      "tags": [
+        "Stock Buyback",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "RKAB increases to 12.4 million tons, PT United Tractors Tbk (UNTR) aims to boost coal production in the second half of 2026",
+      "timestamp": "2026-09-23T14:50:00",
+      "source": "https://investasi.kontan.co.id/news/rkab-naik-jadi-124-juta-ton-untr-genjot-produksi-batubara-di-semester-ii-2026",
+      "tags": [
+        "Business Expansion",
+        "Production & Operations",
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk (ASII) reports first‑half 2026 capex of Rp 17 trillion, driven by subsidiary PT United Tractors Tbk (UNTR).",
+      "timestamp": "2026-09-23T14:28:00",
+      "source": "https://investor.id/market/455201/belanja-modal-astra-asii-tembus-rp-17-triliun-dipacu-ekspansi-united-tractors-untr",
+      "tags": [
+        "Capital & Funding",
+        "Asset Purchase",
+        "Production & Operations",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "RKAB Dampens Heavy Equipment Sales, PT United Tractors Tbk (UNTR) Impacted",
+      "timestamp": "2026-09-23T14:20:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/122449/rkab-tekan-penjualan-alat-berat-untr-terdampak",
+      "tags": [
+        "Government Policy",
+        "Production & Operations",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk (ASII) reports capex absorption of Rp17 trillion in the first half of 2026",
+      "timestamp": "2026-09-23T14:16:00",
+      "source": "https://market.bisnis.com/read/20260923/192/2006521/astra-international-asii-serap-capex-rp17-triliun-semester-i2026",
+      "tags": [
+        "Capital & Funding",
+        "Business Expansion",
+        "Asset Purchase",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "PT United Tractors Tbk (UNTR) reports coal production and heavy‑equipment sales decline as RKAB approval is cut by 50%",
+      "timestamp": "2026-09-23T14:14:00",
+      "source": "https://www.antaranews.com/berita/5754353/produksi-batu-bara-penjualan-alat-berat-untr-turun-terdampak-izin-rkab",
+      "tags": [
+        "Commodities",
+        "Government Policy",
+        "Production & Operations",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "UNTR's RKAB approval delayed, new coal production allocation set at 12.4 million tons",
+      "timestamp": "2026-09-23T13:37:00",
+      "source": "https://emitennews.com/news/proses-rkab-seret-untr-baru-dapat-jatah-segini",
+      "tags": [
+        "Production & Operations",
+        "Politics & Regulation",
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT United Tractors Tbk (UNTR) feels impact of RKAB policy on coal operations and revenue",
+      "timestamp": "2026-09-23T13:35:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/122442/untr-merasakan-dampak-kebijakan-rkab",
+      "tags": [
+        "Government Policy",
+        "Commodities",
+        "Production & Operations",
+        "Capital & Funding",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT United Tractors Tbk (UNTR) reports coal production and heavy equipment sales fall as RKAB approvals lag",
+      "timestamp": "2026-09-23T11:36:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8675303/produksi-batu-bara-penjualan-alat-berat-untr-turun-terkendala-rkab",
+      "tags": [
+        "Commodities",
+        "Production & Operations",
+        "Government Policy",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk (ASII) reports first‑half 2026 capex realization of Rp 17 trillion, 47.2% of annual target",
+      "timestamp": "2026-09-23T11:25:00",
+      "source": "https://investasi.kontan.co.id/news/astra-international-asii-baru-serap-capex-rp-17-triliun-42-dari-target-tahun-ini",
+      "tags": [
+        "Capital & Funding",
+        "Asset Purchase",
+        "Business Expansion",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT United Tractors Tbk (UNTR) posts 21.09% YoY drop in Komatsu equipment sales and sharp declines in gold and nickel output in August 2026",
+      "timestamp": "2026-09-23T10:27:00",
+      "source": "https://investasi.kontan.co.id/news/kinerja-operasional-untr-penjualan-alat-berat-komatsu-dan-emas-lesu-per-agustus-2026",
+      "tags": [
+        "Commodities",
+        "Production & Operations",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Stock Moves of Salim to Prajogo Conglomerate Issuers: Who Delivered the Highest Returns?",
+      "timestamp": "2026-09-22T18:55:00",
+      "source": "https://market.bisnis.com/read/20260922/189/2006284/gerak-saham-emiten-konglomerat-salim-hingga-prajogo-siapa-paling-cuan",
+      "tags": [
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Shareholding changes above 5% on 18 Sep: Dato Tahir reduces MPRO stake to 10.49% and notable transactions in NSSS, YULE, JECX, MAPI, PRDA and UNTR",
+      "timestamp": "2026-09-22T08:00:00",
+      "source": "https://www.idnfinancials.com/id/news/69181/dato-tahir-lepas-37-juta-lembar-mpro-sisakan-10-49-saham",
+      "tags": [
+        "Ownership",
+        "Stock Buyback",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "RKAB revision delays weigh on mining services issuers; analyst recommends UNTR",
+      "timestamp": "2026-09-22T07:22:00",
+      "source": "https://investasi.kontan.co.id/news/ketidakpastian-rkab-mengancam-prospek-emiten-jasa-pertambangan",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Diversification",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Pending RKAB revisions pressure mining‑service firms; Kiwoom Sekuritas Indonesia recommends PT United Tractors Tbk (UNTR)",
+      "timestamp": "2026-09-21T18:59:00",
+      "source": "https://investasi.kontan.co.id/news/rkab-belum-tuntas-begini-prospek-emiten-jasa-pertambangan",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Capital & Funding",
+        "Business Expansion",
+        "Risk & Compliance",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts Highlight Stocks Including COCO and RAJA",
+      "timestamp": "2026-09-15T07:30:00",
+      "source": "https://emitennews.com/news/analis-cermati-saham-saham-ini-ada-coco-hingga-raja",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Opens Weaker at Start of Week, Pressured by Global Sentiment",
+      "timestamp": "2026-09-14T09:33:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/121427/ihsg-dibuka-melemah-di-awal-pekan-tertekan-sentimen-global",
+      "tags": [
+        "Market Sentiment",
+        "Commodities",
+        "Interest Rate",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk forecasts a recovery in the second half of 2026 and earmarks Rp36 trillion capex.",
+      "timestamp": "2026-09-11T07:18:00",
+      "source": "https://emitennews.com/news/astra-asii-pede-pulih-di-2h26-gelontorkan-capex-rp36t-untuk-ini",
+      "tags": [
+        "Capital & Funding",
+        "Asset Purchase",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk plans Rp36 trillion capex in 2026, allocating Rp15 trillion to PT United Tractors Tbk",
+      "timestamp": "2026-09-10T16:49:00",
+      "source": "https://market.bisnis.com/read/20260910/192/2003122/astra-asii-siapkan-capex-rp36-triliun-di-2026-untr-terima-rp15-triliun",
+      "tags": [
+        "Capital & Funding",
+        "Business Expansion",
+        "Mergers & Acquisitions",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Astra International (ASII) Projects H2 2026 Earnings Recovery on Mining Rebound and Martabe Gold Mine Restart; ASII and Subsidiary United Tractors (UNTR) Announce Share Buybacks",
+      "timestamp": "2026-09-10T16:10:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/121172/sinyal-pemulihan-kinerja-astra-asii-semester-ii-2026",
+      "tags": [
+        "Stock Buyback",
+        "Subsidiaries",
+        "Financial Metrics",
+        "Commodities",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Emtek subsidiary PT Kreatif Media Karya acquires 803.28 million shares of PT Bukalapak.com Tbk, raising its stake to 45.68%",
+      "timestamp": "2026-09-10T15:40:00",
+      "source": "https://www.idnfinancials.com/id/news/68636/anak-usaha-emtek-borong-803-juta-buka-kuasai-45-68-saham",
+      "tags": [
+        "Ownership",
+        "Stock Buyback",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Astra International Explains Rationale for Voluntary Tender Offer to Increase Stake in Astra Otoparts",
+      "timestamp": "2026-09-10T13:35:00",
+      "source": "https://market.bisnis.com/read/20260910/192/2003046/bos-astra-ungkap-alasan-asii-kerek-kepemilikan-saham-di-auto",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Ownership",
+        "Capital & Funding",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Astra Focuses on Three Core Profit Engines, Plans Rp35.6 Trillion Capex and VTO for AUTO, with Non-Fit Businesses Facing Capital Reallocation",
+      "timestamp": "2026-09-10T13:05:00",
+      "source": "https://www.idnfinancials.com/id/news/68646/astra-fokus-3-mesin-profit-bisnis-tak-fit-siap-kena-realokasi-modal",
+      "tags": [
+        "Capital & Funding",
+        "Asset Purchase",
+        "Stock Buyback",
+        "Dividend Announcement",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Astra International (ASII) Commits to 45-50% Dividend Payout Ratio for Fiscal Year 2026 Amid Mining Challenges",
+      "timestamp": "2026-09-10T12:20:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/121140/bocoran-rasio-dividen-astra-asii-tahun-buku-2026",
+      "tags": [
+        "Dividend Announcement",
+        "Stock Buyback",
+        "Commodities",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Stock Recommendations to Watch When the IHSG Strengthens",
+      "timestamp": "2026-09-09T08:50:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8654774/rekomendasi-saham-yang-bisa-dilirik-saat-ihsg-menguat",
+      "tags": [
+        "Dividend Announcement",
+        "Foreign Investment",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "United Tractors Outlines H2 2026 Recovery Driven by RKAB Coal Quota Revision and Martabe Gold Mine Restart",
+      "timestamp": "2026-09-08T05:00:00",
+      "source": "https://market.bisnis.com/read/20260908/192/2002160/kisi-kisi-pemulihan-kinerja-untr-dari-revisi-rkab-hingga-emas-martabe",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BRI Danareksa Sekuritas analyst highlights expansion prospects and buy recommendations for PT Bumi Resources Tbk, PT Petrosea Tbk, PT United Tractors Tbk and PT Aneka Tambang Tbk.",
+      "timestamp": "2026-09-07T18:54:00",
+      "source": "https://investasi.kontan.co.id/news/cek-prospek-dan-rekomendasi-emiten-yang-akuisisi-aset-tambang-di-luar-negeri",
+      "tags": [
+        "Analyst Ratings",
+        "Business Expansion",
+        "Mergers & Acquisitions",
+        "Foreign Investment",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT United Tractors Tbk profit falls 48% as national coal RKAB allocation cuts weigh on heavy equipment and mining sales",
+      "timestamp": "2026-09-07T17:34:50",
+      "source": "https://investor.id/market/453141/rkab-batu-bara-tekan-kinerja-untr-laba-anjlok-48",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Government Policy",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT United Tractors Tbk announces Doup gold mine will start production in 2029",
+      "timestamp": "2026-09-07T17:26:00",
+      "source": "https://investasi.kontan.co.id/news/united-tractors-untr-sebut-tambang-emas-doup-produksi-pada-2029",
+      "tags": [
+        "Production & Operations",
+        "Commodities",
+        "Asset Purchase",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "UNTR reports 78% drop in gold sales and outlines future plans for Martabe and Doup mines",
+      "timestamp": "2026-09-07T17:25:00",
+      "source": "https://www.idnfinancials.com/id/news/68461/penjualan-emas-anjlok-78-untr-ungkap-masa-depan-martabe-dan-doup",
+      "tags": [
+        "Commodities",
+        "Production & Operations",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT United Tractors Tbk projects challenging performance outlook through end of 2026",
+      "timestamp": "2026-09-07T16:15:00",
+      "source": "https://investasi.kontan.co.id/news/united-tractors-untr-prediksi-kinerja-masih-menantang-hingga-akhir-2026",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Production & Operations",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT United Tractors Tbk drives gold business as Martabe revives and Doup mine slated for 2029 operation",
+      "timestamp": "2026-09-07T16:05:00",
+      "source": "https://market.bisnis.com/read/20260907/192/2002081/untr-pacu-bisnis-emas-martabe-pulih-tambang-doup-beroperasi-2029",
+      "tags": [
+        "Business Expansion",
+        "Commodities",
+        "Asset Purchase",
+        "Financial Metrics",
+        "Mergers & Acquisitions",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "UNTR Warns of El Niño Impact on Coal Mining as RKAB Revision Takes Effect",
+      "timestamp": "2026-09-07T15:45:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/120771/baru-kelar-soal-rkab-untr-dihadapkan-dampak-el-nino",
+      "tags": [
+        "Commodities",
+        "Government Policy",
+        "Production & Operations",
+        "Financial Metrics",
+        "Risk & Compliance",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign investors show early signs of tactical re-entry into Indonesian equities, with analysts highlighting big banks and select sectors.",
+      "timestamp": "2026-09-07T15:43:00",
+      "source": "https://investasi.kontan.co.id/news/asing-mulai-re-entry-ke-pasar-saham-intip-rekomendasi-saham-yang-menarik-dicermati",
+      "tags": [
+        "Foreign Investment",
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Currency & FX",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "United Tractors (UNTR) outlines 2026 plan for newly acquired PT Arafura Surya Alam gold mine",
+      "timestamp": "2026-09-07T15:12:16",
+      "source": "https://investor.id/market/453121/united-tractors-untr-bukabukaan-soaltambang-emas-baru",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Business Expansion",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors' top ten net‑buy stocks on 4 Sep 2026 amid a 0.47% IHSG correction",
+      "timestamp": "2026-09-04T20:14:00",
+      "source": "https://investasi.kontan.co.id/news/cermati-saham-yang-banyak-diborong-asing-saat-ihsg-terkoreksi-047-di-akhir-pekan",
+      "tags": [
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT J Resources Asia Pasifik Tbk Allocates Doup Divestment Proceeds to Foreign Currency Investments and Jumbo Dividend While Reporting Profit Driven by One-Time Gain",
+      "timestamp": "2026-09-04T09:50:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/120485/menelusuri-aliran-uang-hasil-divestasi-tambang-emas-doup-psab",
+      "tags": [
+        "Currency & FX",
+        "Dividend Announcement",
+        "Capital & Funding",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT United Tractors Tbk Reports Declining Seven-Month Sales Across Most Segments with July Improvement in Komatsu and PAMA",
+      "timestamp": "2026-09-03T11:36:00",
+      "source": "https://market.bisnis.com/read/20260903/192/2001021/penjualan-untr-terkoreksi-per-juli-2026-performa-komatsu-pama-mulai-naik",
+      "tags": [
+        "Financial Metrics",
+        "Production & Operations",
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "BRI Danareksa Sekuritas Recommends Buy on PT United Tractors Tbk with Rp 30,600 Target Price on Operational Improvement",
+      "timestamp": "2026-09-03T06:52:02",
+      "source": "https://investor.id/market/452662/saham-pbv-di-bawah-1-disorot-katanya-bisa-ke-rp-30000an",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Commodities",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "List of LQ45 stocks with lowest and highest PER on 2 September 2026, highlighting DEWA and AADI",
+      "timestamp": "2026-09-03T06:33:00",
+      "source": "https://investasi.kontan.co.id/news/daftar-saham-per-terendah-tertinggi-lq45-2-september-2026-dewa-dan-aadi-disorot",
+      "tags": [
+        "Financial Metrics",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "The Fate of Indonesian Stocks Amid MSCI's Whirlwind",
+      "timestamp": "2026-09-03T06:22:02",
+      "source": "https://investor.id/market/452657/nasib-saham-di-pusaran-msci",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Heavy‑Equipment Market Projected to Grow, Yet PT United Tractors Tbk Sales Fall, PT Kobexindo Tractors Tbk Surge, and PT Intraco Penta Tbk Slip in Q2 2026",
+      "timestamp": "2026-09-02T17:03:00",
+      "source": "https://investasi.kontan.co.id/news/penjualan-alat-berat-diproyeksi-masih-tumbuh-begini-prospek-untr-kobx-dan-inta",
+      "tags": [
+        "Business Expansion",
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Diversification",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "PT J Resources Asia Pasifik Tbk reports 803% profit surge in H1 2026 driven by PT Arafura Surya Alam divestment and Penjom write-off",
+      "timestamp": "2026-09-02T11:14:32",
+      "source": "https://investor.id/market/452555/di-balik-lonjakanlaba-psab",
+      "tags": [
+        "Financial Metrics",
+        "Mergers & Acquisitions",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "United Tractors' profit attributable to shareholders falls 88% YoY in H1 2026",
+      "timestamp": "2026-09-01T11:26:39",
+      "source": "https://www.cnbcindonesia.com/market/20260901104838-17-763923/laba-united-tractors--untr--anjlok-88-ini-penyebabnya",
+      "tags": [
+        "Financial Metrics",
+        "Joint Venture",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Astra International projected to improve in H2 2026 as automotive, financial services and Martabe mine drive growth",
+      "timestamp": "2026-08-18T19:34:00",
+      "source": "https://investasi.kontan.co.id/news/astra-international-asii-diproyeksi-moncer-semester-ii-2026-ini-katalisnya",
+      "tags": [
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Dividend Announcement",
+        "Stock Buyback",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors sell net Rp1.58 trillion of Indonesian stocks, top 10 net‑sell losers listed",
+      "timestamp": "2026-08-18T07:00:57",
+      "source": "https://www.cnbcindonesia.com/market/20260817221515-17-760118/asing-lepas-rp158-triliun-saham-ri-ini-daftarnya",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign investors net‑sell PT Bank Mandiri Tbk, PT Telkom Indonesia Tbk and other stocks as the IHSG rose 1.69%",
+      "timestamp": "2026-08-13T09:01:00",
+      "source": "https://investasi.kontan.co.id/news/bmri-tlkm-teratas-intip-saham-yang-banyak-dijual-asing-saat-ihsg-melonjak-kemarin",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG up 1.69% on Aug 13, 2026, with top LQ45 gainers and buy‑on‑weakness picks",
+      "timestamp": "2026-08-13T08:28:00",
+      "source": "https://market.bisnis.com/read/20260813/7/1995791/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-13-agustus-2026",
+      "tags": [
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts deem mining‑services issuers still prospective and highlight UNTR, DEWA, MYOH as top picks",
+      "timestamp": "2026-08-12T18:58:00",
+      "source": "https://investasi.kontan.co.id/news/emiten-jasa-pertambangan-masih-prospektif-ini-saham-pilihan-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Export",
+        "Government Policy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Stock Recommendations and IHSG Movement for August 11, 2026",
+      "timestamp": "2026-08-11T08:10:00",
+      "source": "https://market.bisnis.com/read/20260811/7/1995163/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-11-agustus-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "UNTR's Net Profit Falls 88% YoY to Rp 956.28bn, Analysts Cite Diversification and Gold Prices as Potential Support",
+      "timestamp": "2026-08-07T18:21:00",
+      "source": "https://investasi.kontan.co.id/news/laba-untr-anjlok-88-diversifikasi-bisnis-dan-harga-emas-bisa-jadi-penyelamat",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Business Expansion",
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "United Tractors (UNTR) Outlook Remains Pressured as H1 2026 Profit Falls 88% and Recovery Hinges on RKAB Revision and Martabe Mine Restart",
+      "timestamp": "2026-08-06T17:18:00",
+      "source": "https://investasi.kontan.co.id/news/united-tractors-untr-masih-tekanan-prospek-ditopang-rkab-dan-tambang-martabe",
+      "tags": [
+        "Financial Metrics",
+        "Government Policy",
+        "Commodities",
+        "Analyst Ratings",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Assessing Conglomerate Stock Prospects After First‑Half 2026 Performance",
+      "timestamp": "2026-08-05T19:43:00",
+      "source": "https://investasi.kontan.co.id/news/menakar-prospek-saham-konglomerat-usai-rilis-kinerja-semester-i-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Capital & Funding",
+        "Commodities",
+        "Market Sentiment",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Indo Premier Sekuritas raises profit forecasts and lifts price target to Rp 5,900 for PT Astra International Tbk (ASII)",
+      "timestamp": "2026-08-05T18:31:00",
+      "source": "https://investasi.kontan.co.id/news/proyeksi-laba-target-harga-astra-asii-dikerek-naik-usai-rilis-lapkeu-semester-i",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Technical trading recommendations for AKRA, TAPG, and UNTR for Wednesday, 5 August 2026",
+      "timestamp": "2026-08-05T05:30:00",
+      "source": "https://investasi.kontan.co.id/news/cermati-rekomendasi-teknikal-akra-tapg-untr-untuk-perdagangan-rabu-58",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Indonesia's IHSG jumps 1.37% as foreign investors net buy Rp623 billion, led by major banks",
+      "timestamp": "2026-08-04T19:04:11",
+      "source": "https://www.cnbcindonesia.com/market/20260804181846-17-756573/ihsg-lompat-asing-net-buy-rp623-miliar-borong-saham-bank",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "LQ45 constituents post solid first‑half 2026 earnings, with top blue‑chip picks highlighted for semester II",
+      "timestamp": "2026-08-04T05:39:00",
+      "source": "https://investasi.kontan.co.id/news/laba-emiten-lq45-lampaui-ekspektasi-cek-saham-blue-chip-pilihan-semester-ii-2026",
+      "tags": [
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Interest Rate",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Prospects and Recommendations for LQ45 Constituents After First‑Half 2026 Earnings",
+      "timestamp": "2026-08-03T21:07:00",
+      "source": "https://investasi.kontan.co.id/news/cek-prospek-rekomendasi-saham-emiten-lq45-usai-rilis-kinerja-semester-i-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Interest Rate",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analyst highlights strong first‑half 2026 earnings across LQ45 constituents and points to several stocks with upside potential through year‑end 2026",
+      "timestamp": "2026-08-03T19:32:00",
+      "source": "https://investasi.kontan.co.id/news/laba-emiten-lq45-moncer-analis-beberkan-deretan-saham-potensial-hingga-akhir-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Majority of LQ45 Index constituents post solid performance in H1 2026",
+      "timestamp": "2026-08-03T19:03:00",
+      "source": "https://investasi.kontan.co.id/news/mayoritas-emiten-di-indeks-lq45-raih-kinerja-apik-pada-semester-i-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT United Tractors Tbk records Rp2.7 trillion impairment on geothermal investment in PT Supreme Energy Rantau Dadap",
+      "timestamp": "2026-08-03T11:40:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/117046/untr-catat-impairtment-rp2-7-t-di-proyek-geothermal",
+      "tags": [
+        "Financial Metrics",
+        "Ownership",
+        "Subsidiaries",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Popular financial news roundup covers Antam gold price outlook, UNTR losses and discounts, IHSG prospects, and BMRI valuation",
+      "timestamp": "2026-08-03T05:06:55",
+      "source": "https://investor.id/market/448837/berita-populer-arah-harga-emas-antam-antm-hingga-untr-lagi-diskon",
+      "tags": [
+        "Commodities",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Central Bank",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Foreign investors net sold Rp 250.53 billion over the weekend, with PT MNC Digital Entertainment Tbk leading the top‑10 most‑sold stocks",
+      "timestamp": "2026-07-31T21:21:00",
+      "source": "https://investasi.kontan.co.id/news/asing-catat-net-sell-rp-250-miliar-di-akhir-pekan-cek-saham-yang-banyak-diborong",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "ASII profit projected to rebound in H2 2026 with target net profit up to Rp29 trillion, analysts say",
+      "timestamp": "2026-07-31T18:41:00",
+      "source": "https://investasi.kontan.co.id/news/laba-asii-diproyeksi-pulih-di-semester-ii-2026-cek-proyeksi-rekomendasi-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Astra International posts 22% YoY profit decline in Q2 2026, analysts keep buy recommendation",
+      "timestamp": "2026-07-31T16:27:00",
+      "source": "https://investasi.kontan.co.id/news/kinerja-astra-asii-di-bawah-ekspektasi-begini-rekomendasi-sahamnya",
+      "tags": [
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Stock Buyback",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "JP Morgan recommends accumulation of PT Astra International Tbk (ASII) citing strong automotive earnings despite a 26% profit decline.",
+      "timestamp": "2026-07-31T14:13:07",
+      "source": "https://investor.id/market/448619/seruan-akumulasi-asii-dari-jp-morgan-cuan-besar-menanti",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "United Tractors' Net Profit Falls 48% in H1 2026 as Coal RKAB Allocation and Gold Sales Decline",
+      "timestamp": "2026-07-31T09:13:00",
+      "source": "https://money.kompas.com/read/2026/07/31/091309526/laba-united-tractors-anjlok-48-persen-terdampak-rkab-batu-bara-dan-penjualan",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Astra International posts half‑year profit of Rp12.5 trillion and announces up to Rp8 trillion share buyback",
+      "timestamp": "2026-07-31T07:00:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/116785/astra-asii-cetak-laba-rp12-5-triliun-prospek-makin-cerah",
+      "tags": [
+        "Financial Metrics",
+        "Stock Buyback",
+        "Shareholders General Meeting",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Astra International posts Rp12.53 trillion net profit in H1 2026, announces up‑to‑Rp8 trillion share buyback",
+      "timestamp": "2026-07-30T19:10:00",
+      "source": "https://market.bisnis.com/read/20260730/192/1992424/astra-asii-mampu-cetak-laba-rp1253-triliun-di-semester-i2026",
+      "tags": [
+        "Stock Buyback",
+        "Financial Metrics",
+        "Subsidiaries",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk reports H1 2026 revenue of Rp 157.9 trillion and net profit of Rp 12.5 trillion",
+      "timestamp": "2026-07-30T18:49:27",
+      "source": "https://investor.id/market/448509/astra-asii-raup-pendapatan-rp-1579-t-dan-laba-rp-125-t",
+      "tags": [
+        "Financial Metrics",
+        "Stock Buyback",
+        "Mergers & Acquisitions",
+        "Capital & Funding",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "United Tractors' Net Profit Plummets 88% as 2026 RKAB Coal Allocation Cuts Hit Sales",
+      "timestamp": "2026-07-30T18:10:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/116760/united-tractors-terpukul-kebijakan-rkab-tambang",
+      "tags": [
+        "Financial Metrics",
+        "Government Policy",
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "United Tractors reports Rp58.3 trillion revenue for H1 2026, down 15% YoY",
+      "timestamp": "2026-07-30T12:29:00",
+      "source": "https://www.antaranews.com/berita/5672283/united-tractors-cetak-pendapatan-rp583-triliun-di-semester-i-2026",
+      "tags": [
+        "Financial Metrics",
+        "Stock Buyback",
+        "Commodities",
+        "Currency & FX",
+        "Capital & Funding",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "United Tractors posts 48% YoY decline in H1 2026 net profit as revenue falls 15%",
+      "timestamp": "2026-07-30T10:57:33",
+      "source": "https://investor.id/market/448434/potret-laba-united-tractorsuntr",
+      "tags": [
+        "Financial Metrics",
+        "Stock Buyback",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT United Tractors Tbk reports 15% revenue decline and 48% net profit drop in H1 2026",
+      "timestamp": "2026-07-30T10:36:00",
+      "source": "https://investasi.kontan.co.id/news/pendapatan-dan-laba-bersih-united-tractors-untr-turun-pada-semester-i-2026",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "United Tractors (UNTR) reports revenue of Rp58.3 trillion for the first half of 2026",
+      "timestamp": "2026-07-30T10:21:00",
+      "source": "https://market.bisnis.com/read/20260730/192/1992254/united-tractors-untr-cetak-pendapatan-rp583-triliun-semester-i2026",
+      "tags": [
+        "Financial Metrics",
+        "Stock Buyback",
+        "Asset Purchase",
+        "Mergers & Acquisitions",
+        "Capital & Funding",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT United Tractors Tbk net profit drops 88% in first half of 2026",
+      "timestamp": "2026-07-30T10:05:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/116663/laba-united-tractors-untr-anjlok-88-di-semester-i-2026",
+      "tags": [
+        "Financial Metrics",
+        "Stock Buyback",
+        "Asset Purchase",
+        "Capital & Funding",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "United Tractors posts 15% lower H1 2026 revenue and 88% plunge in profit attributable to shareholders",
+      "timestamp": "2026-07-30T08:32:00",
+      "source": "https://emitennews.com/news/memburuk-ini-performa-keuangan-untr-paruh-i-2026",
+      "tags": [
+        "Financial Metrics",
+        "Stock Buyback",
+        "Mergers & Acquisitions",
+        "Capital & Funding",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Indo Premier Sekuritas forecasts PT Astra International core net profit of Rp13.5 trillion for H1 2026",
+      "timestamp": "2026-07-27T14:50:00",
+      "source": "https://market.bisnis.com/read/20260727/192/1991373/astra-asii-diprediksi-kantongi-laba-inti-rp135-triliun-semester-i2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Stock Buyback",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Top 10 weekly laggards, led by BMRI, BBCA and ASII, weigh on Indonesia's IHSG",
+      "timestamp": "2026-07-26T08:10:00",
+      "source": "https://market.bisnis.com/read/20260726/7/1991076/daftar-10-top-laggards-sepekan-bmri-bbca-hingga-asii-jadi-pemberat-utama-ihsg",
+      "tags": [
+        "Market Sentiment",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Stock Recommendations and IHSG Movement for 23 July 2026",
+      "timestamp": "2026-07-23T08:30:00",
+      "source": "https://market.bisnis.com/read/20260723/7/1990303/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-23-juli-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Technical buy and hold recommendations for BREN, ACES, and UNTR ahead of Thursday trading (23 July)",
+      "timestamp": "2026-07-22T18:13:00",
+      "source": "https://investasi.kontan.co.id/news/simak-rekomendasi-teknikal-saham-bren-aces-dan-untr-untuk-kamis-237",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "UBS Sekuritas dominates buying and selling activity among blue‑chip stocks on 17 July 2026",
+      "timestamp": "2026-07-18T06:44:00",
+      "source": "https://investasi.kontan.co.id/news/daftar-broker-pembeli-penjual-blue-chip-17-juli-2026-ubs-sekuritas-disorot",
+      "tags": [
+        "Foreign Investment"
+      ]
+    },
+    {
+      "title": "LQ45 stocks on 14 July 2026 show lowest and highest PERs, with Barito Pacific and United Tractors highlighted",
+      "timestamp": "2026-07-15T05:18:00",
+      "source": "https://investasi.kontan.co.id/news/daftar-saham-per-terendah-tertinggi-lq45-14-juli-2026-brpt-dan-untr-jadi-sorotan",
+      "tags": [
+        "Foreign Investment",
+        "Financial Metrics",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Analyst projects continued positive performance for PT Astra International Tbk to 2026 and issues a buy‑on‑weakness recommendation",
+      "timestamp": "2026-07-15T04:35:00",
+      "source": "https://investasi.kontan.co.id/news/prospek-kinerja-astra-international-asii-masih-cerah-cek-rekomendasi-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Interest Rate",
+        "Currency & FX",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Astra International's stock outlook stays positive, supported by automotive market recovery",
+      "timestamp": "2026-07-14T21:37:00",
+      "source": "https://investasi.kontan.co.id/news/prospek-saham-astra-asii-masih-positif-ditopang-pemulihan-otomotif",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk’s car sales rise 10% YoY, analyst recommends buying the stock",
+      "timestamp": "2026-07-14T18:21:00",
+      "source": "https://investasi.kontan.co.id/news/penjualan-mobil-astra-international-asii-tumbuh-ini-rekomendasinya",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Interest Rate",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indo Premier Sekuritas raises automotive sector recommendation to Overweight ahead of GIIAS",
+      "timestamp": "2026-07-14T11:35:00",
+      "source": "https://investasi.kontan.co.id/news/jelang-giias-sektor-otomotif-mulai-bangkit-indo-premier-kerek-rekomendasi-overweight",
+      "tags": [
+        "Analyst Ratings",
+        "Risk & Compliance",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "RANS Entertainment Indonesia shares plunge 10.5% as Indonesia Composite Index climbs above 6,000",
+      "timestamp": "2026-07-13T17:03:00",
+      "source": "https://emitennews.com/news/harga-saham-rans-anjlok-drastis-saat-ihsg-melesat-balik-ke-level-6000",
+      "tags": [
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "List of LQ45 stocks with the lowest and highest PER on 9 July 2026, highlighting strong gains in DEWA and BRPT",
+      "timestamp": "2026-07-10T06:25:00",
+      "source": "https://investasi.kontan.co.id/news/daftar-saham-per-terendah-tertinggi-lq45-9-juli-2026-dewa-dan-brpt-jadi-sorotan",
+      "tags": [
+        "Financial Metrics",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Direction Today and Market Stock Picks",
+      "timestamp": "2026-07-09T09:40:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/114419/simak-arah-ihsg-hari-ini-dan-saham-pilihan-pasar",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "LQ45 stocks with the lowest and highest PER on 8 July 2026 saw most shares close lower",
+      "timestamp": "2026-07-09T05:58:00",
+      "source": "https://investasi.kontan.co.id/news/daftar-saham-per-terendah-tertinggi-lq45-8-juli-2026-mayoritas-kompak-merah",
+      "tags": [
+        "Financial Metrics",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG drops 1.11% to 5,920 in morning session, with SMGR, BRPT and CUAN leading losses",
+      "timestamp": "2026-07-08T12:36:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-jatuh-111-ke-5920-sesi-i-rabu-87-top-losers-saham-smgr-brpt-cuan",
+      "tags": [
+        "Market Sentiment",
+        "Global Index",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG slides to 5,934 as S&P Dow Jones Indices watchlist pressures market",
+      "timestamp": "2026-07-08T09:32:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-turun-ke-level-5934-di-awal-sesi-rabu-87-watchlist-sp-dji-membebani-pasar",
+      "tags": [
+        "Global Index",
+        "Market Sentiment",
+        "Politics & Regulation"
+      ]
+    },
+    {
+      "title": "Weekly Top 10 IHSG Supporting Stocks: AMMN, DCII and BREN Lead",
+      "timestamp": "2026-07-05T08:06:00",
+      "source": "https://market.bisnis.com/read/20260705/7/1985593/10-saham-penopang-ihsg-sepekan-ammn-dcii-hingga-bren-pimpin-top-leaders",
+      "tags": [
+        "Foreign Investment"
+      ]
+    },
+    {
+      "title": "IHSG rebounds to 5,744.55, spotlighting foreign investors' biggest net‑buy stocks",
+      "timestamp": "2026-07-02T20:54:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-kembali-menguat-ke-5744-intip-saham-net-buy-terbesar-asing-kamis-27",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Technical stock recommendations for Friday, 3 July: PT Astra International Tbk, PT Pakuwon Jati Tbk, and PT United Tractors Tbk",
+      "timestamp": "2026-07-02T18:39:00",
+      "source": "https://investasi.kontan.co.id/news/simak-rekomendasi-saham-teknikal-untuk-jumat-37-asii-pwon-untr",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG volatile as BREN, TLKM and BRPT lead gains while United Tractors launches buyback and Erajaya declares dividend",
+      "timestamp": "2026-07-02T09:33:32",
+      "source": "https://www.cnbcindonesia.com/market/20260702082514-17-747378/ihsg-masih-volatil-deretan-saham-ini-menarik-buat-dilirik",
+      "tags": [
+        "Stock Buyback",
+        "Dividend Announcement",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "UNTR Announces Rp2 Trillion Share Buyback, NCKL Expands Smelter Capacity, ERAA Declares Rp25 Cash Dividend",
+      "timestamp": "2026-07-02T08:40:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8556202/untr-siapkan-buyback-rp-2-triliun-nckl-kebut-proyek-smelter-dan-eraa-bagikan-dividen-tunai",
+      "tags": [
+        "Stock Buyback",
+        "Dividend Announcement",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG closes Wednesday July 1, 2026 up 51 points to 5,695.19, PT Petrindo Jaya Kreasi Tbk leads gains",
+      "timestamp": "2026-07-01T16:57:00",
+      "source": "https://money.kompas.com/read/2026/07/01/165732626/ihsg-ditutup-rabu-1-juli-2026-naik-51-poin-ke-569511-cuan-berjaya",
+      "tags": [
+        "Bullish",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "PT United Tractors Tbk announces up to Rp2 trillion share buyback program through September 2026",
+      "timestamp": "2026-07-01T10:10:00",
+      "source": "https://www.idnfinancials.com/id/news/65446/united-tractors-kembali-buyback-saham-rp2-triliun",
+      "tags": [
+        "Stock Buyback",
+        "Capital & Funding",
+        "Government Policy",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "United Tractors Tbk prepares Rp 2 trillion for share buyback program starting July 2026",
+      "timestamp": "2026-07-01T10:00:00",
+      "source": "https://investasi.kontan.co.id/news/dana-rp-2-triliun-disiapkan-untr-potensi-kenaikan-harga-saham",
+      "tags": [
+        "Stock Buyback",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "United Tractors Executes Rp2 Trillion Share Buyback Starting July 1, 2026",
+      "timestamp": "2026-07-01T08:23:00",
+      "source": "https://emitennews.com/news/hari-ini-untr-eksekusi-buyback-rp2-triliun",
+      "tags": [
+        "Stock Buyback",
+        "Capital & Funding",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "United Tractors announces up to Rp2 trillion share buyback program",
+      "timestamp": "2026-07-01T08:11:40",
+      "source": "https://investor.id/market/444816/saham-pbv-di-bawah-1-mau-diborong-triliunan",
+      "tags": [
+        "Stock Buyback",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Cermati recommends select Kompas 100 constituents for Semester II‑2026",
+      "timestamp": "2026-07-01T07:50:00",
+      "source": "https://investasi.kontan.co.id/news/cermati-rekomendasi-saham-pilihan-emiten-indeks-kompas-100-di-semester-ii-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Government Policy",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "United Tractors' Komatsu sales drop 28.05% in Jan‑May 2026, target cut to 4,000 units",
+      "timestamp": "2026-06-30T11:25:00",
+      "source": "https://market.bisnis.com/read/20260630/192/1984345/united-tractors-untr-jual-1690-komatsu-hingga-mei-2026-turun-2805",
+      "tags": [
+        "Financial Metrics",
+        "Production & Operations",
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "United Tractors expands non‑coal mineral exposure with Nickel Industries’ HPAL smelter stakes and $70 million loan to Agincourt Resources",
+      "timestamp": "2026-06-26T18:26:00",
+      "source": "https://investasi.kontan.co.id/news/united-tractors-untr-terus-memperkuat-lini-usaha-mineral-non-batubara",
+      "tags": [
+        "Business Expansion",
+        "Asset Purchase",
+        "Capital & Funding",
+        "Commodities",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "United Tractors shares rise 2.27% to Rp 22,500 as MNC Sekuritas recommends Buy on Weakness with targets up to Rp 24,850",
+      "timestamp": "2026-06-26T07:49:36",
+      "source": "https://investor.id/market/444186/saham-pbv-di-bawah-1-diramal-ke-rp-24000an",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Subsidiaries",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts Issue Stock Recommendations Ahead of Potential IHSG Correction",
+      "timestamp": "2026-06-26T06:10:00",
+      "source": "https://money.kompas.com/read/2026/06/26/061000626/prediksi-ihsg-jumat-26-juni-2026--waspada-koreksi-ini-rekomendasi-saham",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Astra International executives purchase millions of shares as performance outlook improves",
+      "timestamp": "2026-06-26T06:00:00",
+      "source": "https://market.bisnis.com/read/20260626/7/1983327/sinyal-pemulihan-kinerja-di-balik-aksi-petinggi-astra-borong-saham-asii",
+      "tags": [
+        "Insider Trading",
+        "Analyst Ratings",
+        "Stock Buyback",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas recommends MAPA, MEDC, UNTR and UNVR for Friday trading as IHSG is expected to move sideways",
+      "timestamp": "2026-06-25T18:25:13",
+      "source": "https://investor.id/market/444131/prediksi-ihsg-dan-rekomendasi-saham-jumat-26-juni-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Nickel Industries Limited announces acquisition of stakes in two HPAL smelters",
+      "timestamp": "2026-06-25T16:48:00",
+      "source": "https://investasi.kontan.co.id/news/entitas-asosiasi-untr-akuisisi-saham-dua-smelter-hpal-di-kawasan-industri-morowali",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Capital & Funding",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Potential RKAB 2026 Relaxation Expected to Boost Indonesian Mining Contractors, Analysts Issue Target Prices",
+      "timestamp": "2026-06-14T15:08:00",
+      "source": "https://investasi.kontan.co.id/news/relaksasi-rkab-2026-bisa-dongkrak-kinerja-kontraktor-tambang-ini-rekomendasinya",
+      "tags": [
+        "Government Policy",
+        "Business Expansion",
+        "Analyst Ratings",
+        "Commodities",
+        "Bullish"
+      ]
+    }
+  ],
+  "corporate_events": [
+    {
+      "date": "2026-09-07",
+      "type": "RUPS",
+      "detail": "Waktu: 14:00:00 · Lokasi: IDX Public Expose"
+    },
+    {
+      "date": "2026-04-27",
+      "type": "Dividen",
+      "detail": "Dividen per saham Rp 1.096,00 · Pembayaran: 2026-05-18"
+    },
+    {
+      "date": "2026-04-16",
+      "type": "RUPS",
+      "detail": "Waktu: 11:00:00 · Lokasi: Catur Dharma Hall, Menara Astra LT. 5 Jalan Jend. Sudirman Kav. 5-6, Karet Tengsin, Kec. Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10220. Kota Adm. Jakartapusat · Agenda #1: The meeting approved the 2025 Annual Report, the Board of Commissioners' Supervisory Report, and the Consolidated Financial Statements for the 2025 fiscal year.\nAgenda #2: Shareholders approved the allocation and use of the company's net profit earned during the 2025 fiscal year.\nAgenda #3: The meeting approved changes to the Board of Directors and Board of Commissioners, appointing Iwan Hadiantoro as President Director and Frans Kesuma as President Commissioner.\nAgenda #4: The meeting established the salaries, honorariums, and allowances for the Board of Directors and Board of Commissioners for the 2026-2027 term.\nAgenda #5: Shareholders authorized the appointment of a Public Accounting Firm and Public Accountant to audit the company's financial statements for the 2026 fiscal year.\nAgenda #6: Corporate Secretary Ari Setiyawan submitted the official electronic summary and minutes of the Annual General Meeting of Shareholders, though specific meeting decisions within this reporting step are not stated."
+    }
+  ],
+  "context_period": {
+    "start": "2026-04-01",
+    "end": "2026-09-30"
+  },
+  "source_availability": {
+    "company_fundamentals": true,
+    "corporate_events": true,
+    "news": true,
+    "peer_comparison": true,
+    "market_context": true,
+    "sector_market_series": false
+  },
+  "news_archive": {
+    "pages": 5,
+    "rows": 121,
+    "pagination_exhausted": true,
+    "totals_seen": [
+      121
+    ]
+  }
 }

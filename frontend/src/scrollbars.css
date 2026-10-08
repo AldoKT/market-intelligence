@@ -1,0 +1,13 @@
+/* Graphite Ice page and panel scrollbars. Chromium uses the custom rounded rail. */
+:root{--signal-scroll-thumb:#687d96;--signal-scroll-hover:#93c5fd;color-scheme:dark;background:#111418}
+html,body{background:#111418}
+html,body,#root,#root *{scrollbar-width:auto!important;scrollbar-color:auto!important;scroll-behavior:smooth}
+html::-webkit-scrollbar,body::-webkit-scrollbar,#root::-webkit-scrollbar,#root *::-webkit-scrollbar{width:8px;height:8px;background:transparent!important}
+html::-webkit-scrollbar-track,body::-webkit-scrollbar-track,#root::-webkit-scrollbar-track,#root *::-webkit-scrollbar-track{background:transparent!important;border:0!important;box-shadow:none!important}
+html::-webkit-scrollbar-thumb,body::-webkit-scrollbar-thumb,#root::-webkit-scrollbar-thumb,#root *::-webkit-scrollbar-thumb{background-color:var(--signal-scroll-thumb)!important;border:2px solid transparent;background-clip:padding-box;border-radius:999px;min-height:36px;min-width:36px}
+html::-webkit-scrollbar-thumb:hover,body::-webkit-scrollbar-thumb:hover,#root::-webkit-scrollbar-thumb:hover,#root *::-webkit-scrollbar-thumb:hover{background-color:var(--signal-scroll-hover)!important}
+html::-webkit-scrollbar-corner,body::-webkit-scrollbar-corner,#root::-webkit-scrollbar-corner,#root *::-webkit-scrollbar-corner{background:transparent!important}
+html::-webkit-scrollbar-button,body::-webkit-scrollbar-button,#root::-webkit-scrollbar-button,#root *::-webkit-scrollbar-button{display:none!important;width:0!important;height:0!important;background:transparent!important;border:0!important}
+@supports not selector(::-webkit-scrollbar){html,body,#root,#root *{scrollbar-width:thin!important;scrollbar-color:var(--signal-scroll-thumb) transparent!important}}
+@media(prefers-reduced-motion:reduce){html,body,#root,#root *{scroll-behavior:auto}}
+@media(forced-colors:active){html,body,#root,#root *{scrollbar-color:auto!important;scrollbar-width:auto!important;forced-color-adjust:auto}}

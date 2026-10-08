@@ -3,8 +3,8 @@
   "as_of": "2026-09-30",
   "identity": {
     "symbol": "KLBF",
-    "company_name": null,
-    "peer_group": null
+    "company_name": "Kalbe Farma Tbk",
+    "peer_group": "Pharmaceuticals & Health Care Research"
   },
   "current": {
     "scope": "NO_CONTEXT",
@@ -20,5 +20,1513 @@
   "daily_market": {},
   "notes": [
     "Dataset scope: 28 reviewed stocks. No full-market or peer-context score is computed."
-  ]
+  ],
+  "company_snapshot": {
+    "price_date": "2026-10-07",
+    "captured_at": "2026-10-08",
+    "sector": "Healthcare",
+    "industry": "Pharmaceuticals",
+    "website": "www.kalbe.co.id",
+    "market_cap": 35344110612700,
+    "annual_year": 2025,
+    "valuation_year": 2026,
+    "metrics": [
+      {
+        "label": "Pendapatan",
+        "value": "Rp 35,32 T"
+      },
+      {
+        "label": "Laba bersih",
+        "value": "Rp 3,66 T"
+      },
+      {
+        "label": "Total aset",
+        "value": "Rp 30,70 T"
+      },
+      {
+        "label": "Ekuitas",
+        "value": "Rp 24,73 T"
+      },
+      {
+        "label": "EPS",
+        "value": "Rp 78,29"
+      },
+      {
+        "label": "P/E TTM",
+        "value": "9,79×"
+      },
+      {
+        "label": "P/B",
+        "value": "1,45×"
+      }
+    ]
+  },
+  "fundamental_peers": [
+    {
+      "symbol": "KLBF",
+      "name": "Kalbe Farma Tbk",
+      "year": 2025,
+      "market_cap": 35344110612700,
+      "pe": 9.79190613507975,
+      "pb": 1.45275007691199,
+      "revenue": 35324544000000,
+      "in_universe": true
+    },
+    {
+      "symbol": "SOHO",
+      "name": "PT Soho Global Health Tbk",
+      "year": 2025,
+      "market_cap": 17387604874300,
+      "pe": 25.4620555414324,
+      "pb": 7.08367295008602,
+      "revenue": 10779187000000,
+      "in_universe": false
+    },
+    {
+      "symbol": "TSPC",
+      "name": "Tempo Scan Pacific Tbk",
+      "year": 2025,
+      "market_cap": 12086436324000,
+      "pe": 8.17017200561469,
+      "pb": 1.24119524369345,
+      "revenue": 14005028133728,
+      "in_universe": false
+    },
+    {
+      "symbol": "SIDO",
+      "name": "PT Industri Jamu Dan Farmasi Sido Muncul Tbk",
+      "year": 2025,
+      "market_cap": 10620000000000,
+      "pe": 11.0350617786815,
+      "pb": 3.54571214226118,
+      "revenue": 4079659000000,
+      "in_universe": false
+    },
+    {
+      "symbol": "MDLA",
+      "name": "PT Medela Potentia Tbk",
+      "year": 2025,
+      "market_cap": 2886641950000,
+      "pe": 6.95119102373619,
+      "pb": 0.938735885914646,
+      "revenue": 14893442000000,
+      "in_universe": false
+    },
+    {
+      "symbol": "PYFA",
+      "name": "PT Pyridam Farma Tbk",
+      "year": 2025,
+      "market_cap": 2629399847256,
+      "pe": -7.62701738639776,
+      "pb": 3.84310646711802,
+      "revenue": 2760422051315,
+      "in_universe": false
+    },
+    {
+      "symbol": "KAEF",
+      "name": "Kimia Farma Tbk",
+      "year": 2025,
+      "market_cap": 2315701305632,
+      "pe": -10.0850017735605,
+      "pb": 0.799621122147194,
+      "revenue": 9223328056000,
+      "in_universe": false
+    },
+    {
+      "symbol": "DVLA",
+      "name": "Darya-Varia Laboratoria Tbk",
+      "year": 2025,
+      "market_cap": 1775200000000,
+      "pe": 13.0313282394924,
+      "pb": 1.18340233533785,
+      "revenue": 2231748811000,
+      "in_universe": false
+    },
+    {
+      "symbol": "MERK",
+      "name": "Merck Tbk",
+      "year": 2025,
+      "market_cap": 1675520000000,
+      "pe": 5.02914952417745,
+      "pb": 1.73756872693209,
+      "revenue": 1200666779000,
+      "in_universe": false
+    },
+    {
+      "symbol": "PEVE",
+      "name": "PT Penta Valent Tbk",
+      "year": 2025,
+      "market_cap": 575593750000,
+      "pe": 10.0207874272366,
+      "pb": 1.5265259742022,
+      "revenue": 3547994057564,
+      "in_universe": false
+    }
+  ],
+  "market_history": [
+    {
+      "date": "2026-04-01",
+      "ihsg": 7184.438,
+      "market_cap": 12646140309231200
+    },
+    {
+      "date": "2026-04-02",
+      "ihsg": 7026.782,
+      "market_cap": 12301402169484936
+    },
+    {
+      "date": "2026-04-06",
+      "ihsg": 6989.426,
+      "market_cap": 12181292965738515
+    },
+    {
+      "date": "2026-04-07",
+      "ihsg": 6971.027,
+      "market_cap": 12220087895953627
+    },
+    {
+      "date": "2026-04-08",
+      "ihsg": 7279.209,
+      "market_cap": 12745135690725105
+    },
+    {
+      "date": "2026-04-09",
+      "ihsg": 7307.589,
+      "market_cap": 12927661360702306
+    },
+    {
+      "date": "2026-04-10",
+      "ihsg": 7458.496,
+      "market_cap": 13183485554446575
+    },
+    {
+      "date": "2026-04-13",
+      "ihsg": 7500.187,
+      "market_cap": 13334711369769658
+    },
+    {
+      "date": "2026-04-14",
+      "ihsg": 7675.951,
+      "market_cap": 13680203483861089
+    },
+    {
+      "date": "2026-04-15",
+      "ihsg": 7623.586,
+      "market_cap": 13577551326427693
+    },
+    {
+      "date": "2026-04-16",
+      "ihsg": 7621.382,
+      "market_cap": 13580909513734445
+    },
+    {
+      "date": "2026-04-17",
+      "ihsg": 7634.004,
+      "market_cap": 13631805736754862
+    },
+    {
+      "date": "2026-04-20",
+      "ihsg": 7594.111,
+      "market_cap": 13530051609880990
+    },
+    {
+      "date": "2026-04-21",
+      "ihsg": 7559.38,
+      "market_cap": 13439346111420433
+    },
+    {
+      "date": "2026-04-22",
+      "ihsg": 7541.612,
+      "market_cap": 13331962629649015
+    },
+    {
+      "date": "2026-04-23",
+      "ihsg": 7378.606,
+      "market_cap": 13176851273619842
+    },
+    {
+      "date": "2026-04-24",
+      "ihsg": 7129.49,
+      "market_cap": 12732776963937495
+    },
+    {
+      "date": "2026-04-27",
+      "ihsg": 7106.52,
+      "market_cap": 12687518028997883
+    },
+    {
+      "date": "2026-04-28",
+      "ihsg": 7072.392,
+      "market_cap": 12590034125678447
+    },
+    {
+      "date": "2026-04-29",
+      "ihsg": 7101.226,
+      "market_cap": 12635384034178860
+    },
+    {
+      "date": "2026-04-30",
+      "ihsg": 6956.804,
+      "market_cap": 12378413759882228
+    },
+    {
+      "date": "2026-05-04",
+      "ihsg": 6971.953,
+      "market_cap": 12411009903513114
+    },
+    {
+      "date": "2026-05-05",
+      "ihsg": 7057.106,
+      "market_cap": 12626309574250122
+    },
+    {
+      "date": "2026-05-06",
+      "ihsg": 7092.467,
+      "market_cap": 12699830398460331
+    },
+    {
+      "date": "2026-05-07",
+      "ihsg": 7174.321,
+      "market_cap": 12778962713690869
+    },
+    {
+      "date": "2026-05-08",
+      "ihsg": 6969.396,
+      "market_cap": 12402407487340402
+    },
+    {
+      "date": "2026-05-11",
+      "ihsg": 6905.62,
+      "market_cap": 12280030079664830
+    },
+    {
+      "date": "2026-05-12",
+      "ihsg": 6858.899,
+      "market_cap": 12142773427321380
+    },
+    {
+      "date": "2026-05-13",
+      "ihsg": 6723.32,
+      "market_cap": 11821690407165346
+    },
+    {
+      "date": "2026-05-18",
+      "ihsg": 6599.24,
+      "market_cap": 11535132183193835
+    },
+    {
+      "date": "2026-05-19",
+      "ihsg": 6370.679,
+      "market_cap": 11105372542285443
+    },
+    {
+      "date": "2026-05-20",
+      "ihsg": 6318.5,
+      "market_cap": 10959980491971602
+    },
+    {
+      "date": "2026-05-21",
+      "ihsg": 6094.941,
+      "market_cap": 10549507904767653
+    },
+    {
+      "date": "2026-05-22",
+      "ihsg": 6162.045,
+      "market_cap": 10631421768765943
+    },
+    {
+      "date": "2026-05-25",
+      "ihsg": 6206.349,
+      "market_cap": 10692705367587005
+    },
+    {
+      "date": "2026-05-26",
+      "ihsg": 6130.19,
+      "market_cap": 10613054794742598
+    },
+    {
+      "date": "2026-05-29",
+      "ihsg": 6127.381,
+      "market_cap": 10725485605975573
+    },
+    {
+      "date": "2026-06-02",
+      "ihsg": 6195.427,
+      "market_cap": 10891278361519046
+    },
+    {
+      "date": "2026-06-03",
+      "ihsg": 5941.066,
+      "market_cap": 10451829355656557
+    },
+    {
+      "date": "2026-06-04",
+      "ihsg": 5839.785,
+      "market_cap": 10259085293637228
+    },
+    {
+      "date": "2026-06-05",
+      "ihsg": 5594.765,
+      "market_cap": 9803592659706909
+    },
+    {
+      "date": "2026-06-08",
+      "ihsg": 5342.137,
+      "market_cap": 9414771844192581
+    },
+    {
+      "date": "2026-06-09",
+      "ihsg": 5746.648,
+      "market_cap": 10095511071726246
+    },
+    {
+      "date": "2026-06-10",
+      "ihsg": 5902.376,
+      "market_cap": 10341178905408617
+    },
+    {
+      "date": "2026-06-11",
+      "ihsg": 5886.032,
+      "market_cap": 10287950241660193
+    },
+    {
+      "date": "2026-06-12",
+      "ihsg": 6007.656,
+      "market_cap": 10520825968837381
+    },
+    {
+      "date": "2026-06-15",
+      "ihsg": 6254.966,
+      "market_cap": 10899408952482727
+    },
+    {
+      "date": "2026-06-17",
+      "ihsg": 6220.74,
+      "market_cap": 10776148487729844
+    },
+    {
+      "date": "2026-06-18",
+      "ihsg": 6172.34,
+      "market_cap": 10736980009961606
+    },
+    {
+      "date": "2026-06-19",
+      "ihsg": 6177.139,
+      "market_cap": 10784594953877444
+    },
+    {
+      "date": "2026-06-22",
+      "ihsg": 6116.69,
+      "market_cap": 10708711379319414
+    },
+    {
+      "date": "2026-06-23",
+      "ihsg": 6101.333,
+      "market_cap": 10685047810158781
+    },
+    {
+      "date": "2026-06-24",
+      "ihsg": 5883.881,
+      "market_cap": 10312029789078805
+    },
+    {
+      "date": "2026-06-25",
+      "ihsg": 5999.038,
+      "market_cap": 10515718128770631
+    },
+    {
+      "date": "2026-06-26",
+      "ihsg": 5896.134,
+      "market_cap": 10298280398969010
+    },
+    {
+      "date": "2026-06-29",
+      "ihsg": 5820.79,
+      "market_cap": 10179250800138493
+    },
+    {
+      "date": "2026-06-30",
+      "ihsg": 5643.194,
+      "market_cap": 9894028079914985
+    },
+    {
+      "date": "2026-07-01",
+      "ihsg": 5695.116,
+      "market_cap": 10007947906561450
+    },
+    {
+      "date": "2026-07-02",
+      "ihsg": 5744.556,
+      "market_cap": 10060923668899571
+    },
+    {
+      "date": "2026-07-03",
+      "ihsg": 5875.78,
+      "market_cap": 10283558418117973
+    },
+    {
+      "date": "2026-07-06",
+      "ihsg": 5916.07,
+      "market_cap": 10352610980350056
+    },
+    {
+      "date": "2026-07-07",
+      "ihsg": 5986.497,
+      "market_cap": 10462196902308353
+    },
+    {
+      "date": "2026-07-08",
+      "ihsg": 5873.372,
+      "market_cap": 10272894518876036
+    },
+    {
+      "date": "2026-07-09",
+      "ihsg": 5912.442,
+      "market_cap": 10324456194315119
+    },
+    {
+      "date": "2026-07-10",
+      "ihsg": 5924.36,
+      "market_cap": 10336481815483724
+    },
+    {
+      "date": "2026-07-13",
+      "ihsg": 6037.842,
+      "market_cap": 10506156813352519
+    },
+    {
+      "date": "2026-07-14",
+      "ihsg": 6039.521,
+      "market_cap": 10524135196509080
+    },
+    {
+      "date": "2026-07-15",
+      "ihsg": 6041.972,
+      "market_cap": 10548175926837826
+    },
+    {
+      "date": "2026-07-16",
+      "ihsg": 6108.209,
+      "market_cap": 10655671296610599
+    },
+    {
+      "date": "2026-07-17",
+      "ihsg": 6175.535,
+      "market_cap": 10745282583293599
+    },
+    {
+      "date": "2026-07-20",
+      "ihsg": 6231.78,
+      "market_cap": 10832728685598542
+    },
+    {
+      "date": "2026-07-21",
+      "ihsg": 6340.02,
+      "market_cap": 11041209401983643
+    },
+    {
+      "date": "2026-07-22",
+      "ihsg": 6334.476,
+      "market_cap": 11064991318794462
+    },
+    {
+      "date": "2026-07-23",
+      "ihsg": 6315.311,
+      "market_cap": 11058096720739904
+    },
+    {
+      "date": "2026-07-24",
+      "ihsg": 6196.43,
+      "market_cap": 10866941513180025
+    },
+    {
+      "date": "2026-07-27",
+      "ihsg": 6185.783,
+      "market_cap": 10846820086978302
+    },
+    {
+      "date": "2026-07-28",
+      "ihsg": 6130.588,
+      "market_cap": 10748777396682842
+    },
+    {
+      "date": "2026-07-29",
+      "ihsg": 6091.386,
+      "market_cap": 10671925079765237
+    },
+    {
+      "date": "2026-07-30",
+      "ihsg": 6186.363,
+      "market_cap": 10808753111947654
+    },
+    {
+      "date": "2026-07-31",
+      "ihsg": 6236.126,
+      "market_cap": 10919632662108419
+    },
+    {
+      "date": "2026-08-03",
+      "ihsg": 6234.497,
+      "market_cap": 10891533376788029
+    },
+    {
+      "date": "2026-08-04",
+      "ihsg": 6319.613,
+      "market_cap": 11026919553266172
+    },
+    {
+      "date": "2026-08-05",
+      "ihsg": 6351.139,
+      "market_cap": 11081557528513146
+    },
+    {
+      "date": "2026-08-06",
+      "ihsg": 6343.711,
+      "market_cap": 11091230654708629
+    },
+    {
+      "date": "2026-08-07",
+      "ihsg": 6409.654,
+      "market_cap": 11208370900071437
+    },
+    {
+      "date": "2026-08-10",
+      "ihsg": 6365.374,
+      "market_cap": 11127673938712190
+    },
+    {
+      "date": "2026-08-11",
+      "ihsg": 6267.88,
+      "market_cap": 10951983899532200
+    },
+    {
+      "date": "2026-08-12",
+      "ihsg": 6373.849,
+      "market_cap": 11170270993004848
+    },
+    {
+      "date": "2026-08-13",
+      "ihsg": 6301.765,
+      "market_cap": 11047038481790783
+    },
+    {
+      "date": "2026-08-14",
+      "ihsg": 6401.888,
+      "market_cap": 11239913404397486
+    },
+    {
+      "date": "2026-08-18",
+      "ihsg": 6449.83,
+      "market_cap": 11344776423883178
+    },
+    {
+      "date": "2026-08-19",
+      "ihsg": 6394.125,
+      "market_cap": 11242710814171051
+    },
+    {
+      "date": "2026-08-20",
+      "ihsg": 6501.585,
+      "market_cap": 11417105165375641
+    },
+    {
+      "date": "2026-08-21",
+      "ihsg": 6525.69,
+      "market_cap": 11445451211005613
+    },
+    {
+      "date": "2026-08-24",
+      "ihsg": 6501.667,
+      "market_cap": 11400829359169202
+    },
+    {
+      "date": "2026-08-26",
+      "ihsg": 6405.685,
+      "market_cap": 11226539253653372
+    },
+    {
+      "date": "2026-08-27",
+      "ihsg": 6521.75,
+      "market_cap": 11444254799160097
+    },
+    {
+      "date": "2026-08-28",
+      "ihsg": 6518.121,
+      "market_cap": 11427514258790209
+    },
+    {
+      "date": "2026-08-31",
+      "ihsg": 6525.478,
+      "market_cap": 11420266337232824
+    },
+    {
+      "date": "2026-09-01",
+      "ihsg": 6599.943,
+      "market_cap": 11528076154461080
+    },
+    {
+      "date": "2026-09-02",
+      "ihsg": 6595.776,
+      "market_cap": 11521577604064942
+    },
+    {
+      "date": "2026-09-03",
+      "ihsg": 6667.891,
+      "market_cap": 11637538684241799
+    },
+    {
+      "date": "2026-09-04",
+      "ihsg": 6636.475,
+      "market_cap": 11595660058206448
+    },
+    {
+      "date": "2026-09-07",
+      "ihsg": 6619.673,
+      "market_cap": 11571807924987264
+    },
+    {
+      "date": "2026-09-08",
+      "ihsg": 6686.442,
+      "market_cap": 11668902562815871
+    },
+    {
+      "date": "2026-09-09",
+      "ihsg": 6678.201,
+      "market_cap": 11671538636715858
+    },
+    {
+      "date": "2026-09-10",
+      "ihsg": 6589.338,
+      "market_cap": 11526136904331476
+    },
+    {
+      "date": "2026-09-11",
+      "ihsg": 6541.377,
+      "market_cap": 11442963914395062
+    },
+    {
+      "date": "2026-09-14",
+      "ihsg": 6534.693,
+      "market_cap": 11368110758085182
+    },
+    {
+      "date": "2026-09-15",
+      "ihsg": 6461.153,
+      "market_cap": 11257912210981978
+    },
+    {
+      "date": "2026-09-16",
+      "ihsg": 6436.853,
+      "market_cap": 11225219420982876
+    },
+    {
+      "date": "2026-09-17",
+      "ihsg": 6462.431,
+      "market_cap": 11270346560839989
+    },
+    {
+      "date": "2026-09-18",
+      "ihsg": 6441.159,
+      "market_cap": 11262605698050558
+    },
+    {
+      "date": "2026-09-21",
+      "ihsg": 6384.726,
+      "market_cap": 11161910095429389
+    },
+    {
+      "date": "2026-09-22",
+      "ihsg": 6277.044,
+      "market_cap": 10971287923179805
+    },
+    {
+      "date": "2026-09-23",
+      "ihsg": 6374.912,
+      "market_cap": 11141915820582293
+    },
+    {
+      "date": "2026-09-24",
+      "ihsg": 6298.607,
+      "market_cap": 11021365748586840
+    },
+    {
+      "date": "2026-09-25",
+      "ihsg": 6241.892,
+      "market_cap": 10902018198054911
+    },
+    {
+      "date": "2026-09-28",
+      "ihsg": 6147.859,
+      "market_cap": 10755457591436344
+    },
+    {
+      "date": "2026-09-29",
+      "ihsg": 6121.7,
+      "market_cap": 10754858845786069
+    },
+    {
+      "date": "2026-09-30",
+      "ihsg": 6071.138,
+      "market_cap": 10691719699169471
+    }
+  ],
+  "relevant_news": [
+    {
+      "title": "PT Kalbe Farma Tbk (KLBF) Buyback Seen as Catalyst as Earnings Projected to Recover from 2027",
+      "timestamp": "2026-09-28T13:44:00",
+      "source": "https://investasi.kontan.co.id/news/buyback-klbf-jadi-katalis-prospek-laba-diproyeksi-membaik",
+      "tags": [
+        "Stock Buyback",
+        "Analyst Ratings",
+        "Undervalued",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Kalbe Farma Tbk (KLBF) Margins Under Pressure, Recovery Projected from 2027",
+      "timestamp": "2026-09-28T13:00:00",
+      "source": "https://investasi.kontan.co.id/news/margin-saham-klbf-tertekan-kinerja-diproyeksi-pulih-pada-2027",
+      "tags": [
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Currency & FX",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Analysts forecast IHSG weakness on Monday 21 Sep 2026 and recommend buying PT Buana Listya Tama Tbk (BULL), PT Kalbe Farma Tbk (KLBF), PT Telkom Indonesia Tbk (TLKM) and PT Bank Central Asia Tbk (BBCA).",
+      "timestamp": "2026-09-21T05:10:00",
+      "source": "https://market.bisnis.com/read/20260921/7/2005694/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-senin-21-september-2026",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Caution Over Fed Sentiment as Indonesia’s Composite Index May Test 6,290 Next Week",
+      "timestamp": "2026-09-20T08:33:00",
+      "source": "https://market.bisnis.com/read/20260920/7/2005588/waspadai-sentimen-the-fed-ihsg-pekan-depan-rawan-uji-level-6290",
+      "tags": [
+        "Market Sentiment",
+        "Central Bank",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Kalbe Farma (KLBF) reinstates Rp500 billion share buyback after earlier cancellation",
+      "timestamp": "2026-09-16T08:34:00",
+      "source": "https://emitennews.com/news/sempat-php-klbf-gaspol-buyback-rp500-miliar",
+      "tags": [
+        "Stock Buyback",
+        "Financial Metrics",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Kalbe Farma Tbk (KLBF) Cancels Planned Share Buyback",
+      "timestamp": "2026-09-16T08:09:00",
+      "source": "https://emitennews.com/news/kalbe-farma-klbf-batal-gelar-buyback-saham-katanya-begini",
+      "tags": [
+        "Stock Buyback",
+        "Financial Metrics",
+        "Capital & Funding",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Kalbe Farma Tbk (KLBF) prepares up to Rp500 billion share buyback, expecting EPS to rise to Rp81.44 per share",
+      "timestamp": "2026-09-15T15:49:00",
+      "source": "https://emitennews.com/news/kalbe-farma-siapkan-buyback-saham-rp500-miliar-eps-berpotensi-naik",
+      "tags": [
+        "Stock Buyback",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Kalbe Farma Evaluates Delisting Subsidiary Enseval Putera Megatrading to Meet BEI Free Float Rules",
+      "timestamp": "2026-09-11T20:31:00",
+      "source": "https://emitennews.com/news/urai-free-float-bei-kalbe-farma-klbf-kaji-opsi-delisting-anak-usaha",
+      "tags": [
+        "Delisting",
+        "Capital & Funding",
+        "Import",
+        "Global Economy",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Kalbe Farma Reviews Rp1 Trillion Capex Plan Amid Global Supply Chain Pressures",
+      "timestamp": "2026-09-11T19:31:00",
+      "source": "https://emitennews.com/news/kaji-capex-rp1t-kalbe-farma-klbf-bahas-tekanan-rantai-pasok-global",
+      "tags": [
+        "Capital & Funding",
+        "Global Economy",
+        "Financial Metrics",
+        "Business Expansion",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Kalbe Farma Tbk opens option to delist subsidiary PT Enseval Putera Megatrading Tbk if free‑float target not met.",
+      "timestamp": "2026-09-11T14:28:00",
+      "source": "https://emitennews.com/news/klbf-buka-opsi-delisting-epmt-jika-tak-bisa-penuhi-free-float",
+      "tags": [
+        "Delisting",
+        "Subsidiaries",
+        "Ownership",
+        "Politics & Regulation",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Kalbe Farma Tbk cites rupiah depreciation and rising import costs as margin pressure, considers limited product price hikes",
+      "timestamp": "2026-09-11T14:05:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/121275/klbf-terpukul-depresiasi-rupiah-ada-opsi-naikkan-harga-produk",
+      "tags": [
+        "Currency & FX",
+        "Import",
+        "Joint Venture",
+        "Export",
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Kalbe Farma Tbk plans to raise prices of Komix and Promag medicines amid rupiah weakness and higher input costs.",
+      "timestamp": "2026-09-11T13:53:00",
+      "source": "https://market.bisnis.com/read/20260911/192/2003377/kalbe-klbf-bakal-naikkan-harga-obat-komix-promag-ini-alasannya",
+      "tags": [
+        "Currency & FX",
+        "Import",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Kalbe Farma Tbk reviews Rp1 trillion capex plan amid geopolitical tensions",
+      "timestamp": "2026-09-11T13:43:00",
+      "source": "https://market.bisnis.com/read/20260911/192/2003371/kalbe-farma-klbf-kaji-ulang-capex-rp1-triliun-efek-gejolak-geopolitik",
+      "tags": [
+        "Capital & Funding",
+        "Currency & FX",
+        "Financial Metrics",
+        "Business Expansion",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Kalbe Farma Tbk considers delisting its subsidiary PT Enseval Putera Megatrading Tbk over free‑float shortfall",
+      "timestamp": "2026-09-11T11:26:00",
+      "source": "https://market.bisnis.com/read/20260911/192/2003344/kalbe-klbf-buka-opsi-delisting-anak-usaha-yang-tidak-penuhi-free-float",
+      "tags": [
+        "Delisting",
+        "Subsidiaries",
+        "Politics & Regulation",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Kalbe Farma considers delisting subsidiary Enseval Putera Megatrading if free-float requirement not met.",
+      "timestamp": "2026-09-11T11:06:00",
+      "source": "https://www.antaranews.com/berita/5736076/kalbe-farma-buka-opsi-delisting-epmt-jika-tak-bisa-penuhi-free-float",
+      "tags": [
+        "Delisting",
+        "Subsidiaries",
+        "Politics & Regulation",
+        "Ownership",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign Investor Outflow Rp590 Billion, Two Prajogo Pangestu‑Affiliated Stocks Lead Net Sell",
+      "timestamp": "2026-09-07T20:40:00",
+      "source": "https://www.idnfinancials.com/id/news/68479/outflow-asing-rp590-miliar-dua-saham-prajogo-pangestu-top-net-sell",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Healthcare Stocks Rally in First Trading Session as Anak Krakatau Eruption Boosts Sector Sentiment, Led by SOHO, KAEF, and KLBF",
+      "timestamp": "2026-09-07T13:25:00",
+      "source": "https://market.bisnis.com/read/20260907/7/2002023/erupsi-gunung-anak-krakatau-emiten-kesehatan-soho-kaef-klbf-cs-kompak-hijau",
+      "tags": [
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Stock Market Gains, Simas Syariah Unggulan Mutual Fund Posts 10.28% Return in August",
+      "timestamp": "2026-09-04T13:24:00",
+      "source": "https://investasi.kontan.co.id/news/pasar-saham-menguat-reksadana-ini-cetak-return-hingga-1028-pada-agustus",
+      "tags": [
+        "Sharia Economy",
+        "Asset Management",
+        "Artificial Intelligence",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Rises 0.31% in Early Trading on Friday (4/9), Check LQ45 Stocks Driving the Move",
+      "timestamp": "2026-09-04T09:34:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-naik-031-di-awal-perdagangan-jumat-49-cek-saham-lq45-yang-jadi-penggerak",
+      "tags": [
+        "Bullish",
+        "Market Sentiment",
+        "Global Economy"
+      ]
+    },
+    {
+      "title": "Batavia Dana Saham Syariah posts a 6.04% return in August, highlighting data center infrastructure stocks",
+      "timestamp": "2026-09-03T22:23:00",
+      "source": "https://investasi.kontan.co.id/news/return-reksadana-batavia-604-di-agustus-saham-infrastruktur-data-center-dipilih",
+      "tags": [
+        "Sharia Economy",
+        "Financial Metrics",
+        "Asset Management",
+        "Portfolio",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Kiwoom Sekuritas Indonesia forecasts IHSG 6,300-6,650 in September, recommends nine stocks with up to 76% upside",
+      "timestamp": "2026-09-01T18:40:00",
+      "source": "https://market.bisnis.com/read/20260901/189/2000529/peluang-ihsg-ke-6650-kiwoom-jagokan-9-saham-pilihan",
+      "tags": [
+        "Analyst Ratings",
+        "Stock Buyback",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG September 2026 Outlook Highlights Potential Volatility Amid Global Risks",
+      "timestamp": "2026-08-31T09:54:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-september-2026-berpotensi-volatil-investor-perlu-cermati-risiko-global",
+      "tags": [
+        "Market Sentiment",
+        "Global Economy",
+        "Commodities",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "IHSG September 2026 Outlook Highlights Potential Weakness and Lists Recommended Stocks",
+      "timestamp": "2026-08-30T14:53:00",
+      "source": "https://investasi.kontan.co.id/news/pergerakan-ihsg-di-september-2026-berpotensi-loyo-cek-rekomendasi-saham-pilihannya",
+      "tags": [
+        "Market Sentiment",
+        "Global Economy",
+        "Analyst Ratings",
+        "Interest Rate"
+      ]
+    },
+    {
+      "title": "Ferdinand Aryanto Buy Shares of Kalbe Farma",
+      "timestamp": "2026-08-24T10:05:15",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-4295-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "List of Indonesian listed issuers conducting share buybacks in 2026 with fund sizes and periods",
+      "timestamp": "2026-08-24T04:00:00",
+      "source": "https://market.bisnis.com/read/20260824/7/1998431/daftar-emiten-buyback-saham-2026-nilai-dana-periode-dan-panduan-analisisnya",
+      "tags": [
+        "Stock Buyback",
+        "Capital & Funding",
+        "Politics & Regulation",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Big‑cap stocks and a stronger rupiah drove the IHSG higher on 20 August 2026",
+      "timestamp": "2026-08-20T17:50:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/119041/saham-big-caps-rupiah-menguat-jadi-pendorong-penguatan-ihsg",
+      "tags": [
+        "Currency & FX",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "IHSG Projected to Rise Today",
+      "timestamp": "2026-08-20T07:01:25",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260820060431-92-1394234/ihsg-diramal-bangkit-hari-ini",
+      "tags": [
+        "Market Sentiment",
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "IHSG opens up about 1% to 6,466 as Bayan Resources leads energy‑sector rally",
+      "timestamp": "2026-08-18T10:01:47",
+      "source": "https://www.cnbcindonesia.com/market/20260818092140-17-760180/ihsg-dibuka-naik-1-haji-isam-jadi-bensin-pagi-ini",
+      "tags": [
+        "Central Bank",
+        "Government Policy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors sell net Rp1.58 trillion of Indonesian stocks, top 10 net‑sell losers listed",
+      "timestamp": "2026-08-18T07:00:57",
+      "source": "https://www.cnbcindonesia.com/market/20260817221515-17-760118/asing-lepas-rp158-triliun-saham-ri-ini-daftarnya",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "RAPBN 2027’s expansive budget could lift a range of Indonesian stocks, according to RHB Sekuritas research",
+      "timestamp": "2026-08-14T19:20:00",
+      "source": "https://market.bisnis.com/read/20260814/7/1996485/rapbn-2027-ekspansif-ini-deretan-saham-yang-berpotensi-ketiban-berkah",
+      "tags": [
+        "Government Policy",
+        "Commodities",
+        "Export",
+        "Dividend Announcement",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net‑sell PT Bank Mandiri Tbk, PT Telkom Indonesia Tbk and other stocks as the IHSG rose 1.69%",
+      "timestamp": "2026-08-13T09:01:00",
+      "source": "https://investasi.kontan.co.id/news/bmri-tlkm-teratas-intip-saham-yang-banyak-dijual-asing-saat-ihsg-melonjak-kemarin",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Analyst highlights strong earnings growth for PT Mitra Keluarga Karyasehat Tbk (MIKA) and PT Siloam International Hospitals Tbk (SILO) despite rupiah depreciation",
+      "timestamp": "2026-08-12T10:31:00",
+      "source": "https://market.bisnis.com/read/20260812/189/1995562/analis-jagokan-saham-rumah-sakit-mika-dan-silo-di-tengah-beban-depresiasi-rupiah",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Currency & FX",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG falls 1.53% amid volatility, highlighting movers KLBF, STAR, ISAT and corporate updates from GULA, ITMG and LABS",
+      "timestamp": "2026-08-12T08:54:34",
+      "source": "https://www.cnbcindonesia.com/market/20260812082529-17-758449/ihsg-masih-volatil-deretan-saham-ini-menarik-buat-dilirik",
+      "tags": [
+        "Stock Buyback",
+        "Asset Purchase",
+        "Foreign Investment",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG slips into red zone, see today's stock recommendations",
+      "timestamp": "2026-08-12T08:39:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8614668/ihsg-tergelincir-ke-zona-merah-simak-rekomendasi-saham-hari-ini",
+      "tags": [
+        "Stock Buyback",
+        "Asset Purchase",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG projected to continue strengthening today",
+      "timestamp": "2026-08-11T06:44:45",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260811061403-92-1390824/ihsg-diramal-lanjutkan-penguatan-hari-ini",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Kalbe Farma Tbk reports net sales of Rp19.47 trillion while profit slips slightly in H1 2026",
+      "timestamp": "2026-08-08T18:30:00",
+      "source": "https://emitennews.com/news/penjualan-kalbe-farma-klbf-tembus-rp194t-laba-turun-tipis",
+      "tags": [
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Kalbe Farma Tbk’s Sales Rise While Margins Remain Pressured",
+      "timestamp": "2026-08-06T20:29:00",
+      "source": "https://investasi.kontan.co.id/news/margin-tertekan-kualitas-pertumbuhan-kalbe-farma-klbf-belum-optimal",
+      "tags": [
+        "Financial Metrics",
+        "Currency & FX",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "CGS International Sekuritas reports only 18% of covered issuers missed H1 2026 earnings targets and revises its top‑pick list",
+      "timestamp": "2026-08-06T11:10:00",
+      "source": "https://investasi.kontan.co.id/news/laba-emiten-semester-i-beri-sinyal-membaik-cgs-hanya-18-emiten-meleset-dari-target",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Central Bank",
+        "Government Policy",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Kalbe Farma's Net Profit Slightly Declines 2.96% in H1 2026, Analysts Recommend Buy",
+      "timestamp": "2026-08-05T17:34:00",
+      "source": "https://investasi.kontan.co.id/news/laba-kalbe-farma-klbf-turun-tipis-di-semester-i-2026-cek-rekomendasi-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Session I: IHSG rises 0.69% on stronger‑than‑expected Q2 GDP",
+      "timestamp": "2026-08-05T13:09:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/117370/ihsg-menguat-efek-data-ekonomi-ri-yang-lampaui-ekspektasi",
+      "tags": [
+        "Market Sentiment",
+        "Global Economy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "LQ45 constituents post solid first‑half 2026 earnings, with top blue‑chip picks highlighted for semester II",
+      "timestamp": "2026-08-04T05:39:00",
+      "source": "https://investasi.kontan.co.id/news/laba-emiten-lq45-lampaui-ekspektasi-cek-saham-blue-chip-pilihan-semester-ii-2026",
+      "tags": [
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Interest Rate",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analyst highlights strong first‑half 2026 earnings across LQ45 constituents and points to several stocks with upside potential through year‑end 2026",
+      "timestamp": "2026-08-03T19:32:00",
+      "source": "https://investasi.kontan.co.id/news/laba-emiten-lq45-moncer-analis-beberkan-deretan-saham-potensial-hingga-akhir-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Majority of LQ45 Index constituents post solid performance in H1 2026",
+      "timestamp": "2026-08-03T19:03:00",
+      "source": "https://investasi.kontan.co.id/news/mayoritas-emiten-di-indeks-lq45-raih-kinerja-apik-pada-semester-i-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Kalbe Farma Tbk net profit falls 2.8% YoY in H1 2026",
+      "timestamp": "2026-08-03T18:18:00",
+      "source": "https://market.bisnis.com/read/20260803/192/1993266/laba-bersih-kalbe-klbf-menipis-280-yoy-semester-i2026",
+      "tags": [
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Kalbe Farma posts net profit of Rp 1.97 trillion in first half of 2026",
+      "timestamp": "2026-07-31T15:52:00",
+      "source": "https://investasi.kontan.co.id/news/kalbe-farma-klbf-kantongi-laba-rp-197-triliun-di-semester-i-2026",
+      "tags": [
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Kompas100 Index Outperforms IHSG Over the Past Month, Analysts Recommend Several Stocks",
+      "timestamp": "2026-07-26T17:41:00",
+      "source": "https://investasi.kontan.co.id/news/indeks-kompas100-ungguli-ihsg-sebulan-terakhir-cek-rekomendasi-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Stock Recommendations and IHSG Movement for 23 July 2026",
+      "timestamp": "2026-07-23T08:30:00",
+      "source": "https://market.bisnis.com/read/20260723/7/1990303/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-23-juli-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Five Stock Recommendations as the IDX Composite Index Strengthens for Nine Consecutive Days",
+      "timestamp": "2026-07-22T08:55:49",
+      "source": "https://www.cnbcindonesia.com/market/20260722082756-17-752778/intip-5-rekomendasi-saham-kala-ihsg-menguat-9-hari-beruntun",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Rights Issue",
+        "Capital & Funding",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IDX Health sector index falls 29.57% YTD 2026 as analysts highlight rebound prospects and recommend buying Kalbe Farma (KLBF)",
+      "timestamp": "2026-07-19T17:21:00",
+      "source": "https://investasi.kontan.co.id/news/indeks-sektor-kesehatan-anjlok-2957-di-sepanjang-2026-peluang-rebound-terbuka",
+      "tags": [
+        "Analyst Ratings",
+        "Business Expansion",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Maybank Sekuritas Indonesia keeps a positive outlook for the IHSG, targeting 7,500 points and recommending five stocks after S&P maintains Indonesia’s credit outlook as stable",
+      "timestamp": "2026-07-16T12:20:00",
+      "source": "https://investasi.kontan.co.id/news/sp-jaga-outlook-ri-maybank-targetkan-ihsg-di-level-7500-berikut-saham-pilihannya",
+      "tags": [
+        "Analyst Ratings",
+        "Credit",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Consumer confidence weakens, putting Indonesian retail and electronics issuers at risk",
+      "timestamp": "2026-07-10T09:33:00",
+      "source": "https://investasi.kontan.co.id/news/optimisme-konsumen-melemah-emiten-ritel-dan-elektronik-rentan-tertekan",
+      "tags": [
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Mirae Asset Analyst Projects Positive Outlook for Kalbe Farma (KLBF) Stock to 2026, Sets Target Price Rp 885",
+      "timestamp": "2026-07-10T09:22:00",
+      "source": "https://investasi.kontan.co.id/news/rupiah-tertekan-begini-prospek-saham-kalbe-farma-klbf-hingga-akhir-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Currency & FX",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Ronny Hadiana Buys Shares of Kalbe Farma",
+      "timestamp": "2026-07-10T09:05:36",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10072026-4527-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "Rupiah weakening pressures Kalbe Farma's margins but analysts keep buy recommendation",
+      "timestamp": "2026-07-09T22:55:00",
+      "source": "https://investasi.kontan.co.id/news/pelemahan-rupiah-pangkas-margin-kalbe-farma-klbf-cek-rekomendasi-analis",
+      "tags": [
+        "Currency & FX",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Analysts Maintain Buy Ratings on PT Kalbe Farma Tbk (KLBF) with Targets Around Rp1,000 Amid Currency and Raw‑Material Cost Pressures",
+      "timestamp": "2026-07-09T17:33:00",
+      "source": "https://investasi.kontan.co.id/news/klbf-hadapi-tekanan-rupiah-dan-biaya-bahan-baku-begini-rekomendasi-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Currency & FX",
+        "Commodities",
+        "Financial Metrics",
+        "Import",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG projected to continue strengthening today with analysts recommending AKRA, ESSA, MEDC, DEWA, KLBF, and MDKA",
+      "timestamp": "2026-07-09T07:20:16",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260708212534-92-1378523/ihsg-diramal-lanjut-menguat-hari-ini",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Slower consumer spending leads analyst to recommend PT Kalbe Farma Tbk, PT Mayora Indah Tbk and AMRT with target prices",
+      "timestamp": "2026-07-07T16:26:00",
+      "source": "https://investasi.kontan.co.id/news/belanja-masyarakat-melandai-investor-perlu-cermati-dampaknya-ke-emiten-konsumer",
+      "tags": [
+        "Analyst Ratings",
+        "Currency & FX",
+        "Commodities",
+        "Risk & Compliance",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Norway’s sovereign wealth fund earned Rp519.6 billion in dividends from 20 Indonesian issuers, from PT Bank Central Asia Tbk to PT Mayora Indah Tbk.",
+      "timestamp": "2026-07-06T10:05:00",
+      "source": "https://market.bisnis.com/read/20260706/192/1985754/dari-bbca-hingga-myor-ini-20-emiten-andalan-swf-norwegia-di-ri",
+      "tags": [
+        "Dividend Announcement",
+        "Foreign Investment",
+        "Institutional Investor",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts recommend KLBF, SMGR, ASII, UNVR, and INTP amid declining Indonesia manufacturing PMI",
+      "timestamp": "2026-07-03T17:37:00",
+      "source": "https://investasi.kontan.co.id/news/penurunan-level-pmi-manufaktur-warning-bagi-emiten-ini-saham-rekomendasi-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Inflation",
+        "Currency & FX",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "LQ45 Blue‑Chip Stocks Remain Cheap as Prices Fall, Analysts Suggest Buying Opportunities",
+      "timestamp": "2026-07-03T11:39:00",
+      "source": "https://investasi.kontan.co.id/news/peluang-cuan-lq45-harga-saham-blue-chip-terus-merosot-saatnya-koleksi-lagi",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Financial Metrics",
+        "Global Economy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Blue‑chip stocks are cheap, yet fundamental risks still loom",
+      "timestamp": "2026-07-02T20:12:00",
+      "source": "https://investasi.kontan.co.id/news/saham-bluechip-sudah-murah-tapi-risiko-fundamental-tetap-membayangi",
+      "tags": [
+        "Financial Metrics",
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Cermati recommends select Kompas 100 constituents for Semester II‑2026",
+      "timestamp": "2026-07-01T07:50:00",
+      "source": "https://investasi.kontan.co.id/news/cermati-rekomendasi-saham-pilihan-emiten-indeks-kompas-100-di-semester-ii-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Government Policy",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BBCA and BBRI Lead Financial Sector Outlook as Analysts Recommend Defensive Picks for H2 2026",
+      "timestamp": "2026-06-30T18:51:00",
+      "source": "https://investasi.kontan.co.id/news/sektor-finansial-konsumsi-bisa-pimpin-pemulihan-semester-ii-ini-pilihan-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Portfolio",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia's IHSG Expected to Show Limited Gains on Monday Amid Mixed Sentiment",
+      "timestamp": "2026-06-28T18:58:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-berpeluang-menguat-terbatas-pada-senin-296-besok",
+      "tags": [
+        "Market Sentiment",
+        "Inflation",
+        "Foreign Investment",
+        "Capital & Funding"
+      ]
+    },
+    {
+      "title": "Foreign Investors Net Sell BMRI Rp 224.1 Billion, Leading Largest Sell-Off on June 25",
+      "timestamp": "2026-06-26T06:49:36",
+      "source": "https://investor.id/market/444179/saham-ini-dibuang-asingmasuk-daftar-jual-terbesar",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Maybank Sekuritas keeps neutral view on Indonesia consumer sector, cites top‑buy and top‑sell picks",
+      "timestamp": "2026-06-24T15:44:00",
+      "source": "https://investasi.kontan.co.id/news/harga-minyak-turun-sektor-konsumer-berpeluang-rebound-ini-saham-pilihan",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas recommends ADMR, ARCI, PTBA and TAPG as Indonesia's IHSG closes 0.25% lower",
+      "timestamp": "2026-06-24T12:22:00",
+      "source": "https://market.bisnis.com/read/20260624/189/1982904/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-rabu-24-juni-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Weak Rupiah May Pressure PT Kalbe Farma Tbk Margins, Analysts Recommend Buy",
+      "timestamp": "2026-06-14T13:18:00",
+      "source": "https://investasi.kontan.co.id/news/pelemahan-rupiah-berpotensi-tekan-margin-kalbe-farma-klbf-simak-rekomendasinya",
+      "tags": [
+        "Currency & FX",
+        "Analyst Ratings",
+        "Import",
+        "Bullish"
+      ]
+    }
+  ],
+  "corporate_events": [
+    {
+      "date": "2026-09-11",
+      "type": "RUPS",
+      "detail": "Waktu: 09:00:00 · Lokasi: IDX Public Expose"
+    },
+    {
+      "date": "2026-05-21",
+      "type": "RUPS",
+      "detail": "Waktu: 11:00:00 · Lokasi: Kalbe Business Innovation Center, Ruang Auditorium, Lantai 4 JL. Pulogadung NO. 23, RW. 9, Jatinegara, Kec. Cakung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13930 Kota Adm. Jakarta Timur · Agenda #1: Shareholders approved the 2025 Annual Report and Financial Statements, granting full discharge of responsibility to the Board of Directors and Commissioners. This approval was passed with 98% of the votes on May 21, 2026.\nAgenda #2: The meeting approved a cash dividend of IDR 20.00 per share from 2025 profits, with the remainder allocated to retained earnings. This distribution totals IDR 936,267,830,800 and was approved by 98.12% of votes.\nAgenda #3: A new Board of Directors and Commissioners were appointed for the 2026-2029 term, naming Bernadette Ruth Irawati Setiady as President Director and Ronny Hadiana as President Commissioner. The board consists of four directors and five commissioners, including two independent members.\nAgenda #4: The 2026 compensation for the Board of Commissioners was capped at 0.1% of 2025 Net Sales, with the board authorized to set Director salaries. This determination was approved by 95.68% of the votes.\nAgenda #5: Purwanto, Susanti dan Surja was appointed as the registered public accounting firm to audit the company's financial records for the fiscal year ending December 31, 2026. The appointment was approved by 92.32% of votes.\nAgenda #6: Shareholders approved adjusting the company's purpose and business activities to align with the 2025 Indonesian Standard Industrial Classification (KBLI 2025). The Board of Directors and Corporate Secretary were granted authority to execute all necessary legal actions and documentation.\nAgenda #7: The specific agenda items and decisions for the Extraordinary General Meeting (RUPS Luar Biasa) held on May 21, 2026, are not stated.\nAgenda #8: The meeting was confirmed to have met quorum requirements with 86.41% of valid voting shares present. This quorum allowed for the formal reporting of the general meeting results."
+    }
+  ],
+  "context_period": {
+    "start": "2026-04-01",
+    "end": "2026-09-30"
+  },
+  "source_availability": {
+    "company_fundamentals": true,
+    "corporate_events": true,
+    "news": true,
+    "peer_comparison": true,
+    "market_context": true,
+    "sector_market_series": false
+  },
+  "news_archive": {
+    "pages": 3,
+    "rows": 68,
+    "pagination_exhausted": true,
+    "totals_seen": [
+      68
+    ]
+  }
 }

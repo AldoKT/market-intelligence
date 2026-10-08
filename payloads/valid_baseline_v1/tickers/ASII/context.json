@@ -3,8 +3,8 @@
   "as_of": "2026-09-30",
   "identity": {
     "symbol": "ASII",
-    "company_name": null,
-    "peer_group": null
+    "company_name": "Astra International Tbk",
+    "peer_group": "Multi-sector Holdings"
   },
   "current": {
     "scope": "NO_CONTEXT",
@@ -20,5 +20,3318 @@
   "daily_market": {},
   "notes": [
     "Dataset scope: 28 reviewed stocks. No full-market or peer-context score is computed."
-  ]
+  ],
+  "company_snapshot": {
+    "price_date": "2026-10-07",
+    "captured_at": "2026-10-08",
+    "sector": "Industrials",
+    "industry": "Multi-sector Holdings",
+    "website": "www.astra.co.id",
+    "market_cap": 193511384009200,
+    "annual_year": 2025,
+    "valuation_year": 2026,
+    "metrics": [
+      {
+        "label": "Pendapatan",
+        "value": "Rp 323,39 T"
+      },
+      {
+        "label": "Laba bersih",
+        "value": "Rp 32,77 T"
+      },
+      {
+        "label": "Total aset",
+        "value": "Rp 507,37 T"
+      },
+      {
+        "label": "Ekuitas",
+        "value": "Rp 290,81 T"
+      },
+      {
+        "label": "EPS",
+        "value": "Rp 809,44"
+      },
+      {
+        "label": "P/E TTM",
+        "value": "6,50×"
+      },
+      {
+        "label": "P/B",
+        "value": "0,84×"
+      }
+    ]
+  },
+  "fundamental_peers": [
+    {
+      "symbol": "ASII",
+      "name": "Astra International Tbk",
+      "year": 2025,
+      "market_cap": 195130726134800,
+      "pe": 6.55086870563669,
+      "pb": 0.848143705925205,
+      "revenue": 323392000000000,
+      "in_universe": true
+    },
+    {
+      "symbol": "BNBR",
+      "name": "Bakrie & Brothers Tbk",
+      "year": 2025,
+      "market_cap": 20013587040612,
+      "pe": 93.886010820579,
+      "pb": 5.39436699395756,
+      "revenue": 3742973000000,
+      "in_universe": false
+    },
+    {
+      "symbol": "BHIT",
+      "name": "PT MNC Asia Holding Tbk",
+      "year": 2025,
+      "market_cap": 1979567604215,
+      "pe": 5.24769661745214,
+      "pb": 0.120232205996136,
+      "revenue": 14490421000000,
+      "in_universe": false
+    },
+    {
+      "symbol": "FOLK",
+      "name": "PT Multi Garam Utama Tbk",
+      "year": 2025,
+      "market_cap": 773266575816,
+      "pe": -70.6716361499874,
+      "pb": 5.68561169332669,
+      "revenue": 18756716139,
+      "in_universe": false
+    },
+    {
+      "symbol": "ZBRA",
+      "name": "PT Dosni Roha Indonesia Tbk",
+      "year": null,
+      "market_cap": 125535313150,
+      "pe": null,
+      "pb": null,
+      "revenue": null,
+      "in_universe": false
+    },
+    {
+      "symbol": "UNTR",
+      "name": "United Tractors Tbk",
+      "year": 2025,
+      "market_cap": 96983513536000,
+      "pe": 12.6997324662176,
+      "pb": 1.00424495610667,
+      "revenue": 131300810000000,
+      "in_universe": true
+    },
+    {
+      "symbol": "IMPC",
+      "name": "PT Impack Pratama Industri Tbk",
+      "year": 2025,
+      "market_cap": 74673520000000,
+      "pe": 96.863805478794,
+      "pb": 23.661325076927,
+      "revenue": 4271459779365,
+      "in_universe": false
+    },
+    {
+      "symbol": "SINI",
+      "name": "PT Singaraja Putra Tbk",
+      "year": 2025,
+      "market_cap": 19841250000000,
+      "pe": 31.9951151255119,
+      "pb": -158.395131679565,
+      "revenue": 534021405626,
+      "in_universe": false
+    },
+    {
+      "symbol": "MARK",
+      "name": "PT Mark Dynamics Indonesia Tbk",
+      "year": 2025,
+      "market_cap": 4598000375100,
+      "pe": 13.663864872621,
+      "pb": 5.15613564317898,
+      "revenue": 837311837328,
+      "in_universe": false
+    },
+    {
+      "symbol": "SMIL",
+      "name": "PT Sarana Mitra Luas Tbk",
+      "year": 2025,
+      "market_cap": 4130787408808,
+      "pe": 54.531677515947,
+      "pb": 5.18623876130967,
+      "revenue": 409278809028,
+      "in_universe": false
+    }
+  ],
+  "market_history": [
+    {
+      "date": "2026-04-01",
+      "ihsg": 7184.438,
+      "market_cap": 12646140309231200
+    },
+    {
+      "date": "2026-04-02",
+      "ihsg": 7026.782,
+      "market_cap": 12301402169484936
+    },
+    {
+      "date": "2026-04-06",
+      "ihsg": 6989.426,
+      "market_cap": 12181292965738515
+    },
+    {
+      "date": "2026-04-07",
+      "ihsg": 6971.027,
+      "market_cap": 12220087895953627
+    },
+    {
+      "date": "2026-04-08",
+      "ihsg": 7279.209,
+      "market_cap": 12745135690725105
+    },
+    {
+      "date": "2026-04-09",
+      "ihsg": 7307.589,
+      "market_cap": 12927661360702306
+    },
+    {
+      "date": "2026-04-10",
+      "ihsg": 7458.496,
+      "market_cap": 13183485554446575
+    },
+    {
+      "date": "2026-04-13",
+      "ihsg": 7500.187,
+      "market_cap": 13334711369769658
+    },
+    {
+      "date": "2026-04-14",
+      "ihsg": 7675.951,
+      "market_cap": 13680203483861089
+    },
+    {
+      "date": "2026-04-15",
+      "ihsg": 7623.586,
+      "market_cap": 13577551326427693
+    },
+    {
+      "date": "2026-04-16",
+      "ihsg": 7621.382,
+      "market_cap": 13580909513734445
+    },
+    {
+      "date": "2026-04-17",
+      "ihsg": 7634.004,
+      "market_cap": 13631805736754862
+    },
+    {
+      "date": "2026-04-20",
+      "ihsg": 7594.111,
+      "market_cap": 13530051609880990
+    },
+    {
+      "date": "2026-04-21",
+      "ihsg": 7559.38,
+      "market_cap": 13439346111420433
+    },
+    {
+      "date": "2026-04-22",
+      "ihsg": 7541.612,
+      "market_cap": 13331962629649015
+    },
+    {
+      "date": "2026-04-23",
+      "ihsg": 7378.606,
+      "market_cap": 13176851273619842
+    },
+    {
+      "date": "2026-04-24",
+      "ihsg": 7129.49,
+      "market_cap": 12732776963937495
+    },
+    {
+      "date": "2026-04-27",
+      "ihsg": 7106.52,
+      "market_cap": 12687518028997883
+    },
+    {
+      "date": "2026-04-28",
+      "ihsg": 7072.392,
+      "market_cap": 12590034125678447
+    },
+    {
+      "date": "2026-04-29",
+      "ihsg": 7101.226,
+      "market_cap": 12635384034178860
+    },
+    {
+      "date": "2026-04-30",
+      "ihsg": 6956.804,
+      "market_cap": 12378413759882228
+    },
+    {
+      "date": "2026-05-04",
+      "ihsg": 6971.953,
+      "market_cap": 12411009903513114
+    },
+    {
+      "date": "2026-05-05",
+      "ihsg": 7057.106,
+      "market_cap": 12626309574250122
+    },
+    {
+      "date": "2026-05-06",
+      "ihsg": 7092.467,
+      "market_cap": 12699830398460331
+    },
+    {
+      "date": "2026-05-07",
+      "ihsg": 7174.321,
+      "market_cap": 12778962713690869
+    },
+    {
+      "date": "2026-05-08",
+      "ihsg": 6969.396,
+      "market_cap": 12402407487340402
+    },
+    {
+      "date": "2026-05-11",
+      "ihsg": 6905.62,
+      "market_cap": 12280030079664830
+    },
+    {
+      "date": "2026-05-12",
+      "ihsg": 6858.899,
+      "market_cap": 12142773427321380
+    },
+    {
+      "date": "2026-05-13",
+      "ihsg": 6723.32,
+      "market_cap": 11821690407165346
+    },
+    {
+      "date": "2026-05-18",
+      "ihsg": 6599.24,
+      "market_cap": 11535132183193835
+    },
+    {
+      "date": "2026-05-19",
+      "ihsg": 6370.679,
+      "market_cap": 11105372542285443
+    },
+    {
+      "date": "2026-05-20",
+      "ihsg": 6318.5,
+      "market_cap": 10959980491971602
+    },
+    {
+      "date": "2026-05-21",
+      "ihsg": 6094.941,
+      "market_cap": 10549507904767653
+    },
+    {
+      "date": "2026-05-22",
+      "ihsg": 6162.045,
+      "market_cap": 10631421768765943
+    },
+    {
+      "date": "2026-05-25",
+      "ihsg": 6206.349,
+      "market_cap": 10692705367587005
+    },
+    {
+      "date": "2026-05-26",
+      "ihsg": 6130.19,
+      "market_cap": 10613054794742598
+    },
+    {
+      "date": "2026-05-29",
+      "ihsg": 6127.381,
+      "market_cap": 10725485605975573
+    },
+    {
+      "date": "2026-06-02",
+      "ihsg": 6195.427,
+      "market_cap": 10891278361519046
+    },
+    {
+      "date": "2026-06-03",
+      "ihsg": 5941.066,
+      "market_cap": 10451829355656557
+    },
+    {
+      "date": "2026-06-04",
+      "ihsg": 5839.785,
+      "market_cap": 10259085293637228
+    },
+    {
+      "date": "2026-06-05",
+      "ihsg": 5594.765,
+      "market_cap": 9803592659706909
+    },
+    {
+      "date": "2026-06-08",
+      "ihsg": 5342.137,
+      "market_cap": 9414771844192581
+    },
+    {
+      "date": "2026-06-09",
+      "ihsg": 5746.648,
+      "market_cap": 10095511071726246
+    },
+    {
+      "date": "2026-06-10",
+      "ihsg": 5902.376,
+      "market_cap": 10341178905408617
+    },
+    {
+      "date": "2026-06-11",
+      "ihsg": 5886.032,
+      "market_cap": 10287950241660193
+    },
+    {
+      "date": "2026-06-12",
+      "ihsg": 6007.656,
+      "market_cap": 10520825968837381
+    },
+    {
+      "date": "2026-06-15",
+      "ihsg": 6254.966,
+      "market_cap": 10899408952482727
+    },
+    {
+      "date": "2026-06-17",
+      "ihsg": 6220.74,
+      "market_cap": 10776148487729844
+    },
+    {
+      "date": "2026-06-18",
+      "ihsg": 6172.34,
+      "market_cap": 10736980009961606
+    },
+    {
+      "date": "2026-06-19",
+      "ihsg": 6177.139,
+      "market_cap": 10784594953877444
+    },
+    {
+      "date": "2026-06-22",
+      "ihsg": 6116.69,
+      "market_cap": 10708711379319414
+    },
+    {
+      "date": "2026-06-23",
+      "ihsg": 6101.333,
+      "market_cap": 10685047810158781
+    },
+    {
+      "date": "2026-06-24",
+      "ihsg": 5883.881,
+      "market_cap": 10312029789078805
+    },
+    {
+      "date": "2026-06-25",
+      "ihsg": 5999.038,
+      "market_cap": 10515718128770631
+    },
+    {
+      "date": "2026-06-26",
+      "ihsg": 5896.134,
+      "market_cap": 10298280398969010
+    },
+    {
+      "date": "2026-06-29",
+      "ihsg": 5820.79,
+      "market_cap": 10179250800138493
+    },
+    {
+      "date": "2026-06-30",
+      "ihsg": 5643.194,
+      "market_cap": 9894028079914985
+    },
+    {
+      "date": "2026-07-01",
+      "ihsg": 5695.116,
+      "market_cap": 10007947906561450
+    },
+    {
+      "date": "2026-07-02",
+      "ihsg": 5744.556,
+      "market_cap": 10060923668899571
+    },
+    {
+      "date": "2026-07-03",
+      "ihsg": 5875.78,
+      "market_cap": 10283558418117973
+    },
+    {
+      "date": "2026-07-06",
+      "ihsg": 5916.07,
+      "market_cap": 10352610980350056
+    },
+    {
+      "date": "2026-07-07",
+      "ihsg": 5986.497,
+      "market_cap": 10462196902308353
+    },
+    {
+      "date": "2026-07-08",
+      "ihsg": 5873.372,
+      "market_cap": 10272894518876036
+    },
+    {
+      "date": "2026-07-09",
+      "ihsg": 5912.442,
+      "market_cap": 10324456194315119
+    },
+    {
+      "date": "2026-07-10",
+      "ihsg": 5924.36,
+      "market_cap": 10336481815483724
+    },
+    {
+      "date": "2026-07-13",
+      "ihsg": 6037.842,
+      "market_cap": 10506156813352519
+    },
+    {
+      "date": "2026-07-14",
+      "ihsg": 6039.521,
+      "market_cap": 10524135196509080
+    },
+    {
+      "date": "2026-07-15",
+      "ihsg": 6041.972,
+      "market_cap": 10548175926837826
+    },
+    {
+      "date": "2026-07-16",
+      "ihsg": 6108.209,
+      "market_cap": 10655671296610599
+    },
+    {
+      "date": "2026-07-17",
+      "ihsg": 6175.535,
+      "market_cap": 10745282583293599
+    },
+    {
+      "date": "2026-07-20",
+      "ihsg": 6231.78,
+      "market_cap": 10832728685598542
+    },
+    {
+      "date": "2026-07-21",
+      "ihsg": 6340.02,
+      "market_cap": 11041209401983643
+    },
+    {
+      "date": "2026-07-22",
+      "ihsg": 6334.476,
+      "market_cap": 11064991318794462
+    },
+    {
+      "date": "2026-07-23",
+      "ihsg": 6315.311,
+      "market_cap": 11058096720739904
+    },
+    {
+      "date": "2026-07-24",
+      "ihsg": 6196.43,
+      "market_cap": 10866941513180025
+    },
+    {
+      "date": "2026-07-27",
+      "ihsg": 6185.783,
+      "market_cap": 10846820086978302
+    },
+    {
+      "date": "2026-07-28",
+      "ihsg": 6130.588,
+      "market_cap": 10748777396682842
+    },
+    {
+      "date": "2026-07-29",
+      "ihsg": 6091.386,
+      "market_cap": 10671925079765237
+    },
+    {
+      "date": "2026-07-30",
+      "ihsg": 6186.363,
+      "market_cap": 10808753111947654
+    },
+    {
+      "date": "2026-07-31",
+      "ihsg": 6236.126,
+      "market_cap": 10919632662108419
+    },
+    {
+      "date": "2026-08-03",
+      "ihsg": 6234.497,
+      "market_cap": 10891533376788029
+    },
+    {
+      "date": "2026-08-04",
+      "ihsg": 6319.613,
+      "market_cap": 11026919553266172
+    },
+    {
+      "date": "2026-08-05",
+      "ihsg": 6351.139,
+      "market_cap": 11081557528513146
+    },
+    {
+      "date": "2026-08-06",
+      "ihsg": 6343.711,
+      "market_cap": 11091230654708629
+    },
+    {
+      "date": "2026-08-07",
+      "ihsg": 6409.654,
+      "market_cap": 11208370900071437
+    },
+    {
+      "date": "2026-08-10",
+      "ihsg": 6365.374,
+      "market_cap": 11127673938712190
+    },
+    {
+      "date": "2026-08-11",
+      "ihsg": 6267.88,
+      "market_cap": 10951983899532200
+    },
+    {
+      "date": "2026-08-12",
+      "ihsg": 6373.849,
+      "market_cap": 11170270993004848
+    },
+    {
+      "date": "2026-08-13",
+      "ihsg": 6301.765,
+      "market_cap": 11047038481790783
+    },
+    {
+      "date": "2026-08-14",
+      "ihsg": 6401.888,
+      "market_cap": 11239913404397486
+    },
+    {
+      "date": "2026-08-18",
+      "ihsg": 6449.83,
+      "market_cap": 11344776423883178
+    },
+    {
+      "date": "2026-08-19",
+      "ihsg": 6394.125,
+      "market_cap": 11242710814171051
+    },
+    {
+      "date": "2026-08-20",
+      "ihsg": 6501.585,
+      "market_cap": 11417105165375641
+    },
+    {
+      "date": "2026-08-21",
+      "ihsg": 6525.69,
+      "market_cap": 11445451211005613
+    },
+    {
+      "date": "2026-08-24",
+      "ihsg": 6501.667,
+      "market_cap": 11400829359169202
+    },
+    {
+      "date": "2026-08-26",
+      "ihsg": 6405.685,
+      "market_cap": 11226539253653372
+    },
+    {
+      "date": "2026-08-27",
+      "ihsg": 6521.75,
+      "market_cap": 11444254799160097
+    },
+    {
+      "date": "2026-08-28",
+      "ihsg": 6518.121,
+      "market_cap": 11427514258790209
+    },
+    {
+      "date": "2026-08-31",
+      "ihsg": 6525.478,
+      "market_cap": 11420266337232824
+    },
+    {
+      "date": "2026-09-01",
+      "ihsg": 6599.943,
+      "market_cap": 11528076154461080
+    },
+    {
+      "date": "2026-09-02",
+      "ihsg": 6595.776,
+      "market_cap": 11521577604064942
+    },
+    {
+      "date": "2026-09-03",
+      "ihsg": 6667.891,
+      "market_cap": 11637538684241799
+    },
+    {
+      "date": "2026-09-04",
+      "ihsg": 6636.475,
+      "market_cap": 11595660058206448
+    },
+    {
+      "date": "2026-09-07",
+      "ihsg": 6619.673,
+      "market_cap": 11571807924987264
+    },
+    {
+      "date": "2026-09-08",
+      "ihsg": 6686.442,
+      "market_cap": 11668902562815871
+    },
+    {
+      "date": "2026-09-09",
+      "ihsg": 6678.201,
+      "market_cap": 11671538636715858
+    },
+    {
+      "date": "2026-09-10",
+      "ihsg": 6589.338,
+      "market_cap": 11526136904331476
+    },
+    {
+      "date": "2026-09-11",
+      "ihsg": 6541.377,
+      "market_cap": 11442963914395062
+    },
+    {
+      "date": "2026-09-14",
+      "ihsg": 6534.693,
+      "market_cap": 11368110758085182
+    },
+    {
+      "date": "2026-09-15",
+      "ihsg": 6461.153,
+      "market_cap": 11257912210981978
+    },
+    {
+      "date": "2026-09-16",
+      "ihsg": 6436.853,
+      "market_cap": 11225219420982876
+    },
+    {
+      "date": "2026-09-17",
+      "ihsg": 6462.431,
+      "market_cap": 11270346560839989
+    },
+    {
+      "date": "2026-09-18",
+      "ihsg": 6441.159,
+      "market_cap": 11262605698050558
+    },
+    {
+      "date": "2026-09-21",
+      "ihsg": 6384.726,
+      "market_cap": 11161910095429389
+    },
+    {
+      "date": "2026-09-22",
+      "ihsg": 6277.044,
+      "market_cap": 10971287923179805
+    },
+    {
+      "date": "2026-09-23",
+      "ihsg": 6374.912,
+      "market_cap": 11141915820582293
+    },
+    {
+      "date": "2026-09-24",
+      "ihsg": 6298.607,
+      "market_cap": 11021365748586840
+    },
+    {
+      "date": "2026-09-25",
+      "ihsg": 6241.892,
+      "market_cap": 10902018198054911
+    },
+    {
+      "date": "2026-09-28",
+      "ihsg": 6147.859,
+      "market_cap": 10755457591436344
+    },
+    {
+      "date": "2026-09-29",
+      "ihsg": 6121.7,
+      "market_cap": 10754858845786069
+    },
+    {
+      "date": "2026-09-30",
+      "ihsg": 6071.138,
+      "market_cap": 10691719699169471
+    }
+  ],
+  "relevant_news": [
+    {
+      "title": "Indonesia Stock Exchange to Launch Short Selling Mechanism on October 1",
+      "timestamp": "2026-09-30T15:57:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8686209/short-selling-mulai-berlaku-besok",
+      "tags": [
+        "Market Sentiment",
+        "Politics & Regulation",
+        "Risk & Compliance"
+      ]
+    },
+    {
+      "title": "PT Astra Graphia Tbk (ASGR) Announces Jumbo Interim Dividend of Rp297 Per Share, Yielding Nearly 4x Deposit Rates",
+      "timestamp": "2026-09-30T14:57:00",
+      "source": "https://investasi.kontan.co.id/news/dividen-jumbo-yield-4x-bunga-deposito-harga-saham-anak-usaha-astra-melambung-13",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia Stock Exchange to Launch Short Selling on October 1, Requiring Minimum Capital of Rp 50 Million",
+      "timestamp": "2026-09-30T07:16:35",
+      "source": "https://www.cnbcindonesia.com/market/20260930054416-17-771955/bei-buka-short-seling-1-oktober-investor-harus-punya-modal-rp-50-juta",
+      "tags": [
+        "Government Policy",
+        "Market Sentiment",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Astra Graphia raises interim dividend nearly tenfold to Rp297 per share, yielding 13.4%",
+      "timestamp": "2026-09-30T05:30:00",
+      "source": "https://www.idnfinancials.com/id/news/69626/astra-graphia-naikkan-dividen-interim-10-kali-lipat-yield-capai-13-4",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia Stock Exchange to open short selling for five stocks starting October 1, 2026",
+      "timestamp": "2026-09-29T16:23:00",
+      "source": "https://www.antaranews.com/berita/5763183/bei-buka-transaksi-short-selling-untuk-lima-saham-pada-1-oktober",
+      "tags": [
+        "Market Sentiment",
+        "Politics & Regulation",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Astra International President Director Rudy Buys 4.4 Million ASII Shares Worth Rp20.81 Billion",
+      "timestamp": "2026-09-29T11:10:22",
+      "source": "https://www.cnbcindonesia.com/market/20260929105541-17-771697/petinggi-astra-international-borong-44-juta-lembar-saham",
+      "tags": [
+        "Ownership",
+        "Insider Trading",
+        "Institutional Investor",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Salim Group Affiliates BUMI and INDF Among Five Stocks Added to Indonesia Stock Exchange Short Selling List",
+      "timestamp": "2026-09-29T11:08:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/123000/afiliasi-grup-salim-bumi-indf-masuk-daftar-saham-short-selling",
+      "tags": [
+        "Market Sentiment",
+        "Government Policy",
+        "Institutional Investor",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Indonesia Stock Exchange Sets Five Stocks for Short Selling, Including BCA and Astra",
+      "timestamp": "2026-09-29T09:28:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8683718/bursa-tetapkan-saham-short-selling-ada-bca-hingga-astra",
+      "tags": [
+        "Politics & Regulation",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Indonesia Stock Exchange to Launch Short Selling on October 1, 2026, Initially Limited to Two Securities Firms and Five Stocks",
+      "timestamp": "2026-09-29T05:08:00",
+      "source": "https://investasi.kontan.co.id/news/transaksi-short-selling-dimulai-besok-1-oktober-2026-baru-2-sekuritas-5-saham",
+      "tags": [
+        "Politics & Regulation",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Rudy Buys Shares of Astra International",
+      "timestamp": "2026-09-28T18:53:03",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-0056-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "Directors and Commissioner of PT Astra International Tbk (ASII) Increase Shareholdings in September 2026",
+      "timestamp": "2026-09-25T17:16:00",
+      "source": "https://emitennews.com/news/saham-astra-international-asii-diborong-direksi-hingga-komisaris",
+      "tags": [
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Djap Tet Fa Buys Shares of Astra International",
+      "timestamp": "2026-09-25T15:14:33",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-9217-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "Thomas Junaidi Alim W buy Shares of Astra International",
+      "timestamp": "2026-09-25T14:25:24",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-1259-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "Foreign investors ramp up net selling, surpassing Rp 100 trillion",
+      "timestamp": "2026-09-24T22:07:00",
+      "source": "https://investor.id/market/455426/asing-merajalela-net-sell-membengkak-di-atas-rp-100-triliun",
+      "tags": [
+        "Foreign Investment",
+        "Currency & FX",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Two PT Astra International Tbk (ASII) executives, Prijono Sugiarto and Rudy, make insider purchases, with Rudy acquiring about Rp21.14 billion of ASII shares",
+      "timestamp": "2026-09-24T08:59:00",
+      "source": "https://market.bisnis.com/read/20260924/7/2006787/dua-petinggi-astra-prijono-sugiarto-rudy-borong-saham-asii-rp21-miliar",
+      "tags": [
+        "Insider Trading",
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "President Director Rudi and Commissioner Prijono Sugiarto of PT Astra International Tbk (ASII) buy additional shares, spending IDR 21.14 billion and IDR 42.20 million respectively",
+      "timestamp": "2026-09-24T06:20:43",
+      "source": "https://www.cnbcindonesia.com/market/20260924000925-17-770383/dua-petinggi-astra-international-borong-saham-nilainya-fantastis",
+      "tags": [
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas forecasts IHSG rise and recommends top-performing stocks on 24 Sep 2026",
+      "timestamp": "2026-09-24T05:40:00",
+      "source": "https://market.bisnis.com/read/20260924/7/2006644/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-kamis-24-september-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "ASII shares slip below IDR5,000 as President Commissioner Prijono Sugiarto and President Director Rudy increase holdings",
+      "timestamp": "2026-09-23T20:55:00",
+      "source": "https://www.idnfinancials.com/id/news/69326/harga-kembali-merosot-ke-bawah-rp5-000-dua-bos-astra-borong-saham",
+      "tags": [
+        "Ownership",
+        "Stock Buyback",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk (ASII) Tightens Investment in Non-Core Businesses",
+      "timestamp": "2026-09-23T19:01:00",
+      "source": "https://emitennews.com/news/di-luar-3-bisnis-inti-astra-international-asii-perketat-investasi",
+      "tags": [
+        "Capital & Funding",
+        "Partnerships & Agreements",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk (ASII) plans major investment in its three core businesses, a Rp8 trillion share buyback and a stake increase in PT Astra Otoparts Tbk (AUTO) via a Rp858 billion VTO, and sets a target price of Rp7,000‑Rp7,300.",
+      "timestamp": "2026-09-23T18:21:00",
+      "source": "https://investasi.kontan.co.id/news/asii-siapkan-investasi-besar-di-tiga-bisnis-inti-ini-prospek-sahamnya",
+      "tags": [
+        "Stock Buyback",
+        "Ownership",
+        "Analyst Ratings",
+        "Capital & Funding",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk (ASII) outlines 2027 focus on three core businesses and plans to increase its stake in PT Astra Otoparts Tbk (AUTO)",
+      "timestamp": "2026-09-23T17:06:00",
+      "source": "https://investasi.kontan.co.id/news/astra-international-asii-fokus-3-bisnis-inti-pada-2027-ini-strategi-investasinya",
+      "tags": [
+        "Business Expansion",
+        "Ownership",
+        "Capital & Funding",
+        "Mergers & Acquisitions",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk (ASII) realizes Rp17 trillion capex in H1 2026.",
+      "timestamp": "2026-09-23T17:00:00",
+      "source": "https://www.idnfinancials.com/id/news/69314/asii-merealisasikan-capex-rp17-triliun-pada-semester-satu-2026",
+      "tags": [
+        "Capital & Funding",
+        "Asset Purchase",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Prijono Sugiarto Buy Shares of Astra International",
+      "timestamp": "2026-09-23T16:08:04",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-3032-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "Rudy Buy Shares of Astra International",
+      "timestamp": "2026-09-23T16:00:15",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-1413-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk (ASII) announces focus on three core profit-generating segments",
+      "timestamp": "2026-09-23T15:20:36",
+      "source": "https://www.cnbcindonesia.com/market/20260923145354-17-770245/astra--asii--bakal-fokus-ke-3-segmen-penghasil-cuan-utama",
+      "tags": [
+        "Business Expansion",
+        "Stock Buyback",
+        "Capital & Funding",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk (ASII) reports first‑half 2026 capex of Rp 17 trillion, driven by subsidiary PT United Tractors Tbk (UNTR).",
+      "timestamp": "2026-09-23T14:28:00",
+      "source": "https://investor.id/market/455201/belanja-modal-astra-asii-tembus-rp-17-triliun-dipacu-ekspansi-united-tractors-untr",
+      "tags": [
+        "Capital & Funding",
+        "Asset Purchase",
+        "Production & Operations",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk (ASII) reports capex absorption of Rp17 trillion in the first half of 2026",
+      "timestamp": "2026-09-23T14:16:00",
+      "source": "https://market.bisnis.com/read/20260923/192/2006521/astra-international-asii-serap-capex-rp17-triliun-semester-i2026",
+      "tags": [
+        "Capital & Funding",
+        "Business Expansion",
+        "Asset Purchase",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk (ASII) reaffirms focus on three core businesses through 2027",
+      "timestamp": "2026-09-23T13:56:00",
+      "source": "https://investasi.kontan.co.id/news/astra-international-asii-tetap-fokus-pada-tiga-bisnis-inti-pada-tahun-2027",
+      "tags": [
+        "Business Expansion",
+        "Capital & Funding",
+        "Mergers & Acquisitions",
+        "Asset Purchase",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk (ASII) reports Rp17 trillion capex in H1 2026, targeting Rp36 trillion total for the year.",
+      "timestamp": "2026-09-23T13:33:00",
+      "source": "https://emitennews.com/news/astra-asii-baru-serap-rp17t-capex-siapkan-total-rp36t-di-2026",
+      "tags": [
+        "Capital & Funding",
+        "Business Expansion",
+        "Production & Operations",
+        "Asset Purchase",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk (ASII) reports first‑half 2026 capex realization of Rp 17 trillion, 47.2% of annual target",
+      "timestamp": "2026-09-23T11:25:00",
+      "source": "https://investasi.kontan.co.id/news/astra-international-asii-baru-serap-capex-rp-17-triliun-42-dari-target-tahun-ini",
+      "tags": [
+        "Capital & Funding",
+        "Asset Purchase",
+        "Business Expansion",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Technical stock recommendations for PT Dian Swastatika Sentosa Tbk (DSSA), PT Astra International Tbk (ASII), and PT Sarana Menara Nusantara Tbk (TOWR) on 23/9/2026",
+      "timestamp": "2026-09-23T05:21:00",
+      "source": "https://investasi.kontan.co.id/news/simak-rekomendasi-teknikal-saham-hari-ini-239-dssa-asii-dan-towr",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG slides 1.69% to 6,277; analysts' stock picks for Wednesday (23/9)",
+      "timestamp": "2026-09-22T19:01:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-ambles-169-ke-6277-cermati-saham-pilihan-analis-untuk-rabu-239",
+      "tags": [
+        "Analyst Ratings",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign investors net sold Rp 510.07 bn of Indonesian stocks, led by PT Bank Mandiri Tbk (BMRI)",
+      "timestamp": "2026-09-21T21:14:00",
+      "source": "https://investasi.kontan.co.id/news/asing-net-sell-jumbo-rp-510-miliar-cek-saham-yang-banyak-dijual-di-awal-pekan",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign outflow hits Rp1.79 trillion, with BBCA and BMRI leading net sells",
+      "timestamp": "2026-09-18T20:20:00",
+      "source": "https://www.idnfinancials.com/id/news/69078/outflow-asing-capai-rp1-79-triliun-bbca-dan-bmri-top-net-sell",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Capital & Funding",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG Opens Weaker at Start of Week, Pressured by Global Sentiment",
+      "timestamp": "2026-09-14T09:33:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/121427/ihsg-dibuka-melemah-di-awal-pekan-tertekan-sentimen-global",
+      "tags": [
+        "Market Sentiment",
+        "Commodities",
+        "Interest Rate",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "ASII's automotive segment grows 9% to Rp5.9 trillion in 1H26, driven by Toyota and Daihatsu sales",
+      "timestamp": "2026-09-11T08:15:00",
+      "source": "https://emitennews.com/news/segmen-otomotif-astra-asii-melesat-1h26-daihatsu-toyota-ngebut",
+      "tags": [
+        "Business Expansion",
+        "Financial Metrics",
+        "Production & Operations",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk plans Rp36 trillion capex in 2026, allocating Rp15 trillion to PT United Tractors Tbk",
+      "timestamp": "2026-09-10T16:49:00",
+      "source": "https://market.bisnis.com/read/20260910/192/2003122/astra-asii-siapkan-capex-rp36-triliun-di-2026-untr-terima-rp15-triliun",
+      "tags": [
+        "Capital & Funding",
+        "Business Expansion",
+        "Mergers & Acquisitions",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Astra International (ASII) Projects H2 2026 Earnings Recovery on Mining Rebound and Martabe Gold Mine Restart; ASII and Subsidiary United Tractors (UNTR) Announce Share Buybacks",
+      "timestamp": "2026-09-10T16:10:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/121172/sinyal-pemulihan-kinerja-astra-asii-semester-ii-2026",
+      "tags": [
+        "Stock Buyback",
+        "Subsidiaries",
+        "Financial Metrics",
+        "Commodities",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Astra International Explains Rationale for Voluntary Tender Offer to Increase Stake in Astra Otoparts",
+      "timestamp": "2026-09-10T13:35:00",
+      "source": "https://market.bisnis.com/read/20260910/192/2003046/bos-astra-ungkap-alasan-asii-kerek-kepemilikan-saham-di-auto",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Ownership",
+        "Capital & Funding",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk Projects Rp115 Billion Additional Profit from Voluntary Tender Offer for PT Astra Otoparts Tbk Shares",
+      "timestamp": "2026-09-10T13:10:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/121146/keuntungan-astra-asii-usai-pertebal-saham-auto",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Ownership",
+        "Capital & Funding",
+        "Subsidiaries",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk announces voluntary tender offer for PT Astra Otoparts Tbk shares",
+      "timestamp": "2026-09-10T12:35:00",
+      "source": "https://emitennews.com/news/astra-asii-beber-alasan-vto-saham-auto-free-float-aman",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Ownership",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Astra International (ASII) Commits to 45-50% Dividend Payout Ratio for Fiscal Year 2026 Amid Mining Challenges",
+      "timestamp": "2026-09-10T12:20:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/121140/bocoran-rasio-dividen-astra-asii-tahun-buku-2026",
+      "tags": [
+        "Dividend Announcement",
+        "Stock Buyback",
+        "Commodities",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Astra International Maintains 45-50% Dividend Payout Ratio Despite First-Half Profit Decline",
+      "timestamp": "2026-09-10T12:15:00",
+      "source": "https://market.bisnis.com/read/20260910/192/2003029/astra-asii-pertahankan-payout-ratio-dividen-hingga-50",
+      "tags": [
+        "Dividend Announcement",
+        "Stock Buyback",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign investors show early signs of tactical re-entry into Indonesian equities, with analysts highlighting big banks and select sectors.",
+      "timestamp": "2026-09-07T15:43:00",
+      "source": "https://investasi.kontan.co.id/news/asing-mulai-re-entry-ke-pasar-saham-intip-rekomendasi-saham-yang-menarik-dicermati",
+      "tags": [
+        "Foreign Investment",
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Currency & FX",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors heavily buy big bank stocks PT Bank Rakyat Indonesia Tbk, PT Bank Central Asia Tbk and PT Bank Mandiri Tbk in the past week.",
+      "timestamp": "2026-09-07T07:23:00",
+      "source": "https://investasi.kontan.co.id/news/asing-ramai-borong-saham-big-banks-bbri-bbca-dan-bmri-sepekan-terakhir",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Rises 0.31% in Early Trading on Friday (4/9), Check LQ45 Stocks Driving the Move",
+      "timestamp": "2026-09-04T09:34:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-naik-031-di-awal-perdagangan-jumat-49-cek-saham-lq45-yang-jadi-penggerak",
+      "tags": [
+        "Bullish",
+        "Market Sentiment",
+        "Global Economy"
+      ]
+    },
+    {
+      "title": "IHSG outlook driven by Fed rate expectations and technical breakout targeting 6,724, with BRI Danareksa recommending BBCA, LSIP, and ARCI.",
+      "timestamp": "2026-09-04T07:07:00",
+      "source": "https://market.bisnis.com/read/20260904/189/2001283/ihsg-dipengaruhi-ekspektasi-the-fed-peluang-ke-6724",
+      "tags": [
+        "Interest Rate",
+        "Central Bank",
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Breaks 6,650, BRI Danareksa Sekuritas Recommends Three Stocks to Buy",
+      "timestamp": "2026-09-04T06:35:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-tembus-6650-bri-danareksa-rekomendasikan-3-saham-untuk-dibeli",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Stock Recommendations and IHSG Movement for Friday, September 4, 2026",
+      "timestamp": "2026-09-04T05:00:00",
+      "source": "https://market.bisnis.com/read/20260904/7/2001273/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-jumat-4-september-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Inflation",
+        "Interest Rate",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "IHSG May Face Correction on Friday (4/9) – Projections and Stock Recommendations",
+      "timestamp": "2026-09-03T19:29:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-berpeluang-terkoreksi-jumat-49-simak-proyeksi-dan-rekomendasi-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net buy Rp1 trillion, collectively snapping up PT Bank Mandiri Tbk and PT Bank Negara Indonesia Tbk shares",
+      "timestamp": "2026-09-03T18:41:38",
+      "source": "https://www.cnbcindonesia.com/market/20260903180536-17-764793/asing-net-buy-rp1-triliun-kompak-borong-saham-bmri-bbni",
+      "tags": [
+        "Foreign Investment",
+        "Central Bank",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign Investors Heavily Sell Shares of TLKM, ADRO, ASII, and BUMI",
+      "timestamp": "2026-09-03T07:27:40",
+      "source": "https://investor.id/market/452672/sederet-saham-ramai-ditinggal-asing",
+      "tags": [
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "The Fate of Indonesian Stocks Amid MSCI's Whirlwind",
+      "timestamp": "2026-09-03T06:22:02",
+      "source": "https://investor.id/market/452657/nasib-saham-di-pusaran-msci",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "IHSG may test 6,650 as BRI Danareksa recommends buying BMRI, ASII and CUAN",
+      "timestamp": "2026-09-02T08:14:00",
+      "source": "https://market.bisnis.com/read/20260902/189/2000660/ihsg-berpeluang-ke-6650-cek-rekomendasi-saham-bmri-hingga-asii",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Currency & FX",
+        "Interest Rate",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BRI Danareksa Sekuritas recommends PT Bank Mandiri, ASII and CUAN for trading on 2 September 2026",
+      "timestamp": "2026-09-02T07:28:30",
+      "source": "https://investor.id/market/452529/rekomendasi-saham-hari-ini-rabu-2-september-2026-bmri-asii-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Mergers & Acquisitions",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG likely to continue rising; PT Bank Mandiri Tbk, ASII (Astra International) and CUAN (Petrindo Jaya Kreasi) flagged as buy candidates",
+      "timestamp": "2026-09-02T07:00:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-berpeluang-lanjut-menguat-29-investor-bisa-cermati-saham-bmri-asii-dan-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Currency & FX",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BBRI, BBCA, and BMRI Lead IHSG Higher to 6,599.94 on Strong Foreign Buying",
+      "timestamp": "2026-09-01T21:30:00",
+      "source": "https://market.bisnis.com/read/20260901/7/2000607/bank-jumbo-bbri-bbca-bmri-pimpin-top-leaders-ihsg-dekati-6600",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Inflation",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BNI Sekuritas forecasts a modest rise in the IHSG and issues buy recommendations for six Indonesian stocks",
+      "timestamp": "2026-09-01T09:00:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-berpotensi-menguat-di-perdagangan-hari-ini-19-cek-rekomendasi-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "ASII launches tender offer for AUTO as PEHA reports H1 2026 profit of Rp14.97 bn",
+      "timestamp": "2026-09-01T08:59:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8642873/asii-mau-tambah-saham-auto-sementara-peha-raup-laba-rp-14-97-miliar",
+      "tags": [
+        "Ownership",
+        "Mergers & Acquisitions",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analyst says ASII’s voluntary tender offer could cut AUTO’s free float by about 5%",
+      "timestamp": "2026-09-01T08:13:00",
+      "source": "https://emitennews.com/news/vto-asii-berpotensi-pangkas-free-float-auto-ini-kata-analis",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Ownership",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Investment holding issuers report weak H1 2026 performance amid portfolio losses",
+      "timestamp": "2026-08-31T19:29:00",
+      "source": "https://investasi.kontan.co.id/news/kinerja-emiten-holding-investasi-masih-lesu-simak-prospeknya-di-semester-ii-2026",
+      "tags": [
+        "Financial Metrics",
+        "Asset Management",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "ASII to spend up to Rp 858.4 bn on voluntary tender offer for AUTO shares at Rp 3,600 each",
+      "timestamp": "2026-08-31T18:51:00",
+      "source": "https://investasi.kontan.co.id/news/asii-siapkan-rp-858-miliar-untuk-borong-saham-auto-di-rp-3600-ini-saran-analis",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Ownership",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG projected sideways‑bearish for September 2026 with key support at 6,400‑6,500 and stock picks from Phintraco and Sucor Sekuritas",
+      "timestamp": "2026-08-31T17:05:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diproyeksi-sideways-bearish-di-september-2026-cek-rekomendasi-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk launches voluntary tender offer to purchase up to 238.4 million PT Astra Otoparts Tbk shares at Rp3,600 each",
+      "timestamp": "2026-08-31T12:56:00",
+      "source": "https://emitennews.com/news/asii-buka-penawaran-beli-saham-auto-milik-publik-rp3600-per-saham",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Ownership",
+        "OJK",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk launches voluntary tender offer to acquire up to 5% of PT Astra Otoparts Tbk for up to Rp858.4 billion",
+      "timestamp": "2026-08-31T12:46:00",
+      "source": "https://investasi.kontan.co.id/news/astra-asii-rogoh-rp-858-miliar-borong-saham-auto-lewat-tender-sukarela",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Ownership",
+        "Subsidiaries",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk announces voluntary tender offer to purchase up to 4.95% of PT Astra Otoparts Tbk shares at a 6% premium",
+      "timestamp": "2026-08-31T09:30:00",
+      "source": "https://www.idnfinancials.com/id/news/68108/astra-siap-beli-saham-auto-lebih-mahal-6-dari-harga-pasar",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Subsidiaries",
+        "Ownership",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Astra International launches voluntary tender offer for 238.4 million Astra Otoparts shares at a 35.6% premium",
+      "timestamp": "2026-08-31T08:47:27",
+      "source": "https://investor.id/market/452198/astra-asii-tender-offer-238-juta-saham-auto-di-harga-premium",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Ownership",
+        "Subsidiaries",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Astra International to spend up to Rp858.39 billion buying additional Astra Otoparts shares at Rp3,600 each",
+      "timestamp": "2026-08-31T05:40:00",
+      "source": "https://market.bisnis.com/read/20260831/192/1999954/astra-asii-siap-borong-saham-auto-di-rp3600-total-rp85839-miliar",
+      "tags": [
+        "Ownership",
+        "Mergers & Acquisitions",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net bought ten Indonesian stocks as the IDX Composite fell 1.48%",
+      "timestamp": "2026-08-27T07:07:00",
+      "source": "https://money.kompas.com/read/2026/08/27/070700026/10-saham-yang-diborong-asing-saat-ihsg-anjlok-1-48-persen",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net bought Rp 1.37 trillion on Wednesday, PT Dian Swastatika Sentosa Tbk topping the list as the IHSG dropped 1.48%",
+      "timestamp": "2026-08-26T20:04:00",
+      "source": "https://investasi.kontan.co.id/news/asing-net-buy-jumbo-rp-137-triliun-saat-ihsg-ambruk-cek-saham-yang-banyak-diborong",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "List of Indonesian listed issuers conducting share buybacks in 2026 with fund sizes and periods",
+      "timestamp": "2026-08-24T04:00:00",
+      "source": "https://market.bisnis.com/read/20260824/7/1998431/daftar-emiten-buyback-saham-2026-nilai-dana-periode-dan-panduan-analisisnya",
+      "tags": [
+        "Stock Buyback",
+        "Capital & Funding",
+        "Politics & Regulation",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Chandra Asri Pacific Tbk signs agreement to acquire Cycle & Carriage’s Singapore‑Malaysia dealer business for USD207 million",
+      "timestamp": "2026-08-23T13:33:00",
+      "source": "https://emitennews.com/news/ambisi-prajogo-tpia-merebut-bisnis-dealer-pengendali-astra-asii",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Asset Purchase",
+        "Capital & Funding",
+        "Business Expansion",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Chandra Asri Pacific Tbk to Acquire Cycle & Carriage, Gaining Mercedes‑Benz, Peugeot and Kia Licences in Singapore and Malaysia",
+      "timestamp": "2026-08-21T10:48:00",
+      "source": "https://market.bisnis.com/read/20260821/192/1997983/chandra-asri-tpia-bakal-pegang-merek-mercy-peugeot-hingga-kia-usai-akuisisi-cycle-carriage",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Business Expansion",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors heavily sold large‑cap Indonesian stocks as the IHSG surged 1.68%",
+      "timestamp": "2026-08-21T08:04:32",
+      "source": "https://www.cnbcindonesia.com/market/20260820203648-17-761105/asing-ramai-ramai-jual-saham-ini-saat-ihsg-melesat",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG Projected to Rise Today",
+      "timestamp": "2026-08-20T07:01:25",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260820060431-92-1394234/ihsg-diramal-bangkit-hari-ini",
+      "tags": [
+        "Market Sentiment",
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Director Djap Tet Fa of PT Astra International Tbk purchases 500,000 shares for Rp 2.4 billion",
+      "timestamp": "2026-08-19T17:31:03",
+      "source": "https://www.cnbcindonesia.com/market/20260819114411-17-760558/direktur-astra--asii--borong-saham-rp-24-miliar",
+      "tags": [
+        "Insider Trading",
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "OCBC Sekuritas recommends seven undervalued MSCI‑index stocks, including BBCA, with profit potentials up to 61%",
+      "timestamp": "2026-08-19T15:09:28",
+      "source": "https://investor.id/market/450883/tujuh-saham-msci-murah-potensi-cuan-maksimal-61-bbca-termasuk",
+      "tags": [
+        "Undervalued",
+        "Analyst Ratings",
+        "Global Index",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors recorded a net sell of Rp 355 billion on Tuesday, with PT Indosat Tbk leading the list of heavily sold stocks.",
+      "timestamp": "2026-08-19T08:22:00",
+      "source": "https://investasi.kontan.co.id/news/asing-net-sell-rp-355-miliar-cermati-saham-yang-banyak-dijual-selasa-188",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Astra International projected to improve in H2 2026 as automotive, financial services and Martabe mine drive growth",
+      "timestamp": "2026-08-18T19:34:00",
+      "source": "https://investasi.kontan.co.id/news/astra-international-asii-diproyeksi-moncer-semester-ii-2026-ini-katalisnya",
+      "tags": [
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Dividend Announcement",
+        "Stock Buyback",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts project stronger H2 2026 performance for PT Astra International Tbk on diversified revenue base",
+      "timestamp": "2026-08-18T17:55:00",
+      "source": "https://investasi.kontan.co.id/news/basis-pendapatan-terdiversifikasi-begini-prospek-kinerja-astra-asii",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Dividend Announcement",
+        "Stock Buyback",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Likely to Brighten After Long Holiday as Analysts Forecast Upside and Recommend Select Stocks",
+      "timestamp": "2026-08-18T07:01:00",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260818062643-92-1393391/ihsg-berpeluang-cerah-usai-libur-panjang",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors sell net Rp1.58 trillion of Indonesian stocks, top 10 net‑sell losers listed",
+      "timestamp": "2026-08-18T07:00:57",
+      "source": "https://www.cnbcindonesia.com/market/20260817221515-17-760118/asing-lepas-rp158-triliun-saham-ri-ini-daftarnya",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign investors sell Rp 2.5 trillion of stocks as investors await three IHSG catalysts this week",
+      "timestamp": "2026-08-18T05:59:00",
+      "source": "https://money.kompas.com/read/2026/08/18/055901626/usai-asing-jual-saham-rp-25-triliun-investor-menanti-3-katalis-ihsg-pekan-ini",
+      "tags": [
+        "Foreign Investment",
+        "Central Bank",
+        "Market Sentiment",
+        "Global Economy",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Insider buying spree sees Astra International director, CBRE shareholder, and IMPC director among investors, with IMPC transaction topping Rp1.81 trillion",
+      "timestamp": "2026-08-16T07:45:00",
+      "source": "https://market.bisnis.com/read/20260816/7/1996663/bos-astra-andry-hakim-hingga-phillip-tjipto-borong-saham-transaksi-terbesar-rp181-triliun",
+      "tags": [
+        "Insider Trading",
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Understanding Stock Buybacks: Potential Benefits and Risks for Investors",
+      "timestamp": "2026-08-14T17:44:00",
+      "source": "https://market.bisnis.com/read/20260814/7/1996438/memahami-buyback-saham-efeknya-positif-atau-beri-risiko-ke-investor",
+      "tags": [
+        "Stock Buyback",
+        "OJK",
+        "Risk & Compliance",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Astra International director Djap Tet Fa buys 500,000 ASII shares, incurs Rp12.5 million unrealized loss",
+      "timestamp": "2026-08-14T06:56:00",
+      "source": "https://investasi.kontan.co.id/news/borong-500000-saham-asii-direksi-astra-ini-rasakan-unrealized-loss-rp-125-juta",
+      "tags": [
+        "Ownership",
+        "OJK",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Djap Tet Fa buy Shares of Astra International",
+      "timestamp": "2026-08-13T16:19:12",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13082026-1352-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "Performance of Four Conglomerate Issuers in the MSCI Global Standard Index: Who Posted Negative Growth?",
+      "timestamp": "2026-08-12T18:09:00",
+      "source": "https://emitennews.com/news/kinerja-4-emiten-konglo-di-indeks-utama-msci-siapa-yang-negatif",
+      "tags": [
+        "Global Index",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Astra International projected to keep 50% market share as Chinese brands dominate GIIAS 2026, automotive stocks remain overweight",
+      "timestamp": "2026-08-12T15:55:00",
+      "source": "https://investasi.kontan.co.id/news/merek-china-makin-dominan-di-giias-2026-saham-otomotif-masih-dipasang-overweight",
+      "tags": [
+        "Analyst Ratings",
+        "Business Expansion",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG falls 1.53% amid volatility, highlighting movers KLBF, STAR, ISAT and corporate updates from GULA, ITMG and LABS",
+      "timestamp": "2026-08-12T08:54:34",
+      "source": "https://www.cnbcindonesia.com/market/20260812082529-17-758449/ihsg-masih-volatil-deretan-saham-ini-menarik-buat-dilirik",
+      "tags": [
+        "Stock Buyback",
+        "Asset Purchase",
+        "Foreign Investment",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG slips into red zone, see today's stock recommendations",
+      "timestamp": "2026-08-12T08:39:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8614668/ihsg-tergelincir-ke-zona-merah-simak-rekomendasi-saham-hari-ini",
+      "tags": [
+        "Stock Buyback",
+        "Asset Purchase",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Astra International captures 50% of Indonesia’s car market as Toyota and Lexus lead its sales",
+      "timestamp": "2026-08-11T13:20:00",
+      "source": "https://emitennews.com/news/astra-asii-kuasai-50-pasar-mobil-nasional-toyota-lexus-dominan",
+      "tags": [
+        "Business Expansion",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Technical buy recommendations issued for PT Mitra Adiperkasa Tbk, PT Astra International Tbk, and PT Barito Pacific Tbk for Tuesday trading (11 Aug)",
+      "timestamp": "2026-08-11T05:55:00",
+      "source": "https://investasi.kontan.co.id/news/cermati-rekomendasi-teknikal-mapi-asii-dan-brpt-untuk-perdagangan-selasa-118",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors record net buying on the IDX, with PT Bank Rakyat Indonesia Tbk leading the top net buy",
+      "timestamp": "2026-08-07T23:00:00",
+      "source": "https://www.idnfinancials.com/id/news/67169/perdagangan-asing-net-buy-bbri-tercatat-top-buy",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Check Stock Recommendations as the Jakarta Composite Index Weakens",
+      "timestamp": "2026-08-07T08:46:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8607969/cek-rekomendasi-saham-saat-ihsg-melemah",
+      "tags": [
+        "Market Sentiment",
+        "Foreign Investment",
+        "Commodities",
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "CGS International Sekuritas reports only 18% of covered issuers missed H1 2026 earnings targets and revises its top‑pick list",
+      "timestamp": "2026-08-06T11:10:00",
+      "source": "https://investasi.kontan.co.id/news/laba-emiten-semester-i-beri-sinyal-membaik-cgs-hanya-18-emiten-meleset-dari-target",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Central Bank",
+        "Government Policy",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG opens higher at 6,369.99 as PT Hartadinata Abadi Tbk, PT Aneka Tambang Tbk and PT Indika Energy Tbk post notable gains",
+      "timestamp": "2026-08-06T09:10:00",
+      "source": "https://market.bisnis.com/read/20260806/7/1994111/ihsg-dibuka-naik-ke-6369-saham-hrta-antm-indy-melaju",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas recommends ADRO, ASII, BKSL and EXCL as IHSG eyes 6,403‑6,420 range on Thursday, Aug 6 2026",
+      "timestamp": "2026-08-06T09:05:00",
+      "source": "https://market.bisnis.com/read/20260806/189/1994068/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-kamis-6-agustus-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "President Commissioner of PT Astra International Tbk buys 51,300 ASII shares",
+      "timestamp": "2026-08-06T06:30:00",
+      "source": "https://market.bisnis.com/read/20260806/192/1994067/komisaris-astra-borong-51300-saham-asii",
+      "tags": [
+        "Ownership",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Prijono Sugiarto Buys Shares of Astra International",
+      "timestamp": "2026-08-05T20:32:53",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05082026-9010-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "Assessing Conglomerate Stock Prospects After First‑Half 2026 Performance",
+      "timestamp": "2026-08-05T19:43:00",
+      "source": "https://investasi.kontan.co.id/news/menakar-prospek-saham-konglomerat-usai-rilis-kinerja-semester-i-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Capital & Funding",
+        "Commodities",
+        "Market Sentiment",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Indo Premier Sekuritas raises profit forecasts and lifts price target to Rp 5,900 for PT Astra International Tbk (ASII)",
+      "timestamp": "2026-08-05T18:31:00",
+      "source": "https://investasi.kontan.co.id/news/proyeksi-laba-target-harga-astra-asii-dikerek-naik-usai-rilis-lapkeu-semester-i",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts Keep Astra International Bullish Amid Growing Chinese Car Competition",
+      "timestamp": "2026-08-05T16:07:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/117418/saham-astra-asii-tetap-bullish-di-tengah-gempuran-mobil-china",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia's IHSG jumps 1.37% as foreign investors net buy Rp623 billion, led by major banks",
+      "timestamp": "2026-08-04T19:04:11",
+      "source": "https://www.cnbcindonesia.com/market/20260804181846-17-756573/ihsg-lompat-asing-net-buy-rp623-miliar-borong-saham-bank",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG rises 0.33% to 6,254 as Asian markets gain, with broker picks highlighting TINS, ASII, and TLKM",
+      "timestamp": "2026-08-04T09:20:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/117170/ihsg-menguat-pagi-ini-susul-bursa-saham-asia",
+      "tags": [
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Phintraco Sekuritas projects IHSG to test 6,250‑6,300 and recommends ICBP, MAPA, MEDC, ELSA, ASII",
+      "timestamp": "2026-08-04T07:25:00",
+      "source": "https://market.bisnis.com/read/20260804/189/1993392/ihsg-dibidik-ke-level-6300-sentimen-global-dan-domestik-makin-kondusif",
+      "tags": [
+        "Analyst Ratings",
+        "Inflation",
+        "Global Economy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "LQ45 constituents post solid first‑half 2026 earnings, with top blue‑chip picks highlighted for semester II",
+      "timestamp": "2026-08-04T05:39:00",
+      "source": "https://investasi.kontan.co.id/news/laba-emiten-lq45-lampaui-ekspektasi-cek-saham-blue-chip-pilihan-semester-ii-2026",
+      "tags": [
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Interest Rate",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Prospects and Recommendations for LQ45 Constituents After First‑Half 2026 Earnings",
+      "timestamp": "2026-08-03T21:07:00",
+      "source": "https://investasi.kontan.co.id/news/cek-prospek-rekomendasi-saham-emiten-lq45-usai-rilis-kinerja-semester-i-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Interest Rate",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analyst highlights strong first‑half 2026 earnings across LQ45 constituents and points to several stocks with upside potential through year‑end 2026",
+      "timestamp": "2026-08-03T19:32:00",
+      "source": "https://investasi.kontan.co.id/news/laba-emiten-lq45-moncer-analis-beberkan-deretan-saham-potensial-hingga-akhir-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Majority of LQ45 Index constituents post solid performance in H1 2026",
+      "timestamp": "2026-08-03T19:03:00",
+      "source": "https://investasi.kontan.co.id/news/mayoritas-emiten-di-indeks-lq45-raih-kinerja-apik-pada-semester-i-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Astra International reports first‑half 2026 net profit of Rp12.53 trillion, down 19.2% YoY",
+      "timestamp": "2026-08-03T10:09:44",
+      "source": "https://www.cnbcindonesia.com/market/20260803091314-17-755924/semester-i-2026-laba-astra-internasional--asii--rp1253-triliun",
+      "tags": [
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "CGS International forecasts IHSG near 6,300, recommends AMMN, BRPT, ASII, INCO, BRIS and TINS",
+      "timestamp": "2026-08-03T09:06:55",
+      "source": "https://investor.id/market/448854/ihsg-bersiap-menuju-6300-6-saham-potensial-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Edges Higher, Review Today's Stock Recommendations",
+      "timestamp": "2026-08-03T08:46:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8601639/ihsg-menguat-tipis-cek-rekomendasi-saham-hari-ini",
+      "tags": [
+        "Stock Buyback",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Mandiri Sekuritas maintains buy on PT Astra International Tbk with target Rp 7,000 as foreign investors net buy and PBV stays below 1",
+      "timestamp": "2026-08-03T07:06:55",
+      "source": "https://investor.id/market/448831/saham-pbv-di-bawah-1-tetiba-dilahap-diramal-naik-ke-rp-7000",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Phintraco Sekuritas predicts IHSG continuation and recommends ASII among five potential gainers",
+      "timestamp": "2026-08-03T05:06:55",
+      "source": "https://investor.id/market/448838/ihsg-berpeluang-lanjut-menguat-5-saham-bakal-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Global Economy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "ASII profit projected to rebound in H2 2026 with target net profit up to Rp29 trillion, analysts say",
+      "timestamp": "2026-07-31T18:41:00",
+      "source": "https://investasi.kontan.co.id/news/laba-asii-diproyeksi-pulih-di-semester-ii-2026-cek-proyeksi-rekomendasi-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Astra International posts 22% YoY profit decline in Q2 2026, analysts keep buy recommendation",
+      "timestamp": "2026-07-31T16:27:00",
+      "source": "https://investasi.kontan.co.id/news/kinerja-astra-asii-di-bawah-ekspektasi-begini-rekomendasi-sahamnya",
+      "tags": [
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Stock Buyback",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "JP Morgan recommends accumulation of PT Astra International Tbk (ASII) citing strong automotive earnings despite a 26% profit decline.",
+      "timestamp": "2026-07-31T14:13:07",
+      "source": "https://investor.id/market/448619/seruan-akumulasi-asii-dari-jp-morgan-cuan-besar-menanti",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Astra International's H1 2026 Net Profit Falls 19.2% to Rp 12.5 Trillion",
+      "timestamp": "2026-07-31T09:24:00",
+      "source": "https://investasi.kontan.co.id/news/laba-astra-asii-turun-1922-jadi-rp-125-triliun-semester-i-2026-ini-penyebabnya",
+      "tags": [
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk reports 19% drop in first‑half 2026 net profit as mining and heavy‑equipment business pressures earnings",
+      "timestamp": "2026-07-31T09:10:00",
+      "source": "https://www.idnfinancials.com/id/news/66840/laba-astra-turun-19-tertekan-bisnis-tambang-dan-alat-berat",
+      "tags": [
+        "Financial Metrics",
+        "Stock Buyback",
+        "Capital & Funding",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Astra International posts half‑year profit of Rp12.5 trillion and announces up to Rp8 trillion share buyback",
+      "timestamp": "2026-07-31T07:00:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/116785/astra-asii-cetak-laba-rp12-5-triliun-prospek-makin-cerah",
+      "tags": [
+        "Financial Metrics",
+        "Stock Buyback",
+        "Shareholders General Meeting",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Astra International posts Rp12.53 trillion net profit in H1 2026, announces up‑to‑Rp8 trillion share buyback",
+      "timestamp": "2026-07-30T19:10:00",
+      "source": "https://market.bisnis.com/read/20260730/192/1992424/astra-asii-mampu-cetak-laba-rp1253-triliun-di-semester-i2026",
+      "tags": [
+        "Stock Buyback",
+        "Financial Metrics",
+        "Subsidiaries",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk reports H1 2026 revenue of Rp 157.9 trillion and net profit of Rp 12.5 trillion",
+      "timestamp": "2026-07-30T18:49:27",
+      "source": "https://investor.id/market/448509/astra-asii-raup-pendapatan-rp-1579-t-dan-laba-rp-125-t",
+      "tags": [
+        "Financial Metrics",
+        "Stock Buyback",
+        "Mergers & Acquisitions",
+        "Capital & Funding",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk reports net profit of Rp17.15 trillion and 1.6% asset growth in H1 2026",
+      "timestamp": "2026-07-30T18:30:00",
+      "source": "https://emitennews.com/news/astra-asii-catat-laba-rp1715t-aset-naik-16-persen-semester-i-2026",
+      "tags": [
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "United Tractors reports Rp58.3 trillion revenue for H1 2026, down 15% YoY",
+      "timestamp": "2026-07-30T12:29:00",
+      "source": "https://www.antaranews.com/berita/5672283/united-tractors-cetak-pendapatan-rp583-triliun-di-semester-i-2026",
+      "tags": [
+        "Financial Metrics",
+        "Stock Buyback",
+        "Commodities",
+        "Currency & FX",
+        "Capital & Funding",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Bursa Efek Indonesia releases updated IDXHIDIV20 high‑dividend index list with weight changes for PT Bank Rakyat Indonesia (Persero) Tbk, PT Bank Central Asia Tbk and PT Astra International Tbk",
+      "timestamp": "2026-07-30T09:25:00",
+      "source": "https://market.bisnis.com/read/20260730/7/1992230/ini-daftar-saham-indeks-high-dividend-idxhidiv20-terbaru-ada-bbca-hingga-asii",
+      "tags": [
+        "Dividend Announcement",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "IDX Value30 Outperforms IHSG in the Last Month, Here's Why",
+      "timestamp": "2026-07-29T18:47:00",
+      "source": "https://investasi.kontan.co.id/news/kinerja-idx-value30-ungguli-ihsg-dalam-sebulan-terakhir-ini-sebabnya",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indo Premier Sekuritas keeps buy recommendation on PT Astra International Tbk, targeting Rp5,800 as new catalysts emerge",
+      "timestamp": "2026-07-28T14:53:30",
+      "source": "https://investor.id/market/448155/saham-astra-panen-katalis-positif",
+      "tags": [
+        "Analyst Ratings",
+        "Stock Buyback",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Closes Weak, See Today's Stock Recommendations",
+      "timestamp": "2026-07-28T08:29:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8593186/ihsg-ditutup-loyo-simak-rekomendasi-saham-hari-ini",
+      "tags": [
+        "Foreign Investment",
+        "Business Expansion",
+        "Digital Transformation",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Phintraco Sekuritas forecasts IHSG to consolidate between 6,080‑6,250 and recommends PGAS, INKP, TLKM, MDKA, and ASII for Tuesday trading",
+      "timestamp": "2026-07-28T06:45:07",
+      "source": "https://investor.id/market/448090/prediksi-ihsg-konsolidasi-berlanjut-di-tengah-sentimen-bi-5-saham-siap-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "BEI announces KOMPAS100 index rebalancing, removing BREN, HMSP and six others while adding BNBR, COIN and seven new constituents",
+      "timestamp": "2026-07-28T05:00:00",
+      "source": "https://investasi.kontan.co.id/news/resmi-bei-rombak-indeks-kompas100-bren-hingga-hmsp-keluar-bnbr-dan-coin-masuk",
+      "tags": [
+        "Global Index"
+      ]
+    },
+    {
+      "title": "Indo Premier Sekuritas forecasts PT Astra International core net profit of Rp13.5 trillion for H1 2026",
+      "timestamp": "2026-07-27T14:50:00",
+      "source": "https://market.bisnis.com/read/20260727/192/1991373/astra-asii-diprediksi-kantongi-laba-inti-rp135-triliun-semester-i2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Stock Buyback",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Kompas100 Index Outperforms IHSG Over the Past Month, Analysts Recommend Several Stocks",
+      "timestamp": "2026-07-26T17:41:00",
+      "source": "https://investasi.kontan.co.id/news/indeks-kompas100-ungguli-ihsg-sebulan-terakhir-cek-rekomendasi-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Top 10 weekly laggards, led by BMRI, BBCA and ASII, weigh on Indonesia's IHSG",
+      "timestamp": "2026-07-26T08:10:00",
+      "source": "https://market.bisnis.com/read/20260726/7/1991076/daftar-10-top-laggards-sepekan-bmri-bbca-hingga-asii-jadi-pemberat-utama-ihsg",
+      "tags": [
+        "Market Sentiment",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign investors net sell Rp759.46 billion in Session I, led by BMRI and BUMI",
+      "timestamp": "2026-07-24T13:34:16",
+      "source": "https://www.cnbcindonesia.com/market/20260724132831-17-753577/asing-net-sell-rp75946-miliar-di-sesi-i-ini-daftar-sahamnya",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Today's Stock Recommendations as the IHSG Slightly Weakens",
+      "timestamp": "2026-07-24T08:39:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8587924/rekomendasi-saham-hari-ini-saat-ihsg-melemah-tipis",
+      "tags": [
+        "Analyst Ratings",
+        "Dividend Announcement",
+        "Business Expansion",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Business-27 Index closes red, pressured by declines in ASII and TLKM stocks",
+      "timestamp": "2026-07-23T16:34:00",
+      "source": "https://market.bisnis.com/read/20260723/7/1990515/indeks-bisnis-27-ditutup-merah-tertekan-pelemahan-saham-asii-hingga-tlkm",
+      "tags": [
+        "Central Bank",
+        "Interest Rate",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG breaks 6,400 as commodity, technology and banking stocks lift the index",
+      "timestamp": "2026-07-23T10:02:42",
+      "source": "https://www.cnbcindonesia.com/market/20260723095523-17-753168/breakout-6400-ini-penyebab-ihsg-melesat-1",
+      "tags": [
+        "Commodities",
+        "Central Bank",
+        "Interest Rate",
+        "Foreign Investment"
+      ]
+    },
+    {
+      "title": "Foreign investors dump five Indonesian stocks, with DSSA topping net sell on July 22, 2026",
+      "timestamp": "2026-07-22T20:50:11",
+      "source": "https://investor.id/market/447525/5-saham-diterpa-gelombang-besar-aksi-jual-asing",
+      "tags": [
+        "Foreign Investment",
+        "Analyst Ratings",
+        "Joint Venture",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign investors post biggest net purchase of PT Dian Swastatika Sentosa Tbk (DSSA) on July 21, 2026",
+      "timestamp": "2026-07-21T19:37:07",
+      "source": "https://investor.id/market/447366/giliran-saham-dssa-grup-sinar-mas-jadi-sasaran-utama",
+      "tags": [
+        "Foreign Investment",
+        "Mergers & Acquisitions",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia's IHSG closes up 1.74% as foreign investors accumulate shares in PT Dian Swastatika Sentosa Tbk, PT Aneka Tambang Tbk, and PT Bank Mandiri Tbk",
+      "timestamp": "2026-07-21T18:54:00",
+      "source": "https://money.kompas.com/read/2026/07/21/185413426/ihsg-ditutup-melonjak-174-persen-asing-akumulasi-saham-dssa-antm-hingga-bmri",
+      "tags": [
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Astra International receives shareholder approval for up to Rp8 trillion share buyback and Management Stock Ownership Program",
+      "timestamp": "2026-07-20T15:00:00",
+      "source": "https://emitennews.com/news/astra-international-asii-kantongi-restu-buyback-rp8-triliun-dan-msop",
+      "tags": [
+        "Stock Buyback",
+        "Ownership",
+        "Shareholders General Meeting",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk approves Rp8 trillion share buyback and 100 million‑share Management Share Ownership Program at July 17 extraordinary shareholders meeting",
+      "timestamp": "2026-07-20T11:43:00",
+      "source": "https://investasi.kontan.co.id/news/asii-siap-buyback-saham-rp8-triliun-intip-profil-emiten-hingga-kinerja-terbarunya",
+      "tags": [
+        "Stock Buyback",
+        "Shareholders General Meeting",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "DEWA Expands Business Portfolio with Three New Subsidiaries; ASII Launches Rp8 Trillion Share Buyback Program",
+      "timestamp": "2026-07-20T08:55:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8581378/dewa-perluas-portofolio-bisnis-asii-mulai-program-buyback-rp-8-triliun",
+      "tags": [
+        "Business Expansion",
+        "Stock Buyback",
+        "Subsidiaries",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk approves up to Rp 8 trillion share buyback, shares jump 6 percent",
+      "timestamp": "2026-07-20T05:43:00",
+      "source": "https://investasi.kontan.co.id/news/buyback-rp-8-t-bikin-harga-saham-blue-chip-ini-bangkit-pilih-belijual",
+      "tags": [
+        "Stock Buyback",
+        "Shareholders General Meeting",
+        "Capital & Funding",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk obtains shareholder approval for up to Rp8 trillion share buyback starting July 20, 2026",
+      "timestamp": "2026-07-19T20:15:00",
+      "source": "https://market.bisnis.com/read/20260719/7/1989203/astra-international-asii-raih-restu-pemegang-saham-buyback-rp8-triliun-besok",
+      "tags": [
+        "Stock Buyback",
+        "Shareholders General Meeting",
+        "Capital & Funding",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia market outlook ahead of Bank Indonesia’s July 2026 RDG suggests minimal impact on the IHSG",
+      "timestamp": "2026-07-19T18:06:00",
+      "source": "https://investasi.kontan.co.id/news/menilik-nasib-pasar-keuangan-jelang-rdg-bi-bulan-juli-2026",
+      "tags": [
+        "Central Bank",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk receives shareholder approval for up to Rp8 trillion share buyback and 100 million‑share MSOP transfer",
+      "timestamp": "2026-07-19T18:00:00",
+      "source": "https://www.idnfinancials.com/id/news/66258/astra-dapat-restu-buyback-saham-rp8-triliun-dan-rencana-esop",
+      "tags": [
+        "Stock Buyback",
+        "Shareholders General Meeting",
+        "Politics & Regulation",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Remains Shadowed by Hormuz Closure, Energy Stocks Poised for Attention",
+      "timestamp": "2026-07-19T13:19:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-kembali-dibayangi-penutupan-selat-hormuz-saham-energi-berpotensi-curi-perhatian",
+      "tags": [
+        "Commodities",
+        "Currency & FX",
+        "Market Sentiment",
+        "Inflation",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk approves up to Rp8 trillion share buyback",
+      "timestamp": "2026-07-18T09:37:00",
+      "source": "https://investasi.kontan.co.id/news/kantogi-restu-buyback-saham-rp-8-triliun-cermati-rekomendasi-asii",
+      "tags": [
+        "Stock Buyback",
+        "Shareholders General Meeting",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "UBS Sekuritas dominates buying and selling activity among blue‑chip stocks on 17 July 2026",
+      "timestamp": "2026-07-18T06:44:00",
+      "source": "https://investasi.kontan.co.id/news/daftar-broker-pembeli-penjual-blue-chip-17-juli-2026-ubs-sekuritas-disorot",
+      "tags": [
+        "Foreign Investment"
+      ]
+    },
+    {
+      "title": "Popular News: PT Astra International Tbk Announces Up to Rp 8 Trillion Share Buyback and Gold Price Forecasts",
+      "timestamp": "2026-07-18T05:33:22",
+      "source": "https://investor.id/market/446989/berita-populer-astra-asii-buyback-saham-jumbo-hingga-ramalan-harga-emas",
+      "tags": [
+        "Stock Buyback",
+        "Commodities",
+        "Financial Metrics",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Astra International receives shareholder approval for up to Rp 8 trillion share buyback",
+      "timestamp": "2026-07-17T18:34:00",
+      "source": "https://investasi.kontan.co.id/news/astra-international-asii-dapat-restu-buyback-rp-8-triliun-cek-rekomendasi-sahamnya",
+      "tags": [
+        "Stock Buyback",
+        "Shareholders General Meeting",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk approves up to Rp 8 trillion share buyback and plans Management Stock Ownership Program",
+      "timestamp": "2026-07-17T16:07:00",
+      "source": "https://investasi.kontan.co.id/news/rups-setujui-buyback-rp-8-triliun-astra-siapkan-program-saham-manajemen",
+      "tags": [
+        "Stock Buyback",
+        "Shareholders General Meeting",
+        "Ownership",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Astra International (ASII) Receives Shareholder Approval for Up to Rp 8 Trillion Buyback",
+      "timestamp": "2026-07-17T14:24:03",
+      "source": "https://investor.id/market/446918/astra-asii-kantongi-restu-buyback-saham-rp-8-triliun",
+      "tags": [
+        "Stock Buyback",
+        "Shareholders General Meeting",
+        "Capital & Funding",
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Astra International (ASII) Receives Shareholder Approval for Up to Rp 8 Trillion Share Buyback",
+      "timestamp": "2026-07-17T13:49:00",
+      "source": "https://money.kompas.com/read/2026/07/17/134902326/astra-asii-kantongi-restu-buyback-saham-rp-8-triliun",
+      "tags": [
+        "Stock Buyback",
+        "Shareholders General Meeting",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk approved Rp 8 trillion share buyback",
+      "timestamp": "2026-07-17T12:41:00",
+      "source": "https://investasi.kontan.co.id/news/astra-international-asii-siap-beli-saham-usai-raih-restu-buyback-saham-rp-8-triliun",
+      "tags": [
+        "Stock Buyback",
+        "Shareholders General Meeting",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG projected higher as analysts recommend INCO, INDY, ISAT, OASA, ANTM, ASII, MBMA, MDKA, and PTBA",
+      "timestamp": "2026-07-17T06:46:07",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260717060604-92-1381672/ihsg-diperkirakan-cerah-jelang-akhir-pekan",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk schedules Rp 8 trillion share buyback at extraordinary shareholders meeting",
+      "timestamp": "2026-07-17T06:43:41",
+      "source": "https://investor.id/market/446846/saham-salah-harga-siap-diborong-rp-8-triliun",
+      "tags": [
+        "Stock Buyback",
+        "Shareholders General Meeting",
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG projected to gain modestly on Friday, led by BMRI, BBRI, AMMN and ASII",
+      "timestamp": "2026-07-16T18:21:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diproyeksikan-menguat-terbatas-pada-perdagangan-jumat-177",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Currency & FX",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Astra Otoparts and Astra International stocks expected to rally ahead of the largest GIIAS",
+      "timestamp": "2026-07-16T14:41:03",
+      "source": "https://investor.id/market/446775/geliat-saham-grup-astra-auto-asii-jelang-giias-terbesar",
+      "tags": [
+        "Analyst Ratings",
+        "Government Policy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Astra International to Transfer 100 Million Treasury Shares to Management Share Ownership Program ahead of Extraordinary Shareholders Meeting",
+      "timestamp": "2026-07-16T11:05:00",
+      "source": "https://market.bisnis.com/read/20260716/192/1988537/astra-asii-alihkan-100-juta-saham-buyback-untuk-msop-rupslb-digelar-besok",
+      "tags": [
+        "Stock Buyback",
+        "Ownership",
+        "Shareholders General Meeting",
+        "Capital & Funding",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk plans to transfer 100 million treasury shares via MSOP with no lock‑up",
+      "timestamp": "2026-07-16T08:45:00",
+      "source": "https://www.idnfinancials.com/id/news/66148/asii-berencana-alihkan-saham-treasury-lewat-msop-tanpa-lock-up",
+      "tags": [
+        "Stock Buyback",
+        "Shareholders General Meeting",
+        "Ownership",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Car sales rise 15.9% in H1 2026, analysts highlight ASII, AUTO, and DRMA as top automotive stocks",
+      "timestamp": "2026-07-15T14:06:00",
+      "source": "https://investasi.kontan.co.id/news/penjualan-mobil-di-semester-i-2026-naik-159-ini-saham-otomotif-pilihan-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Interest Rate",
+        "Currency & FX",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analyst projects continued positive performance for PT Astra International Tbk to 2026 and issues a buy‑on‑weakness recommendation",
+      "timestamp": "2026-07-15T04:35:00",
+      "source": "https://investasi.kontan.co.id/news/prospek-kinerja-astra-international-asii-masih-cerah-cek-rekomendasi-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Interest Rate",
+        "Currency & FX",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Astra International's stock outlook stays positive, supported by automotive market recovery",
+      "timestamp": "2026-07-14T21:37:00",
+      "source": "https://investasi.kontan.co.id/news/prospek-saham-astra-asii-masih-positif-ditopang-pemulihan-otomotif",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk’s car sales rise 10% YoY, analyst recommends buying the stock",
+      "timestamp": "2026-07-14T18:21:00",
+      "source": "https://investasi.kontan.co.id/news/penjualan-mobil-astra-international-asii-tumbuh-ini-rekomendasinya",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Interest Rate",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts view PT Astra International Tbk's outlook as still attractive and issue a buy rating with a target of Rp6,850",
+      "timestamp": "2026-07-14T16:19:00",
+      "source": "https://investasi.kontan.co.id/news/prospek-astra-international-asii-dinilai-masih-menarik-ini-rekomendasi-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Stock Buyback",
+        "Business Expansion",
+        "Interest Rate",
+        "Currency & FX",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indo Premier Sekuritas raises automotive sector recommendation to Overweight ahead of GIIAS",
+      "timestamp": "2026-07-14T11:35:00",
+      "source": "https://investasi.kontan.co.id/news/jelang-giias-sektor-otomotif-mulai-bangkit-indo-premier-kerek-rekomendasi-overweight",
+      "tags": [
+        "Analyst Ratings",
+        "Risk & Compliance",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas recommends ADMR, ANTM, ASII and BRMS as IHSG targets the 6,083–6,254 range on Tuesday, 14 July 2026",
+      "timestamp": "2026-07-14T09:03:00",
+      "source": "https://market.bisnis.com/read/20260714/189/1987739/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-selasa-14-juli-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "IHSG projected to continue rising on Tuesday, 14 July",
+      "timestamp": "2026-07-14T07:45:31",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260714064733-92-1380366/ihsg-diprediksi-lanjut-ngegas-hari-ini",
+      "tags": [
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "IHSG predicted to keep rising, analysts recommend ASII, BRMS, ADMR and PGEO for retail investors",
+      "timestamp": "2026-07-14T05:51:00",
+      "source": "https://money.kompas.com/read/2026/07/14/055149726/ihsg-diprediksi-lanjut-menguat-ritel-bisa-cermati-saham-asii-brms-hingga-pgeo",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Global Economy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Cermati recommends ADMR, ASII, and BRMS as top picks amid expectations of IHSG strength on 14 July 2026",
+      "timestamp": "2026-07-14T05:42:00",
+      "source": "https://investasi.kontan.co.id/news/cermati-rekomendasi-saham-pilihan-hari-ini-147-ihsg-berpotensi-menguat",
+      "tags": [
+        "Market Sentiment",
+        "Currency & FX",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Broker technical recommendations for PT Astra International Tbk (ASII), PT Sarana Menara Nusantara Tbk (TOWR) and PT Indofood Sukses Makmur Tbk (INDF) ahead of Tuesday trade (14 July 2026)",
+      "timestamp": "2026-07-14T05:00:00",
+      "source": "https://investasi.kontan.co.id/news/cermati-rekomendasi-teknikal-saham-asii-towr-indf-untuk-perdagangan-selasa-147",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Indonesia's IHSG jumps 1.68% as S&P Global Ratings maintains credit outlook",
+      "timestamp": "2026-07-13T16:53:45",
+      "source": "https://www.cnbcindonesia.com/market/20260713155036-17-750452/breaking-news-ihsg-terbang-168-sp-pertahankan-outlook-ri",
+      "tags": [
+        "Credit",
+        "Foreign Investment",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Astra (ASII) Gains Momentum as Automotive Sales Accelerate",
+      "timestamp": "2026-07-13T13:44:12",
+      "source": "https://investor.id/market/446291/astra-asii-mendapat-momentum",
+      "tags": [
+        "Business Expansion",
+        "Financial Metrics",
+        "Interest Rate",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "AHAP launches Rp175 billion rights issue as MEDC readies $54.5 million drilling program and ASII reports 10% sales rise",
+      "timestamp": "2026-07-13T08:40:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8571312/ahap-siapkan-rights-issue-rp-175-m-medc-genjot-pengeboran-4-sumur-baru",
+      "tags": [
+        "Rights Issue",
+        "Business Expansion",
+        "Capital & Funding",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Astra International's June 2026 car sales surge 37% year‑on‑year",
+      "timestamp": "2026-07-13T06:45:00",
+      "source": "https://emitennews.com/news/juni-2026-penjualan-mobil-asii-melejit-37-persen",
+      "tags": [
+        "Business Expansion",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign investors record net sells of Rp 421.5 billion on Friday, led by PT Bank Central Asia Tbk and PT Bank Rakyat Indonesia Tbk",
+      "timestamp": "2026-07-10T20:34:00",
+      "source": "https://investasi.kontan.co.id/news/bbca-dan-bbri-tertatas-cermati-saham-net-sell-terbesar-asing-jumat-106",
+      "tags": [
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign investors dump shares, with PT Bank Rakyat Indonesia (Persero) Tbk, PT Mitra Adiperkasa Tbk and PT Astra International Tbk among top net‑sell stocks as the IHSG rises",
+      "timestamp": "2026-07-10T08:17:45",
+      "source": "https://investor.id/market/445962/asing-gencar-jual-saham-ini-ditendang",
+      "tags": [
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign investors recorded a net sell of Rp221.68 billion in Session I, with PT Bank Rakyat Indonesia (BBRI) leading the sell‑off and PT Merdeka Battery Materials (MBMA) topping net purchases.",
+      "timestamp": "2026-07-09T14:21:14",
+      "source": "https://www.cnbcindonesia.com/market/20260709140904-17-749466/asing-net-sell-rp221-miliar-di-sesi-i-ini-daftar-sahamnya",
+      "tags": [
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Reasons for the IHSG Closing Up 1.19% Today",
+      "timestamp": "2026-07-07T16:41:52",
+      "source": "https://www.cnbcindonesia.com/market/20260707160842-17-748866/penyebab-ihsg-ditutup-naik-119-hari-ini",
+      "tags": [
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "IHSG opens higher in green zone, mirroring gains across Asian markets",
+      "timestamp": "2026-07-06T09:30:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/114017/ihsg-awali-hari-di-zona-hijau-searah-dengan-bursa-asia",
+      "tags": [
+        "Bullish",
+        "Market Sentiment",
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Stock Recommendation Summary for 6 July 2026",
+      "timestamp": "2026-07-06T08:25:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/114005/rangkuman-rekomendasi-saham-hari-ini-6-juli-2026",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Foreign Net Sell Rp 3.27 Trillion in the Last Week, Spotlight on the Top‑Selling Indonesian Stocks",
+      "timestamp": "2026-07-05T08:48:00",
+      "source": "https://investasi.kontan.co.id/news/asing-net-sell-rp-327-triliun-sepekan-terakhir-cermati-saham-yang-banyak-diljual",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Weekly Top 10 IHSG Supporting Stocks: AMMN, DCII and BREN Lead",
+      "timestamp": "2026-07-05T08:06:00",
+      "source": "https://market.bisnis.com/read/20260705/7/1985593/10-saham-penopang-ihsg-sepekan-ammn-dcii-hingga-bren-pimpin-top-leaders",
+      "tags": [
+        "Foreign Investment"
+      ]
+    },
+    {
+      "title": "IHSG ends week green as foreign investors heavily buy BBCA and BMRI",
+      "timestamp": "2026-07-03T19:16:00",
+      "source": "https://money.kompas.com/read/2026/07/03/191638126/ihsg-akhiri-pekan-menghijau-investor-asing-borong-bbca-dan-bmri",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts recommend KLBF, SMGR, ASII, UNVR, and INTP amid declining Indonesia manufacturing PMI",
+      "timestamp": "2026-07-03T17:37:00",
+      "source": "https://investasi.kontan.co.id/news/penurunan-level-pmi-manufaktur-warning-bagi-emiten-ini-saham-rekomendasi-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Inflation",
+        "Currency & FX",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "LQ45 Blue‑Chip Stocks Remain Cheap as Prices Fall, Analysts Suggest Buying Opportunities",
+      "timestamp": "2026-07-03T11:39:00",
+      "source": "https://investasi.kontan.co.id/news/peluang-cuan-lq45-harga-saham-blue-chip-terus-merosot-saatnya-koleksi-lagi",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Financial Metrics",
+        "Global Economy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG jumps over 2% as major banks and state‑owned firms drive the rally",
+      "timestamp": "2026-07-03T10:21:21",
+      "source": "https://www.cnbcindonesia.com/market/20260703093257-17-747737/ini-penyebab-ihsg-tiba-tiba-lompat-2-lebih",
+      "tags": [
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Foreign investors net sell PT Bank Rakyat Indonesia Persero Tbk, PT Mapi, PT Astra International Tbk and PT Bumi Resources Tbk as IHSG rises 0.87% on 2 July 2026",
+      "timestamp": "2026-07-03T08:17:55",
+      "source": "https://investor.id/market/445097/hilang-daya-tarik-saham-ini-ditinggal-asing",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG Projected to Correct This Weekend",
+      "timestamp": "2026-07-03T07:21:27",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260703060802-92-1376285/ihsg-diramal-koreksi-akhir-pekan-ini",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "IHSG Expected Limited Correction as Analysts Recommend BRMS, RATU and ASII for Retail Investors",
+      "timestamp": "2026-07-03T06:14:00",
+      "source": "https://money.kompas.com/read/2026/07/03/061410626/ihsg-hari-ini-rawan-koreksi-investor-ritel-bisa-cermati-saham-brms-ratu-hingga",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Domestic Investor",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Blue‑chip stocks are cheap, yet fundamental risks still loom",
+      "timestamp": "2026-07-02T20:12:00",
+      "source": "https://investasi.kontan.co.id/news/saham-bluechip-sudah-murah-tapi-risiko-fundamental-tetap-membayangi",
+      "tags": [
+        "Financial Metrics",
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Technical stock recommendations for Friday, 3 July: PT Astra International Tbk, PT Pakuwon Jati Tbk, and PT United Tractors Tbk",
+      "timestamp": "2026-07-02T18:39:00",
+      "source": "https://investasi.kontan.co.id/news/simak-rekomendasi-saham-teknikal-untuk-jumat-37-asii-pwon-untr",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Jardine Matheson appoints former INA CIO Christopher Ganis as Head of Indonesia",
+      "timestamp": "2026-07-02T12:20:00",
+      "source": "https://www.idnfinancials.com/id/news/65496/jardine-matheson-tunjuk-eks-cio-ina-pimpin-bisnis-di-indonesia",
+      "tags": [
+        "Executive Changes",
+        "Asset Management",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net sold Rp 577.79 billion on Wednesday, with PT Bank Rakyat Indonesia Tbk leading the list",
+      "timestamp": "2026-07-02T00:25:00",
+      "source": "https://investasi.kontan.co.id/news/asing-lanjut-net-sell-rp-577-miliar-cek-saham-yang-banyak-dijual-asing-rabu-27",
+      "tags": [
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Buyback actions fail to boost stock performance of Indonesian issuers",
+      "timestamp": "2026-07-01T21:02:00",
+      "source": "https://investasi.kontan.co.id/news/aksi-buyback-belum-mampu-mengungkit-performa-saham-emiten",
+      "tags": [
+        "Stock Buyback",
+        "Market Sentiment",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Daily stock recommendations and IHSG decline on July 1 2026 highlight losses in major Indonesian caps",
+      "timestamp": "2026-07-01T14:48:00",
+      "source": "https://market.bisnis.com/read/20260701/7/1984564/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-rabu-1-juli-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Cermati recommends select Kompas 100 constituents for Semester II‑2026",
+      "timestamp": "2026-07-01T07:50:00",
+      "source": "https://investasi.kontan.co.id/news/cermati-rekomendasi-saham-pilihan-emiten-indeks-kompas-100-di-semester-ii-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Government Policy",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Fitch Ratings flags heightened macro and regulatory risk for Indonesian issuers, with PT Indofood CBP Sukses Makmur Tbk highlighted",
+      "timestamp": "2026-06-30T21:02:00",
+      "source": "https://investasi.kontan.co.id/news/fitch-ratings-soroti-makroekonomi-dan-ketidakpastian-regulasi-ini-dampak-bagi-emiten",
+      "tags": [
+        "Analyst Ratings",
+        "Government Policy",
+        "Central Bank",
+        "Currency & FX",
+        "Bonds",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign Investors Dump Rp 766.36 billion of PT Bank Central Asia Tbk Shares in Late June 2026",
+      "timestamp": "2026-06-30T20:09:00",
+      "source": "https://investasi.kontan.co.id/news/asing-net-sell-jumbo-rp-1-triliun-cek-saham-yang-banyak-dilego-di-akhir-juni-2026",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign Net Sell of Rp 1.20 Trillion Sends Indonesia's Composite Index Down 3.05%",
+      "timestamp": "2026-06-30T20:00:00",
+      "source": "https://money.kompas.com/read/2026/06/30/200005226/imbas-asing-net-sell-120-triliun-ihsg-anjlok-305-persen",
+      "tags": [
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Prijono Sugiarto Buys Shares of Astra International",
+      "timestamp": "2026-06-30T17:10:16",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-30062026-9475-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "IHSG falls 3% to 5,643 as BBCA and BBRI drive the decline",
+      "timestamp": "2026-06-30T16:43:10",
+      "source": "https://www.cnbcindonesia.com/market/20260630160517-17-746913/ihsg-tutup-juni-dengan-anjlok-3-parkir-di-level-5600-an",
+      "tags": [
+        "Currency & FX",
+        "Market Sentiment",
+        "Global Economy",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "President Commissioner of PT United Tractors Tbk buys 500,000 PT Astra International Tbk shares for Rp2.32 billion",
+      "timestamp": "2026-06-29T19:05:00",
+      "source": "https://www.idnfinancials.com/id/news/65359/presiden-komisaris-untr-borong-saham-asii-habiskan-rp2-32-miliar",
+      "tags": [
+        "Ownership",
+        "Stock Buyback",
+        "Shareholders General Meeting",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Ir Fxl Kesuma Msc buy Shares of Astra International",
+      "timestamp": "2026-06-29T11:15:47",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-29062026-0840-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk Commissioner Prijono Sugiarto Buys 305,000 Shares, Totaling Rp1.46 Billion",
+      "timestamp": "2026-06-27T13:14:00",
+      "source": "https://investasi.kontan.co.id/news/harga-bergerak-di-bawah-rp-5000-komisaris-astra-asii-rajin-borong-saham",
+      "tags": [
+        "Ownership",
+        "Stock Buyback",
+        "Shareholders General Meeting",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia Composite Index Falls 1.72% to 5,896 as Foreign Investors Net Sell Rp 302 Billion",
+      "timestamp": "2026-06-26T21:30:00",
+      "source": "https://money.kompas.com/read/2026/06/26/213000626/ihsg-anjlok-1-72-persen-ke-level-5.896-asing-net-sell-rp-302-miliar",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Prijono Sugiarto Buys Shares of Astra International",
+      "timestamp": "2026-06-26T16:30:11",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26062026-2757-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "UOB Kay Hian sees crisis‑level IHSG valuation as buying opportunity and recommends selective accumulation of Indonesian stocks",
+      "timestamp": "2026-06-26T14:32:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-anjlok-ke-valuasi-krisis-ini-saham-yang-direkomendasikan-bisa-diakumulasi",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "United Tractors shares rise 2.27% to Rp 22,500 as MNC Sekuritas recommends Buy on Weakness with targets up to Rp 24,850",
+      "timestamp": "2026-06-26T07:49:36",
+      "source": "https://investor.id/market/444186/saham-pbv-di-bawah-1-diramal-ke-rp-24000an",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Subsidiaries",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Astra International executives purchase millions of shares as performance outlook improves",
+      "timestamp": "2026-06-26T06:00:00",
+      "source": "https://market.bisnis.com/read/20260626/7/1983327/sinyal-pemulihan-kinerja-di-balik-aksi-petinggi-astra-borong-saham-asii",
+      "tags": [
+        "Insider Trading",
+        "Analyst Ratings",
+        "Stock Buyback",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG climbs 1.96% as foreign investors net buy PT DIan Swastatika Sentosa Tbk the most",
+      "timestamp": "2026-06-25T22:38:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-melonjak-196-ke-5999-cermati-saham-net-buy-terbesar-asing-kamis-256",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Buyback wave hits ASII and GOTO as IHSG under pressure, analyst says",
+      "timestamp": "2026-06-25T19:35:00",
+      "source": "https://market.bisnis.com/read/20260625/7/1983336/gelombang-buyback-asii-goto-cs-saat-ihsg-tertekan-ini-kata-analis",
+      "tags": [
+        "Stock Buyback",
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk shares surge 6% to Rp 4,920 as valuation metrics hit multi‑year lows",
+      "timestamp": "2026-06-25T16:21:34",
+      "source": "https://investor.id/market/444119/saham-astra-asii-kemurahan-mestinya-segini",
+      "tags": [
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Dividend Announcement",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Prijono Sugiarto Buys Shares of Astra International",
+      "timestamp": "2026-06-24T17:36:24",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24062026-8364-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "IHSG Faces Correction Pressure, Tests Support Around 6,000",
+      "timestamp": "2026-06-24T08:40:00",
+      "source": "https://emitennews.com/news/bursa-global-merah-ihsg-rawan-koreksi-hingga-uji-support-di-6000",
+      "tags": [
+        "Currency & FX",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Djap Tet Fa Buy Shares of Astra International",
+      "timestamp": "2026-06-23T16:24:36",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23062026-0052-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "Prijono Sugiarto Buys Shares of Astra International",
+      "timestamp": "2026-06-23T16:12:45",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23062026-5706-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas analyst warns IHSG correction risk and recommends ISAT, NCKL, ASII, and BBRI",
+      "timestamp": "2026-06-23T08:04:00",
+      "source": "https://money.kompas.com/read/2026/06/23/080400026/ihsg-rawan-koreksi-saham-isat-nckl-asii-hingga-bbri-bisa-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Technical buy recommendations issued for PT Ciputra Development Tbk, PT Astra International Tbk, and PT Bank Rakyat Indonesia Tbk",
+      "timestamp": "2026-06-23T04:50:00",
+      "source": "https://investasi.kontan.co.id/news/simak-rekomendasi-saham-teknikal-ctra-asii-dan-bbri-untuk-hari-ini-236",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Foreign investors net sold Rp 1.11 trillion, with PT Bank Rakyat Indonesia Tbk leading the top‑10 net‑sell stocks",
+      "timestamp": "2026-06-22T22:40:00",
+      "source": "https://investasi.kontan.co.id/news/asing-net-sell-rp-11-triliun-cermati-saham-yang-banyak-dijual-asing-di-awal-pekan",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "President Director Djap Tet Fa purchases 2.2 million shares of PT Astra International Tbk for Rp10.68 billion",
+      "timestamp": "2026-06-21T11:42:00",
+      "source": "https://emitennews.com/news/investasi-perdana-presdir-aali-borong-saham-asii-rp1068-miliar",
+      "tags": [
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Bank Central Asia Tbk and PT Bank Negara Indonesia Tbk Lead Foreign Net Buying as Indonesia Market Rebounds",
+      "timestamp": "2026-06-19T21:55:00",
+      "source": "https://investasi.kontan.co.id/news/bbca-dan-bbni-teratas-cermati-saham-yang-banyak-diborong-asing-akhir-pekan-ini",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Astra International completes Rp810.7 billion share buyback and plans up to Rp8 trillion repurchase",
+      "timestamp": "2026-06-17T08:35:00",
+      "source": "https://emitennews.com/news/baru-tuntas-asii-lanjut-buyback-rp8-triliun",
+      "tags": [
+        "Stock Buyback",
+        "Shareholders General Meeting",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk announces Rp 8 trillion share buyback, joining PT Telkom Indonesia Tbk and PT Bank Rakyat Indonesia Tbk in jumbo repurchase programs",
+      "timestamp": "2026-06-17T07:57:00",
+      "source": "https://investasi.kontan.co.id/news/buyback-jumbo-marak-emiten-kakap-kirim-sinyal-optimisme-di-tengah-koreksi-pasar",
+      "tags": [
+        "Stock Buyback",
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesian issuers launch jumbo share buybacks, led by PT Astra International Tbk, PT Telkom Indonesia Tbk, PT Bank Rakyat Indonesia Tbk and PT Trimegah Bangun Persada Tbk",
+      "timestamp": "2026-06-16T18:47:00",
+      "source": "https://investasi.kontan.co.id/news/sederet-emiten-gelar-buyback-saham-bernilai-jumbo-mana-yang-menarik-dicermati",
+      "tags": [
+        "Stock Buyback",
+        "Analyst Ratings",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net sell PT Bumi Resources Tbk shares worth Rp 335.5 billion on June 15, 2026",
+      "timestamp": "2026-06-16T14:04:56",
+      "source": "https://investor.id/stock/442889/asing-banting-saham-unggulan-ini",
+      "tags": [
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign investors net sell coal stocks, led by PT Bumi Resources Tbk, as Indonesia's IHSG rallies 4.12% on 15 June 2026",
+      "timestamp": "2026-06-15T20:10:00",
+      "source": "https://money.kompas.com/read/2026/06/15/201000126/jual-saham-emiten-batu-bara-asing-masih-net-sell-di-tengah-reli-ihsg",
+      "tags": [
+        "Foreign Investment",
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG Expected to Trade Sideways 15‑19 June 2026 as Analysts Highlight Key Stock Recommendations",
+      "timestamp": "2026-06-14T14:44:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diramal-sideways-di-perdagangan-15-19-juni-2026-ini-sederet-sentimennya",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Foreign investors net sold Rp 371.6 billion of PT Bank Rakyat Indonesia (Persero) Tbk shares on June 12, 2026",
+      "timestamp": "2026-06-13T11:30:04",
+      "source": "https://investor.id/stock/442639/asing-obral-deretan-saham-ini",
+      "tags": [
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG rises 2.07% to 6,007.656 as foreign investors pour net Rp 193 billion into BBCA and sell Rp 372 billion of BBRI",
+      "timestamp": "2026-06-12T18:28:00",
+      "source": "https://money.kompas.com/read/2026/06/12/182848726/ihsg-ditutup-menguat-207-persen-di-akhir-pekan-asing-serok-saham-bbca-dssa",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Foreign investors keep net selling, with PT Bank Rakyat Indonesia Tbk recording the largest net sell and PT Bank Central Asia Tbk receiving the biggest net buy",
+      "timestamp": "2026-06-11T20:07:38",
+      "source": "https://investor.id/stock/442420/net-sell-asing-tak-kunjung-reda-tapi-bbca-diburu",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Foreign Investors Net Buy BBCA, TLKM, TPIA and ANTM as IHSG Slightly Corrects",
+      "timestamp": "2026-06-11T18:33:00",
+      "source": "https://money.kompas.com/read/2026/06/11/183316926/ihsg-terkoreksi-tipis-asing-serok-saham-tlkm-bbca-tpia-hingga-antam",
+      "tags": [
+        "Foreign Investment"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk reports May 2026 vehicle sales of 38,768 units, capturing 56% market share",
+      "timestamp": "2026-06-11T16:17:00",
+      "source": "https://money.kompas.com/read/2026/06/11/161759126/astra-asii-jual-38768-mobil-kuasai-56-persen-pangsa-pasar",
+      "tags": [
+        "Financial Metrics",
+        "Business Expansion",
+        "Production & Operations",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Astra International's May 2026 Car Sales Rise 12.4% as Market Share Reaches 56%",
+      "timestamp": "2026-06-11T16:08:00",
+      "source": "https://money.kompas.com/read/2026/06/11/160833526/penjualan-mobil-mulai-pulih-geliat-pembiayaan-kendaraan-meningkat",
+      "tags": [
+        "Business Expansion",
+        "Financial Metrics",
+        "Production & Operations",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk plans up to Rp 8 trillion share buyback",
+      "timestamp": "2026-06-11T08:59:30",
+      "source": "https://investor.id/corporate-action/442296/saham-pbv-di-bawah-1-mau-diserok-triliunan",
+      "tags": [
+        "Stock Buyback",
+        "Shareholders General Meeting",
+        "Politics & Regulation",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "ASII plans Rp8 trillion share buyback as MKTR targets Rp1.39 trillion revenue",
+      "timestamp": "2026-06-11T08:23:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8527069/asii-buyback-rp-8-t-hingga-mktr-bidik-pendapatan-rp-1-39-t",
+      "tags": [
+        "Stock Buyback",
+        "Rights Issue",
+        "Mergers & Acquisitions",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Astra International plans up to Rp8 trillion share buyback, seeking shareholder approval on July 17",
+      "timestamp": "2026-06-11T06:23:00",
+      "source": "https://emitennews.com/news/astra-asii-siap-buyback-rp8-triliun-izin-investor-17-juli",
+      "tags": [
+        "Stock Buyback",
+        "Shareholders General Meeting",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Astra International focuses on automotive, financial services and mining segments while targeting recovery in Q2‑2026",
+      "timestamp": "2026-06-10T18:03:00",
+      "source": "https://investasi.kontan.co.id/news/astra-asii-fokus-pada-tiga-segmen-bisnis-begini-prospek-prospek-kuartal-ii-2026",
+      "tags": [
+        "Business Expansion",
+        "Stock Buyback",
+        "Analyst Ratings",
+        "Capital & Funding",
+        "Bearish"
+      ]
+    }
+  ],
+  "corporate_events": [
+    {
+      "date": "2026-09-10",
+      "type": "RUPS",
+      "detail": "Waktu: 10:00:00 · Lokasi: IDX Public Expose"
+    },
+    {
+      "date": "2026-07-17",
+      "type": "RUPS",
+      "detail": "Waktu: 09:00:00 · Lokasi: Catur Dharma Hall, Menara Astra, Lt. 5, Jl. Jenderal Sudirman Kav. 5-6, Jakarta 10220 · Agenda #1: Approval of transfer of up to 100,000,000 shares from the third buyback period (16 March 2026 to 15 June 2026) for the management share ownership program (MSOP), with authority delegated to the Nomination and Remuneration Committee and the Board of Directors. The Nomination and Remuneration Committee is authorized to set the exercise price and payment obligation, and the Board of Directors is authorized to take necessary actions for MSOP implementation. Voting results: 26,391,450,625 agreed, 6,250,753,164 disagreed, 188,912,237 abstained.\nAgenda #2: Approval of a share buyback of up to Rp8,000,000,000,000 under POJK No. 29/2023, with authority given to the Board of Directors to execute the buyback, including determining the buyback price and taking necessary actions. Voting results: 32,641,350,427 agreed, 1,441,900 disagreed, 188,323,699 abstained."
+    },
+    {
+      "date": "2026-05-05",
+      "type": "Dividen",
+      "detail": "Dividen per saham Rp 292,00 · Pembayaran: 2026-05-25"
+    },
+    {
+      "date": "2026-04-23",
+      "type": "RUPS",
+      "detail": "Waktu: 11:00:00 · Lokasi: Catur Dharma Hall, Menara Astra Lt.5, JL. Jenderal Sudirman KAV 5-6 Dki. Jakarta / Kota Adm. Jakarta Pusat (Registrasi Ditutup 09.30 WIB Atau Lebih Cepat Jika Jumlah Pemegang Sahamfisik Telah Mencapai 450 Orang) · Agenda #1: Shareholders approved the 2025 Annual Report, the Board of Commissioners' Oversight Report, and the audited Consolidated Financial Statements, granting full discharge to the Board and Directors. The financial statements received a \"fairly stated\" opinion in the report dated February 26, 2026.\nAgenda #2: The meeting approved a total cash dividend of Rp 390 per share and allocated a minimum of Rp 17.10 trillion of the Rp 32.77 trillion net profit to retained earnings. A final dividend of Rp 292 per share is scheduled for payment on May 25, 2026.\nAgenda #3: Prijono Sugiarto was appointed President Commissioner and Rudy as President Director, with most board members' terms set to run until the 2029 Annual General Meeting. The meeting established the full board composition, including specific directors and commissioners and their respective independence and term periods.\nAgenda #4: Shareholders approved a maximum monthly honorarium of Rp 2.16 billion gross for the Board of Commissioners and authorized the Board to determine salaries and benefits for Directors. This mandate is effective from April 23, 2026, until the 2027 Annual General Meeting.\nAgenda #5: KAP Rintis, Jumadi, Rianto & Rekan (PwC) and Buntoro Rianto were appointed to audit the company's 2026 financial statements. The Board of Directors was authorized to determine the honorarium and terms of the appointment."
+    }
+  ],
+  "context_period": {
+    "start": "2026-04-01",
+    "end": "2026-09-30"
+  },
+  "source_availability": {
+    "company_fundamentals": true,
+    "corporate_events": true,
+    "news": true,
+    "peer_comparison": true,
+    "market_context": true,
+    "sector_market_series": false
+  },
+  "news_archive": {
+    "pages": 9,
+    "rows": 241,
+    "pagination_exhausted": true,
+    "totals_seen": [
+      241
+    ]
+  }
 }

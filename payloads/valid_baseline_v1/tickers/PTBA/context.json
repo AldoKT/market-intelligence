@@ -3,8 +3,8 @@
   "as_of": "2026-09-30",
   "identity": {
     "symbol": "PTBA",
-    "company_name": null,
-    "peer_group": null
+    "company_name": "Bukit Asam Tbk",
+    "peer_group": "Oil, Gas & Coal"
   },
   "current": {
     "scope": "NO_CONTEXT",
@@ -20,5 +20,1974 @@
   "daily_market": {},
   "notes": [
     "Dataset scope: 28 reviewed stocks. No full-market or peer-context score is computed."
-  ]
+  ],
+  "company_snapshot": {
+    "price_date": "2026-10-07",
+    "captured_at": "2026-10-08",
+    "sector": "Energy",
+    "industry": "Coal",
+    "website": "www.ptba.co.id",
+    "market_cap": 38939828265000,
+    "annual_year": 2025,
+    "valuation_year": 2026,
+    "metrics": [
+      {
+        "label": "Pendapatan",
+        "value": "Rp 42,65 T"
+      },
+      {
+        "label": "Laba bersih",
+        "value": "Rp 2,93 T"
+      },
+      {
+        "label": "Total aset",
+        "value": "Rp 43,92 T"
+      },
+      {
+        "label": "Ekuitas",
+        "value": "Rp 22,62 T"
+      },
+      {
+        "label": "EPS",
+        "value": "Rp 254,32"
+      },
+      {
+        "label": "P/E TTM",
+        "value": "8,20×"
+      },
+      {
+        "label": "P/B",
+        "value": "1,54×"
+      }
+    ]
+  },
+  "fundamental_peers": [
+    {
+      "symbol": "PTBA",
+      "name": "Bukit Asam Tbk",
+      "year": 2025,
+      "market_cap": 39170241450000,
+      "pe": 8.25190495220792,
+      "pb": 1.55277320929724,
+      "revenue": 42651724000000,
+      "in_universe": true
+    },
+    {
+      "symbol": "BYAN",
+      "name": "Bayan Resources Tbk",
+      "year": 2025,
+      "market_cap": 448333355750000,
+      "pe": 31.6564461208754,
+      "pb": 10.0929840388174,
+      "revenue": 57365496738143,
+      "in_universe": false
+    },
+    {
+      "symbol": "DSSA",
+      "name": "Dian Swastatika Sentosa Tbk",
+      "year": 2025,
+      "market_cap": 224423363200000,
+      "pe": 57.6393134375181,
+      "pb": 6.9973035147782,
+      "revenue": 46715084876817,
+      "in_universe": false
+    },
+    {
+      "symbol": "CUAN",
+      "name": "PT Petrindo Jaya Kreasi Tbk",
+      "year": 2025,
+      "market_cap": 95556065000000,
+      "pe": 37.221013973668,
+      "pb": 15.3779540354139,
+      "revenue": 20345142032280,
+      "in_universe": false
+    },
+    {
+      "symbol": "AADI",
+      "name": "PT Adaro Andalan Indonesia Tbk",
+      "year": 2025,
+      "market_cap": 94416062590000,
+      "pe": 6.80006748677504,
+      "pb": 1.47011602138669,
+      "revenue": 82180420288980,
+      "in_universe": false
+    },
+    {
+      "symbol": "ADRO",
+      "name": "Alamtri Resources Indonesia Tbk",
+      "year": 2025,
+      "market_cap": 74881284920000,
+      "pe": 7.50673429174899,
+      "pb": 0.907690151651516,
+      "revenue": 31356226430880,
+      "in_universe": true
+    },
+    {
+      "symbol": "BUMI",
+      "name": "Bumi Resources Tbk",
+      "year": 2025,
+      "market_cap": 68325712140512,
+      "pe": 33.4092828152328,
+      "pb": 2.29280462112777,
+      "revenue": 23845559235376,
+      "in_universe": false
+    },
+    {
+      "symbol": "ADMR",
+      "name": "PT Alamtri Minerals Indonesia Tbk",
+      "year": 2025,
+      "market_cap": 61732320565000,
+      "pe": 11.825046175464,
+      "pb": 2.11217726128167,
+      "revenue": 16283705284080,
+      "in_universe": false
+    },
+    {
+      "symbol": "GEMS",
+      "name": "Golden Energy Mines Tbk",
+      "year": 2025,
+      "market_cap": 50294118150000,
+      "pe": 13.3646483795522,
+      "pb": 3.78155416638668,
+      "revenue": 40402709974502,
+      "in_universe": false
+    },
+    {
+      "symbol": "ITMG",
+      "name": "Indo Tambangraya Megah Tbk",
+      "year": 2025,
+      "market_cap": 29491042500000,
+      "pe": 8.38438963544212,
+      "pb": 0.86697213156724,
+      "revenue": 31574380995000,
+      "in_universe": false
+    }
+  ],
+  "market_history": [
+    {
+      "date": "2026-04-01",
+      "ihsg": 7184.438,
+      "market_cap": 12646140309231200
+    },
+    {
+      "date": "2026-04-02",
+      "ihsg": 7026.782,
+      "market_cap": 12301402169484936
+    },
+    {
+      "date": "2026-04-06",
+      "ihsg": 6989.426,
+      "market_cap": 12181292965738515
+    },
+    {
+      "date": "2026-04-07",
+      "ihsg": 6971.027,
+      "market_cap": 12220087895953627
+    },
+    {
+      "date": "2026-04-08",
+      "ihsg": 7279.209,
+      "market_cap": 12745135690725105
+    },
+    {
+      "date": "2026-04-09",
+      "ihsg": 7307.589,
+      "market_cap": 12927661360702306
+    },
+    {
+      "date": "2026-04-10",
+      "ihsg": 7458.496,
+      "market_cap": 13183485554446575
+    },
+    {
+      "date": "2026-04-13",
+      "ihsg": 7500.187,
+      "market_cap": 13334711369769658
+    },
+    {
+      "date": "2026-04-14",
+      "ihsg": 7675.951,
+      "market_cap": 13680203483861089
+    },
+    {
+      "date": "2026-04-15",
+      "ihsg": 7623.586,
+      "market_cap": 13577551326427693
+    },
+    {
+      "date": "2026-04-16",
+      "ihsg": 7621.382,
+      "market_cap": 13580909513734445
+    },
+    {
+      "date": "2026-04-17",
+      "ihsg": 7634.004,
+      "market_cap": 13631805736754862
+    },
+    {
+      "date": "2026-04-20",
+      "ihsg": 7594.111,
+      "market_cap": 13530051609880990
+    },
+    {
+      "date": "2026-04-21",
+      "ihsg": 7559.38,
+      "market_cap": 13439346111420433
+    },
+    {
+      "date": "2026-04-22",
+      "ihsg": 7541.612,
+      "market_cap": 13331962629649015
+    },
+    {
+      "date": "2026-04-23",
+      "ihsg": 7378.606,
+      "market_cap": 13176851273619842
+    },
+    {
+      "date": "2026-04-24",
+      "ihsg": 7129.49,
+      "market_cap": 12732776963937495
+    },
+    {
+      "date": "2026-04-27",
+      "ihsg": 7106.52,
+      "market_cap": 12687518028997883
+    },
+    {
+      "date": "2026-04-28",
+      "ihsg": 7072.392,
+      "market_cap": 12590034125678447
+    },
+    {
+      "date": "2026-04-29",
+      "ihsg": 7101.226,
+      "market_cap": 12635384034178860
+    },
+    {
+      "date": "2026-04-30",
+      "ihsg": 6956.804,
+      "market_cap": 12378413759882228
+    },
+    {
+      "date": "2026-05-04",
+      "ihsg": 6971.953,
+      "market_cap": 12411009903513114
+    },
+    {
+      "date": "2026-05-05",
+      "ihsg": 7057.106,
+      "market_cap": 12626309574250122
+    },
+    {
+      "date": "2026-05-06",
+      "ihsg": 7092.467,
+      "market_cap": 12699830398460331
+    },
+    {
+      "date": "2026-05-07",
+      "ihsg": 7174.321,
+      "market_cap": 12778962713690869
+    },
+    {
+      "date": "2026-05-08",
+      "ihsg": 6969.396,
+      "market_cap": 12402407487340402
+    },
+    {
+      "date": "2026-05-11",
+      "ihsg": 6905.62,
+      "market_cap": 12280030079664830
+    },
+    {
+      "date": "2026-05-12",
+      "ihsg": 6858.899,
+      "market_cap": 12142773427321380
+    },
+    {
+      "date": "2026-05-13",
+      "ihsg": 6723.32,
+      "market_cap": 11821690407165346
+    },
+    {
+      "date": "2026-05-18",
+      "ihsg": 6599.24,
+      "market_cap": 11535132183193835
+    },
+    {
+      "date": "2026-05-19",
+      "ihsg": 6370.679,
+      "market_cap": 11105372542285443
+    },
+    {
+      "date": "2026-05-20",
+      "ihsg": 6318.5,
+      "market_cap": 10959980491971602
+    },
+    {
+      "date": "2026-05-21",
+      "ihsg": 6094.941,
+      "market_cap": 10549507904767653
+    },
+    {
+      "date": "2026-05-22",
+      "ihsg": 6162.045,
+      "market_cap": 10631421768765943
+    },
+    {
+      "date": "2026-05-25",
+      "ihsg": 6206.349,
+      "market_cap": 10692705367587005
+    },
+    {
+      "date": "2026-05-26",
+      "ihsg": 6130.19,
+      "market_cap": 10613054794742598
+    },
+    {
+      "date": "2026-05-29",
+      "ihsg": 6127.381,
+      "market_cap": 10725485605975573
+    },
+    {
+      "date": "2026-06-02",
+      "ihsg": 6195.427,
+      "market_cap": 10891278361519046
+    },
+    {
+      "date": "2026-06-03",
+      "ihsg": 5941.066,
+      "market_cap": 10451829355656557
+    },
+    {
+      "date": "2026-06-04",
+      "ihsg": 5839.785,
+      "market_cap": 10259085293637228
+    },
+    {
+      "date": "2026-06-05",
+      "ihsg": 5594.765,
+      "market_cap": 9803592659706909
+    },
+    {
+      "date": "2026-06-08",
+      "ihsg": 5342.137,
+      "market_cap": 9414771844192581
+    },
+    {
+      "date": "2026-06-09",
+      "ihsg": 5746.648,
+      "market_cap": 10095511071726246
+    },
+    {
+      "date": "2026-06-10",
+      "ihsg": 5902.376,
+      "market_cap": 10341178905408617
+    },
+    {
+      "date": "2026-06-11",
+      "ihsg": 5886.032,
+      "market_cap": 10287950241660193
+    },
+    {
+      "date": "2026-06-12",
+      "ihsg": 6007.656,
+      "market_cap": 10520825968837381
+    },
+    {
+      "date": "2026-06-15",
+      "ihsg": 6254.966,
+      "market_cap": 10899408952482727
+    },
+    {
+      "date": "2026-06-17",
+      "ihsg": 6220.74,
+      "market_cap": 10776148487729844
+    },
+    {
+      "date": "2026-06-18",
+      "ihsg": 6172.34,
+      "market_cap": 10736980009961606
+    },
+    {
+      "date": "2026-06-19",
+      "ihsg": 6177.139,
+      "market_cap": 10784594953877444
+    },
+    {
+      "date": "2026-06-22",
+      "ihsg": 6116.69,
+      "market_cap": 10708711379319414
+    },
+    {
+      "date": "2026-06-23",
+      "ihsg": 6101.333,
+      "market_cap": 10685047810158781
+    },
+    {
+      "date": "2026-06-24",
+      "ihsg": 5883.881,
+      "market_cap": 10312029789078805
+    },
+    {
+      "date": "2026-06-25",
+      "ihsg": 5999.038,
+      "market_cap": 10515718128770631
+    },
+    {
+      "date": "2026-06-26",
+      "ihsg": 5896.134,
+      "market_cap": 10298280398969010
+    },
+    {
+      "date": "2026-06-29",
+      "ihsg": 5820.79,
+      "market_cap": 10179250800138493
+    },
+    {
+      "date": "2026-06-30",
+      "ihsg": 5643.194,
+      "market_cap": 9894028079914985
+    },
+    {
+      "date": "2026-07-01",
+      "ihsg": 5695.116,
+      "market_cap": 10007947906561450
+    },
+    {
+      "date": "2026-07-02",
+      "ihsg": 5744.556,
+      "market_cap": 10060923668899571
+    },
+    {
+      "date": "2026-07-03",
+      "ihsg": 5875.78,
+      "market_cap": 10283558418117973
+    },
+    {
+      "date": "2026-07-06",
+      "ihsg": 5916.07,
+      "market_cap": 10352610980350056
+    },
+    {
+      "date": "2026-07-07",
+      "ihsg": 5986.497,
+      "market_cap": 10462196902308353
+    },
+    {
+      "date": "2026-07-08",
+      "ihsg": 5873.372,
+      "market_cap": 10272894518876036
+    },
+    {
+      "date": "2026-07-09",
+      "ihsg": 5912.442,
+      "market_cap": 10324456194315119
+    },
+    {
+      "date": "2026-07-10",
+      "ihsg": 5924.36,
+      "market_cap": 10336481815483724
+    },
+    {
+      "date": "2026-07-13",
+      "ihsg": 6037.842,
+      "market_cap": 10506156813352519
+    },
+    {
+      "date": "2026-07-14",
+      "ihsg": 6039.521,
+      "market_cap": 10524135196509080
+    },
+    {
+      "date": "2026-07-15",
+      "ihsg": 6041.972,
+      "market_cap": 10548175926837826
+    },
+    {
+      "date": "2026-07-16",
+      "ihsg": 6108.209,
+      "market_cap": 10655671296610599
+    },
+    {
+      "date": "2026-07-17",
+      "ihsg": 6175.535,
+      "market_cap": 10745282583293599
+    },
+    {
+      "date": "2026-07-20",
+      "ihsg": 6231.78,
+      "market_cap": 10832728685598542
+    },
+    {
+      "date": "2026-07-21",
+      "ihsg": 6340.02,
+      "market_cap": 11041209401983643
+    },
+    {
+      "date": "2026-07-22",
+      "ihsg": 6334.476,
+      "market_cap": 11064991318794462
+    },
+    {
+      "date": "2026-07-23",
+      "ihsg": 6315.311,
+      "market_cap": 11058096720739904
+    },
+    {
+      "date": "2026-07-24",
+      "ihsg": 6196.43,
+      "market_cap": 10866941513180025
+    },
+    {
+      "date": "2026-07-27",
+      "ihsg": 6185.783,
+      "market_cap": 10846820086978302
+    },
+    {
+      "date": "2026-07-28",
+      "ihsg": 6130.588,
+      "market_cap": 10748777396682842
+    },
+    {
+      "date": "2026-07-29",
+      "ihsg": 6091.386,
+      "market_cap": 10671925079765237
+    },
+    {
+      "date": "2026-07-30",
+      "ihsg": 6186.363,
+      "market_cap": 10808753111947654
+    },
+    {
+      "date": "2026-07-31",
+      "ihsg": 6236.126,
+      "market_cap": 10919632662108419
+    },
+    {
+      "date": "2026-08-03",
+      "ihsg": 6234.497,
+      "market_cap": 10891533376788029
+    },
+    {
+      "date": "2026-08-04",
+      "ihsg": 6319.613,
+      "market_cap": 11026919553266172
+    },
+    {
+      "date": "2026-08-05",
+      "ihsg": 6351.139,
+      "market_cap": 11081557528513146
+    },
+    {
+      "date": "2026-08-06",
+      "ihsg": 6343.711,
+      "market_cap": 11091230654708629
+    },
+    {
+      "date": "2026-08-07",
+      "ihsg": 6409.654,
+      "market_cap": 11208370900071437
+    },
+    {
+      "date": "2026-08-10",
+      "ihsg": 6365.374,
+      "market_cap": 11127673938712190
+    },
+    {
+      "date": "2026-08-11",
+      "ihsg": 6267.88,
+      "market_cap": 10951983899532200
+    },
+    {
+      "date": "2026-08-12",
+      "ihsg": 6373.849,
+      "market_cap": 11170270993004848
+    },
+    {
+      "date": "2026-08-13",
+      "ihsg": 6301.765,
+      "market_cap": 11047038481790783
+    },
+    {
+      "date": "2026-08-14",
+      "ihsg": 6401.888,
+      "market_cap": 11239913404397486
+    },
+    {
+      "date": "2026-08-18",
+      "ihsg": 6449.83,
+      "market_cap": 11344776423883178
+    },
+    {
+      "date": "2026-08-19",
+      "ihsg": 6394.125,
+      "market_cap": 11242710814171051
+    },
+    {
+      "date": "2026-08-20",
+      "ihsg": 6501.585,
+      "market_cap": 11417105165375641
+    },
+    {
+      "date": "2026-08-21",
+      "ihsg": 6525.69,
+      "market_cap": 11445451211005613
+    },
+    {
+      "date": "2026-08-24",
+      "ihsg": 6501.667,
+      "market_cap": 11400829359169202
+    },
+    {
+      "date": "2026-08-26",
+      "ihsg": 6405.685,
+      "market_cap": 11226539253653372
+    },
+    {
+      "date": "2026-08-27",
+      "ihsg": 6521.75,
+      "market_cap": 11444254799160097
+    },
+    {
+      "date": "2026-08-28",
+      "ihsg": 6518.121,
+      "market_cap": 11427514258790209
+    },
+    {
+      "date": "2026-08-31",
+      "ihsg": 6525.478,
+      "market_cap": 11420266337232824
+    },
+    {
+      "date": "2026-09-01",
+      "ihsg": 6599.943,
+      "market_cap": 11528076154461080
+    },
+    {
+      "date": "2026-09-02",
+      "ihsg": 6595.776,
+      "market_cap": 11521577604064942
+    },
+    {
+      "date": "2026-09-03",
+      "ihsg": 6667.891,
+      "market_cap": 11637538684241799
+    },
+    {
+      "date": "2026-09-04",
+      "ihsg": 6636.475,
+      "market_cap": 11595660058206448
+    },
+    {
+      "date": "2026-09-07",
+      "ihsg": 6619.673,
+      "market_cap": 11571807924987264
+    },
+    {
+      "date": "2026-09-08",
+      "ihsg": 6686.442,
+      "market_cap": 11668902562815871
+    },
+    {
+      "date": "2026-09-09",
+      "ihsg": 6678.201,
+      "market_cap": 11671538636715858
+    },
+    {
+      "date": "2026-09-10",
+      "ihsg": 6589.338,
+      "market_cap": 11526136904331476
+    },
+    {
+      "date": "2026-09-11",
+      "ihsg": 6541.377,
+      "market_cap": 11442963914395062
+    },
+    {
+      "date": "2026-09-14",
+      "ihsg": 6534.693,
+      "market_cap": 11368110758085182
+    },
+    {
+      "date": "2026-09-15",
+      "ihsg": 6461.153,
+      "market_cap": 11257912210981978
+    },
+    {
+      "date": "2026-09-16",
+      "ihsg": 6436.853,
+      "market_cap": 11225219420982876
+    },
+    {
+      "date": "2026-09-17",
+      "ihsg": 6462.431,
+      "market_cap": 11270346560839989
+    },
+    {
+      "date": "2026-09-18",
+      "ihsg": 6441.159,
+      "market_cap": 11262605698050558
+    },
+    {
+      "date": "2026-09-21",
+      "ihsg": 6384.726,
+      "market_cap": 11161910095429389
+    },
+    {
+      "date": "2026-09-22",
+      "ihsg": 6277.044,
+      "market_cap": 10971287923179805
+    },
+    {
+      "date": "2026-09-23",
+      "ihsg": 6374.912,
+      "market_cap": 11141915820582293
+    },
+    {
+      "date": "2026-09-24",
+      "ihsg": 6298.607,
+      "market_cap": 11021365748586840
+    },
+    {
+      "date": "2026-09-25",
+      "ihsg": 6241.892,
+      "market_cap": 10902018198054911
+    },
+    {
+      "date": "2026-09-28",
+      "ihsg": 6147.859,
+      "market_cap": 10755457591436344
+    },
+    {
+      "date": "2026-09-29",
+      "ihsg": 6121.7,
+      "market_cap": 10754858845786069
+    },
+    {
+      "date": "2026-09-30",
+      "ihsg": 6071.138,
+      "market_cap": 10691719699169471
+    }
+  ],
+  "relevant_news": [
+    {
+      "title": "PT Bukit Asam Tbk (PTBA) Secures Rp6 Trillion Working Capital Facility from BRI and Bank Mandiri",
+      "timestamp": "2026-09-30T18:01:00",
+      "source": "https://emitennews.com/news/untuk-modal-kerja-ptba-tambah-utang-jumbo-rp6t-dari-bri-dan-bmri",
+      "tags": [
+        "Capital & Funding",
+        "Credit",
+        "Financial Metrics",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "New ESDM Regulation Restricts Affiliate Mining Contractors, Impacted Issuers Include PT Bukit Asam Tbk (PTBA) and PT Adaro Andalan Indonesia Tbk (AADI)",
+      "timestamp": "2026-09-30T10:05:00",
+      "source": "https://investasi.kontan.co.id/news/aturan-baru-esdm-batasi-kontraktor-afiliasi-cermati-emiten-yang-terdampak",
+      "tags": [
+        "Politics & Regulation",
+        "Violation",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "New Mining Services Regulation Could Raise Costs for Mineral and Coal Issuers",
+      "timestamp": "2026-09-29T19:11:00",
+      "source": "https://investasi.kontan.co.id/news/aturan-baru-jasa-tambang-berpotensi-tekan-biaya-emiten-minerba",
+      "tags": [
+        "Politics & Regulation",
+        "Commodities",
+        "Analyst Ratings",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Coal Mining Stocks Including PT Adaro Andalan Indonesia Tbk (AADI), PT Alamtri Resources Indonesia Tbk (ADRO), and PT Bukit Asam (Persero) Tbk (PTBA) Weaken After New Rule Restricts Subsidiaries in Mining Operations",
+      "timestamp": "2026-09-29T11:37:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8683923/saham-aadi-adro-hingga-ptba-loyo-usai-anak-usaha-dilarang-garap-tambang",
+      "tags": [
+        "Politics & Regulation",
+        "Commodities",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "BRI Danareksa Sekuritas Recommends PTBA, UVCR, and AMRT Stocks for Tuesday, 29 September 2026",
+      "timestamp": "2026-09-29T07:31:00",
+      "source": "https://investor.id/market/455884/rekomendasi-saham-hari-ini-selasa-29-september-2026-ptba-uvcr-amrt",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Tightened Coal Production Quotas Make Operating Coal Assets Strategic Acquisition Targets",
+      "timestamp": "2026-09-28T16:55:00",
+      "source": "https://investasi.kontan.co.id/news/kuota-produksi-batubara-diperketat-aset-batubara-strategis-jadi-sasaran-akuisisi",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Ownership",
+        "Rights Issue",
+        "Analyst Ratings",
+        "Commodities",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Foreign investors favor PT Bumi Resources Minerals Tbk (BRMS), PT Merdeka Gold Resources Tbk (EMAS) and PT Adaro Andalan Indonesia Tbk (AADI); Top 10 Net‑Buy Stocks of the Week",
+      "timestamp": "2026-09-19T07:17:00",
+      "source": "https://market.bisnis.com/read/20260919/7/2005456/saham-brms-emas-aadi-jadi-favorit-investor-asing-simak-top-10-saham-net-buy-asing-sepekan",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BAKN DPR RI Urges Government to Prepare Backup Plan for PT Kereta Cepat Indonesia China Debt Transfer as September 15 Deadline Looms",
+      "timestamp": "2026-09-11T16:40:00",
+      "source": "https://www.idnfinancials.com/id/news/68721/pengalihan-utang-whoosh-indonesia-siapkan-plan-b",
+      "tags": [
+        "Capital & Funding",
+        "Government Policy",
+        "Risk & Compliance",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Mirae Asset Sekuritas assesses global pressures still weighing on the market",
+      "timestamp": "2026-09-11T15:37:00",
+      "source": "https://www.antaranews.com/berita/5736489/mirae-asset-nilai-tekanan-global-masih-bayangi-pasar",
+      "tags": [
+        "Market Sentiment",
+        "Global Economy",
+        "Foreign Investment",
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign Investor Outflow Rp590 Billion, Two Prajogo Pangestu‑Affiliated Stocks Lead Net Sell",
+      "timestamp": "2026-09-07T20:40:00",
+      "source": "https://www.idnfinancials.com/id/news/68479/outflow-asing-rp590-miliar-dua-saham-prajogo-pangestu-top-net-sell",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Bukit Asam Tbk targets 20% non‑coal revenue share by 2030 and reports H1 2026 net profit of Rp4.06 trillion",
+      "timestamp": "2026-09-07T19:52:00",
+      "source": "https://www.idnfinancials.com/id/news/68476/ptba-kurangi-pendapatan-batu-bara-target-diversifikasi-20",
+      "tags": [
+        "Business Expansion",
+        "Financial Metrics",
+        "Partnerships & Agreements",
+        "Government Policy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Bukit Asam Tbk reports 218% YoY net profit jump to Rp 2.65 trillion in H1 2026",
+      "timestamp": "2026-09-07T19:31:00",
+      "source": "https://money.kompas.com/read/2026/09/07/193100826/harga-batu-bara-naik-laba-ptba-melonjak-218-persen-jadi-rp-2-65-triliun",
+      "tags": [
+        "Financial Metrics",
+        "Export",
+        "Production & Operations",
+        "Commodities",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Bukit Asam Tbk targets non‑coal and coal‑derivative businesses to contribute about 20% of revenue within three to four years",
+      "timestamp": "2026-09-07T18:46:00",
+      "source": "https://investasi.kontan.co.id/news/ptba-incar-pendapatan-bisnis-hilirisasi-bisa-sumbang-hingga-20-dalam-3-4-tahun",
+      "tags": [
+        "Diversification",
+        "Business Expansion",
+        "Pilot Project",
+        "Partnerships & Agreements",
+        "R&D",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "The Fate of Bukit Asam (PTBA)",
+      "timestamp": "2026-09-07T12:33:09",
+      "source": "https://investor.id/market/453104/suratan-takdir-bukit-asam-ptba",
+      "tags": [
+        "Financial Metrics",
+        "Export",
+        "Foreign Investment",
+        "Commodities",
+        "Production & Operations",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Predicted Mixed on Monday (Sept 7), Investors Cautioned on Rupiah and US‑Iran Conflict",
+      "timestamp": "2026-09-06T16:16:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diprediksi-mixed-senin-79-investor-waspadai-rupiah-dan-konflik-as-iran",
+      "tags": [
+        "Currency & FX",
+        "Market Sentiment",
+        "Foreign Investment",
+        "Global Economy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Bukit Asam Tbk reports strong 1H 2026 earnings and 13.8% share price rise on foreign net buying",
+      "timestamp": "2026-09-05T13:26:42",
+      "source": "https://investor.id/market/452958/kondisi-bukit-asam-ptba-berubah-signifikan",
+      "tags": [
+        "Financial Metrics",
+        "Foreign Investment",
+        "Commodities",
+        "Export",
+        "Production & Operations",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors' top ten net‑buy stocks on 4 Sep 2026 amid a 0.47% IHSG correction",
+      "timestamp": "2026-09-04T20:14:00",
+      "source": "https://investasi.kontan.co.id/news/cermati-saham-yang-banyak-diborong-asing-saat-ihsg-terkoreksi-047-di-akhir-pekan",
+      "tags": [
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Energy sector stays a market primadona as analysts recommend PT Alamtri Resources Indonesia Tbk and PT Bukit Asam Tbk",
+      "timestamp": "2026-09-03T19:13:00",
+      "source": "https://investasi.kontan.co.id/news/sektor-energi-masih-jadi-primadona-intip-saham-pilihan-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Ten Indonesian coal issuers report H1 2026 net profit growth led by Adaro Andalan Indonesia Tbk and Bayan Resources Tbk",
+      "timestamp": "2026-09-03T18:35:00",
+      "source": "https://market.bisnis.com/read/20260903/192/2001206/10-emiten-batu-bara-dengan-laba-paling-jumbo-semester-i2026-aadi-byan-teratas",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Production & Operations",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Bukit Asam Tbk reports 218% profit surge in H1 2026; target price under review",
+      "timestamp": "2026-09-03T15:39:00",
+      "source": "https://investasi.kontan.co.id/news/laba-ptba-melonjak-218-tapi-target-harga-saham-masih-ditinjau-analis",
+      "tags": [
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Commodities",
+        "Joint Venture",
+        "Production & Operations",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "List of LQ45 stocks with lowest and highest PER on 2 September 2026, highlighting DEWA and AADI",
+      "timestamp": "2026-09-03T06:33:00",
+      "source": "https://investasi.kontan.co.id/news/daftar-saham-per-terendah-tertinggi-lq45-2-september-2026-dewa-dan-aadi-disorot",
+      "tags": [
+        "Financial Metrics",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "UBS upgrades PT Bukit Asam Tbk on outlook for large dividend and strong net profit growth",
+      "timestamp": "2026-09-02T18:44:24",
+      "source": "https://investor.id/market/452618/dividen-besar-ptba-saham-langsung-diupgrade-asing",
+      "tags": [
+        "Analyst Ratings",
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Timah Tbk records the most aggressive growth among Indonesian miners in H1 2026, surpassing PT Antam Tbk, PT Bukit Asam Tbk and PT Vale Indonesia Tbk",
+      "timestamp": "2026-09-02T15:03:35",
+      "source": "https://investor.id/market/452579/tins-paling-agresif-ini-prospek-sahamnya-vs-antm-ptba-inco",
+      "tags": [
+        "Business Expansion",
+        "Financial Metrics",
+        "Commodities",
+        "Risk & Compliance",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Bukit Asam Tbk reports 8% YoY revenue growth and 12% net profit margin in 1H 2026",
+      "timestamp": "2026-09-02T07:28:32",
+      "source": "https://investor.id/market/452527/bos-bukit-asam-ptba-terus-terang-soal-kondisi-perusahaan",
+      "tags": [
+        "Financial Metrics",
+        "Export",
+        "Production & Operations",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Global Coal Price Surge Drives Strong First-Half 2026 Earnings for Indonesian Coal Miners",
+      "timestamp": "2026-09-01T21:20:00",
+      "source": "https://investasi.kontan.co.id/news/lonjakan-harga-komoditas-memoles-kinerja-emiten-batubara",
+      "tags": [
+        "Commodities",
+        "Financial Metrics",
+        "Global Economy",
+        "Analyst Ratings",
+        "Production & Operations",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Bukit Asam Tbk reports net profit of Rp2.64 trillion, up 218% in the first half of 2026",
+      "timestamp": "2026-09-01T10:57:00",
+      "source": "https://market.bisnis.com/read/20260901/192/2000329/bukit-asam-ptba-cetak-laba-rp264-triliun-melesat-218-semester-i2026",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Bukit Asam reports H1 2026 revenue of Rp 22.03 trillion",
+      "timestamp": "2026-09-01T10:30:00",
+      "source": "https://investasi.kontan.co.id/news/bukit-asam-ptba-kantongi-pendapatan-rp-2203-triliun-pada-semester-i-2026",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Bukit Asam posts 215% profit surge to Rp 2.64 trillion in H1 2026",
+      "timestamp": "2026-09-01T10:21:39",
+      "source": "https://www.cnbcindonesia.com/market/20260901092644-17-763882/laba-ptba-meroket-215-jadi-rp-264-triliun-ini-penopangnya",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Bukit Asam Tbk reports net profit of Rp2.64 trillion for the first half of 2026",
+      "timestamp": "2026-09-01T10:20:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/120087/bukit-asam-ptba-cetak-laba-rp2-64-triliun-semester-i-2026",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Bukit Asam Tbk reports net profit of Rp4.06 trillion in H1 2026, up 4.2 times YoY",
+      "timestamp": "2026-09-01T09:50:00",
+      "source": "https://www.idnfinancials.com/id/news/68168/laba-ptba-naik-4-2-kali-lipat-jadi-rp4-06-triliun-di-semester-i",
+      "tags": [
+        "Financial Metrics",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Bukit Asam Tbk reports net profit of Rp 2.65 trillion for H1 2026",
+      "timestamp": "2026-09-01T05:19:11",
+      "source": "https://investor.id/market/452351/bukit-asam-ptba-raup-rp-265-triliun",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Coal Stocks Outlook for H2 2026 Highlights PT Adaro Andalan Indonesia Tbk Amid RKAB and DSI Uncertainties",
+      "timestamp": "2026-08-27T10:20:00",
+      "source": "https://market.bisnis.com/read/20260827/192/1999201/saham-batu-bara-semester-ii2026-dibayangi-rkab-dsi-hingga-harga-bbm",
+      "tags": [
+        "Commodities",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Commodity Stock Recommendations After Clarification of PT Danantara Sumberdaya Indonesia’s Role",
+      "timestamp": "2026-08-27T07:44:00",
+      "source": "https://investasi.kontan.co.id/news/cek-rekomendasi-saham-emiten-komoditas-setelah-peran-dsi-makin-jelas",
+      "tags": [
+        "Commodities",
+        "Analyst Ratings",
+        "Export",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Edwin Sebayang highlights PT Vale Indonesia Tbk, PT Timah Tbk, Antam, and PT Bukit Asam Tbk as dividend‑attractive mining stocks",
+      "timestamp": "2026-08-26T13:19:49",
+      "source": "https://investor.id/market/451667/inco-tins-antm-ptba-disorot-diungkit-soal-dividen",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Partnerships & Agreements",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia's Composite Index Opens in Red Zone as Brokers Cite Economic Data and Global Sentiment",
+      "timestamp": "2026-08-26T09:25:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/119479/ihsg-awali-perdagangan-di-zona-merah-ini-penyebabnya",
+      "tags": [
+        "Market Sentiment",
+        "Global Economy",
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "IHSG Expected to Show Limited Upside on Wednesday, with Analyst Recommendations for ANTM, PTBA, and TINS",
+      "timestamp": "2026-08-26T07:15:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-berpeluang-menguat-terbatas-pada-rabu-268-cek-rekomendasi-saham-berikut",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "IHSG projected limited upside on Wednesday, with analyst recommendations for PT Aneka Tambang Tbk, PT Bukit Asam Tbk and PT Timah Tbk",
+      "timestamp": "2026-08-25T09:29:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diproyeksi-menguat-terbatas-rabu-268-cek-saham-rekomendasi-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Currency & FX",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "IHSG predicted to trade sideways; MNC recommends ANTM, PGAS, PTBA, and TINS for Wednesday, 26 August 2026",
+      "timestamp": "2026-08-24T19:39:41",
+      "source": "https://investor.id/market/451471/prediksi-ihsg-dan-rekomendasi-saham-rabu-26-agustus-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Currency & FX"
+      ]
+    },
+    {
+      "title": "Popular news roundup: solid jewelry gold prices and PT Bank Mandiri Tbk shares appear cheap",
+      "timestamp": "2026-08-17T05:58:35",
+      "source": "https://investor.id/market/450585/berita-populer-harga-emas-perhiasan-kokoh-hingga-saham-bmri-lagi-murah",
+      "tags": [
+        "Commodities",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "RAPBN 2027’s expansive budget could lift a range of Indonesian stocks, according to RHB Sekuritas research",
+      "timestamp": "2026-08-14T19:20:00",
+      "source": "https://market.bisnis.com/read/20260814/7/1996485/rapbn-2027-ekspansif-ini-deretan-saham-yang-berpotensi-ketiban-berkah",
+      "tags": [
+        "Government Policy",
+        "Commodities",
+        "Export",
+        "Dividend Announcement",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Stock Recommendations and IHSG Movement for August 11, 2026",
+      "timestamp": "2026-08-11T08:10:00",
+      "source": "https://market.bisnis.com/read/20260811/7/1995163/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-11-agustus-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MIND ID to remit Rp 12.6 trillion in dividends to the state in 2025",
+      "timestamp": "2026-08-08T19:19:00",
+      "source": "https://money.kompas.com/read/2026/08/08/191900226/mind-id-setor-dividen-rp-12-6-triliun-ke-negara-sepanjang-2025-",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Indonesia's IHSG rises to 6,409 as analysts warn of upcoming MSCI and FTSE rebalancing volatility",
+      "timestamp": "2026-08-07T17:23:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-melesat-ke-6409-waspadai-volatilitas-rebalancing-msci-ftse",
+      "tags": [
+        "Analyst Ratings",
+        "Global Index",
+        "Market Sentiment",
+        "Foreign Investment"
+      ]
+    },
+    {
+      "title": "Holding Industri Pertambangan to remit Rp12.6 trillion in dividends to the state in 2025",
+      "timestamp": "2026-08-07T14:39:29",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260807133343-85-1389700/mind-id-setor-dividen-rp126-t-ke-negara-sepanjang-2025",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Subsidiaries",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Performance Highlights of BUMN Energy Issuers TINS, PGEO, ELSA, PTBA, and PGAS for Q2 and H1 2026",
+      "timestamp": "2026-08-07T06:05:00",
+      "source": "https://emitennews.com/news/adu-gacor-kinerja-emiten-bumn-energi-tins-pgeo-elsa-ptba-pgas",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Rebalancing of Main Indices Takes Effect, Impact on IHSG Liquidity",
+      "timestamp": "2026-08-04T19:23:00",
+      "source": "https://investasi.kontan.co.id/news/rebalancing-indeks-utama-resmi-berlaku-ini-dampaknya-ke-likuiditas-ihsg",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts project strong upside for Indonesia’s red‑plate (BUMN) stocks in the second half of 2026 following the IDX BUMN 20 rebalancing",
+      "timestamp": "2026-08-04T08:55:00",
+      "source": "https://market.bisnis.com/read/20260804/192/1993383/prospek-cerah-saham-pelat-merah-di-sisa-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analyst Highlights PT Aneka Tambang Tbk, PT Bukit Asam Tbk, and PT Bank Mandiri Tbk as Top Picks After IDX BUMN20 Rebalancing",
+      "timestamp": "2026-08-03T16:26:00",
+      "source": "https://market.bisnis.com/read/20260803/189/1993241/cermati-antm-ptba-dan-bmri-masuk-radar-analis-usai-evaluasi-idx-bumn-20",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Broker recommendation highlights PT Timah Tbk, PT Vale Indonesia Tbk, PT Aneka Tambang Tbk, and PT Bukit Asam Tbk for Semester II‑2026",
+      "timestamp": "2026-08-03T07:00:00",
+      "source": "https://investasi.kontan.co.id/news/intip-rekomendasi-saham-pilihan-emiten-pertambangan-mind-id-di-semester-ii-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IDX30 Rebalanced: DEWA Added with 0.78% Weight, PTBA Removed Effective Aug 3, 2026",
+      "timestamp": "2026-08-03T06:44:00",
+      "source": "https://investasi.kontan.co.id/news/idx30-resmi-berubah-mulai-hari-ini-dewa-masuk-gantikan-ptba-cek-daftar-terbarunya",
+      "tags": [
+        "Market Sentiment",
+        "Institutional Investor",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Prospects for MIND ID Mining Issuers in H2‑2026 Remain Positive, Analysts Highlight PT Timah Tbk, PT Vale Indonesia Tbk, PT Aneka Tambang Tbk and PT Bukit Asam Tbk",
+      "timestamp": "2026-08-02T16:36:00",
+      "source": "https://investasi.kontan.co.id/news/menakar-prospek-kinerja-emiten-pertambangan-mind-id-di-semester-ii-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Financial Reports as Fuel for Mining Stocks: Which Are Most Attractive?",
+      "timestamp": "2026-07-31T15:11:55",
+      "source": "https://www.cnbcindonesia.com/market/20260731134624-17-755471/laporan-keuangan-jadi-bahan-bakar-saham-tambang-siapa-paling-menarik",
+      "tags": [
+        "Annual Report",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BRI Danareksa Sekuritas recommends PADA, BRPT and DEWA on July 31, 2026",
+      "timestamp": "2026-07-31T08:00:46",
+      "source": "https://investor.id/market/448566/rekomendasi-saham-hari-ini-jumat-31-juli-2026-pada-brpt-dewa",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Rebound signals for ANTM and INCO stocks ahead of first‑half 2026 earnings for state‑owned mining firms",
+      "timestamp": "2026-07-30T21:54:00",
+      "source": "https://market.bisnis.com/read/20260730/189/1992475/sinyal-rebound-antm-inco-jelang-lapkeu-semester-i2026-tambang-bumn",
+      "tags": [
+        "Market Sentiment",
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG diperkirakan uji level 6.000; Phintraco rekomendasikan enam saham",
+      "timestamp": "2026-07-30T06:36:47",
+      "source": "https://investor.id/market/448389/ihsg-bersiap-hadapi-ujian-6-saham-jadi-sorotan",
+      "tags": [
+        "Analyst Ratings",
+        "Currency & FX"
+      ]
+    },
+    {
+      "title": "Sharia stock indices rebound as energy and commodity stocks lead the recovery",
+      "timestamp": "2026-07-29T18:21:00",
+      "source": "https://investasi.kontan.co.id/news/indeks-saham-syariah-bangkit-dari-tekanan-sektor-energi-dan-komoditas-jadi-penggerak",
+      "tags": [
+        "Sharia Economy",
+        "Commodities",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BEI removes several BUMN and Djarum‑affiliated stocks from LQ45, IDX30 and KOMPAS100 indices effective August 2026",
+      "timestamp": "2026-07-28T13:49:10",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260728133753-92-1385720/bei-depak-saham-bumn-hingga-grup-djarum-dari-indeks-unggulan-lq45-cs",
+      "tags": [
+        "Neutral",
+        "Global Index"
+      ]
+    },
+    {
+      "title": "PT Indika Energy Tbk seeks buyer for coal unit PT Kideco Jaya Agung, with PT Bumi Resources Tbk, PT Petrindo Jaya Kreasi Tbk and other majors cited as potential acquirers",
+      "timestamp": "2026-07-28T11:30:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/116403/menebak-calon-pembeli-kideco-yang-bakal-dilepas-indy",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Asset Purchase",
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IDX30 Rebalancing Adds DEWA, Removes PTBA and Cuts BBCA and BBRI Weights to 15%",
+      "timestamp": "2026-07-28T07:33:00",
+      "source": "https://investasi.kontan.co.id/news/resmi-2-saham-ditendang-dari-indeks-idx30-bobot-blue-chip-bbca-bbri-dipangkas",
+      "tags": [
+        "Diversification",
+        "Portfolio",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "BEI adds five new stocks to LQ45, IDX30 and IDX80 amid mixed YtD performance",
+      "timestamp": "2026-07-28T07:05:00",
+      "source": "https://market.bisnis.com/read/20260728/7/1991552/rapor-hijau-saham-baru-lq45-idx30-idx80",
+      "tags": [
+        "Global Index"
+      ]
+    },
+    {
+      "title": "Cermati recommends coal stocks and assesses their performance prospects for the second half of 2026",
+      "timestamp": "2026-07-26T19:06:00",
+      "source": "https://investasi.kontan.co.id/news/prospek-kinerja-dan-saham-aadi-itmg-ptba-dan-dewa-di-tengah-risiko-dsi-dmo",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Export",
+        "Financial Metrics",
+        "Capital & Funding",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "IHSG Extends Three-Day Decline; Sentiment Weakens and Outlook Remains Mixed",
+      "timestamp": "2026-07-25T06:30:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-ambles-tiga-hari-beruntun-ini-sentimen-dan-proyeksi-pekan-depan",
+      "tags": [
+        "Market Sentiment",
+        "Global Economy",
+        "Commodities"
+      ]
+    },
+    {
+      "title": "PT Bukit Asam Tbk reports strong first‑half 2026 coal production and sales",
+      "timestamp": "2026-07-24T10:40:31",
+      "source": "https://investor.id/market/447747/bukit-asam-ptba-bukabukaan-kinerja-semester-i",
+      "tags": [
+        "Commodities",
+        "Export",
+        "Capital & Funding",
+        "Government Policy",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Daily stock recommendation roundup for 23 July 2026",
+      "timestamp": "2026-07-23T08:50:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/115953/rangkuman-rekomendasi-saham-hari-ini-23-juli-2026",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Stock Recommendations and IHSG Movement for 23 July 2026",
+      "timestamp": "2026-07-23T08:30:00",
+      "source": "https://market.bisnis.com/read/20260723/7/1990303/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-23-juli-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "IHSG Expected to Face Correction as Retail Investors Target CUAN, PTBA, BREN, and ACES Stocks",
+      "timestamp": "2026-07-23T06:15:00",
+      "source": "https://money.kompas.com/read/2026/07/23/061538926/ihsg-rawan-koreksi-ritel-bisa-cermati-saham-cuan-ptba-bren-hingga-aces",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Global Economy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG forecast to trade around 6,400 on July 23 with MNC Sekuritas recommending AADI, CUAN, PTBA, and VKTR for trading",
+      "timestamp": "2026-07-22T17:36:11",
+      "source": "https://investor.id/market/447513/prediksi-ihsg-dan-rekomendasi-saham-kamis-23-juli-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Central Bank"
+      ]
+    },
+    {
+      "title": "Analysts project PT Bukit Asam Tbk earnings to rise in 2026 as coal prices climb and recommend buy with target Rp3,200",
+      "timestamp": "2026-07-22T17:08:00",
+      "source": "https://investasi.kontan.co.id/news/harga-batubara-naik-kinerja-ptba-diproyeksi-membaik-simak-rekomendasi-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Commodities",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Bayan Resources (BYAN) Shows Lower Cash Costs and Stronger Margins Than Peer Coal Issuers",
+      "timestamp": "2026-07-21T17:21:11",
+      "source": "https://investor.id/market/447354/dibanding-bumi-cs-emiten-batu-bara-ini-lebih-tahan-banting",
+      "tags": [
+        "Financial Metrics",
+        "Ownership",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Remains Shadowed by Hormuz Closure, Energy Stocks Poised for Attention",
+      "timestamp": "2026-07-19T13:19:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-kembali-dibayangi-penutupan-selat-hormuz-saham-energi-berpotensi-curi-perhatian",
+      "tags": [
+        "Commodities",
+        "Currency & FX",
+        "Market Sentiment",
+        "Inflation",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "PT Bukit Asam Tbk plans limited-review interim report and posts Q1 2026 revenue of Rp 9.92 trillion and net profit of Rp 801.79 billion",
+      "timestamp": "2026-07-18T13:04:56",
+      "source": "https://investor.id/market/446984/nasib-laporan-keuangan-bukit-asam-ptba",
+      "tags": [
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG projected higher as analysts recommend INCO, INDY, ISAT, OASA, ANTM, ASII, MBMA, MDKA, and PTBA",
+      "timestamp": "2026-07-17T06:46:07",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260717060604-92-1381672/ihsg-diperkirakan-cerah-jelang-akhir-pekan",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Government requests higher coal deliveries to PLN, prompting analysts to evaluate prospects for PT Bukit Asam, PT Indika Energy, PT Adaro Andalan Indonesia, PT Bumi Resources, and PT Indo Tambangraya Megah",
+      "timestamp": "2026-07-14T18:34:00",
+      "source": "https://investasi.kontan.co.id/news/pemerintah-minta-pasokan-batubara-pln-ditambah-begini-prospek-emiten-sektor-batubara",
+      "tags": [
+        "Government Policy",
+        "Analyst Ratings",
+        "Commodities",
+        "Export",
+        "Production & Operations",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Bukit Asam Tbk to Pay FY2025 Dividend of Rp 1.31 Trillion on July 10, 2026",
+      "timestamp": "2026-07-10T14:35:50",
+      "source": "https://investor.id/market/446027/bukit-asam-ptba-guyur-duit-triliunan",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT ANTAM (Persero) Tbk joins Rp 14.8 trillion SGAR Phase 2 alumina refinery project targeting 1 million‑ton annual output by 2028",
+      "timestamp": "2026-07-08T13:52:55",
+      "source": "https://www.cnbcindonesia.com/market/20260708134646-17-749140/lewat-proyek-ini-kinerja-antam-makin-solid-untuk-jangka-panjang",
+      "tags": [
+        "Business Expansion",
+        "Capital & Funding",
+        "Commodities",
+        "Joint Venture",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Bukit Asam spends Rp31.02 billion on Q2 2026 exploration activities",
+      "timestamp": "2026-07-08T06:30:00",
+      "source": "https://emitennews.com/news/ptba-sedot-puluhan-miliar-rupiah-ini-hasil-eksplorasinya",
+      "tags": [
+        "Capital & Funding",
+        "Production & Operations",
+        "Commodities",
+        "Business Expansion"
+      ]
+    },
+    {
+      "title": "Technical stock recommendations for PT Bukit Asam, Siloam International Hospitals, and Bank Mandiri for Wednesday, 8 July 2026",
+      "timestamp": "2026-07-08T05:00:00",
+      "source": "https://investasi.kontan.co.id/news/simak-rekomendasi-saham-ptba-silo-bmri-untuk-rabu-872026",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Pertamina New & Renewable Energy and PT Bukit Asam sign MoU to develop solar projects on post‑mining land",
+      "timestamp": "2026-07-04T19:00:00",
+      "source": "https://money.kompas.com/read/2026/07/04/190000826/lahan-pascatambang-mulai-dilirik-untuk-perluas-plts-nasional",
+      "tags": [
+        "MoU",
+        "Partnerships & Agreements",
+        "ESG",
+        "Government Policy",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas lifts 2026 revenue and profit forecasts for PT Bukit Asam Tbk, keeps buy rating with Rp 3,100 target",
+      "timestamp": "2026-07-02T18:52:36",
+      "source": "https://investor.id/market/445038/menggali-cuan-tebal-di-saham-ptba",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Technical stock recommendations for Thursday (2 July) – Astra Agro Lestari, TBS Energi Utama, and Bukit Asam",
+      "timestamp": "2026-07-02T05:15:00",
+      "source": "https://investasi.kontan.co.id/news/simak-rekomendasi-saham-teknikal-untuk-kamis-27-aali-toba-dan-ptba",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Projected to Remain Under Pressure Amid MSCI Sentiment, Short‑Term Bottom 5,600‑5,750",
+      "timestamp": "2026-06-25T19:06:00",
+      "source": "https://investasi.kontan.co.id/news/proyeksi-ihsg-sentimen-msci-masih-tekan-pasar-ini-level-kritis-ihsg",
+      "tags": [
+        "Market Sentiment",
+        "Foreign Investment",
+        "Currency & FX",
+        "Global Index"
+      ]
+    },
+    {
+      "title": "IHSG climbs 158 points to 6,041.93 as PT Baukit Asam Tbk falls 0.41%",
+      "timestamp": "2026-06-25T13:03:00",
+      "source": "https://money.kompas.com/read/2026/06/25/130311926/25-juni-2026-ihsg-sesi-i-menguat-158-poin-ke-604193-ptba-minus",
+      "tags": [
+        "Bearish",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "MIND ID Mining Stocks Show Mixed YTD Performance; Analysts Recommend PT Bukit Asam and PT Aneka Tambang",
+      "timestamp": "2026-06-24T19:43:00",
+      "source": "https://investasi.kontan.co.id/news/kinerja-saham-grup-mind-id-bervariasi-simak-rekomendasinya",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Politics & Regulation",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas recommends ADMR, ARCI, PTBA and TAPG as Indonesia's IHSG closes 0.25% lower",
+      "timestamp": "2026-06-24T12:22:00",
+      "source": "https://market.bisnis.com/read/20260624/189/1982904/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-rabu-24-juni-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG expected to trade lower in a limited range on June 24 amid MSCI review",
+      "timestamp": "2026-06-24T07:00:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-berpeluang-melemah-terbatas-pada-rabu-246-cek-rekomendasi-saham-berikut",
+      "tags": [
+        "Global Index"
+      ]
+    },
+    {
+      "title": "MSCI Keeps Indonesia in Emerging Market Category, Analysts Cite Market‑Reform as Key",
+      "timestamp": "2026-06-24T06:12:00",
+      "source": "https://market.bisnis.com/read/20260624/189/1982875/ihsg-dibayangi-msci-analis-reformasi-pasar-modal-jadi-penentu",
+      "tags": [
+        "Global Index"
+      ]
+    },
+    {
+      "title": "Analysts recommend OASA, RAJA, MBMA, ADMR, ARCI and PTBA as IHSG expected to trade in a narrow range on June 24",
+      "timestamp": "2026-06-23T19:53:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diproyeksi-bergerak-terbatas-pada-rabu-246-ini-saham-rekomendasi-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Bukit Asam Tbk announces dividend of Rp 114,508 per share",
+      "timestamp": "2026-06-23T07:21:07",
+      "source": "https://investor.id/market/443718/siapsiap-ex-dividen-ptba-riwayatnya-begini",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia Composite Index Closes in Red Zone as Foreign Investors Sell Rp 1.11 Trillion",
+      "timestamp": "2026-06-22T18:04:00",
+      "source": "https://money.kompas.com/read/2026/06/22/180436226/ihsg-ditutup-ke-zona-merah-asing-kabur-dari-bursa-rp-111-triliun",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Bukit Asam Tbk announces dividend of Rp 114,508 per share",
+      "timestamp": "2026-06-22T08:31:27",
+      "source": "https://investor.id/stock/443542/peluang-terakhir-dapat-dividen-rp-1145-per-saham",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Metropolitan Kentjana Tbk gives Rp950 dividend per share",
+      "timestamp": "2026-06-22T07:21:00",
+      "source": "https://investasi.kontan.co.id/news/dividen-rp950-per-saham-14-saham-masuk-cum-dividen-hari-ini-cek-daftarnya-yield",
+      "tags": [
+        "Dividend Announcement",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Bukit Asam Tbk announces dividend of Rp 11,400 per lot",
+      "timestamp": "2026-06-22T05:20:00",
+      "source": "https://investasi.kontan.co.id/news/hari-akhir-saham-tambang-milik-pemerintah-ini-beri-dividen-rp-11400-harga-melemah",
+      "tags": [
+        "Dividend Announcement",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IDX BUMN20 Holds Up with 17.28% YTD Decline as Analysts Recommend BBRI, BMRI, BBNI, BBTN, ANTM, TINS, TLKM, and PTBA",
+      "timestamp": "2026-06-21T12:04:00",
+      "source": "https://investasi.kontan.co.id/news/kinerja-idx-bumn20-tahan-banting-simak-rekomendasi-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Stock Buyback",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Metropolitan Kentjana Tbk (MKPI) declares dividend of Rp950 per share",
+      "timestamp": "2026-06-21T06:41:00",
+      "source": "https://investasi.kontan.co.id/news/dividen-tembus-rp-95000-cek-daftar-saham-dengan-cumdate-mulai-besok-22-24-juni-2026",
+      "tags": [
+        "Dividend Announcement",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Investor Concerns Over DSI Ease, Lifting Indonesian Coal Exporter Shares",
+      "timestamp": "2026-06-19T15:00:00",
+      "source": "https://money.kompas.com/read/2026/06/19/150048126/kekhawatiran-soal-dsi-mereda-analis-sebut-risiko-terburuk-bagi-eksportir-batu",
+      "tags": [
+        "Export",
+        "Commodities",
+        "Government Policy",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia's BI Rate Hike to 5.75% Triggers Weakening of Rupiah and IHSG",
+      "timestamp": "2026-06-18T17:43:00",
+      "source": "https://investasi.kontan.co.id/news/bi-rate-sudah-naik-100-bps-tapi-mengapa-rupiah-dan-ihsg-masih-melemah",
+      "tags": [
+        "Central Bank",
+        "Interest Rate",
+        "Currency & FX",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "TINS, ANTM and PTBA to pay cash dividends on July 10, 2026",
+      "timestamp": "2026-06-16T19:04:58",
+      "source": "https://investor.id/corporate-action/442929/dividen-tins-antm-dan-ptba-cair-serempak",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Bukit Asam Tbk announces Rp 1.31 trillion dividend",
+      "timestamp": "2026-06-13T21:48:20",
+      "source": "https://investor.id/corporate-action/442677/bukit-asam-ptba-tebar-dividen-rp-13-triliun-ini-jadwalnya",
+      "tags": [
+        "Dividend Announcement",
+        "Shareholders General Meeting",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PTBA to pay cash dividend of Rp1.32 trillion",
+      "timestamp": "2026-06-13T10:00:00",
+      "source": "https://emitennews.com/news/ptba-jadwal-dividen-jumbo-cum-date-22-juni-2026",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Bukit Asam Tbk appoints Bambang Ismawan as President Director and declares Rp 1.32 trillion dividend",
+      "timestamp": "2026-06-12T11:34:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8528997/ptba-rombak-direksi-komisaris-ini-susunannya",
+      "tags": [
+        "Executive Changes",
+        "Dividend Announcement",
+        "Shareholders General Meeting",
+        "Annual Report",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Bukit Asam declares cash dividend of Rp1.32 trillion (45% of 2025 profit) with a 4.33% yield",
+      "timestamp": "2026-06-12T06:40:00",
+      "source": "https://emitennews.com/news/ptba-bagi-dividen-45-persen-laba-yield-433-persen",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Annual Report",
+        "Executive Changes",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Bukit Asam (Persero) Tbk declares Rp 1.32 trillion dividend",
+      "timestamp": "2026-06-11T22:59:00",
+      "source": "https://money.kompas.com/read/2026/06/11/225953426/bukit-asam-ptba-bagi-dividen-rp-132-triliun",
+      "tags": [
+        "Dividend Announcement",
+        "Shareholders General Meeting",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia's IHSG projected to rebound to around 7,000 by end-2026",
+      "timestamp": "2026-06-11T21:36:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diproyeksikan-masih-bisa-rebound-ke-level-7000-pada-akhir-2026",
+      "tags": [
+        "Portfolio",
+        "Commodities",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "PT Bukit Asam Tbk announces Rp 1.32 trillion cash dividend",
+      "timestamp": "2026-06-11T20:29:00",
+      "source": "https://investasi.kontan.co.id/news/bukit-asam-ptba-tebar-dividen-rp-132-triliun-simak-rekomendasi-sahamnya",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Bukit Asam Tbk appoints Bambang Ismawan as President Director and declares Rp 1.32 trillion cash dividend",
+      "timestamp": "2026-06-11T18:54:00",
+      "source": "https://money.kompas.com/read/2026/06/11/185415126/rupst-ptba-bambang-ismawan-jadi-direktur-utama-gantikan-arsal-ismail",
+      "tags": [
+        "Executive Changes",
+        "Dividend Announcement",
+        "Shareholders General Meeting",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Bukit Asam Tbk allocates Rp 1.32 trillion cash dividend (45% of 2025 net profit)",
+      "timestamp": "2026-06-11T18:47:00",
+      "source": "https://investasi.kontan.co.id/news/bukit-asam-ptba-sisihkan-45-laba-bersih-2025-sebagai-dividen-tunai",
+      "tags": [
+        "Dividend Announcement",
+        "Annual Report",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PTBA Announces New Management Team After Replacing President Director and Commissioner",
+      "timestamp": "2026-06-11T18:30:12",
+      "source": "https://www.cnbcindonesia.com/market/20260611172728-17-742108/ganti-dirut-komut-ini-susunan-terbaru-pengurus-ptba",
+      "tags": [
+        "Executive Changes"
+      ]
+    },
+    {
+      "title": "PT Bukit Asam Tbk approves Rp1.32 trillion dividend",
+      "timestamp": "2026-06-11T17:48:24",
+      "source": "https://bcasekuritas.co.id/en/latest-news/news/rupst-ptba-setujui-dividen-rp132-triliun",
+      "tags": [
+        "Dividend Announcement",
+        "Shareholders General Meeting",
+        "Financial Metrics",
+        "Export",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PTBA to Distribute Dividend of Rp 1.3 Trillion (Rp 114 per Share)",
+      "timestamp": "2026-06-11T17:29:10",
+      "source": "https://www.cnbcindonesia.com/market/20260611170608-17-742106/ptba-mau-bagi-dividen-rp-13-triliun-atau-setara-rp-114-per-saham",
+      "tags": [
+        "Dividend Announcement",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Bukit Asam Tbk declares Rp 114 per share dividend",
+      "timestamp": "2026-06-11T17:19:15",
+      "source": "https://investor.id/corporate-action/442390/ptba-kasih-dividen-segini",
+      "tags": [
+        "Dividend Announcement",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Bukit Asam Tbk to give Rp 1.3 trillion dividend",
+      "timestamp": "2026-06-11T16:18:00",
+      "source": "https://investasi.kontan.co.id/news/ptba-dapat-restu-bagikan-dividen-rp-13-triliun-yield-capai-433",
+      "tags": [
+        "Dividend Announcement",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MIND ID Accelerates Post‑Mining Reclamation and Develops Former Mine Lands for Energy and Conservation",
+      "timestamp": "2026-06-10T13:08:00",
+      "source": "https://money.kompas.com/read/2026/06/10/130805426/mind-id-genjot-reklamasi-lahan-bekas-tambang-dikembangkan-untuk-energi-dan",
+      "tags": [
+        "ESG"
+      ]
+    }
+  ],
+  "corporate_events": [
+    {
+      "date": "2026-09-07",
+      "type": "RUPS",
+      "detail": "Waktu: 16:00:00 · Lokasi: IDX Public Expose"
+    },
+    {
+      "date": "2026-06-23",
+      "type": "Dividen",
+      "detail": "Dividen per saham Rp 114,51 · Pembayaran: 2026-07-10"
+    },
+    {
+      "date": "2026-06-11",
+      "type": "RUPS",
+      "detail": "Waktu: 14:00:00 · Lokasi: DKI Jakarta Secara Elektronik Melalui Fasilitas Electronic General Meeting System Ksei Dalam Ksei Yang Disediakan Oleh PT Kustodian Sentralefek"
+    }
+  ],
+  "context_period": {
+    "start": "2026-04-01",
+    "end": "2026-09-30"
+  },
+  "source_availability": {
+    "company_fundamentals": true,
+    "corporate_events": true,
+    "news": true,
+    "peer_comparison": true,
+    "market_context": true,
+    "sector_market_series": false
+  },
+  "news_archive": {
+    "pages": 4,
+    "rows": 112,
+    "pagination_exhausted": true,
+    "totals_seen": [
+      112
+    ]
+  }
 }

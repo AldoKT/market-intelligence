@@ -3,8 +3,8 @@
   "as_of": "2026-09-30",
   "identity": {
     "symbol": "GOTO",
-    "company_name": null,
-    "peer_group": null
+    "company_name": "PT GoTo Gojek Tokopedia Tbk",
+    "peer_group": "Software & IT Services"
   },
   "current": {
     "scope": "NO_CONTEXT",
@@ -20,5 +20,4145 @@
   "daily_market": {},
   "notes": [
     "Dataset scope: 28 reviewed stocks. No full-market or peer-context score is computed."
-  ]
+  ],
+  "company_snapshot": {
+    "price_date": "2026-10-07",
+    "captured_at": "2026-10-08",
+    "sector": "Technology",
+    "industry": "Online Applications & Services",
+    "website": "www.gotocompany.com",
+    "market_cap": 34217198016600,
+    "annual_year": 2025,
+    "valuation_year": 2026,
+    "metrics": [
+      {
+        "label": "Pendapatan",
+        "value": "Rp 18,32 T"
+      },
+      {
+        "label": "Laba bersih",
+        "value": "Rp -1,19 T"
+      },
+      {
+        "label": "Total aset",
+        "value": "Rp 45,76 T"
+      },
+      {
+        "label": "Ekuitas",
+        "value": "Rp 28,71 T"
+      },
+      {
+        "label": "EPS",
+        "value": "Rp -1,04"
+      },
+      {
+        "label": "P/E TTM",
+        "value": "18.495,78×"
+      },
+      {
+        "label": "P/B",
+        "value": "1,06×"
+      }
+    ]
+  },
+  "fundamental_peers": [
+    {
+      "symbol": "GOTO",
+      "name": "PT GoTo Gojek Tokopedia Tbk",
+      "year": 2025,
+      "market_cap": 35357771283820,
+      "pe": 19112.3088020649,
+      "pb": 1.09136735076254,
+      "revenue": 18322117000000,
+      "in_universe": true
+    },
+    {
+      "symbol": "BELI",
+      "name": "PT Global Digital Niaga Tbk",
+      "year": 2025,
+      "market_cap": 36500250193274,
+      "pe": -21.0029019443226,
+      "pb": 3.98952131463926,
+      "revenue": 22361030000000,
+      "in_universe": false
+    },
+    {
+      "symbol": "EMTK",
+      "name": "Elang Mahkota Teknologi Tbk",
+      "year": 2025,
+      "market_cap": 25184845108030,
+      "pe": 11.2283318203251,
+      "pb": 0.687611665450199,
+      "revenue": 19119724000000,
+      "in_universe": true
+    },
+    {
+      "symbol": "BUKA",
+      "name": "PT Bukalapak.com Tbk",
+      "year": 2025,
+      "market_cap": 10626210349001,
+      "pe": 5.72266599297925,
+      "pb": 0.437333254777157,
+      "revenue": 6510030453000,
+      "in_universe": false
+    },
+    {
+      "symbol": "WIFI",
+      "name": "PT Solusi Sinergi Digital Tbk",
+      "year": 2025,
+      "market_cap": 7697396071750,
+      "pe": 15.0398265721073,
+      "pb": 1.00864750003359,
+      "revenue": 1659396069858,
+      "in_universe": false
+    },
+    {
+      "symbol": "NFCX",
+      "name": "PT NFC Indonesia Tbk",
+      "year": 2025,
+      "market_cap": 1160001450000,
+      "pe": -96.3125305094986,
+      "pb": 4.42056204142194,
+      "revenue": 4069974238531,
+      "in_universe": false
+    },
+    {
+      "symbol": "PGJO",
+      "name": "PT Bahtera Bumi Raya Tbk",
+      "year": 2025,
+      "market_cap": 700356003600,
+      "pe": null,
+      "pb": 254.471261398648,
+      "revenue": 28025828926,
+      "in_universe": false
+    },
+    {
+      "symbol": "CASH",
+      "name": "PT Cashlez Worldwide Indonesia Tbk.",
+      "year": 2025,
+      "market_cap": 611806158432,
+      "pe": null,
+      "pb": -11.9389048867397,
+      "revenue": 110185952915,
+      "in_universe": false
+    },
+    {
+      "symbol": "UVCR",
+      "name": "PT Trimegah Karya Pratama Tbk",
+      "year": 2025,
+      "market_cap": 568041133992,
+      "pe": 44.8700775498633,
+      "pb": 5.11775257812124,
+      "revenue": 982180275164,
+      "in_universe": false
+    },
+    {
+      "symbol": "AWAN",
+      "name": "PT Era Digital Media Tbk",
+      "year": 2025,
+      "market_cap": 539295000000,
+      "pe": -59.6252167141878,
+      "pb": 7.38668446354101,
+      "revenue": 63101970000,
+      "in_universe": false
+    }
+  ],
+  "market_history": [
+    {
+      "date": "2026-04-01",
+      "ihsg": 7184.438,
+      "market_cap": 12646140309231200
+    },
+    {
+      "date": "2026-04-02",
+      "ihsg": 7026.782,
+      "market_cap": 12301402169484936
+    },
+    {
+      "date": "2026-04-06",
+      "ihsg": 6989.426,
+      "market_cap": 12181292965738515
+    },
+    {
+      "date": "2026-04-07",
+      "ihsg": 6971.027,
+      "market_cap": 12220087895953627
+    },
+    {
+      "date": "2026-04-08",
+      "ihsg": 7279.209,
+      "market_cap": 12745135690725105
+    },
+    {
+      "date": "2026-04-09",
+      "ihsg": 7307.589,
+      "market_cap": 12927661360702306
+    },
+    {
+      "date": "2026-04-10",
+      "ihsg": 7458.496,
+      "market_cap": 13183485554446575
+    },
+    {
+      "date": "2026-04-13",
+      "ihsg": 7500.187,
+      "market_cap": 13334711369769658
+    },
+    {
+      "date": "2026-04-14",
+      "ihsg": 7675.951,
+      "market_cap": 13680203483861089
+    },
+    {
+      "date": "2026-04-15",
+      "ihsg": 7623.586,
+      "market_cap": 13577551326427693
+    },
+    {
+      "date": "2026-04-16",
+      "ihsg": 7621.382,
+      "market_cap": 13580909513734445
+    },
+    {
+      "date": "2026-04-17",
+      "ihsg": 7634.004,
+      "market_cap": 13631805736754862
+    },
+    {
+      "date": "2026-04-20",
+      "ihsg": 7594.111,
+      "market_cap": 13530051609880990
+    },
+    {
+      "date": "2026-04-21",
+      "ihsg": 7559.38,
+      "market_cap": 13439346111420433
+    },
+    {
+      "date": "2026-04-22",
+      "ihsg": 7541.612,
+      "market_cap": 13331962629649015
+    },
+    {
+      "date": "2026-04-23",
+      "ihsg": 7378.606,
+      "market_cap": 13176851273619842
+    },
+    {
+      "date": "2026-04-24",
+      "ihsg": 7129.49,
+      "market_cap": 12732776963937495
+    },
+    {
+      "date": "2026-04-27",
+      "ihsg": 7106.52,
+      "market_cap": 12687518028997883
+    },
+    {
+      "date": "2026-04-28",
+      "ihsg": 7072.392,
+      "market_cap": 12590034125678447
+    },
+    {
+      "date": "2026-04-29",
+      "ihsg": 7101.226,
+      "market_cap": 12635384034178860
+    },
+    {
+      "date": "2026-04-30",
+      "ihsg": 6956.804,
+      "market_cap": 12378413759882228
+    },
+    {
+      "date": "2026-05-04",
+      "ihsg": 6971.953,
+      "market_cap": 12411009903513114
+    },
+    {
+      "date": "2026-05-05",
+      "ihsg": 7057.106,
+      "market_cap": 12626309574250122
+    },
+    {
+      "date": "2026-05-06",
+      "ihsg": 7092.467,
+      "market_cap": 12699830398460331
+    },
+    {
+      "date": "2026-05-07",
+      "ihsg": 7174.321,
+      "market_cap": 12778962713690869
+    },
+    {
+      "date": "2026-05-08",
+      "ihsg": 6969.396,
+      "market_cap": 12402407487340402
+    },
+    {
+      "date": "2026-05-11",
+      "ihsg": 6905.62,
+      "market_cap": 12280030079664830
+    },
+    {
+      "date": "2026-05-12",
+      "ihsg": 6858.899,
+      "market_cap": 12142773427321380
+    },
+    {
+      "date": "2026-05-13",
+      "ihsg": 6723.32,
+      "market_cap": 11821690407165346
+    },
+    {
+      "date": "2026-05-18",
+      "ihsg": 6599.24,
+      "market_cap": 11535132183193835
+    },
+    {
+      "date": "2026-05-19",
+      "ihsg": 6370.679,
+      "market_cap": 11105372542285443
+    },
+    {
+      "date": "2026-05-20",
+      "ihsg": 6318.5,
+      "market_cap": 10959980491971602
+    },
+    {
+      "date": "2026-05-21",
+      "ihsg": 6094.941,
+      "market_cap": 10549507904767653
+    },
+    {
+      "date": "2026-05-22",
+      "ihsg": 6162.045,
+      "market_cap": 10631421768765943
+    },
+    {
+      "date": "2026-05-25",
+      "ihsg": 6206.349,
+      "market_cap": 10692705367587005
+    },
+    {
+      "date": "2026-05-26",
+      "ihsg": 6130.19,
+      "market_cap": 10613054794742598
+    },
+    {
+      "date": "2026-05-29",
+      "ihsg": 6127.381,
+      "market_cap": 10725485605975573
+    },
+    {
+      "date": "2026-06-02",
+      "ihsg": 6195.427,
+      "market_cap": 10891278361519046
+    },
+    {
+      "date": "2026-06-03",
+      "ihsg": 5941.066,
+      "market_cap": 10451829355656557
+    },
+    {
+      "date": "2026-06-04",
+      "ihsg": 5839.785,
+      "market_cap": 10259085293637228
+    },
+    {
+      "date": "2026-06-05",
+      "ihsg": 5594.765,
+      "market_cap": 9803592659706909
+    },
+    {
+      "date": "2026-06-08",
+      "ihsg": 5342.137,
+      "market_cap": 9414771844192581
+    },
+    {
+      "date": "2026-06-09",
+      "ihsg": 5746.648,
+      "market_cap": 10095511071726246
+    },
+    {
+      "date": "2026-06-10",
+      "ihsg": 5902.376,
+      "market_cap": 10341178905408617
+    },
+    {
+      "date": "2026-06-11",
+      "ihsg": 5886.032,
+      "market_cap": 10287950241660193
+    },
+    {
+      "date": "2026-06-12",
+      "ihsg": 6007.656,
+      "market_cap": 10520825968837381
+    },
+    {
+      "date": "2026-06-15",
+      "ihsg": 6254.966,
+      "market_cap": 10899408952482727
+    },
+    {
+      "date": "2026-06-17",
+      "ihsg": 6220.74,
+      "market_cap": 10776148487729844
+    },
+    {
+      "date": "2026-06-18",
+      "ihsg": 6172.34,
+      "market_cap": 10736980009961606
+    },
+    {
+      "date": "2026-06-19",
+      "ihsg": 6177.139,
+      "market_cap": 10784594953877444
+    },
+    {
+      "date": "2026-06-22",
+      "ihsg": 6116.69,
+      "market_cap": 10708711379319414
+    },
+    {
+      "date": "2026-06-23",
+      "ihsg": 6101.333,
+      "market_cap": 10685047810158781
+    },
+    {
+      "date": "2026-06-24",
+      "ihsg": 5883.881,
+      "market_cap": 10312029789078805
+    },
+    {
+      "date": "2026-06-25",
+      "ihsg": 5999.038,
+      "market_cap": 10515718128770631
+    },
+    {
+      "date": "2026-06-26",
+      "ihsg": 5896.134,
+      "market_cap": 10298280398969010
+    },
+    {
+      "date": "2026-06-29",
+      "ihsg": 5820.79,
+      "market_cap": 10179250800138493
+    },
+    {
+      "date": "2026-06-30",
+      "ihsg": 5643.194,
+      "market_cap": 9894028079914985
+    },
+    {
+      "date": "2026-07-01",
+      "ihsg": 5695.116,
+      "market_cap": 10007947906561450
+    },
+    {
+      "date": "2026-07-02",
+      "ihsg": 5744.556,
+      "market_cap": 10060923668899571
+    },
+    {
+      "date": "2026-07-03",
+      "ihsg": 5875.78,
+      "market_cap": 10283558418117973
+    },
+    {
+      "date": "2026-07-06",
+      "ihsg": 5916.07,
+      "market_cap": 10352610980350056
+    },
+    {
+      "date": "2026-07-07",
+      "ihsg": 5986.497,
+      "market_cap": 10462196902308353
+    },
+    {
+      "date": "2026-07-08",
+      "ihsg": 5873.372,
+      "market_cap": 10272894518876036
+    },
+    {
+      "date": "2026-07-09",
+      "ihsg": 5912.442,
+      "market_cap": 10324456194315119
+    },
+    {
+      "date": "2026-07-10",
+      "ihsg": 5924.36,
+      "market_cap": 10336481815483724
+    },
+    {
+      "date": "2026-07-13",
+      "ihsg": 6037.842,
+      "market_cap": 10506156813352519
+    },
+    {
+      "date": "2026-07-14",
+      "ihsg": 6039.521,
+      "market_cap": 10524135196509080
+    },
+    {
+      "date": "2026-07-15",
+      "ihsg": 6041.972,
+      "market_cap": 10548175926837826
+    },
+    {
+      "date": "2026-07-16",
+      "ihsg": 6108.209,
+      "market_cap": 10655671296610599
+    },
+    {
+      "date": "2026-07-17",
+      "ihsg": 6175.535,
+      "market_cap": 10745282583293599
+    },
+    {
+      "date": "2026-07-20",
+      "ihsg": 6231.78,
+      "market_cap": 10832728685598542
+    },
+    {
+      "date": "2026-07-21",
+      "ihsg": 6340.02,
+      "market_cap": 11041209401983643
+    },
+    {
+      "date": "2026-07-22",
+      "ihsg": 6334.476,
+      "market_cap": 11064991318794462
+    },
+    {
+      "date": "2026-07-23",
+      "ihsg": 6315.311,
+      "market_cap": 11058096720739904
+    },
+    {
+      "date": "2026-07-24",
+      "ihsg": 6196.43,
+      "market_cap": 10866941513180025
+    },
+    {
+      "date": "2026-07-27",
+      "ihsg": 6185.783,
+      "market_cap": 10846820086978302
+    },
+    {
+      "date": "2026-07-28",
+      "ihsg": 6130.588,
+      "market_cap": 10748777396682842
+    },
+    {
+      "date": "2026-07-29",
+      "ihsg": 6091.386,
+      "market_cap": 10671925079765237
+    },
+    {
+      "date": "2026-07-30",
+      "ihsg": 6186.363,
+      "market_cap": 10808753111947654
+    },
+    {
+      "date": "2026-07-31",
+      "ihsg": 6236.126,
+      "market_cap": 10919632662108419
+    },
+    {
+      "date": "2026-08-03",
+      "ihsg": 6234.497,
+      "market_cap": 10891533376788029
+    },
+    {
+      "date": "2026-08-04",
+      "ihsg": 6319.613,
+      "market_cap": 11026919553266172
+    },
+    {
+      "date": "2026-08-05",
+      "ihsg": 6351.139,
+      "market_cap": 11081557528513146
+    },
+    {
+      "date": "2026-08-06",
+      "ihsg": 6343.711,
+      "market_cap": 11091230654708629
+    },
+    {
+      "date": "2026-08-07",
+      "ihsg": 6409.654,
+      "market_cap": 11208370900071437
+    },
+    {
+      "date": "2026-08-10",
+      "ihsg": 6365.374,
+      "market_cap": 11127673938712190
+    },
+    {
+      "date": "2026-08-11",
+      "ihsg": 6267.88,
+      "market_cap": 10951983899532200
+    },
+    {
+      "date": "2026-08-12",
+      "ihsg": 6373.849,
+      "market_cap": 11170270993004848
+    },
+    {
+      "date": "2026-08-13",
+      "ihsg": 6301.765,
+      "market_cap": 11047038481790783
+    },
+    {
+      "date": "2026-08-14",
+      "ihsg": 6401.888,
+      "market_cap": 11239913404397486
+    },
+    {
+      "date": "2026-08-18",
+      "ihsg": 6449.83,
+      "market_cap": 11344776423883178
+    },
+    {
+      "date": "2026-08-19",
+      "ihsg": 6394.125,
+      "market_cap": 11242710814171051
+    },
+    {
+      "date": "2026-08-20",
+      "ihsg": 6501.585,
+      "market_cap": 11417105165375641
+    },
+    {
+      "date": "2026-08-21",
+      "ihsg": 6525.69,
+      "market_cap": 11445451211005613
+    },
+    {
+      "date": "2026-08-24",
+      "ihsg": 6501.667,
+      "market_cap": 11400829359169202
+    },
+    {
+      "date": "2026-08-26",
+      "ihsg": 6405.685,
+      "market_cap": 11226539253653372
+    },
+    {
+      "date": "2026-08-27",
+      "ihsg": 6521.75,
+      "market_cap": 11444254799160097
+    },
+    {
+      "date": "2026-08-28",
+      "ihsg": 6518.121,
+      "market_cap": 11427514258790209
+    },
+    {
+      "date": "2026-08-31",
+      "ihsg": 6525.478,
+      "market_cap": 11420266337232824
+    },
+    {
+      "date": "2026-09-01",
+      "ihsg": 6599.943,
+      "market_cap": 11528076154461080
+    },
+    {
+      "date": "2026-09-02",
+      "ihsg": 6595.776,
+      "market_cap": 11521577604064942
+    },
+    {
+      "date": "2026-09-03",
+      "ihsg": 6667.891,
+      "market_cap": 11637538684241799
+    },
+    {
+      "date": "2026-09-04",
+      "ihsg": 6636.475,
+      "market_cap": 11595660058206448
+    },
+    {
+      "date": "2026-09-07",
+      "ihsg": 6619.673,
+      "market_cap": 11571807924987264
+    },
+    {
+      "date": "2026-09-08",
+      "ihsg": 6686.442,
+      "market_cap": 11668902562815871
+    },
+    {
+      "date": "2026-09-09",
+      "ihsg": 6678.201,
+      "market_cap": 11671538636715858
+    },
+    {
+      "date": "2026-09-10",
+      "ihsg": 6589.338,
+      "market_cap": 11526136904331476
+    },
+    {
+      "date": "2026-09-11",
+      "ihsg": 6541.377,
+      "market_cap": 11442963914395062
+    },
+    {
+      "date": "2026-09-14",
+      "ihsg": 6534.693,
+      "market_cap": 11368110758085182
+    },
+    {
+      "date": "2026-09-15",
+      "ihsg": 6461.153,
+      "market_cap": 11257912210981978
+    },
+    {
+      "date": "2026-09-16",
+      "ihsg": 6436.853,
+      "market_cap": 11225219420982876
+    },
+    {
+      "date": "2026-09-17",
+      "ihsg": 6462.431,
+      "market_cap": 11270346560839989
+    },
+    {
+      "date": "2026-09-18",
+      "ihsg": 6441.159,
+      "market_cap": 11262605698050558
+    },
+    {
+      "date": "2026-09-21",
+      "ihsg": 6384.726,
+      "market_cap": 11161910095429389
+    },
+    {
+      "date": "2026-09-22",
+      "ihsg": 6277.044,
+      "market_cap": 10971287923179805
+    },
+    {
+      "date": "2026-09-23",
+      "ihsg": 6374.912,
+      "market_cap": 11141915820582293
+    },
+    {
+      "date": "2026-09-24",
+      "ihsg": 6298.607,
+      "market_cap": 11021365748586840
+    },
+    {
+      "date": "2026-09-25",
+      "ihsg": 6241.892,
+      "market_cap": 10902018198054911
+    },
+    {
+      "date": "2026-09-28",
+      "ihsg": 6147.859,
+      "market_cap": 10755457591436344
+    },
+    {
+      "date": "2026-09-29",
+      "ihsg": 6121.7,
+      "market_cap": 10754858845786069
+    },
+    {
+      "date": "2026-09-30",
+      "ihsg": 6071.138,
+      "market_cap": 10691719699169471
+    }
+  ],
+  "relevant_news": [
+    {
+      "title": "GoTo Gojek Tokopedia (GOTO) Could Mechanically Hit Rp 1 in 19 Trading Days If Daily Lower-Limit Selloff Continues, Analyst Says",
+      "timestamp": "2026-09-30T17:02:00",
+      "source": "https://jakartaglobe.id/business/goto-could-hit-rp-1-in-19-trading-days-if-daily-selloff-continues-analyst",
+      "tags": [
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk (GOTO) Shares Hit Auto Reject Bottom as Buying Interest Builds",
+      "timestamp": "2026-09-30T12:23:00",
+      "source": "https://investor.id/market/456090/saham-goto-gojek-goto-mulai-diserok",
+      "tags": [
+        "Stock Buyback",
+        "Ownership",
+        "Financial Metrics",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk (GOTO) Could Reach Rp 1 in Four Weeks if It Keeps Hitting Auto Reject Bottom (ARB)",
+      "timestamp": "2026-09-30T11:48:00",
+      "source": "https://investor.id/market/456084/goto-bisa-tiba-di-rp-1-dalam-4-pekan-jika-terus-arb",
+      "tags": [
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk (GOTO) Shares Fall Below Rp 50 for Two Days After IDX Lowers Minimum Price to Rp 1",
+      "timestamp": "2026-09-30T05:48:00",
+      "source": "https://investasi.kontan.co.id/news/harga-saham-lq45-ini-rontok-2-hari-usai-berlaku-harga-dasar-rp-1-kapan-balik-arah",
+      "tags": [
+        "Stock Buyback",
+        "Market Sentiment",
+        "Financial Metrics",
+        "Shareholders General Meeting",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk (GOTO) Trades Below Rp 50 as Analyst Sees Rebound Potential",
+      "timestamp": "2026-09-29T15:05:00",
+      "source": "https://investasi.kontan.co.id/news/saham-goto-di-bawah-gocap-peluang-rebound-terbuka",
+      "tags": [
+        "Stock Buyback",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Outlook for PT GoTo Gojek Tokopedia Tbk (GOTO) Shares After Regaining Liquidity Following Removal of Rp 50 Minimum Price",
+      "timestamp": "2026-09-29T14:58:00",
+      "source": "https://investor.id/market/455956/prospek-saham-goto-setelah-kembali-likuid",
+      "tags": [
+        "Stock Buyback",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk (GOTO) Hits Auto Reject Bottom for Second Consecutive Day, Now at Rp37",
+      "timestamp": "2026-09-29T10:40:23",
+      "source": "https://www.cnbcindonesia.com/market/20260929101856-17-771677/saham-goto-arb-dua-hari-berturut-turut-kini-bertengger-di-rp37",
+      "tags": [
+        "Stock Buyback",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "GoTo Shares Sink Nearly 90% Below IPO Price as Selloff Intensifies After IDX Removes Rp50 Minimum Trading Price",
+      "timestamp": "2026-09-29T09:28:00",
+      "source": "https://jakartaglobe.id/business/goto-shares-sink-nearly-90-from-ipo-price-as-selloff-intensifies",
+      "tags": [
+        "Global Index",
+        "Politics & Regulation",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Penny Stocks Below Rp50 Surge Up to 34% as Indonesia Stock Exchange Lowers Minimum Price to Rp1",
+      "timestamp": "2026-09-29T06:04:00",
+      "source": "https://investasi.kontan.co.id/news/harga-dasar-rp1-berlaku-saham-harga-receh-di-bawah-rp-50-naik-hingga-34",
+      "tags": [
+        "Market Sentiment",
+        "Politics & Regulation",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "18 Stocks Fall Below Rp 50 as Indonesia Stock Exchange's New Rp 1 Minimum Price Rule Takes Effect",
+      "timestamp": "2026-09-29T05:55:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8683462/sederet-saham-jeblok-saat-aturan-rp-1-resmi-berlaku",
+      "tags": [
+        "Market Sentiment",
+        "Politics & Regulation",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk (GOTO) Becomes Biggest Drag on IHSG as Stock Hits Auto Reject Bottom",
+      "timestamp": "2026-09-28T21:27:00",
+      "source": "https://investor.id/market/455856/goto-jadi-beban-terbesar",
+      "tags": [
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Removal of Rp 50 Floor Price Sends Penny Stocks Soaring to Auto Rejection Top Amid IHSG Pressure",
+      "timestamp": "2026-09-28T19:06:00",
+      "source": "https://investasi.kontan.co.id/news/batasan-bawah-harga-saham-rp-50-dihapus-saham-recehan-jadi-primadona",
+      "tags": [
+        "Market Sentiment",
+        "Politics & Regulation",
+        "Undervalued",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "IDX Chief Dismisses Removal of Rp50 Floor Price as Negative Catalyst for JCI",
+      "timestamp": "2026-09-28T18:20:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/122939/tanggapan-bos-bei-soal-ihsg-lanjut-melemah-usai-lepas-saham-gocap",
+      "tags": [
+        "Market Sentiment",
+        "Politics & Regulation",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk (GOTO) Slumps 14% to Auto Rejection Bottom as IDX Lowers Floor Price to Rp 1",
+      "timestamp": "2026-09-28T17:26:00",
+      "source": "https://investasi.kontan.co.id/news/saham-goto-tertekan-usai-bei-turunkan-batas-harga-jadi-rp-1-cek-support-berikutnya",
+      "tags": [
+        "Market Sentiment",
+        "Government Policy",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG Plunges 1.51% and Rupiah Nears Rp18,000/US$ as Fed Rate Hike and BEI Rule Changes Weigh on Markets",
+      "timestamp": "2026-09-28T17:17:19",
+      "source": "https://www.cnbcindonesia.com/market/20260928161806-17-771517/ihsg-anjlok-1-dan-dolar-as-nyaris-rp-18000-ini-penyebabnya",
+      "tags": [
+        "Interest Rate",
+        "Currency & FX",
+        "Central Bank",
+        "Politics & Regulation",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk (GOTO) Hits Auto Reject Bottom on First Day After Rp50 Floor Removal as Sell Queue Reaches 1.03 Billion Lots",
+      "timestamp": "2026-09-28T17:15:00",
+      "source": "https://emitennews.com/news/goto-arb-day-1-dibanjiri-1-miliar-lot-jual-morgan-stanley-juga-jualan",
+      "tags": [
+        "Suspension",
+        "Ownership",
+        "Market Sentiment",
+        "Politics & Regulation",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Sells 450 Million GOTO Shares Before Rp1 Minimum Price Rule Takes Effect",
+      "timestamp": "2026-09-28T16:57:00",
+      "source": "https://emitennews.com/news/batas-harga-rp1-belum-berlaku-morgan-stanley-jual-450-juta-saham-goto",
+      "tags": [
+        "Ownership",
+        "Government Policy",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Morgan Stanley And Co International Plc Sell Shares of GoTo Gojek Tokopedia",
+      "timestamp": "2026-09-28T15:46:37",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-8273-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "GoTo, MNC Group Shares Fall Below Rp50 as IDX Lowers Minimum Share Price to Rp1",
+      "timestamp": "2026-09-28T14:36:00",
+      "source": "https://jakartaglobe.id/business/how-low-can-they-go-goto-mnc-group-shares-fall-below-rp50",
+      "tags": [
+        "Politics & Regulation",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "28 Stocks Fall Below Rp50 as Indonesia Stock Exchange Lowers Minimum Price to Rp1",
+      "timestamp": "2026-09-28T14:17:32",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260928125122-92-1409000/28-saham-nyungsep-ke-bawah-level-gocap-ini-daftarnya",
+      "tags": [
+        "Politics & Regulation",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "GoTo Gojek Tokopedia (GOTO) Shares Fall 14% to Rp 43 After IDX Removes Rp 50 Minimum Price",
+      "timestamp": "2026-09-28T14:07:00",
+      "source": "https://investasi.kontan.co.id/news/saham-goto-anjlok-ke-rp-43-begini-kata-manajemen-goto-gojek-tokopedia",
+      "tags": [
+        "Market Sentiment",
+        "Financial Metrics",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "IHSG Weakens 0.97% to 6,181 in Session I as PT GoTo Gojek Tokopedia Tbk (GOTO) Hits Auto Reject Bottom After Rp50 Floor Price Removal",
+      "timestamp": "2026-09-28T13:10:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/122891/penyebab-ihsg-turun-nyaris-1-diperberat-saham-gocap",
+      "tags": [
+        "Market Sentiment",
+        "Politics & Regulation",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk (GOTO) Slumps 14% to Auto Reject Bottom as Minimum Price Rule Takes Effect",
+      "timestamp": "2026-09-28T11:49:00",
+      "source": "https://investor.id/market/455770/goto-di-turunan-panjang-dan-curam",
+      "tags": [
+        "Market Sentiment",
+        "Politics & Regulation",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk (GOTO) stock falls below new floor price as company issues statement",
+      "timestamp": "2026-09-28T10:43:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8682160/harga-saham-nyungsep-di-bawah-gocap-goto-buka-suara",
+      "tags": [
+        "Neutral",
+        "Financial Metrics",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk (GOTO) responds to BEI’s floor‑price removal as shares trade at Rp43",
+      "timestamp": "2026-09-28T10:17:17",
+      "source": "https://www.cnbcindonesia.com/market/20260928093247-17-771353/begini-tanggapan-goto-usai-gembok-saham-resmi-dibuka",
+      "tags": [
+        "Stock Buyback",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk (GOTO) says share weakness does not reflect strengthening fundamentals",
+      "timestamp": "2026-09-28T10:10:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/122855/tanggapan-goto-usai-saham-kembali-melemah",
+      "tags": [
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk (GOTO) shares forecast to continue sliding",
+      "timestamp": "2026-09-28T09:51:00",
+      "source": "https://investor.id/market/455753/saham-goto-diramal-longsor-kesini",
+      "tags": [
+        "Bearish",
+        "Market Sentiment",
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk (GOTO) and PT Diamond Citra Propertindo Tbk (DADA) plunge to Auto Reject Bottom following BEI’s removal of the floor‑price lock",
+      "timestamp": "2026-09-28T09:43:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/122851/goto-dan-dada-langsung-arb-usai-gembok-saham-gocap-dibuka",
+      "tags": [
+        "Politics & Regulation",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "GOTO, DADA and BABP stocks plunge 14% after BEI removes Rp50 minimum price limit",
+      "timestamp": "2026-09-28T09:38:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8682083/saham-goto-dada-anjlok-usai-batas-saham-gocap-dihapus",
+      "tags": [
+        "Bearish",
+        "Politics & Regulation",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk (GOTO) shares plunge 14% to Rp 43",
+      "timestamp": "2026-09-28T09:29:00",
+      "source": "https://investasi.kontan.co.id/news/saham-goto-gojek-tokopedia-goto-anjlok-14-jadi-rp-43-hari-ini-289",
+      "tags": [
+        "Politics & Regulation",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk (GOTO) drops 14% to Rp43 as BEI’s Rp1 minimum price rule takes effect",
+      "timestamp": "2026-09-28T09:22:00",
+      "source": "https://emitennews.com/news/jebol-gocap-harga-rp1-berlaku-goto-anjlok-14-ke-rp43",
+      "tags": [
+        "Politics & Regulation",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk (GOTO) shares plunge 14% to Rp 43 as floor price is cut to Rp 1",
+      "timestamp": "2026-09-28T09:12:00",
+      "source": "https://investor.id/market/455749/saham-goto-gojek-goto-diobral-calon-pembeli-masih-pikirpikir",
+      "tags": [
+        "Market Sentiment",
+        "Global Index",
+        "Ownership",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Popular news roundup: Fore Coffee expansion, GOTO price‑floor removal, FCA board changes, MBMA profit surge and CDIA IPO fund use",
+      "timestamp": "2026-09-27T05:01:00",
+      "source": "https://investor.id/market/455655/berita-populer-strategi-ekspansi-fore-coffee-hingga-nasib-goto",
+      "tags": [
+        "Business Expansion",
+        "Politics & Regulation",
+        "Financial Metrics",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BEI removes Rp 50 floor price, opening trading range for PT GoTo Gojek Tokopedia Tbk (GOTO)",
+      "timestamp": "2026-09-26T10:15:00",
+      "source": "https://investor.id/market/455602/perubahan-nasib-goto",
+      "tags": [
+        "Politics & Regulation",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "BEI Removes Rp50 Floor Price for Gocap Stocks, Allowing Trading Down to Rp1 and Prompting Sell Queues in PT GoTo Gojek Tokopedia Tbk and Others",
+      "timestamp": "2026-09-25T15:50:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/122736/serba-serbi-bei-buka-gembok-saham-gocap-aksi-jual-potensi-cuan",
+      "tags": [
+        "Bearish",
+        "Politics & Regulation",
+        "Market Sentiment",
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Today is the last day of the Rp 50 minimum price floor on the Indonesia Stock Exchange before it drops to Rp 1 on Sep 28",
+      "timestamp": "2026-09-25T13:36:00",
+      "source": "https://investasi.kontan.co.id/news/hari-ini-259-batas-akhir-harga-minimum-saham-rp-50-cek-daftar-saham-gocap",
+      "tags": [
+        "Politics & Regulation"
+      ]
+    },
+    {
+      "title": "Morgan Stanley & Co International Plc raises its stake in PT GoTo Gojek Tokopedia Tbk (GOTO) to over 7%",
+      "timestamp": "2026-09-24T06:00:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/122515/morgan-stanley-kembali-akumulasi-goto-kepemilikan-tembus-7",
+      "tags": [
+        "Ownership",
+        "Stock Buyback",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Popular News Roundup: PT GoTo Gojek Tokopedia Tbk (GOTO) Schedules Extraordinary General Meeting, Gold Jewelry Prices Diverge, and Other Market Updates",
+      "timestamp": "2026-09-24T05:08:00",
+      "source": "https://investor.id/market/455275/berita-populer-dua-rencana-besar-goto-hingga-gejolak-harga-emas-perhiasan",
+      "tags": [
+        "Shareholders General Meeting",
+        "Commodities",
+        "Stock Buyback",
+        "Ownership",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Morgan Stanley And Co International Plc purchases 400 million PT GoTo Gojek Tokopedia Tbk (GOTO) shares for Rp10.8 billion, raising its stake to 7.0299%",
+      "timestamp": "2026-09-23T19:14:00",
+      "source": "https://emitennews.com/news/morgan-stanley-serok-goto-senilai-rp108m-kuasai-7-porsi-saham",
+      "tags": [
+        "Ownership",
+        "Executive Changes",
+        "Shareholders General Meeting",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Morgan Stanley and Co International PLC boosts stake in PT GoTo Gojek Tokopedia Tbk (GOTO) ahead of BEI's Rp1 minimum price rule",
+      "timestamp": "2026-09-23T17:39:00",
+      "source": "https://investasi.kontan.co.id/news/jelang-batas-minimum-harga-rp-1-investor-asing-ini-tambah-pemilikan-saham-goto",
+      "tags": [
+        "Ownership",
+        "Politics & Regulation",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Morgan Stanley And Co International Plc Buy Shares of GoTo Gojek Tokopedia",
+      "timestamp": "2026-09-23T14:36:55",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-9638-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk (GOTO) to Hold Extraordinary General Meeting on Oct 14 2026 to Approve Capital Reduction and Director Resignation",
+      "timestamp": "2026-09-23T11:06:13",
+      "source": "https://www.cnbcindonesia.com/market/20260923094655-17-770110/investor-bersiap-bakal-ada-2-pengumuman-penting-dari-goto",
+      "tags": [
+        "Shareholders General Meeting",
+        "Capital & Funding",
+        "Executive Changes",
+        "Stock Buyback"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk (GOTO) seeks shareholder approval to cancel 32.18 billion treasury shares, with buyback program continuing",
+      "timestamp": "2026-09-23T10:20:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/122408/goto-mau-hapus-32-18-miliar-saham-tresuri-buyback-berlanjut",
+      "tags": [
+        "Stock Buyback",
+        "Shareholders General Meeting",
+        "Executive Changes",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk (GOTO) to hold Oct 14 extraordinary shareholders meeting with 80‑person physical attendance limit",
+      "timestamp": "2026-09-22T17:30:00",
+      "source": "https://www.idnfinancials.com/id/news/69247/bahas-dua-agenda-besar-kuota-fisik-rupslb-goto-dibatasi-80-orang",
+      "tags": [
+        "Shareholders General Meeting",
+        "Stock Buyback",
+        "Executive Changes",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Morgan Stanley And Co International Plc Buy Shares of GoTo Gojek Tokopedia",
+      "timestamp": "2026-09-16T13:40:49",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-16092026-5380-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "Morgan Stanley And Co International Plc Sells Shares of GoTo Gojek Tokopedia",
+      "timestamp": "2026-09-16T13:40:49",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-16092026-5380-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "IDNFinancials weekly roundup highlights Djarum Group's planned control of Narasi media, the INRU export case, and Danantara's disputed Rp120 trillion state deposit",
+      "timestamp": "2026-09-14T08:30:00",
+      "source": "https://www.idnfinancials.com/id/news/68795/top-sepekan-djarum-caplok-narasi-kasus-inru-setoran-danantara",
+      "tags": [
+        "Business Expansion",
+        "Export",
+        "Government Policy",
+        "Bonds",
+        "Mergers & Acquisitions",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Executes Rp186.64 billion Repo and Sell‑Buy of PT GoTo Gojek Tokopedia Shares Ahead of BEI Floor‑Price Adjustment",
+      "timestamp": "2026-09-10T16:59:00",
+      "source": "https://emitennews.com/news/kode-morgan-stanley-jualbeli-repo-goto-jelang-bei-buka-batas-rp50",
+      "tags": [
+        "Ownership",
+        "Financial Metrics",
+        "Capital & Funding",
+        "Politics & Regulation",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "GoTo Gojek Tokopedia Insider Morgan Stanley And Co International Plc Reports Shareholding Change",
+      "timestamp": "2026-09-10T16:56:31",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10092026-1930-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "GoTo Gojek Tokopedia Insider Morgan Stanley And Co International Plc Reports Shareholding Change",
+      "timestamp": "2026-09-09T18:40:37",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09092026-8686-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "Morgan Stanley And Co International Plc purchases 21.67 billion GOTO shares at 50% discount via negotiated market",
+      "timestamp": "2026-09-08T09:10:00",
+      "source": "https://www.idnfinancials.com/id/news/68500/morgan-stanley-borong-saham-goto-lagi-di-harga-diskon-50",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Ownership",
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Morgan Stanley & Co International Plc purchases additional PT GoTo Gojek Tokopedia Tbk shares worth Rp541.9 billion, raising its stake to 7.59%",
+      "timestamp": "2026-09-08T08:10:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/120822/morgan-stanley-lanjut-borong-saham-goto-rp541-9-miliar",
+      "tags": [
+        "Ownership",
+        "Institutional Investor",
+        "Foreign Investment",
+        "Stock Buyback",
+        "Stock Split",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "GoTo Gojek Tokopedia Insider Morgan Stanley And Co International Plc Reports Shareholding Change",
+      "timestamp": "2026-09-07T17:10:05",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07092026-9537-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "PT Telkom Indonesia Tbk records Rp322 billion unrealized loss as PT GoTo Gojek Tokopedia Tbk stock stalls at Rp50",
+      "timestamp": "2026-09-07T14:08:00",
+      "source": "https://investasi.kontan.co.id/news/harga-saham-goto-mentok-di-level-gocap-begini-nasib-investasi-telkom-tlkm",
+      "tags": [
+        "Financial Metrics",
+        "Partnerships & Agreements",
+        "Capital & Funding",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "List of LQ45 stocks with lowest and highest PER on 2 September 2026, highlighting DEWA and AADI",
+      "timestamp": "2026-09-03T06:33:00",
+      "source": "https://investasi.kontan.co.id/news/daftar-saham-per-terendah-tertinggi-lq45-2-september-2026-dewa-dan-aadi-disorot",
+      "tags": [
+        "Financial Metrics",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "The Fate of Indonesian Stocks Amid MSCI's Whirlwind",
+      "timestamp": "2026-09-03T06:22:02",
+      "source": "https://investor.id/market/452657/nasib-saham-di-pusaran-msci",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Foreign Investors Net Sell TLKM and GOTO Shares",
+      "timestamp": "2026-09-02T13:32:35",
+      "source": "https://investor.id/market/452575/2-saham-banyakdilego",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT TBS Energi Utama Tbk’s EV Business Enters Monetisation Phase, Posting Positive Gross Profit and Adjusted EBITDA in H1 2026",
+      "timestamp": "2026-09-02T11:32:44",
+      "source": "https://investor.id/market/452557/bisnis-ev-toba-masuk-fase-monetisasi",
+      "tags": [
+        "Financial Metrics",
+        "Business Expansion",
+        "Joint Venture",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Commission cut and floor‑price removal raise new challenges for GoTo, says CEO and analysts",
+      "timestamp": "2026-08-31T19:37:13",
+      "source": "https://www.cnbcindonesia.com/market/20260831182234-17-763789/komisi-ojol-dan-harga-gocap-jadi-isu-ini-kata-bos-goto-hingga-analis",
+      "tags": [
+        "Politics & Regulation",
+        "Financial Metrics",
+        "Ownership",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "CPIN drops after MSCI downgrade as foreign investors sell heavily on Aug 31",
+      "timestamp": "2026-08-31T19:00:00",
+      "source": "https://emitennews.com/news/emiten-depakan-msci-dilego-asing-senin-sore-ini-318-cpin-top-sell",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG projected sideways‑bearish for September 2026 with key support at 6,400‑6,500 and stock picks from Phintraco and Sucor Sekuritas",
+      "timestamp": "2026-08-31T17:05:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diproyeksi-sideways-bearish-di-september-2026-cek-rekomendasi-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Stuck at the Rp 50 floor: GOTO under sell‑off pressure",
+      "timestamp": "2026-08-31T14:25:39",
+      "source": "https://investor.id/market/452260/mentok-digoto",
+      "tags": [
+        "Market Sentiment",
+        "Global Index",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Latest Outlook for GOTO Stock",
+      "timestamp": "2026-08-31T13:25:39",
+      "source": "https://investor.id/market/452242/prospek-terbaru-saham-goto",
+      "tags": [
+        "Analyst Ratings",
+        "Global Index",
+        "Financial Metrics",
+        "Politics & Regulation",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Prospects for PT GoTo Gojek Tokopedia Tbk amid floor‑price removal and new ride‑hailing regulations",
+      "timestamp": "2026-08-31T12:48:00",
+      "source": "https://investasi.kontan.co.id/news/dari-wacana-pengahapusan-sahan-gocap-hingga-regulasi-ojol-ini-prospek-goto",
+      "tags": [
+        "Politics & Regulation",
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Regulatory and Price‑Floor Challenges Test GoTo Stock, Yet Analysts See Growth Opportunities",
+      "timestamp": "2026-08-31T12:17:00",
+      "source": "https://market.bisnis.com/read/20260831/189/2000049/tantangan-saham-gocap-hingga-perpres-ojol-goto-masih-ada-peluang",
+      "tags": [
+        "Politics & Regulation",
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Global Index",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts highlight stocks to watch as MSCI and FTSE Russell rebalancing looms over September 2026 Indonesian market",
+      "timestamp": "2026-08-31T11:37:00",
+      "source": "https://market.bisnis.com/read/20260831/189/1999970/pilah-pilih-saham-cuan-saat-rebalancing-msci-ftse-membayangi-september-2026",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG Weakens Slightly; Today's Stock Recommendations",
+      "timestamp": "2026-08-31T08:45:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8641292/ihsg-melemah-tipis-cek-rekomendasi-saham-hari-ini",
+      "tags": [
+        "Market Sentiment",
+        "Foreign Investment",
+        "Private Placement",
+        "Capital & Funding",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk removed from MSCI Global Standard index, triggering heavy sell pressure",
+      "timestamp": "2026-08-31T05:47:21",
+      "source": "https://investor.id/market/452174/perubahan-nasib-goto-gojek-goto",
+      "tags": [
+        "Global Index",
+        "Market Sentiment",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Deputy CEO Catherine Hindra Sutjahyo Resigns from PT GoTo Gojek Tokopedia Tbk",
+      "timestamp": "2026-08-30T11:38:00",
+      "source": "https://market.bisnis.com/read/20260830/192/1999826/profil-catherine-hindra-sutjahyo-wakil-direktur-utama-goto-yang-mundur",
+      "tags": [
+        "Executive Changes"
+      ]
+    },
+    {
+      "title": "MSCI Rebalancing Takes PT GoTo Gojek Tokopedia, PT Charoen Pokphand Indonesia and Nine Small‑Cap Stocks Out of Indexes",
+      "timestamp": "2026-08-30T09:32:00",
+      "source": "https://market.bisnis.com/read/20260830/7/1999814/ihsg-diproyeksi-di-level-6400-6600-pekan-depan-investor-waspadai-rebalancing-msci-dan-data-ekonomi",
+      "tags": [
+        "Global Index",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk Deputy President Catherine Hindra Sutjahyo Resigns",
+      "timestamp": "2026-08-29T13:52:15",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260829133543-92-1397744/wadirut-goto-catherine-hindra-sutjahyo-mengundurkan-diri",
+      "tags": [
+        "Executive Changes",
+        "OJK",
+        "Shareholders General Meeting",
+        "Politics & Regulation"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk Announces Resignation of Vice President Director Catherine Hindra Sutjahyo",
+      "timestamp": "2026-08-29T09:25:00",
+      "source": "https://investasi.kontan.co.id/news/wadirut-goto-catherine-hindra-sutjahyo-mundur-ada-apa",
+      "tags": [
+        "Executive Changes",
+        "Shareholders General Meeting"
+      ]
+    },
+    {
+      "title": "MSCI excludes PT GoTo Gojek Tokopedia Tbk (GOTO) from Global Standard Index as sell orders pile up and board resignation looms",
+      "timestamp": "2026-08-29T08:12:29",
+      "source": "https://investor.id/market/452052/cobaan-bagi-goto-gojek-goto",
+      "tags": [
+        "Global Index",
+        "Executive Changes",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk Receives Resignation of Vice President Director Catherine Hindra Sutjahyo",
+      "timestamp": "2026-08-29T07:09:00",
+      "source": "https://money.kompas.com/read/2026/08/29/070900826/catherine-hindra-sutjahyo-mundur-dari-wakil-direktur-utama-goto",
+      "tags": [
+        "Executive Changes",
+        "Shareholders General Meeting"
+      ]
+    },
+    {
+      "title": "Catherine Hindra Sutjahyo Resigns as Vice President Director of PT GoTo Gojek Tokopedia Tbk",
+      "timestamp": "2026-08-28T20:56:00",
+      "source": "https://www.antaranews.com/berita/5715996/catherine-hindra-sutjahyo-mengundurkan-diri-sebagai-wadirut-goto",
+      "tags": [
+        "Executive Changes",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk reports resignation of Vice President Director Catherine Hindra Sutjahyo",
+      "timestamp": "2026-08-28T20:37:05",
+      "source": "https://investor.id/market/452021/wakil-direktur-utama-goto-catherine-hindra-sutjahyo-mengundurkan-diri",
+      "tags": [
+        "Executive Changes",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk Deputy CEO Catherine Hindra Sutjahyo Resigns; Stock Remains at Rp50",
+      "timestamp": "2026-08-28T20:32:00",
+      "source": "https://emitennews.com/news/wadirut-chaterine-sutjahyo-undur-diri-dari-goto-sahamnya-tetap-gocap",
+      "tags": [
+        "Executive Changes",
+        "OJK",
+        "Shareholders General Meeting"
+      ]
+    },
+    {
+      "title": "GoTo Deputy Director Catherine Hindra Sutjahyo Resigns for Personal Reasons",
+      "timestamp": "2026-08-28T19:45:50",
+      "source": "https://www.cnbcindonesia.com/market/20260828191910-17-763236/ternyata-ini-alasan-wadirut-goto-catherine-hindra-mundur",
+      "tags": [
+        "Executive Changes",
+        "Shareholders General Meeting"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk announces resignation of Vice President Director Catherine Hindra Sutjahyo",
+      "timestamp": "2026-08-28T19:37:05",
+      "source": "https://investor.id/market/452015/catherine-hindra-sutjahyo-mundur-dari-posisi-wakil-direktur-utamagoto",
+      "tags": [
+        "Executive Changes",
+        "Shareholders General Meeting",
+        "OJK",
+        "Politics & Regulation"
+      ]
+    },
+    {
+      "title": "Deputy CEO Catherine Hindra Sutjahyo Resigns from PT GoTo Gojek Tokopedia Tbk (GOTO)",
+      "timestamp": "2026-08-28T19:00:00",
+      "source": "https://market.bisnis.com/read/20260828/192/1999617/terungkap-ini-alasan-wadirut-goto-catherine-hindra-mundur",
+      "tags": [
+        "Executive Changes",
+        "Shareholders General Meeting",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk sees intensified crossing trades ahead of MSCI rebalancing",
+      "timestamp": "2026-08-28T08:40:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/119754/crossing-saham-goto-intens-jelang-rebalancing-msci",
+      "tags": [
+        "Global Index",
+        "Stock Buyback",
+        "Stock Split",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Popular news roundup highlights gold jewelry prices, a massive sell‑off in GoTo shares, PACK suspension, Cimory dividend and BBCA foreign net buying",
+      "timestamp": "2026-08-28T05:14:06",
+      "source": "https://investor.id/market/451907/berita-populer-kilau-harga-emas-perhiasan-hingga-saham-goto-dihantam-aksi-jual-masif",
+      "tags": [
+        "Commodities",
+        "Market Sentiment",
+        "Suspension",
+        "Dividend Announcement",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Kiwoom Sekuritas warns of sell pressure on MSCI‑removed Indonesian stocks and issues a buy recommendation for PT Charoen Pokphand Indonesia Tbk",
+      "timestamp": "2026-08-27T19:56:00",
+      "source": "https://investasi.kontan.co.id/news/saham-yang-didepak-dari-msci-berpotensi-tertekan-simak-rekomendasi-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Global Index",
+        "Market Sentiment",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Stocks Impacted by MSCI Rebalancing Face Potential Pressure; Analyst Recommendations Reviewed",
+      "timestamp": "2026-08-27T19:48:00",
+      "source": "https://investasi.kontan.co.id/news/saham-terdampak-rebalancing-msci-berpotensi-tertekan-cek-rekomendasi-analis-berikut",
+      "tags": [
+        "Global Index",
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Morgan Stanley purchases 3.8 billion PT GoTo Gojek Tokopedia Tbk shares at Rp23 each, a 54% discount to market price",
+      "timestamp": "2026-08-27T15:30:00",
+      "source": "https://emitennews.com/news/goto-diobral-murah-miliaran-saham-harga-rp23-dibeli-morgan-stanley",
+      "tags": [
+        "Ownership",
+        "Foreign Investment",
+        "Institutional Investor"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk (GOTO) removed from MSCI Global Standard Index Indonesia",
+      "timestamp": "2026-08-27T13:59:26",
+      "source": "https://investor.id/market/451817/saham-goto-jadi-bulanbulanan",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Morgan Stanley buys 5.15% of PT GoTo Gojek Tokopedia Tbk ahead of its MSCI Indonesia removal",
+      "timestamp": "2026-08-27T11:30:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/119651/jelang-rebalancing-msci-morgan-stanley-serok-saham-goto",
+      "tags": [
+        "Institutional Investor",
+        "Ownership",
+        "Foreign Investment",
+        "Global Index",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Short‑Term IHSG Outlook Highlights Upcoming MSCI Index Rebalancing and Expected Volatility",
+      "timestamp": "2026-08-27T07:54:00",
+      "source": "https://investasi.kontan.co.id/news/intip-proyeksi-pergerakan-ihsg-jangka-pendek-ada-rebalancing-indeks-msci-pekan-depan",
+      "tags": [
+        "Global Index",
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Foreign Investment"
+      ]
+    },
+    {
+      "title": "Popular News Roundup: PT Satu Visi Putra Tbk acquisition of PT Hasna Medika Bakti Cirebon and recent gold‑jewelry, BCA, Goto, and Antam price movements",
+      "timestamp": "2026-08-27T04:34:32",
+      "source": "https://investor.id/market/451758/berita-populer-aksi-akuisisi-emiten-raffi-ahmad-hingga-gejolak-harga-emas-perhiasan",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Commodities",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG projection ahead of MSCI rebalancing with analyst‑selected stock outlook",
+      "timestamp": "2026-08-26T20:03:50",
+      "source": "https://investor.id/market/451725/proyeksi-ihsg-jelang-rebalancing-msci-cermati-sahampilihan-analis",
+      "tags": [
+        "Global Index",
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Morgan Stanley raises its stake in PT GoTo Gojek Tokopedia Tbk. above 5% with Rp23 share purchase",
+      "timestamp": "2026-08-26T18:50:00",
+      "source": "https://market.bisnis.com/read/20260826/7/1999061/aksi-morgan-stanley-di-saham-goto-seharga-rp23-kepemilikan-tembus-lebih-5",
+      "tags": [
+        "Ownership",
+        "Institutional Investor",
+        "Foreign Investment",
+        "Politics & Regulation",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Upcoming MSCI Index Rebalancing Ahead of Week, Projected Direction for Indonesia's IHSG",
+      "timestamp": "2026-08-26T17:44:00",
+      "source": "https://investasi.kontan.co.id/news/ada-rebalancing-indeks-msci-pekan-depan-begini-proyeksi-arah-ihsg",
+      "tags": [
+        "Global Index",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "GoTo Gojek Tokopedia Insider Morgan Stanley And Co International Plc Reports Shareholding Change",
+      "timestamp": "2026-08-26T17:26:48",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26082026-1699-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "Price Floor of Rp50 to be Removed, GoTo Gojek Tokopedia (GOTO) Stock Could Benefit – Analysis",
+      "timestamp": "2026-08-24T17:38:00",
+      "source": "https://investasi.kontan.co.id/news/batas-harga-saham-akan-dihapus-saham-goto-bisa-diuntungkan-ini-analisisnya",
+      "tags": [
+        "Stock Buyback",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "GOTO Stock Threatened to Slip Below Rp50; Analyst Sets New Rp56 Target",
+      "timestamp": "2026-08-24T16:52:00",
+      "source": "https://investasi.kontan.co.id/news/saham-goto-terancam-turun-di-bawah-rp-50-ini-target-harga-berikutnya",
+      "tags": [
+        "Analyst Ratings",
+        "Government Policy",
+        "Financial Metrics",
+        "Global Index",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "List of Indonesian listed issuers conducting share buybacks in 2026 with fund sizes and periods",
+      "timestamp": "2026-08-24T04:00:00",
+      "source": "https://market.bisnis.com/read/20260824/7/1998431/daftar-emiten-buyback-saham-2026-nilai-dana-periode-dan-panduan-analisisnya",
+      "tags": [
+        "Stock Buyback",
+        "Capital & Funding",
+        "Politics & Regulation",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Popular news roundup: stable jewelry gold prices and PT Chandra Asri Pacific Tbk’s strategic acquisition of Cycle & Carriage, plus updates on PT Bumi Resources Tbk, PT GoTo Gojek Tokopedia Tbk and PT Dana Brata Luhur Tbk",
+      "timestamp": "2026-08-22T05:52:42",
+      "source": "https://investor.id/market/451209/berita-populer-harga-emas-perhiasan-kokoh-hingga-rencana-akuisisi-strategis-tpia",
+      "tags": [
+        "Commodities",
+        "Mergers & Acquisitions",
+        "Asset Purchase",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Impact of Removing the Rp50 Minimum Price Rule on GOTO Stock",
+      "timestamp": "2026-08-21T17:42:00",
+      "source": "https://market.bisnis.com/read/20260821/7/1998087/nasib-saham-goto-soal-aturan-batas-minimum-rp50-dihapus",
+      "tags": [
+        "Politics & Regulation",
+        "Stock Buyback",
+        "Financial Metrics",
+        "Risk & Compliance",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Sell queue for PT GoTo Gojek Tokopedia Tbk (GOTO) surges as its shares trade at discounted prices in the BEI negotiation market",
+      "timestamp": "2026-08-21T15:24:47",
+      "source": "https://investor.id/market/451141/antrean-jual-membeludak-saham-goto-diobral-di-pasar-nego",
+      "tags": [
+        "Market Sentiment",
+        "Politics & Regulation",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign investors heavily sold large‑cap Indonesian stocks as the IHSG surged 1.68%",
+      "timestamp": "2026-08-21T08:04:32",
+      "source": "https://www.cnbcindonesia.com/market/20260820203648-17-761105/asing-ramai-ramai-jual-saham-ini-saat-ihsg-melesat",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Popular news roundup: BCA interim dividend, PACK’s sales surge, and GoTo shares trade at Rp 21 in the BEI negotiated market",
+      "timestamp": "2026-08-21T05:02:44",
+      "source": "https://investor.id/market/451071/berita-populer-grup-djarum-anthoni-salim-panen-hingga-harga-nego-goto",
+      "tags": [
+        "Dividend Announcement",
+        "Business Expansion",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "GOTO’s Margin Faces Pressure from New 8% Ride‑Hailing Commission Cap",
+      "timestamp": "2026-08-20T13:35:00",
+      "source": "https://market.bisnis.com/read/20260820/192/1997729/potongan-8-ojol-seberapa-besar-margin-goto-tertekan",
+      "tags": [
+        "Politics & Regulation",
+        "Financial Metrics",
+        "Risk & Compliance",
+        "Digital Payments",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "GoTo Gojek (GOTO) shares traded at Rp 21 per share on BEI, below regular price",
+      "timestamp": "2026-08-20T13:09:22",
+      "source": "https://investor.id/market/451007/muncul-transaksi-saham-goto-gojek-goto-di-rp-21",
+      "tags": [
+        "Global Index",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Upcoming Presidential Regulation on Ride‑Hailing Poses New Profitability Test for PT GoTo Gojek Tokopedia Tbk",
+      "timestamp": "2026-08-20T12:50:00",
+      "source": "https://market.bisnis.com/read/20260820/192/1997718/perpres-ojol-jadi-ujian-baru-profitabilitas-goto",
+      "tags": [
+        "Politics & Regulation",
+        "Government Policy",
+        "Risk & Compliance",
+        "Digital Payments",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "LQ45 lowest‑PER stocks rally while highest‑PER stocks show mixed moves on 14 August 2026",
+      "timestamp": "2026-08-18T04:28:00",
+      "source": "https://investasi.kontan.co.id/news/daftar-saham-per-terendah-tertinggi-lq45-14-agustus-2026-jpfa-dan-mdka-disorot",
+      "tags": [
+        "Market Sentiment",
+        "Foreign Investment",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "IHSG projected to rise on Tuesday (18 Aug) with stock picks AADI, ANTM, and VKTR highlighted",
+      "timestamp": "2026-08-17T16:22:00",
+      "source": "https://investasi.kontan.co.id/news/intip-proyeksi-ihsg-dan-saham-pilihan-untuk-perdagangan-selasa-188",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Foreign Investment"
+      ]
+    },
+    {
+      "title": "GOTO to exit MSCI indexes but stay in LQ45, analysts point to liquidity constraints",
+      "timestamp": "2026-08-16T13:00:00",
+      "source": "https://money.kompas.com/read/2026/08/16/130000326/kenapa-goto-keluar-dari-msci-tetapi-bertahan-di-lq45-ini-kata-analis",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Potential foreign outflows of up to Rp 1 trillion loom after MSCI August 2026 review removes GOTO and CPIN from the Global Standard Index",
+      "timestamp": "2026-08-16T08:08:00",
+      "source": "https://money.kompas.com/read/2026/08/16/080844026/potensi-asing-cabut-dari-bursa-rp-1-triliun-usai-review-msci-agustus",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG rises 1.59% to 6,401.89 as investors watch MSCI rebalancing impact",
+      "timestamp": "2026-08-15T06:30:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-menguat-159-menjadi-640189-investor-masih-cermati-dampak-msci",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Liquidity Issues Push PT GoTo Gojek Tokopedia Tbk Toward Reverse Stock Split, Analyst Says",
+      "timestamp": "2026-08-14T19:58:00",
+      "source": "https://investasi.kontan.co.id/news/persoalan-likuiditas-jadi-masalah-utama-goto-analis-sarankan-reverse-stock-split",
+      "tags": [
+        "Stock Split",
+        "Analyst Ratings",
+        "Global Index",
+        "Institutional Investor",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "GOTO Shares Hold at Rp50 After MSCI Removal, Three Catalysts Identified for Recovery",
+      "timestamp": "2026-08-14T19:22:00",
+      "source": "https://investasi.kontan.co.id/news/saham-goto-tertahan-di-rp-50-usai-keluar-msci-ada-tiga-katalis-penyelamat",
+      "tags": [
+        "Global Index",
+        "Stock Buyback",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "GoTo Gojek (GOTO) shares traded at Rp 25 in BEI negotiated market",
+      "timestamp": "2026-08-14T14:43:11",
+      "source": "https://investor.id/market/450406/ada-nego-saham-goto-gojek-goto-di-rp-25",
+      "tags": [
+        "Global Index",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI removes 10 Indonesian stocks, all tumble on Thursday",
+      "timestamp": "2026-08-14T07:00:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8617544/ditendang-msci-10-saham-ri-langsung-rontok",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI August 2026 review deletes 13 Indonesian stocks while foreign investors net‑sell Rp1.41 trillion",
+      "timestamp": "2026-08-14T06:30:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/118276/posisi-investor-asing-kala-review-msci-agustus-2026",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI Keeps Indonesia in Emerging‑Market Category While Removing Ten Indonesian Stocks from Its Indexes Effective Aug 31 2026",
+      "timestamp": "2026-08-14T05:55:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8617532/msci-pertahankan-ri-emerging-market-setara-malaysia-hingga-china",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Understanding MSCI: Global Index Guiding International Investors and Its Impact on Indonesian Stocks",
+      "timestamp": "2026-08-14T05:00:00",
+      "source": "https://market.bisnis.com/read/20260814/7/1996138/mengenal-msci-indeks-global-yang-menjadi-acuan-investor-internasional",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI Keeps Indonesia in Emerging Market Category as GOTO Dropped and CPIN Downgraded, Weighing on IHSG",
+      "timestamp": "2026-08-13T22:37:00",
+      "source": "https://investasi.kontan.co.id/news/msci-pertahankan-status-indonesia-sebagai-emerging-market-ihsg-berpeluang-rebound",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "GoTo Gojek Tokopedia Tbk removed from MSCI Global Standard Index but stays in LQ45, IDX30 and IDX80",
+      "timestamp": "2026-08-13T19:48:00",
+      "source": "https://market.bisnis.com/read/20260813/189/1996130/lepas-dari-msci-goto-masih-nyaman-di-lq45-hingga-idx80",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Investor Confidence Weakens During Prabowo Administration as MSCI Removes 11 Indonesian Stocks, IHSG Could Slip Below 6,000",
+      "timestamp": "2026-08-13T19:11:00",
+      "source": "https://investasi.kontan.co.id/news/kepercayaan-investor-melemah-selama-pemerintahan-prabowo-ihsg-bisa-ke-bawah-6000",
+      "tags": [
+        "Market Sentiment",
+        "Global Index",
+        "Currency & FX",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Danantara comments on PT GoTo Gojek Tokopedia Tbk’s removal from MSCI index",
+      "timestamp": "2026-08-13T19:00:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8617279/respons-danantara-usai-saham-goto-didepak-msci",
+      "tags": [
+        "Global Index",
+        "Asset Management",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Several Indonesian Stocks Removed from MSCI Indices: Outlook Ahead",
+      "timestamp": "2026-08-13T18:32:00",
+      "source": "https://investasi.kontan.co.id/news/sederet-saham-terdepak-dari-msci-bagaimana-prospeknya-ke-depan",
+      "tags": [
+        "Global Index",
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI Keeps Indonesia in Emerging Markets but Removes Ten Local Stocks, Prompting Potential Passive Outflows",
+      "timestamp": "2026-08-13T18:32:00",
+      "source": "https://market.bisnis.com/read/20260813/7/1996072/brief-insight-selamat-dari-frontier-market-indonesia-masih-punya-pr-besar-di-msci",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI Removes PT GoTo Gojek Tokopedia Tbk from Its Index",
+      "timestamp": "2026-08-13T18:12:29",
+      "source": "https://www.cnbcindonesia.com/market/20260813152039-17-759015/goto-tinggalkan-indeks-msci-ini-tanggapan-analis",
+      "tags": [
+        "Global Index",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG closes weaker 1.13% at 6,301.77, pressured by MSCI rebalancing announcement",
+      "timestamp": "2026-08-13T16:18:00",
+      "source": "https://market.bisnis.com/read/20260813/7/1996021/ihsg-ditutup-melemah-113-ke-630177-tertekan-pengumuman-rebalancing-msci",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk Removed from MSCI Global Standard Indexes Effective Aug 31, 2026",
+      "timestamp": "2026-08-13T15:54:00",
+      "source": "https://money.kompas.com/read/2026/08/13/155429326/goto-keluar-dari-indeks-msci-masih-bertahan-di-lq45-idx30-dan-idx80",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "GoTo Gojek Tokopedia Tbk removed from MSCI Global Standard Index",
+      "timestamp": "2026-08-13T15:51:43",
+      "source": "https://www.cnbcindonesia.com/market/20260813131018-17-758930/goto-didepak-dari-indeks-msci-manajemen-sebut-harga-saham-gocap",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk Shares Removed from MSCI Global Standard Indexes Effective Aug 31 2026",
+      "timestamp": "2026-08-13T15:45:59",
+      "source": "https://investor.id/market/450227/meski-didepak-dari-indeks-msci-saham-goto-masih-eksklusif",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk removed from Morgan Stanley Capital International Global Standard Indexes, company says decision is technical, not performance‑related",
+      "timestamp": "2026-08-13T15:29:00",
+      "source": "https://money.kompas.com/read/2026/08/13/152913426/keluar-dari-indeks-msci-goto-bersifat-teknis-bukan-kinerja",
+      "tags": [
+        "Global Index",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk removed from MSCI Indonesia index",
+      "timestamp": "2026-08-13T15:27:00",
+      "source": "https://investasi.kontan.co.id/news/goto-keluar-dari-indeks-msci-simak-penjelasan-analis",
+      "tags": [
+        "Global Index",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Charoen Pokphand Indonesia Tbk downgraded and PT GoTo Gojek Tokopedia Tbk removed from MSCI, a wake‑up call for Indonesia’s capital market",
+      "timestamp": "2026-08-13T15:01:00",
+      "source": "https://money.kompas.com/read/2026/08/13/150138026/cpin-turun-kelas-dan-goto-terdepak-dari-msci-sinyal-peringatan-untuk-pasar",
+      "tags": [
+        "Global Index",
+        "Market Sentiment",
+        "Foreign Investment",
+        "Politics & Regulation",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk exits MSCI Global Standard Indexes but remains in BEI’s LQ45, IDX30, IDX80 and KOMPAS100",
+      "timestamp": "2026-08-13T14:37:00",
+      "source": "https://investasi.kontan.co.id/news/goto-keluar-dari-msci-tetapi-masih-bertahan-di-indeks-utama-bei",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI August 2026 Review Highlights Liquidity Issues as CPIN Downgraded and GOTO Dropped from Index",
+      "timestamp": "2026-08-13T13:35:00",
+      "source": "https://investasi.kontan.co.id/news/review-msci-indonesia-agustus-2026-cerminkan-masalah-kualitas-likuiditas",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG falls 1.18% to 6,298 in Session I as MSCI deletions pressure stocks such as ESSA and CPIN",
+      "timestamp": "2026-08-13T13:07:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/118205/ihsg-turun-saham-essa-jatuh-7-imbas-didepak-msci",
+      "tags": [
+        "Global Index",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI removes PT GoTo Gojek Tokopedia Tbk and PT Charoen Pokphand Indonesia Tbk from Global Standard Indexes, triggering estimated Rp13.45 trillion outflow",
+      "timestamp": "2026-08-13T13:01:32",
+      "source": "https://www.cnbcindonesia.com/market/20260813113725-17-758878/10-saham-ditendang-msci-risiko-asing-kabur-rp-1345-triliun",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk says MSCI removal is purely technical, not performance‑related",
+      "timestamp": "2026-08-13T12:55:00",
+      "source": "https://market.bisnis.com/read/20260813/192/1995940/goto-penghapusan-dari-msci-murni-teknis-bukan-karena-kinerja",
+      "tags": [
+        "Global Index",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "GoTo Gojek Tokopedia Excluded from MSCI Global Standard Index as Company Reports Q2 Profit and EBITDA Milestones",
+      "timestamp": "2026-08-13T12:44:00",
+      "source": "https://market.bisnis.com/read/20260813/7/1995936/goto-tanggapi-msci-tegaskan-kinerja-perusahaan-sudah-cetak-laba",
+      "tags": [
+        "Global Index",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MSCI removes PT GoTo Gojek Tokopedia Tbk and downgrades PT Charoen Pokphand Indonesia Tbk, raising passive outflow risk up to Rp1 trillion",
+      "timestamp": "2026-08-13T12:44:00",
+      "source": "https://market.bisnis.com/read/20260813/7/1995937/msci-depak-goto-dan-turunkan-cpin-ada-potensi-outflow-rp1-triliun",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk Responds to Removal from MSCI Global Standard Index",
+      "timestamp": "2026-08-13T12:29:00",
+      "source": "https://emitennews.com/news/respons-goto-usai-ditendang-dari-msci-global-standard-index",
+      "tags": [
+        "Global Index",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG closes down 1.18% to 6,298.34 as MSCI removes CPIN and GOTO from Global Standard Indexes",
+      "timestamp": "2026-08-13T12:22:00",
+      "source": "https://market.bisnis.com/read/20260813/7/1995928/ihsg-ditutup-turun-118-ke-629834-sesi-i-sentimen-msci-membebani",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PR dynamics behind GOTO and CPIN’s exit from MSCI Global Standard Index",
+      "timestamp": "2026-08-13T12:16:00",
+      "source": "https://market.bisnis.com/read/20260813/7/1995923/sejumlah-pr-di-balik-keluarnya-goto-cpin-dari-msci-global-standard-index",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Portfolio",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI Excludes PT GoTo Gojek Tokopedia Tbk from Global Standard Indexes Effective 31 August 2026",
+      "timestamp": "2026-08-13T12:13:32",
+      "source": "https://www.cnbcindonesia.com/market/20260813120931-17-758901/respons-indeks-msci-goto-tegaskan-fundamental-solid-cetak-laba",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk removed from MSCI Global Standard Indexes as MSCI cites low share price and trading volume",
+      "timestamp": "2026-08-13T12:12:00",
+      "source": "https://market.bisnis.com/read/20260813/192/1995924/manajemen-buka-suara-soal-saham-goto-terdepak-dari-indeks-msci",
+      "tags": [
+        "Global Index",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "GoTo Gojek Tokopedia Tbk Responds to MSCI Index Exclusion",
+      "timestamp": "2026-08-13T12:10:38",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260813115338-92-1391787/goto-bersuara-usai-saham-keluar-dari-indeks-msci",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI removes ten Indonesian stocks, including GoTo Gojek Tokopedia and Charoen Pokphand Indonesia, from its global indexes effective Aug 31 2026",
+      "timestamp": "2026-08-13T12:03:38",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260813105639-92-1391758/bei-buka-suara-usai-msci-terbitkan-hasil-rebalancing-terbaru",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Goto Gojek Tokopedia Tbk excluded from MSCI Global Standard Index Indonesia",
+      "timestamp": "2026-08-13T12:00:00",
+      "source": "https://investor.id/market/450202/goto-buka-suara-usai-sahamnya-didepak-dari-indeks-msci",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk to be excluded from MSCI Global Standard Index on Sep 1 2026",
+      "timestamp": "2026-08-13T12:00:00",
+      "source": "https://investor.id/market/450201/goto-gojek-goto-kabar-kurang-menyenangkan-bagi-pemegang-saham",
+      "tags": [
+        "Global Index",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MSCI rebalancing may trigger potential outflows up to Rp 1 trillion",
+      "timestamp": "2026-08-13T11:59:54",
+      "source": "https://investor.id/market/450197/rebalancing-msci-memicupotensi-outflow-hingga-rp-1-triliun",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI Removes PT GoTo Gojek Tokopedia Tbk from Index Due to Low Share Price and Liquidity",
+      "timestamp": "2026-08-13T11:37:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8616493/goto-soal-pengumuman-msci-ini-kabar-yang-tak-menyenangkan",
+      "tags": [
+        "Global Index",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "GoTo reports H1 2026 net profit of Rp607.48 bn and says MSCI index exclusion is a technical review",
+      "timestamp": "2026-08-13T11:37:00",
+      "source": "https://www.antaranews.com/berita/5692169/goto-pastikan-kinerja-keuangan-positif-dan-tinjauan-msci-murni-teknis",
+      "tags": [
+        "Financial Metrics",
+        "Global Index",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "GoTo Gojek Tokopedia Tbk Responds to MSCI Exclusion from Global Standard Indexes",
+      "timestamp": "2026-08-13T11:15:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/118187/tanggapan-goto-soal-keputusan-msci",
+      "tags": [
+        "Global Index",
+        "Stock Buyback",
+        "Stock Split",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG falls 1.38% as MSCI removes GOTO and downgrades CPIN",
+      "timestamp": "2026-08-13T11:03:32",
+      "source": "https://www.cnbcindonesia.com/market/20260813100407-17-758833/breaking-news-ihsg-turun-138",
+      "tags": [
+        "Global Index",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Sell order queue for PT GoTo Gojek Tokopedia Tbk swells to over Rp 1.2 trillion, while negotiated trades occur at Rp 33",
+      "timestamp": "2026-08-13T10:59:54",
+      "source": "https://investor.id/market/450191/antrean-jual-saham-goto-di-pasar-reguler-sampai-triliunan-ada-nego-di-rp-33",
+      "tags": [
+        "Global Index",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Bursa Efek Indonesia comments on MSCI’s August 2026 index rebalancing that removes Charoen Pokphand Indonesia and GoTo Gojek Tokopedia and nine other Indonesian issuers",
+      "timestamp": "2026-08-13T10:59:54",
+      "source": "https://investor.id/market/450195/bei-buka-suara-soal-keputusan-msci",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk and PT Charoen Pokphand Indonesia Tbk face MSCI index downgrades, serving as a wake‑up call for Indonesia’s market reforms.",
+      "timestamp": "2026-08-13T10:59:54",
+      "source": "https://investor.id/market/450194/goto-dan-cpin-jadi-wakeup-call",
+      "tags": [
+        "Global Index",
+        "Institutional Investor",
+        "Politics & Regulation",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk’s Shares Removed from MSCI Indonesia Index",
+      "timestamp": "2026-08-13T10:53:00",
+      "source": "https://investasi.kontan.co.id/news/goto-buka-suara-usai-sahamnya-dihapus-dari-indeks-msci",
+      "tags": [
+        "Global Index",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI removes ten Indonesian stocks and demotes one, BEI says it will keep communicating with investors",
+      "timestamp": "2026-08-13T10:41:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8616349/10-saham-didepak-msci-bos-bursa-kami-komunikasi-terus-dengan-investor",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "CPIN shares fall 2.54% after downgrade to MSCI Global Small Cap index",
+      "timestamp": "2026-08-13T10:29:00",
+      "source": "https://market.bisnis.com/read/20260813/7/1995894/turun-kelas-ke-msci-global-small-cap-saham-cpin-kontraksi-254",
+      "tags": [
+        "Global Index",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Ten Indonesian stocks removed from MSCI indexes see 2%‑7% price drops",
+      "timestamp": "2026-08-13T10:18:00",
+      "source": "https://market.bisnis.com/read/20260813/7/1995892/saham-terdepak-dari-indeks-msci-kompak-merah-turun-2-sampai-7",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI removes nine Indonesian stocks from the Global Small Cap Index and reclassifies two, sending the affected shares lower",
+      "timestamp": "2026-08-13T10:15:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/118176/terbuang-dari-msci-pasar-hukum-saham-manoj-punjabi-hingga-bumn",
+      "tags": [
+        "Global Index",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Ten Indonesian stocks, including PT GoTo Gojek Tokopedia Tbk and PT Charoen Pokphand Indonesia Tbk, fell after MSCI removed them from its index, effective Aug 31 2026.",
+      "timestamp": "2026-08-13T10:03:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8616289/10-saham-ambruk-usai-didepak-msci",
+      "tags": [
+        "Global Index",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Indonesia's IHSG falls 1.05% as MSCI rebalancing removes CPIN, GOTO and nine small‑cap stocks from its indices",
+      "timestamp": "2026-08-13T09:53:17",
+      "source": "https://investor.id/market/450182/ihsg-terjun-bebas-usai-rebalancing-msci-ini-biang-keroknya",
+      "tags": [
+        "Global Index",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Indonesia's Composite Index Opens 0.47% Lower as Market Awaits MSCI Review Outcomes",
+      "timestamp": "2026-08-13T09:50:00",
+      "source": "https://money.kompas.com/read/2026/08/13/095035826/ihsg-dibuka-melemah-047-persen-pasar-cermati-hasil-review-msci",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "GoTo Gojek Tokopedia Tbk Removed from MSCI Indonesia Index Effective End August 2026",
+      "timestamp": "2026-08-13T09:20:00",
+      "source": "https://investasi.kontan.co.id/news/goto-dihapus-dari-indeks-msci-indonesia-akhir-agustus-2026",
+      "tags": [
+        "Global Index",
+        "Institutional Investor",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI removes ten Indonesian stocks, including GoTo and Charoen Pokphand Indonesia, from its indexes",
+      "timestamp": "2026-08-13T09:17:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8616222/msci-coret-10-saham-ri-ihsg-tertekan",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI removes ten Indonesian stocks, including PT Charoen Pokphand Indonesia Tbk and PT GoTo Gojek Tokopedia Tbk, as the Jakarta Composite Index drops 0.43%",
+      "timestamp": "2026-08-13T09:03:58",
+      "source": "https://www.cnbcindonesia.com/market/20260813082546-17-758783/msci-tendang-10-saham-ihsg-pagi-ini-turun-043",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Today's Stock Recommendations: PTRO, BRPT, and TUGU",
+      "timestamp": "2026-08-13T08:58:58",
+      "source": "https://www.cnbcindonesia.com/market/20260813083630-17-758797/rekomendasi-saham-hari-ini-ptro-brpt-hingga-tugu",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analyst outlines why PT GoTo Gojek Tokopedia Tbk shares remain stuck at Rp50",
+      "timestamp": "2026-08-13T08:58:58",
+      "source": "https://www.cnbcindonesia.com/market/20260812174534-17-758682/ini-deretan-alasan-kenapa-saham-goto-susah-gerak-dari-harga-rp50",
+      "tags": [
+        "Market Sentiment",
+        "Stock Buyback",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MSCI Removes GOTO and CPIN from Global Standard Indexes, Adds CPIN to Small‑Cap and Drops Nine Others",
+      "timestamp": "2026-08-13T08:56:17",
+      "source": "https://investor.id/market/450169/msci-ungkap-status-pasar-saham-indonesia",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "EXCL and INPP post strong earnings and dividend announcements as Indonesia market rallies 1.69%",
+      "timestamp": "2026-08-13T08:40:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8616192/excl-dan-inpp-jadi-sorotan-ihsg-menguat-1-69-serta-msci-ubah-konstituen-saham",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MSCI removes PT GoTo Gojek Tokopedia Tbk from its Indonesia Investable Market Index and downgrades PT Charoen Pokphand Indonesia Tbk to Small Cap",
+      "timestamp": "2026-08-13T08:39:00",
+      "source": "https://investasi.kontan.co.id/news/msci-coret-goto-turunkan-cpin-ke-small-cap-ini-prospek-ihsg-selanjutnya",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI removes Goto Group from MSCI Global Standard Index, prompting BEI to consider delisting Goto from IDX30, LQ45 and IDX80",
+      "timestamp": "2026-08-13T08:00:00",
+      "source": "https://emitennews.com/news/usai-msci-bei-susul-gebuk-goto",
+      "tags": [
+        "Global Index",
+        "Delisting",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MSCI removes ten Indonesian stocks, including PT GoTo Gojek Tokopedia Tbk, effective Aug 31 2026",
+      "timestamp": "2026-08-13T07:59:01",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260813064249-92-1391663/daftar-10-saham-indonesia-yang-dikeluarkan-msci-per-agustus-2026",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG projected to rise toward 6,600 as Pilarmas notes MSCI index revisions and recommends JPFA, GZCO, and HRUM",
+      "timestamp": "2026-08-13T07:56:17",
+      "source": "https://investor.id/market/450155/ihsg-berpeluang-menguat-ke-6600-cermati-3-saham-calon-cuan",
+      "tags": [
+        "Global Index",
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MSCI August 2026 review supports IHSG outlook toward 6,400 despite index constituent changes",
+      "timestamp": "2026-08-13T07:35:00",
+      "source": "https://market.bisnis.com/read/20260813/189/1995855/review-msci-jadi-katalis-ihsg-incar-6400",
+      "tags": [
+        "Global Index",
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MSCI to remove PT GoTo Gojek Tokopedia Tbk from MSCI Indonesia Investable Market Index",
+      "timestamp": "2026-08-13T07:30:00",
+      "source": "https://www.idnfinancials.com/id/news/67370/jadi-saham-gocap-begini-cara-msci-hapus-goto-dari-indeks-global",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI Removes Ten Indonesian Stocks, What Is the Outlook for the IHSG?",
+      "timestamp": "2026-08-13T07:19:00",
+      "source": "https://money.kompas.com/read/2026/08/13/071900426/msci-depak-10-saham-ri-bagaimana-nasib-ihsg-",
+      "tags": [
+        "Global Index",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI removes PT GoTo Gojek Tokopedia Tbk and nine other Indonesian stocks from its August 2026 index review",
+      "timestamp": "2026-08-13T06:58:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8616118/ri-tak-sendirian-ini-sederet-saham-asia-pasifik-kena-depak-msci",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI removes PT GoTo Gojek Tokopedia Tbk from MSCI Global Standard Indexes due to low liquidity",
+      "timestamp": "2026-08-13T06:44:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8616115/ini-alasan-msci-depak-saham-goto",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI Removes PT GoTo Gojek Tokopedia Tbk (GOTO) from MSCI Indonesia Index Effective August 31, 2026",
+      "timestamp": "2026-08-13T06:00:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/118137/alasan-msci-keluarkan-goto-dari-indeks",
+      "tags": [
+        "Global Index",
+        "Stock Buyback",
+        "Stock Split",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI Keeps Indonesia in Emerging Market but Drops GoTo Gojek Tokopedia and Charoen Pokphand Indonesia from Global Standard Cap Index",
+      "timestamp": "2026-08-13T05:52:00",
+      "source": "https://investasi.kontan.co.id/news/review-terbaru-msci-indonesia-masih-masuk-emerging-market",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI August 2026 Index Review removes PT GoTo Gojek Tokopedia Tbk and downgrades PT Charoen Pokphand Indonesia Tbk, affecting ten Indonesian stocks",
+      "timestamp": "2026-08-13T05:51:00",
+      "source": "https://investasi.kontan.co.id/news/resmi-ini-hasil-review-indeks-msci-agustus-2026-cek-prediksi-pasar-saham",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI August 2026 review removes PT GoTo Gojek Tokopedia Tbk and downgrades PT Charoen Pokphand Indonesia Tbk to Small‑Cap",
+      "timestamp": "2026-08-13T05:35:00",
+      "source": "https://www.antaranews.com/berita/5691920/msci-umumkan-tinjauan-agustus-dua-saham-di-indeks-utama-terdampak",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI August 2026 Review Removes CPIN and GOTO from Global Standard Index and Cuts Nine Stocks from Small Cap",
+      "timestamp": "2026-08-13T05:31:00",
+      "source": "https://money.kompas.com/read/2026/08/13/053127226/hasil-review-msci-agustus-cpin-dan-goto-keluar-dari-global-standard-9-saham",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI August 2026 review keeps Indonesia in Emerging Markets but drops PT GoTO Gojek Tokopedia Tbk and PT Charoen Pokphand Indonesia Tbk from Global Standard Indexes",
+      "timestamp": "2026-08-13T05:30:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/118136/review-agustus-2026-indonesia-tetap-di-emerging-markets-msci",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI removes ten Indonesian stocks, including PT GoTo Gojek Tokopedia and PT Charoen Pokphand Indonesia, from its indexes",
+      "timestamp": "2026-08-13T05:27:00",
+      "source": "https://market.bisnis.com/read/20260813/7/1995836/msci-rombak-indeks-10-saham-indonesia-terdepak",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI to Remove PT GoTo Gojek Tokopedia Tbk (GOTO) from MSCI Indonesia Index Effective Sept. 1, 2026",
+      "timestamp": "2026-08-13T05:21:00",
+      "source": "https://investasi.kontan.co.id/news/likuiditas-anjlok-saham-goto-terdepak-dari-indeks-msci-indonesia",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI Confirms Indonesia Remains in Emerging Market Classification While Removing Ten Indonesian Stocks from Its Indexes",
+      "timestamp": "2026-08-13T05:12:00",
+      "source": "https://market.bisnis.com/read/20260813/7/1995838/msci-tegaskan-indonesia-tetap-di-emerging-market",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI removes ten Indonesian stocks from its global indexes, effective 31 August 2026",
+      "timestamp": "2026-08-13T05:11:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8616092/cek-daftar-10-saham-ri-didepak-msci",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI removes PT GoTo Gojek Tokopedia Tbk from Global Standard Index and reclassifies PT Charoen Pokphand Indonesia Tbk to Global Small Cap",
+      "timestamp": "2026-08-13T05:08:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/118135/msci-depak-goto-dari-indeks-cpin-turun-kelas",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI removes PT GoTo Gojek Tokopedia Tbk from the MSCI Indonesia Investable Market Index due to low liquidity",
+      "timestamp": "2026-08-13T05:02:00",
+      "source": "https://market.bisnis.com/read/20260813/192/1995837/msci-hapus-goto-dari-index-ini-alasannya",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI’s decision surprises market by removing eight Indonesian stocks from Small Cap index",
+      "timestamp": "2026-08-13T04:56:17",
+      "source": "https://investor.id/market/450142/keputusan-msci-jadi-kejutan-buat-8-saham",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI removes PT Charoen Pokphand Indonesia Tbk (CPIN) from its Global Standard Index and transfers it to the Small Cap Index",
+      "timestamp": "2026-08-13T04:55:00",
+      "source": "https://emitennews.com/news/emiten-unggas-cpin-ditendang-msci-pindah-ke-small-cap-index",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI removes PT GoTo Gojek Tokopedia Tbk from Global Standard Index and demotes PT Charoen Pokphand Indonesia Tbk to Small Cap",
+      "timestamp": "2026-08-13T04:50:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8616088/msci-depak-goto-cpin-turun-kasta",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI Review Removes PT GoTo Gojek Tokopedia Tbk from Index and Downgrades Charoen Pokphand Indonesia Tbk",
+      "timestamp": "2026-08-13T04:41:00",
+      "source": "https://investasi.kontan.co.id/news/hasil-review-msci-saham-goto-terdepak-saham-cpin-turun-kelas",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Charoen Pokphand Indonesia Tbk and PT GoTo Gojek Tokopedia Tbk removed from MSCI Global Standard Index",
+      "timestamp": "2026-08-13T04:18:00",
+      "source": "https://emitennews.com/news/goto-dan-cpin-didepak-dari-msci-global-standard-index",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI August 2026 review removes PT GoTo Gojek Tokopedia Tbk from Global Standard Index and shifts PT Charoen Pokphand Indonesia Tbk to Global Small Cap",
+      "timestamp": "2026-08-13T04:12:00",
+      "source": "https://market.bisnis.com/read/20260813/7/1995833/msci-agustus-2026-cpin-turun-kelas-goto-keluar",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Investors await MSCI’s Indonesia review as analysts project short‑ to long‑term IHSG moves",
+      "timestamp": "2026-08-12T16:30:00",
+      "source": "https://investasi.kontan.co.id/news/investor-menanti-keputusan-msci-cek-proyeksi-ihsg-dalam-jangka-pendek-hingga-panjang",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI Rebalancing to Downgrade CPIN to Small Cap and Remove GOTO from Global Standard Index",
+      "timestamp": "2026-08-12T14:43:00",
+      "source": "https://market.bisnis.com/read/20260812/7/1995643/kisi-kisi-hasil-rebalancing-indeks-msci-saham-cpin-turun-kelas-goto-didepak",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "BRIDS flags downgrade risk for CPIN, possible deletion of GOTO and removal risk for FILM ahead of MSCI rebalancing on 12 August 2026",
+      "timestamp": "2026-08-12T06:51:35",
+      "source": "https://investor.id/market/449993/bisikan-pengumuman-msci",
+      "tags": [
+        "Global Index",
+        "Risk & Compliance",
+        "Politics & Regulation",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Popular market roundup highlights GGRM price drop and new profit forecasts for GOTO",
+      "timestamp": "2026-08-12T04:51:35",
+      "source": "https://investor.id/market/449992/berita-populer-saham-ggrm-berubah-arah-hingga-target-harga-goto-terbaru",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "KB Valbury upgrades PT GoTo Gojek Tokopedia Tbk earnings outlook for 2026‑2027 and sets new price target",
+      "timestamp": "2026-08-11T14:26:47",
+      "source": "https://investor.id/market/449920/ramalan-laba-goto-akhir-2026-2027-keluar-target-harga-baru",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "DJP refunds over‑collected PPh 22 tax to merchants, delaying collection by Tokopedia, Shopee, Lazada and Blibli to 1 Nov 2026",
+      "timestamp": "2026-08-10T11:07:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/117782/djp-kembalikan-pajak-pedagang-online-yang-terlanjur-dipungut",
+      "tags": [
+        "Government Policy",
+        "Politics & Regulation",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Indonesia postpones marketplace tax collection to November 2026, affecting Shopee, Tokopedia, Lazada and Blibli",
+      "timestamp": "2026-08-07T09:37:00",
+      "source": "https://money.kompas.com/read/2026/08/07/093736626/pemerintah-tunda-lagi-pajak-marketplace-demi-jaga-daya-beli-baru-berlaku",
+      "tags": [
+        "Government Policy",
+        "Ministry",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Tax Expert Calls Marketplace Tax Delay a Bad Precedent for Indonesia’s Tax System",
+      "timestamp": "2026-08-06T16:30:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/117525/pakar-soal-penundaan-pajak-marketplace-preseden-buruk-perpajakan",
+      "tags": [
+        "Government Policy",
+        "Politics & Regulation",
+        "Ministry",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "CGS International Sekuritas reports only 18% of covered issuers missed H1 2026 earnings targets and revises its top‑pick list",
+      "timestamp": "2026-08-06T11:10:00",
+      "source": "https://investasi.kontan.co.id/news/laba-emiten-semester-i-beri-sinyal-membaik-cgs-hanya-18-emiten-meleset-dari-target",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Central Bank",
+        "Government Policy",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia postpones marketplace tax collection, affecting Tokopedia, Shopee, Lazada and Blibli",
+      "timestamp": "2026-08-05T15:46:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/117414/purbaya-tunda-lagi-pungut-pajak-marketplace-semula-agustus-2026",
+      "tags": [
+        "Government Policy",
+        "Politics & Regulation",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "GoTo Gojek Tokopedia’s Shift to Profit Raises Question of Buying Worthiness",
+      "timestamp": "2026-08-04T05:57:00",
+      "source": "https://investasi.kontan.co.id/news/ubah-rugi-jadi-laba-apakah-saham-gocapan-ini-layak-dibeli",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "LQ45 constituents post solid first‑half 2026 earnings, with top blue‑chip picks highlighted for semester II",
+      "timestamp": "2026-08-04T05:39:00",
+      "source": "https://investasi.kontan.co.id/news/laba-emiten-lq45-lampaui-ekspektasi-cek-saham-blue-chip-pilihan-semester-ii-2026",
+      "tags": [
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Interest Rate",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analyst highlights strong first‑half 2026 earnings across LQ45 constituents and points to several stocks with upside potential through year‑end 2026",
+      "timestamp": "2026-08-03T19:32:00",
+      "source": "https://investasi.kontan.co.id/news/laba-emiten-lq45-moncer-analis-beberkan-deretan-saham-potensial-hingga-akhir-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Performance of PT GoTo Gojek Tokopedia Tbk, PT Bukalapak.com Tbk, and PT Global Digital Niaga Tbk Varies in H1‑2026 – Which Is Most Attractive?",
+      "timestamp": "2026-08-03T16:39:00",
+      "source": "https://investasi.kontan.co.id/news/kinerja-goto-buka-dan-beli-beragam-mana-yang-paling-menarik",
+      "tags": [
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Weekly roundup: Tsingshan halts nickel exports, Perry Warjiyo steps down as Bank Indonesia governor, and Bursa Efek Indonesia revises IDX30 and LQ45 constituents",
+      "timestamp": "2026-08-03T07:40:00",
+      "source": "https://www.idnfinancials.com/id/news/66916/top-sepekan-tsingshan-setop-ekspor-perry-mundur-evaluasi-indeks-bei",
+      "tags": [
+        "Central Bank",
+        "Export",
+        "Capital & Funding",
+        "Debt Issuance",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk posts Q2 net profit of Rp252 billion, surpassing forecasts",
+      "timestamp": "2026-07-31T20:01:00",
+      "source": "https://emitennews.com/news/kantongi-laba-bersih-di-q2-analis-ini-nilai-goto-lampaui-ekspektasi",
+      "tags": [
+        "Financial Metrics",
+        "Digital Payments",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Goto Gojek Tokopedia Tbk's fintech unit overtakes on‑demand services as the main profit driver in Q2 2026",
+      "timestamp": "2026-07-31T15:04:30",
+      "source": "https://investor.id/market/448640/goto-temukan-mesin-pertumbuhan-dan-laba-di-luar-ojol",
+      "tags": [
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk reports Rp 607 bn net profit in H1 2026, with GoPay driving growth amid 8% ride‑hailing commission",
+      "timestamp": "2026-07-31T12:55:00",
+      "source": "https://investasi.kontan.co.id/news/goto-cetak-laba-rp-607-miliar-gopay-jadi-motor-pertumbuhan-saat-komisi-ojol-naik",
+      "tags": [
+        "Financial Metrics",
+        "Digital Payments",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "CPIN and GOTO Face Potential Removal from MSCI Index in August 2026 Rebalancing",
+      "timestamp": "2026-07-31T05:45:00",
+      "source": "https://investasi.kontan.co.id/news/rebalancing-msci-agustus-2026-cpin-dan-goto-terancam-keluar-dari-indeks",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk reports fintech (GoPay) eclipses on‑demand unit as primary profit driver, delivering two consecutive quarters of net profit in 2026",
+      "timestamp": "2026-07-30T19:03:00",
+      "source": "https://market.bisnis.com/read/20260730/7/1992423/brief-insight-gopay-salip-gojek-mesin-baru-pertumbuhan-goto-mulai-terbentuk",
+      "tags": [
+        "Digital Payments",
+        "Financial Metrics",
+        "Business Expansion",
+        "Politics & Regulation",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk Reports Two Consecutive Quarterly Profits and Raises Fintech EBITDA Outlook",
+      "timestamp": "2026-07-30T18:19:00",
+      "source": "https://investasi.kontan.co.id/news/goto-berhasil-mencetak-laba-dua-kuartal-beruntun-simak-prospek-sahamnya",
+      "tags": [
+        "Financial Metrics",
+        "Digital Payments",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "GoTo maintains 2026 adjusted EBITDA target of Rp3.2‑Rp3.4 trillion",
+      "timestamp": "2026-07-30T18:08:00",
+      "source": "https://market.bisnis.com/read/20260730/192/1992202/mesin-baru-pertumbuhan-goto-pertahankan-target-ebitda-2026",
+      "tags": [
+        "Financial Metrics",
+        "Digital Payments",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Goto Gojek Tokopedia Tbk posts Rp607 billion net profit in H1 2026, analysts upbeat",
+      "timestamp": "2026-07-30T17:49:22",
+      "source": "https://investor.id/market/448490/saham-gocap-tapi-digandrungi-analis-cuan-bisa-100-lebih",
+      "tags": [
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk posts Rp607 billion net profit in H1 2026 as GoPay fintech GTV jumps 82% YoY",
+      "timestamp": "2026-07-30T17:30:45",
+      "source": "https://investor.id/market/448496/goto-kembali-cuan-bisnis-gopay-melesat-di-semester-i-2026",
+      "tags": [
+        "Financial Metrics",
+        "Digital Payments",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "GOTO stays at break‑even price of Rp 50 despite back‑to‑back quarterly profits, analysts cite sell‑order resistance",
+      "timestamp": "2026-07-30T16:50:39",
+      "source": "https://investor.id/market/448486/goto-tetap-gocap-walau-cetak-laba-beruntun-ini-garagaranya",
+      "tags": [
+        "Analyst Ratings",
+        "Stock Buyback",
+        "Market Sentiment",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk Reports Consecutive Quarterly Profits as Fintech Drives Growth",
+      "timestamp": "2026-07-30T16:07:00",
+      "source": "https://investasi.kontan.co.id/news/goto-bukukan-laba-dalam-dua-kuartal-beruntun-fintech-kini-jadi-mesin-pertumbuhan",
+      "tags": [
+        "Financial Metrics",
+        "Stock Buyback",
+        "Digital Payments",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk reports Q2 2026 net profit of Rp252 billion as fintech (GoPay) drives earnings growth",
+      "timestamp": "2026-07-30T14:26:00",
+      "source": "https://market.bisnis.com/read/20260730/192/1992345/gak-cuma-dari-gojek-goto-andalkan-cuan-dari-bisnis-gopay",
+      "tags": [
+        "Financial Metrics",
+        "Digital Payments",
+        "Credit",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "GOTO reports 8% commission cut impact, adjusts ODS EBITDA target but relies on Gopay growth",
+      "timestamp": "2026-07-30T14:19:00",
+      "source": "https://investasi.kontan.co.id/news/bos-goto-buka-bukaan-dampak-komisi-8-ke-kinerja-berat-tapi-masih-terkendali",
+      "tags": [
+        "Financial Metrics",
+        "Digital Payments",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "MSCI August 2026 review predicts CPIN downgrade, GOTO and FILM removal from indices",
+      "timestamp": "2026-07-30T14:11:00",
+      "source": "https://market.bisnis.com/read/20260730/7/1992333/prediksi-tinjauan-indeks-msci-agustus-2026-cpin-turun-kelas-goto-film-terdepak",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Analyst projects PT GoTo Gojek Tokopedia Tbk’s outlook positive through 2026, driven by GoPay fintech growth",
+      "timestamp": "2026-07-30T12:01:00",
+      "source": "https://money.kompas.com/read/2026/07/30/120104526/prospek-kinerja-goto-diyakini-positif-hingga-akhir-2026-ditopang-gopay",
+      "tags": [
+        "Analyst Ratings",
+        "Digital Payments",
+        "Financial Metrics",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk reports H1 2026 net profit of Rp607.49 billion and revises performance target amid an 8% ojol commission cap",
+      "timestamp": "2026-07-30T08:50:00",
+      "source": "https://www.idnfinancials.com/id/news/66773/laba-goto-melesat-target-kinerja-direvisi-imbas-komisi-ojol-8",
+      "tags": [
+        "Financial Metrics",
+        "Capital & Funding",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk cancels transfer of 32.19 billion treasury shares",
+      "timestamp": "2026-07-30T08:11:00",
+      "source": "https://money.kompas.com/read/2026/07/30/081100426/goto-batalkan-pengalihan-32-19-miliar-saham-treasuri-ini-alasannya-",
+      "tags": [
+        "Capital & Funding",
+        "Ownership",
+        "Shareholders General Meeting",
+        "OJK",
+        "Politics & Regulation",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "GoTo adjusts EBITDA targets, boosting fintech outlook to offset 8% ride‑hailing commission cut effective July 1, 2026",
+      "timestamp": "2026-07-30T06:16:00",
+      "source": "https://market.bisnis.com/read/20260730/192/1992131/goto-genjot-bisnis-fintech-antisipasi-dampak-potongan-komisi-ojol-8",
+      "tags": [
+        "Financial Metrics",
+        "Digital Payments",
+        "Government Policy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk reports H1 2026 profit and analysts keep buy rating with Rp 80 target",
+      "timestamp": "2026-07-30T05:26:00",
+      "source": "https://investasi.kontan.co.id/news/goto-cetak-laba-semester-i-2026-saham-masih-rp-50-layak-dibeli",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Politics & Regulation",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "GoTo posts Rp607.5 billion profit in H1 2026, achieving back‑to‑back quarterly gains",
+      "timestamp": "2026-07-29T19:54:36",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260729184514-92-1386315/goto-raup-laba-rp6075-m-semester-i-2026-untung-dua-kuartal-beruntun",
+      "tags": [
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "GoTo posts record Q2 2026 profit and CEO outlines 8% commission strategy",
+      "timestamp": "2026-07-29T19:54:34",
+      "source": "https://www.cnbcindonesia.com/market/20260729191825-17-754879/ceo-goto-ungkap-strategi-bikin-cuan-perusahaan",
+      "tags": [
+        "Financial Metrics",
+        "Digital Transformation",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk reports net profit for two consecutive quarters in H1 2026",
+      "timestamp": "2026-07-29T18:54:34",
+      "source": "https://www.cnbcindonesia.com/market/20260729182055-17-754861/goto-cetak-laba-bersih-dua-kuartal-beruntun-bukti-kekuatan-ekosistem",
+      "tags": [
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "GoTo reports Q2 2026 net profit of Rp252 billion, driven by 83% YoY GTV growth and strong Fintech performance",
+      "timestamp": "2026-07-29T18:50:00",
+      "source": "https://market.bisnis.com/read/20260729/192/1992125/ini-faktor-pendorong-goto-kembali-cetak-laba-pada-kuartal-ii2026",
+      "tags": [
+        "Financial Metrics",
+        "Digital Payments",
+        "Stock Buyback",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk reports Rp 252 billion net profit in Q2 2026 and announces a Rp 32 billion share buyback",
+      "timestamp": "2026-07-29T18:46:07",
+      "source": "https://investor.id/market/448347/cuan-lagi-nih-induk-gojekgopay-cetak-laba-bersih-di-kuartal-ii-2026",
+      "tags": [
+        "Financial Metrics",
+        "Stock Buyback",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk reports Rp 252 billion net profit in Q2 2026, delivering profit for two consecutive quarters",
+      "timestamp": "2026-07-29T18:46:07",
+      "source": "https://investor.id/market/448348/laba-bersih-goto-membesar-untung-dua-kuartal-beruntun",
+      "tags": [
+        "Financial Metrics",
+        "Stock Buyback",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk turns H1 2026 loss into profit, revenue rises 28.4% YoY",
+      "timestamp": "2026-07-29T18:45:00",
+      "source": "https://emitennews.com/news/goto-ubah-rugi-jadi-laba-pendapatan-naik-284-persen-semester-i-2026",
+      "tags": [
+        "Financial Metrics",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk reports H1 2026 profit of Rp 607.48 billion and 28.4% revenue growth",
+      "timestamp": "2026-07-29T18:12:00",
+      "source": "https://money.kompas.com/read/2026/07/29/181257626/goto-catat-laba-rp-607-miliar-pendapatan-naik-28-persen",
+      "tags": [
+        "Financial Metrics",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk reports 28% revenue growth and Rp607.5 billion net profit in H1 2026",
+      "timestamp": "2026-07-29T17:56:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8595837/pendapatan-naik-28-goto-cetak-laba-bersih-rp-607-5-m-di-semester-i-2026",
+      "tags": [
+        "Financial Metrics",
+        "Business Expansion",
+        "Digital Payments",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk reports net profit of Rp 607.5 billion in H1 2026, marking a turnaround from a loss in H1 2025",
+      "timestamp": "2026-07-29T17:56:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8595837/goto-cetak-laba-bersih-lagi-q2-lanjutkan-kinerja-positif",
+      "tags": [
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk reports Q2 2026 net profit of Rp252 billion, marking second consecutive profitable quarter",
+      "timestamp": "2026-07-29T17:48:00",
+      "source": "https://market.bisnis.com/read/20260729/7/1992103/kuartal-2-2026-goto-kembali-cetak-laba-bersih",
+      "tags": [
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "GoTo Gojek reports net profit of Rp 607.48 billion for the first half of 2026",
+      "timestamp": "2026-07-29T17:41:00",
+      "source": "https://investasi.kontan.co.id/news/goto-gojek-goto-bukukan-laba-bersih-rp-60748-miliar-pada-semester-i-2026",
+      "tags": [
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk reports net profit of Rp607 billion and 28% revenue growth in H1 2026",
+      "timestamp": "2026-07-29T17:40:00",
+      "source": "https://investasi.kontan.co.id/news/semester-i-2026-goto-cetak-laba-bersih-rp607-miliar-pendapatan-naik",
+      "tags": [
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk reports net profit of Rp607 billion in H1 2026",
+      "timestamp": "2026-07-29T17:32:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/116599/goto-cetak-laba-bersih-rp607-m-di-semester-i-2026",
+      "tags": [
+        "Annual Report",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "GoTo Gojek Announces Capital Reduction by Canceling 32.19 Billion Treasury Shares",
+      "timestamp": "2026-07-29T12:06:00",
+      "source": "https://investasi.kontan.co.id/news/goto-gojek-goto-pangkas-modal-dengan-membatalkan-3219-miliar-saham-tresuri",
+      "tags": [
+        "Stock Buyback",
+        "Capital & Funding",
+        "Shareholders General Meeting",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Analyst consensus remains bullish on PT GoTo Gojek Tokopedia Tbk (GOTO) ahead of its July 29 earnings release",
+      "timestamp": "2026-07-29T09:49:47",
+      "source": "https://www.cnbcindonesia.com/market/20260729091403-17-754631/jelang-rilis-lapkeu-begini-rekomendasi-analis-terhadap-saham-goto",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Government Policy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk to Release First-Half 2026 Earnings, Continuing Profit Trend",
+      "timestamp": "2026-07-29T09:41:00",
+      "source": "https://market.bisnis.com/read/20260729/192/1991948/goto-rilis-laporan-keuangan-semester-i2026-hari-ini-lanjutkan-tren-laba",
+      "tags": [
+        "Annual Report",
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk cancels ESOP share transfer and plans capital reduction",
+      "timestamp": "2026-07-29T08:25:00",
+      "source": "https://www.idnfinancials.com/id/news/66714/investor-sulit-jual-saham-goto-buka-opsi-pengurangan-modal",
+      "tags": [
+        "Capital & Funding",
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk schedules Q2 2026 earnings release and conference call for 29 July 2026",
+      "timestamp": "2026-07-29T07:47:12",
+      "source": "https://investor.id/market/448250/goto-ungkap-lapkeu",
+      "tags": [
+        "Annual Report",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "GoTo cancels treasury‑share ESOP plan and will reduce capital using 32.19 billion buyback shares",
+      "timestamp": "2026-07-29T05:47:12",
+      "source": "https://investor.id/market/448240/goto-terus-terang-soal-saham",
+      "tags": [
+        "Stock Buyback",
+        "Capital & Funding",
+        "Shareholders General Meeting",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk cancels employee stock option program and will retire 32,186,417,803 treasury shares through a capital reduction",
+      "timestamp": "2026-07-28T20:49:00",
+      "source": "https://investasi.kontan.co.id/news/goto-batalkan-program-saham-karyawan-saham-tresuri-ditarik-lewat-pengurangan-modal",
+      "tags": [
+        "Stock Buyback",
+        "Capital & Funding",
+        "Shareholders General Meeting",
+        "Politics & Regulation",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analyst forecasts continued profitability for PT Goto Gojek Tokopedia Tbk in Q2 2026",
+      "timestamp": "2026-07-28T15:53:30",
+      "source": "https://investor.id/market/448174/prediksi-laba-goto-kuartal-ii2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Foreign Investment",
+        "Digital Payments",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk to Release Q2‑2026 Results on July 29, Analysts Maintain Buy Recommendations",
+      "timestamp": "2026-07-28T15:01:18",
+      "source": "https://www.cnbcindonesia.com/market/20260728135625-17-754426/goto-siap-umumkan-kinerja-kuartal-ii-2026-begini-respon-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Stock Buyback",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analyst forecasts PT GoTo Gojek Tokopedia Tbk to remain profitable in Q2 2026 ahead of earnings release",
+      "timestamp": "2026-07-28T14:08:00",
+      "source": "https://money.kompas.com/read/2026/07/28/140824526/jelang-rilis-kinerja-analis-prediksi-goto-masih-cetak-laba-pada-kuartal-ii",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Global Index",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts Maintain Buy Recommendations for PT GoTo Gojek Tokopedia Tbk Ahead of First‑Half 2026 Earnings",
+      "timestamp": "2026-07-28T13:32:00",
+      "source": "https://investasi.kontan.co.id/news/jelang-rilis-kinerja-semester-i-mayoritas-analis-rekomendasikan-beli-saham-goto",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Government Policy",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BEI announces KOMPAS100 index rebalancing, removing BREN, HMSP and six others while adding BNBR, COIN and seven new constituents",
+      "timestamp": "2026-07-28T05:00:00",
+      "source": "https://investasi.kontan.co.id/news/resmi-bei-rombak-indeks-kompas100-bren-hingga-hmsp-keluar-bnbr-dan-coin-masuk",
+      "tags": [
+        "Global Index"
+      ]
+    },
+    {
+      "title": "Mirae Asset notes Indonesia MSCI weight stabilizes at 0.5% as CPIN faces downgrade and GOTO’s index status remains uncertain",
+      "timestamp": "2026-07-27T10:40:00",
+      "source": "https://investasi.kontan.co.id/news/bobot-indonesia-di-msci-naik-lagi-saham-goto-dan-cpin-jadi-perhatian-investor",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Institutional Investor",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk's shares remain at Rp 50, prompting potential placement on BEI's special monitoring board",
+      "timestamp": "2026-07-27T09:08:48",
+      "source": "https://investor.id/market/447953/persimpangan-goto",
+      "tags": [
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Mirae Asset predicts MSCI August 2026 review could trigger up to Rp1.5 trillion passive outflows, with CPIN facing downgrade and GOTO’s inclusion uncertain",
+      "timestamp": "2026-07-26T06:35:00",
+      "source": "https://market.bisnis.com/read/20260726/7/1991070/review-msci-agustus-berpotensi-picu-outflow-rp15-triliun-cek-nasib-cpin-goto",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Mirae Asset Sekuritas expects CPIN to be downgraded to MSCI small‑cap in August review while GOTO’s index inclusion remains uncertain.",
+      "timestamp": "2026-07-25T12:48:00",
+      "source": "https://market.bisnis.com/read/20260725/7/1991003/rebalancing-msci-agustus-cpin-diproyeksi-turun-kelas-goto-masih-tanda-tanya",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MSCI Quarterly Review May Lead to CPIN Demotion and Potential GOTO Removal, Triggering Up to Rp1.5 trillion Outflow",
+      "timestamp": "2026-07-24T15:46:48",
+      "source": "https://investor.id/market/447781/update-msci-dua-saham-top-rawan-kena-hantam-potensi-outflow-gede",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Capital & Funding",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Bank Jago records 24% credit growth, 0.8% NPL in H1 2026 as analysts maintain buy recommendations",
+      "timestamp": "2026-07-24T07:51:27",
+      "source": "https://investor.id/market/447721/kinerja-arto-meledak-target-saham-gurih",
+      "tags": [
+        "Credit",
+        "Analyst Ratings",
+        "Sharia Economy",
+        "Partnerships & Agreements",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesian government to enforce 8% commission cap on ride‑hailing apps, affecting PT GoTo Gojek Tokopedia Tbk and Grab",
+      "timestamp": "2026-07-23T16:00:00",
+      "source": "https://www.idnfinancials.com/id/news/66461/pemerintah-bakal-tertibkan-aplikator-ojol-soal-komisi-8",
+      "tags": [
+        "Government Policy",
+        "Politics & Regulation",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Brokerages Issue New Price Targets for PT GoTo Gojek Tokopedia Tbk Ahead of Semester I 2026 Earnings Release",
+      "timestamp": "2026-07-21T20:05:00",
+      "source": "https://market.bisnis.com/read/20260721/7/1989894/target-harga-saham-goto-jelang-rilis-kinerja-keuangan-semester-i2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Popular news roundup covering MKPI’s dividend payout, GOTO’s stock negotiation trade, SURGE’s broadband launch, and CTRA’s sales figures",
+      "timestamp": "2026-07-16T04:43:27",
+      "source": "https://investor.id/market/446694/berita-populer-dividen-besar-mkpi-cair-hingga-transaksi-saham-goto-gojek-goto",
+      "tags": [
+        "Dividend Announcement",
+        "Product Launch",
+        "Financial Metrics",
+        "Award",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "GoTo Gojek Tokopedia shares trade 5.8 million lots on BEI negotiation market, total value Rp 29 billion",
+      "timestamp": "2026-07-15T10:40:55",
+      "source": "https://investor.id/market/446586/nego-saham-goto-gojek-goto",
+      "tags": [
+        "Foreign Investment",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Investor Count for PT GoTo Gojek Tokopedia Tbk Rises 85,625 While Share Price Remains Stuck at Rp 50 Floor",
+      "timestamp": "2026-07-14T05:00:00",
+      "source": "https://investasi.kontan.co.id/news/meskipun-harga-terjebak-di-level-gocapan-jumlah-investor-saham-lq45-ini-naik-85625",
+      "tags": [
+        "Domestic Investor",
+        "Stock Buyback",
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "GoTo and Grab Cut Ride‑Hailing Commission to 8% Starting July 1 2026",
+      "timestamp": "2026-07-12T14:56:00",
+      "source": "https://money.kompas.com/read/2026/07/12/145600126/menteri-umkm-sebut-libur-sekolah-jadi-penyebab-pendapatan-ojol-turun",
+      "tags": [
+        "Government Policy",
+        "Ministry",
+        "Politics & Regulation",
+        "Partnerships & Agreements",
+        "Capital & Funding",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG rises 0.83% to 5,924 as foreign investors heavily buy ten leading stocks",
+      "timestamp": "2026-07-11T20:32:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-menguat-083-ke-5924-cek-saham-yang-banyak-diburu-asing-sepekan-terakhir",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Foreign investors posted a net purchase of 224 million shares on July 10 despite overall sluggish trading volume.",
+      "timestamp": "2026-07-10T18:00:00",
+      "source": "https://www.idnfinancials.com/id/news/65923/meski-lesu-perdagangan-asing-net-buy-224-juta-lembar",
+      "tags": [
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "List of LQ45 stocks with the lowest and highest PER on 9 July 2026, highlighting strong gains in DEWA and BRPT",
+      "timestamp": "2026-07-10T06:25:00",
+      "source": "https://investasi.kontan.co.id/news/daftar-saham-per-terendah-tertinggi-lq45-9-juli-2026-dewa-dan-brpt-jadi-sorotan",
+      "tags": [
+        "Financial Metrics",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Jerry Ng‑led investors consider merging PT BFI Finance Indonesia Tbk with PT Bank Jago Tbk",
+      "timestamp": "2026-07-09T20:40:00",
+      "source": "https://money.kompas.com/read/2026/07/09/204001326/taipan-jerry-ng-disebut-pertimbangkan-merger-bfi-finance-dan-bank-jago",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Foreign Investment",
+        "Institutional Investor",
+        "Ownership",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Foreign investors continued net selling on the IDX on July 9, with Bukalapak.com Tbk posting the largest net sell of 468.44 million shares.",
+      "timestamp": "2026-07-09T18:45:00",
+      "source": "https://www.idnfinancials.com/id/news/65862/perdagangan-asing-terus-net-sell-buka-top-sell-468-juta-lembar",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "LQ45 stocks with the lowest and highest PER on 8 July 2026 saw most shares close lower",
+      "timestamp": "2026-07-09T05:58:00",
+      "source": "https://investasi.kontan.co.id/news/daftar-saham-per-terendah-tertinggi-lq45-8-juli-2026-mayoritas-kompak-merah",
+      "tags": [
+        "Financial Metrics",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Said Iqbal Cancels Visit to PT ByteDance Indonesia After Agreement to Avoid Layoffs at Tokopedia and TikTok",
+      "timestamp": "2026-07-07T09:05:00",
+      "source": "https://money.kompas.com/read/2026/07/07/090518126/said-iqbal-batalkan-kunjungan-ke-bytedance-soal-isu-phk-tokopedia-ini",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Partnerships & Agreements",
+        "Politics & Regulation",
+        "Risk & Compliance"
+      ]
+    },
+    {
+      "title": "Tokopedia lays off 450 employees in June 2024 following ByteDance’s 75% acquisition via TikTok",
+      "timestamp": "2026-07-07T08:14:00",
+      "source": "https://money.kompas.com/read/2026/07/07/081447526/phk-tokopedia-tiktok-jadi-sorotan-ini-kronologi-isu-hingga-klarifikasi-terbaru",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Ownership",
+        "Capital & Funding",
+        "Business Expansion",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "TikTok Tokopedia Group asserts workforce reorganization, not mass layoffs, after Labor Minister’s statement",
+      "timestamp": "2026-07-06T17:49:00",
+      "source": "https://money.kompas.com/read/2026/07/06/174922926/menaker-sebut-tiktok-tokopedia-sedang-tata-ulang-sdm-bukan-phk",
+      "tags": [
+        "Politics & Regulation"
+      ]
+    },
+    {
+      "title": "Union protests mass layoffs of 1,250 Tokopedia employees after TikTok’s 75% acquisition",
+      "timestamp": "2026-07-06T13:35:52",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260706124752-92-1377374/buruh-respons-soal-kabar-phk-karyawan-tiktok-tokopedia",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Foreign Investment",
+        "Risk & Compliance",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "GoTo and Grab Indonesia announce implementation of 8% commission for ride‑hailing services effective July 1 2026",
+      "timestamp": "2026-07-06T12:35:00",
+      "source": "https://money.kompas.com/read/2026/07/06/123546326/komisi-ojol-8-persen-berlaku-bagaimana-implementasinya",
+      "tags": [
+        "Bearish",
+        "Production & Operations"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk says Tokopedia workforce reduction will not materially affect its earnings",
+      "timestamp": "2026-07-06T11:11:00",
+      "source": "https://market.bisnis.com/read/20260706/192/1985775/goto-ungkap-dampak-pemangkasan-karyawan-tokopedia-ke-kinerja",
+      "tags": [
+        "Financial Metrics",
+        "Joint Venture",
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Tokopedia Faces Mass Layoffs of Up to 90% of Workforce Amid ByteDance’s AI Agentic Shift",
+      "timestamp": "2026-07-05T16:15:00",
+      "source": "https://money.kompas.com/read/2026/07/05/161500326/phk-massal-tokopedia--ketika-ai-agentic-dari-china-mengetuk-pintu-kita",
+      "tags": [
+        "Artificial Intelligence",
+        "Digital Transformation",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "GoTo explains mass layoffs affecting up to 90% of Tokopedia employees",
+      "timestamp": "2026-07-05T14:43:15",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260705140910-92-1377090/alasan-goto-phk-massal-karyawan-tokopedia",
+      "tags": [
+        "Ownership",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk says 90% Tokopedia layoffs will not materially affect its results",
+      "timestamp": "2026-07-05T13:43:15",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260705131149-92-1377084/goto-angkat-suara-soal-phk-90-persen-karyawan-di-tokopedia",
+      "tags": [
+        "Financial Metrics",
+        "Mergers & Acquisitions",
+        "Joint Venture",
+        "Ownership",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Popular news roundup: GoTo’s outlook and Group Djarum’s tender offer for IBST",
+      "timestamp": "2026-07-04T05:06:05",
+      "source": "https://investor.id/market/445238/berita-populer-arah-goto-hingga-grup-djarum-siap-borong-saham-ibst",
+      "tags": [
+        "Analyst Ratings",
+        "Mergers & Acquisitions",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "BRI Danareksa lowers PT GoTo Gojek Tokopedia Tbk's growth outlook as ODS commission drops to 8% and keeps price target near Rp50",
+      "timestamp": "2026-07-03T15:06:38",
+      "source": "https://investor.id/market/445170/hilal-goto-tinggalkan-gocap-terlihat-minimal-mentok-di-sini",
+      "tags": [
+        "Analyst Ratings",
+        "Stock Buyback",
+        "Global Index",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "BP Tapera signs agreement with PT GoTo Gojek Tokopedia Tbk to offer zero‑down‑payment subsidized KPR to Gojek drivers",
+      "timestamp": "2026-07-03T14:33:00",
+      "source": "https://money.kompas.com/read/2026/07/03/143300526/bp-tapera-driver-ojol-bisa-akses-kpr-subsidi-dp-0-persen",
+      "tags": [
+        "Partnerships & Agreements",
+        "Mortgage",
+        "Housing Loan",
+        "Subsidies & Incentives",
+        "Government Policy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BRI Danareksa Sekuritas trims FY26‑28 ODS revenue and EBITDA forecasts for PT GoTo Gojek Tokopedia Tbk after 8% platform commission adoption",
+      "timestamp": "2026-07-03T10:36:55",
+      "source": "https://investor.id/market/445129/goto-kena-pangkas",
+      "tags": [
+        "Analyst Ratings",
+        "Stock Buyback",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "DPR deputy criticizes driver income decline despite 8% OJOL commission cut announced by GoTo Gojek Tokopedia Tbk and Grab Teknologi Indonesia",
+      "timestamp": "2026-07-02T21:01:00",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260702150850-92-1376065/dpr-respons-pendapatan-driver-turun-meski-tarif-ojol-dipangkas",
+      "tags": [
+        "Politics & Regulation",
+        "Government Policy",
+        "Ministry",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Indonesia appoints Tokopedia, Blibli, Shopee and Lazada as tax collectors for PPh 22 starting Aug 1 2026",
+      "timestamp": "2026-07-02T19:47:00",
+      "source": "https://money.kompas.com/read/2026/07/02/194736126/purbaya-semua-marketplace-nantinya-akan-jadi-pemungut-pph-pasal-22",
+      "tags": [
+        "Government Policy",
+        "Ministry",
+        "Politics & Regulation"
+      ]
+    },
+    {
+      "title": "Indonesia appoints Tokopedia, Shopee, Lazada and Blibli as PPh 22 tax collectors",
+      "timestamp": "2026-07-02T18:50:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/113795/purbaya-pastikan-semua-marketplace-jadi-pemungut-pph-22",
+      "tags": [
+        "Ministry",
+        "Government Policy",
+        "Politics & Regulation"
+      ]
+    },
+    {
+      "title": "TikTok, majority shareholder of Tokopedia, says layoffs affecting up to 90% of staff are not an easy decision",
+      "timestamp": "2026-07-02T13:15:57",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260702122221-92-1375950/tiktok-tokopedia-phk-karyawan-bukan-keputusan-mudah",
+      "tags": [
+        "R&D",
+        "Ownership",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Buyback actions fail to boost stock performance of Indonesian issuers",
+      "timestamp": "2026-07-01T21:02:00",
+      "source": "https://investasi.kontan.co.id/news/aksi-buyback-belum-mampu-mengungkit-performa-saham-emiten",
+      "tags": [
+        "Stock Buyback",
+        "Market Sentiment",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "DJP designates Tokopedia, Shopee, Lazada and Blibli as PPh 22 collectors; six online seller categories exempt",
+      "timestamp": "2026-07-01T18:56:36",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260701160335-532-1375596/bos-djp-sebut-6-kategori-pedagang-online-tak-dikenai-pajak-penghasilan",
+      "tags": [
+        "Government Policy",
+        "Politics & Regulation"
+      ]
+    },
+    {
+      "title": "Indonesia designates Tokopedia, Shopee, Lazada and Blibli as PPh 22 collectors effective Aug 1, 2026",
+      "timestamp": "2026-07-01T18:23:00",
+      "source": "https://money.kompas.com/read/2026/07/01/182319726/pajak-e-commerce-efektif-berlaku-1-agustus-2026-penyesuaian-sebulan",
+      "tags": [
+        "Ministry",
+        "Government Policy",
+        "Politics & Regulation"
+      ]
+    },
+    {
+      "title": "Shopee, TikTok Shop, Tokopedia, Lazada and Blibli Agree with Indonesian Government to Hold Service Fee Increases for UMKM",
+      "timestamp": "2026-07-01T17:38:00",
+      "source": "https://money.kompas.com/read/2026/07/01/173811826/pemerintah-dan-marketplace-sepakat-tunda-kenaikan-biaya-layanan-untuk-umkm",
+      "tags": [
+        "Partnerships & Agreements",
+        "Government Policy",
+        "Politics & Regulation",
+        "Ministry",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Indonesia’s Finance Ministry appoints Tokopedia, Shopee, Lazada and Blibli as new income‑tax (PPh 22) collectors for e‑commerce merchants",
+      "timestamp": "2026-07-01T14:16:13",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260701132513-92-1375530/kemenkeu-tunjuk-4-marketplace-ini-jadi-pemungut-baru-pajak-apa-saja",
+      "tags": [
+        "Ministry",
+        "Government Policy",
+        "Politics & Regulation"
+      ]
+    },
+    {
+      "title": "Tokopedia, Shopee, Lazada and Blibli to Collect Income Tax for Online Sellers Starting 1 August 2026",
+      "timestamp": "2026-07-01T13:16:13",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260701111534-532-1375452/siap-siap-penghasilan-pedagang-online-kena-pajak-mulai-1-agustus",
+      "tags": [
+        "Government Policy",
+        "Digital Payments",
+        "Politics & Regulation"
+      ]
+    },
+    {
+      "title": "Indonesia's Tax Authority Appoints Tokopedia, Shopee, Lazada, and Blibli as PPh Pasal 22 Collectors for Marketplace Merchants",
+      "timestamp": "2026-07-01T11:56:00",
+      "source": "https://money.kompas.com/read/2026/07/01/115615526/ditjen-pajak-resmi-tunjuk-tokopedia-shopee-lazada-dan-blibli-pungut-pph",
+      "tags": [
+        "Politics & Regulation",
+        "Government Policy",
+        "Digital Transformation"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk Implements 8% App Commission for GoRide Service Effective July 1, 2026",
+      "timestamp": "2026-07-01T06:44:00",
+      "source": "https://money.kompas.com/read/2026/07/01/064448526/gojek-terapkan-potongan-aplikasi-8-persen-untuk-goride-hari-ini",
+      "tags": [
+        "Government Policy",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign investors record net buy of 156.82 million shares on IDX, with PT GoTo Gojek Tokopedia Tbk posting the largest net purchase",
+      "timestamp": "2026-06-30T21:35:00",
+      "source": "https://www.idnfinancials.com/id/news/65420/perdagangan-asing-net-buy-156-juta-goto-top-buy",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Buyback wave hits ASII and GOTO as IHSG under pressure, analyst says",
+      "timestamp": "2026-06-25T19:35:00",
+      "source": "https://market.bisnis.com/read/20260625/7/1983336/gelombang-buyback-asii-goto-cs-saat-ihsg-tertekan-ini-kata-analis",
+      "tags": [
+        "Stock Buyback",
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk sees Rp 13.9 billion of shares traded on the BEI negotiation market",
+      "timestamp": "2026-06-25T09:41:34",
+      "source": "https://investor.id/market/444063/nego-saham-goto",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia to levy 0.5% e‑commerce income tax on UMKM from 1 July 2026, DJP says no double taxation",
+      "timestamp": "2026-06-24T18:10:00",
+      "source": "https://money.kompas.com/read/2026/06/24/181048126/pajak-e-commerce-mulai-1-juli-djp-tak-ada-pungutan-dobel",
+      "tags": [
+        "Government Policy",
+        "Ministry",
+        "Politics & Regulation"
+      ]
+    },
+    {
+      "title": "GOTO faces 8% commission cap but fintech drives growth, analysts maintain buy",
+      "timestamp": "2026-06-24T17:32:00",
+      "source": "https://investasi.kontan.co.id/news/regulasi-komisi-8-bayangi-goto-fintech-jadi-andalan-pertumbuhan",
+      "tags": [
+        "Analyst Ratings",
+        "Government Policy",
+        "Digital Payments",
+        "Financial Metrics",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "FTSE Russell removal and outlook for PT GoTo Gojek Tokopedia Tbk, PT Trimegah Bangun Persada Tbk, PT Delta Dunia Makmur Tbk and PT Nusantara Sejahtera Raya Tbk",
+      "timestamp": "2026-06-23T13:58:00",
+      "source": "https://investasi.kontan.co.id/news/dicoret-ftse-russell-begini-prospek-goto-nckl-doid-dan-cnma",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "BUMA Internasional Grup Tbk (DOID) deemed most attractive after FTSE Russell removal",
+      "timestamp": "2026-06-22T17:42:00",
+      "source": "https://investasi.kontan.co.id/news/dicoret-dari-ftse-russell-saham-ini-justru-dinilai-paling-menarik",
+      "tags": [
+        "Global Index",
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors accumulate net buys in PT GoTo Gojek Tokopedia Tbk as stock remains at the Rp 50 price cap",
+      "timestamp": "2026-06-22T08:31:27",
+      "source": "https://investor.id/stock/443554/aksi-senyap-di-saham-goto-nilainya-gak-mainmain",
+      "tags": [
+        "Foreign Investment",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Bank Central Asia Tbk and PT Bank Negara Indonesia Tbk Lead Foreign Net Buying as Indonesia Market Rebounds",
+      "timestamp": "2026-06-19T21:55:00",
+      "source": "https://investasi.kontan.co.id/news/bbca-dan-bbni-teratas-cermati-saham-yang-banyak-diborong-asing-akhir-pekan-ini",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk stays at Rp 50 gocap as foreign investors net buy Rp 275.89 billion and broker maintains buy rating",
+      "timestamp": "2026-06-19T08:24:43",
+      "source": "https://investor.id/stock/443290/emiten-rugi-berbalik-untungsaham-anteng-di-gocap-diserok-terus",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Shareholders General Meeting",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "GoTo Gojek Tokopedia launches Rp3.5 trillion share buyback program",
+      "timestamp": "2026-06-19T07:40:00",
+      "source": "https://emitennews.com/news/hari-ini-goto-mulai-buyback-rp35-triliun-via-ciptadana-sekuritas",
+      "tags": [
+        "Stock Buyback",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk approves Rp3.5 trillion share buyback at 2026 RUPS",
+      "timestamp": "2026-06-18T23:41:47",
+      "source": "https://investor.id/corporate-action/443266/goto-beres-gelar-rups-cek-hasilnya-di-sini",
+      "tags": [
+        "Stock Buyback",
+        "Shareholders General Meeting",
+        "Annual Report",
+        "Executive Changes",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia's IHSG falls to 6,172 as foreign investors sell Rp 893 billion",
+      "timestamp": "2026-06-18T19:09:00",
+      "source": "https://money.kompas.com/read/2026/06/18/190949226/ihsg-turun-ke-6172-asing-kabur-dari-bursa-rp-893-miliar",
+      "tags": [
+        "Foreign Investment"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk approves Rp 3.5 trillion share buyback and reappoints Agus DW Martowardojo as Chairman at 2026 RUPS",
+      "timestamp": "2026-06-18T15:15:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8537098/rups-goto-setujui-buyback-rp-3-5-t-agus-martowardojo-tetap-komut",
+      "tags": [
+        "Stock Buyback",
+        "Executive Changes",
+        "Annual Report",
+        "Shareholders General Meeting",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "GOTO prepares Rp3.5 trillion buyback as its shares remain stuck at the Gocap level",
+      "timestamp": "2026-06-18T15:06:41",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260618141702-92-1370433/saham-mandek-di-level-gocap-goto-siapkan-dana-buyback-rp35-t",
+      "tags": [
+        "Stock Buyback",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk plans up to Rp 3.5 trillion share buyback as stock remains flat",
+      "timestamp": "2026-06-18T07:30:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8536000/harga-saham-masih-gocap-goto-siap-buyback-gede-gedean",
+      "tags": [
+        "Stock Buyback",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk sees continued foreign buying ahead of June 18 shareholders meetings and a Rp 3.5 trillion buyback plan",
+      "timestamp": "2026-06-18T07:03:42",
+      "source": "https://investor.id/stock/443125/saham-goto-dilahap-terus-keputusan-penting-akan-diambil",
+      "tags": [
+        "Foreign Investment",
+        "Shareholders General Meeting",
+        "Stock Buyback",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Rafly Umarsyah buys Shares of PT GoTo Gojek Tokopedia Tbk",
+      "timestamp": "2026-06-18T04:13:00",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-16062026-3046-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk faces heavy sell pressure despite Rp 3.5 trillion buyback announcement",
+      "timestamp": "2026-06-17T13:16:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8535302/saham-goto-masih-gocap-usai-pengumuman-buyback-antrean-jual-175-juta-lot",
+      "tags": [
+        "Stock Buyback",
+        "Market Sentiment",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk’s shares remain flat despite announcing a Rp 3.5 trillion buyback",
+      "timestamp": "2026-06-17T12:12:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8535208/saham-goto-tetap-gocap-meski-umumkan-buyback-gede-gedean",
+      "tags": [
+        "Stock Buyback",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk announces up to Rp 3.5 trillion share buyback",
+      "timestamp": "2026-06-17T11:33:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8535137/goto-umumkan-buyback-saham-rp-3-5-triliun",
+      "tags": [
+        "Stock Buyback",
+        "Capital & Funding",
+        "Shareholders General Meeting",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk (GOTO) sees foreign net buying and buy recommendation as it faces removal from MSCI and FTSE indices",
+      "timestamp": "2026-06-17T08:16:48",
+      "source": "https://investor.id/stock/442987/saham-goto-masuk-list",
+      "tags": [
+        "Foreign Investment",
+        "Analyst Ratings",
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "ANTM, EMAS, and BUMI could re‑enter MSCI index",
+      "timestamp": "2026-06-14T09:06:36",
+      "source": "https://investor.id/stock/442644/antm-emas-bumi-bisa-masuk-indeks-msci-lagi",
+      "tags": [
+        "Global Index",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Telkom (TLKM) Revises Capex Guidance Amid Rupiah Weakness, Cuts Target Price",
+      "timestamp": "2026-06-13T20:15:00",
+      "source": "https://investasi.kontan.co.id/news/telkom-tlkm-revisi-capex-hadapi-pelemahan-rupiah-target-harga-saham-dipangkas",
+      "tags": [
+        "Capital & Funding",
+        "Currency & FX",
+        "Analyst Ratings",
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT GoTo Gojek Tokopedia Tbk faces removal from MSCI and FTSE indices amid strong foreign net buying",
+      "timestamp": "2026-06-13T12:38:50",
+      "source": "https://investor.id/stock/442629/saham-goto-lagi-dilahap-terus",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "GoTo Gojek Tokopedia Insider Wuzhen Xiong Reports Shareholding Change",
+      "timestamp": "2026-06-12T16:33:44",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12062026-7618-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    }
+  ],
+  "corporate_events": [
+    {
+      "date": "2026-06-18",
+      "type": "RUPS",
+      "detail": "Waktu: 10:30:00 · Lokasi: Ballroom 3, THE Ritz-Carlton Jakarta, Pacific Place, Jalan Jendral Sudirman KAV 52-53, Sudirman Central Business District, Jakarta, Indonesia, 12190 Kota Adm. Jakartaselatan · Agenda #1: Shareholders approved the 2025 annual report and audited financial statements, granting full discharge to the Board of Directors and Commissioners for their 2025 duties.\nAgenda #2: The meeting approved the 2026 honorarium for Commissioners and delegated authority to the Nomination and Remuneration Committee to set specific salaries and bonuses for both boards.\nAgenda #3: Shareholders approved appointing Purwanto, Susanti dan Surja (Ernst & Young Global Limited) to audit the company's 2026 consolidated financial statements.\nAgenda #4: The company presented a report regarding the realization of the use of proceeds to shareholders, which required no formal resolution.\nAgenda #5: The company reported the conclusion of its share buyback period which ran from June 19, 2025, to June 18, 2026.\nAgenda #6: Shareholders approved renewing the authority to issue up to 1.5% of paid-up capital annually for 10 years for employee and management share programs.\nAgenda #7: The meeting approved amending the Articles of Association to increase issued and paid-up capital for the Share Ownership Program and authorized the Board of Commissioners to execute the issuance.\nAgenda #8: Shareholders approved a share buyback plan for 2026-2027 with a maximum budget allocation of Rp3,500,000,000,000.\nAgenda #9: The meeting approved adjusting the company's purpose and objectives in Article 3 of the Articles of Association to align with the 2025 Indonesia Standard Industrial Classification.\nAgenda #10: Marjorie Tiu Lao was reappointed as Independent Commissioner with a term effective until the 2029 Annual General Meeting of Shareholders.\nAgenda #11: Agus D.W. Martowardojo was reappointed as President Commissioner with a term effective until the 2029 Annual General Meeting of Shareholders.\nAgenda #12: Santoso Kartono was reappointed as a Commissioner with a term effective until the 2029 Annual General Meeting of Shareholders.\nAgenda #13: The Board of Directors was authorized to notarize the new composition of the Board of Commissioners and Directors and notify the relevant authorities.\nAgenda #14: The company utilized a multiple voting share structure with Series A and Series B shares to determine meeting quorums and voting rights."
+    }
+  ],
+  "context_period": {
+    "start": "2026-04-01",
+    "end": "2026-09-30"
+  },
+  "source_availability": {
+    "company_fundamentals": true,
+    "corporate_events": true,
+    "news": true,
+    "peer_comparison": true,
+    "market_context": true,
+    "sector_market_series": false
+  },
+  "news_archive": {
+    "pages": 11,
+    "rows": 325,
+    "pagination_exhausted": true,
+    "totals_seen": [
+      325
+    ]
+  }
 }

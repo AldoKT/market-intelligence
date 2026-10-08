@@ -3,8 +3,8 @@
   "as_of": "2026-09-30",
   "identity": {
     "symbol": "ICBP",
-    "company_name": null,
-    "peer_group": null
+    "company_name": "Indofood CBP Sukses Makmur Tbk",
+    "peer_group": "Food & Beverage"
   },
   "current": {
     "scope": "NO_CONTEXT",
@@ -20,5 +20,1968 @@
   "daily_market": {},
   "notes": [
     "Dataset scope: 28 reviewed stocks. No full-market or peer-context score is computed."
-  ]
+  ],
+  "company_snapshot": {
+    "price_date": "2026-10-07",
+    "captured_at": "2026-10-08",
+    "sector": "Consumer Non-Cyclicals",
+    "industry": "Processed Foods",
+    "website": "www.indofoodcbp.com",
+    "market_cap": 79009426700000,
+    "annual_year": 2025,
+    "valuation_year": 2026,
+    "metrics": [
+      {
+        "label": "Pendapatan",
+        "value": "Rp 74,85 T"
+      },
+      {
+        "label": "Laba bersih",
+        "value": "Rp 9,22 T"
+      },
+      {
+        "label": "Total aset",
+        "value": "Rp 135,54 T"
+      },
+      {
+        "label": "Ekuitas",
+        "value": "Rp 73,68 T"
+      },
+      {
+        "label": "EPS",
+        "value": "Rp 791,03"
+      },
+      {
+        "label": "P/E TTM",
+        "value": "10,69×"
+      },
+      {
+        "label": "P/B",
+        "value": "1,50×"
+      }
+    ]
+  },
+  "fundamental_peers": [
+    {
+      "symbol": "ICBP",
+      "name": "Indofood CBP Sukses Makmur Tbk",
+      "year": 2025,
+      "market_cap": 79300974400000,
+      "pe": 10.728884738694,
+      "pb": 1.50287981589361,
+      "revenue": 74850923000000,
+      "in_universe": true
+    },
+    {
+      "symbol": "INDF",
+      "name": "Indofood Sukses Makmur Tbk",
+      "year": 2025,
+      "market_cap": 60145921525000,
+      "pe": 6.2844173835115,
+      "pb": 0.784565128128173,
+      "revenue": 123493214000000,
+      "in_universe": true
+    },
+    {
+      "symbol": "MYOR",
+      "name": "Mayora Indah Tbk",
+      "year": 2025,
+      "market_cap": 31413973113625,
+      "pe": 9.2177179318999,
+      "pb": 1.72927850553736,
+      "revenue": 38681562261207,
+      "in_universe": true
+    },
+    {
+      "symbol": "STTP",
+      "name": "PT Siantar Top Tbk",
+      "year": 2025,
+      "market_cap": 11593500000000,
+      "pe": 9.36988668902899,
+      "pb": 1.46860993581221,
+      "revenue": 5235956036238,
+      "in_universe": false
+    },
+    {
+      "symbol": "GOOD",
+      "name": "PT Garudafood Putra Putri Jaya Tbk",
+      "year": 2025,
+      "market_cap": 11438349451050,
+      "pe": 16.3092318820657,
+      "pb": 2.92859186424139,
+      "revenue": 13119632631326,
+      "in_universe": false
+    },
+    {
+      "symbol": "YUPI",
+      "name": "PT Yupi Indo Jelly Gum Tbk",
+      "year": 2025,
+      "market_cap": 10424276214000,
+      "pe": 16.7772377712066,
+      "pb": 5.99072911146275,
+      "revenue": 2935842711060,
+      "in_universe": false
+    },
+    {
+      "symbol": "TGKA",
+      "name": "Tigaraksa Satria Tbk",
+      "year": 2025,
+      "market_cap": 4473059692500,
+      "pe": 10.5429554116482,
+      "pb": 1.97346150698445,
+      "revenue": 13069112000000,
+      "in_universe": false
+    },
+    {
+      "symbol": "TBLA",
+      "name": "Tunas Baru Lampung Tbk",
+      "year": 2025,
+      "market_cap": 3675477756920,
+      "pe": 4.16105639385761,
+      "pb": 0.380129727557395,
+      "revenue": 22878488000000,
+      "in_universe": false
+    },
+    {
+      "symbol": "ROTI",
+      "name": "PT Nippon Indosari Corpindo Tbk",
+      "year": 2025,
+      "market_cap": 3526298666160,
+      "pe": 18.4917140332352,
+      "pb": 2.21045783548198,
+      "revenue": 3757615147215,
+      "in_universe": false
+    },
+    {
+      "symbol": "BEEF",
+      "name": "PT Estika Tata Tiara Tbk.",
+      "year": 2025,
+      "market_cap": 3459226328748,
+      "pe": 44.4619913128996,
+      "pb": 9.3544215185729,
+      "revenue": 6474280326569,
+      "in_universe": false
+    }
+  ],
+  "market_history": [
+    {
+      "date": "2026-04-01",
+      "ihsg": 7184.438,
+      "market_cap": 12646140309231200
+    },
+    {
+      "date": "2026-04-02",
+      "ihsg": 7026.782,
+      "market_cap": 12301402169484936
+    },
+    {
+      "date": "2026-04-06",
+      "ihsg": 6989.426,
+      "market_cap": 12181292965738515
+    },
+    {
+      "date": "2026-04-07",
+      "ihsg": 6971.027,
+      "market_cap": 12220087895953627
+    },
+    {
+      "date": "2026-04-08",
+      "ihsg": 7279.209,
+      "market_cap": 12745135690725105
+    },
+    {
+      "date": "2026-04-09",
+      "ihsg": 7307.589,
+      "market_cap": 12927661360702306
+    },
+    {
+      "date": "2026-04-10",
+      "ihsg": 7458.496,
+      "market_cap": 13183485554446575
+    },
+    {
+      "date": "2026-04-13",
+      "ihsg": 7500.187,
+      "market_cap": 13334711369769658
+    },
+    {
+      "date": "2026-04-14",
+      "ihsg": 7675.951,
+      "market_cap": 13680203483861089
+    },
+    {
+      "date": "2026-04-15",
+      "ihsg": 7623.586,
+      "market_cap": 13577551326427693
+    },
+    {
+      "date": "2026-04-16",
+      "ihsg": 7621.382,
+      "market_cap": 13580909513734445
+    },
+    {
+      "date": "2026-04-17",
+      "ihsg": 7634.004,
+      "market_cap": 13631805736754862
+    },
+    {
+      "date": "2026-04-20",
+      "ihsg": 7594.111,
+      "market_cap": 13530051609880990
+    },
+    {
+      "date": "2026-04-21",
+      "ihsg": 7559.38,
+      "market_cap": 13439346111420433
+    },
+    {
+      "date": "2026-04-22",
+      "ihsg": 7541.612,
+      "market_cap": 13331962629649015
+    },
+    {
+      "date": "2026-04-23",
+      "ihsg": 7378.606,
+      "market_cap": 13176851273619842
+    },
+    {
+      "date": "2026-04-24",
+      "ihsg": 7129.49,
+      "market_cap": 12732776963937495
+    },
+    {
+      "date": "2026-04-27",
+      "ihsg": 7106.52,
+      "market_cap": 12687518028997883
+    },
+    {
+      "date": "2026-04-28",
+      "ihsg": 7072.392,
+      "market_cap": 12590034125678447
+    },
+    {
+      "date": "2026-04-29",
+      "ihsg": 7101.226,
+      "market_cap": 12635384034178860
+    },
+    {
+      "date": "2026-04-30",
+      "ihsg": 6956.804,
+      "market_cap": 12378413759882228
+    },
+    {
+      "date": "2026-05-04",
+      "ihsg": 6971.953,
+      "market_cap": 12411009903513114
+    },
+    {
+      "date": "2026-05-05",
+      "ihsg": 7057.106,
+      "market_cap": 12626309574250122
+    },
+    {
+      "date": "2026-05-06",
+      "ihsg": 7092.467,
+      "market_cap": 12699830398460331
+    },
+    {
+      "date": "2026-05-07",
+      "ihsg": 7174.321,
+      "market_cap": 12778962713690869
+    },
+    {
+      "date": "2026-05-08",
+      "ihsg": 6969.396,
+      "market_cap": 12402407487340402
+    },
+    {
+      "date": "2026-05-11",
+      "ihsg": 6905.62,
+      "market_cap": 12280030079664830
+    },
+    {
+      "date": "2026-05-12",
+      "ihsg": 6858.899,
+      "market_cap": 12142773427321380
+    },
+    {
+      "date": "2026-05-13",
+      "ihsg": 6723.32,
+      "market_cap": 11821690407165346
+    },
+    {
+      "date": "2026-05-18",
+      "ihsg": 6599.24,
+      "market_cap": 11535132183193835
+    },
+    {
+      "date": "2026-05-19",
+      "ihsg": 6370.679,
+      "market_cap": 11105372542285443
+    },
+    {
+      "date": "2026-05-20",
+      "ihsg": 6318.5,
+      "market_cap": 10959980491971602
+    },
+    {
+      "date": "2026-05-21",
+      "ihsg": 6094.941,
+      "market_cap": 10549507904767653
+    },
+    {
+      "date": "2026-05-22",
+      "ihsg": 6162.045,
+      "market_cap": 10631421768765943
+    },
+    {
+      "date": "2026-05-25",
+      "ihsg": 6206.349,
+      "market_cap": 10692705367587005
+    },
+    {
+      "date": "2026-05-26",
+      "ihsg": 6130.19,
+      "market_cap": 10613054794742598
+    },
+    {
+      "date": "2026-05-29",
+      "ihsg": 6127.381,
+      "market_cap": 10725485605975573
+    },
+    {
+      "date": "2026-06-02",
+      "ihsg": 6195.427,
+      "market_cap": 10891278361519046
+    },
+    {
+      "date": "2026-06-03",
+      "ihsg": 5941.066,
+      "market_cap": 10451829355656557
+    },
+    {
+      "date": "2026-06-04",
+      "ihsg": 5839.785,
+      "market_cap": 10259085293637228
+    },
+    {
+      "date": "2026-06-05",
+      "ihsg": 5594.765,
+      "market_cap": 9803592659706909
+    },
+    {
+      "date": "2026-06-08",
+      "ihsg": 5342.137,
+      "market_cap": 9414771844192581
+    },
+    {
+      "date": "2026-06-09",
+      "ihsg": 5746.648,
+      "market_cap": 10095511071726246
+    },
+    {
+      "date": "2026-06-10",
+      "ihsg": 5902.376,
+      "market_cap": 10341178905408617
+    },
+    {
+      "date": "2026-06-11",
+      "ihsg": 5886.032,
+      "market_cap": 10287950241660193
+    },
+    {
+      "date": "2026-06-12",
+      "ihsg": 6007.656,
+      "market_cap": 10520825968837381
+    },
+    {
+      "date": "2026-06-15",
+      "ihsg": 6254.966,
+      "market_cap": 10899408952482727
+    },
+    {
+      "date": "2026-06-17",
+      "ihsg": 6220.74,
+      "market_cap": 10776148487729844
+    },
+    {
+      "date": "2026-06-18",
+      "ihsg": 6172.34,
+      "market_cap": 10736980009961606
+    },
+    {
+      "date": "2026-06-19",
+      "ihsg": 6177.139,
+      "market_cap": 10784594953877444
+    },
+    {
+      "date": "2026-06-22",
+      "ihsg": 6116.69,
+      "market_cap": 10708711379319414
+    },
+    {
+      "date": "2026-06-23",
+      "ihsg": 6101.333,
+      "market_cap": 10685047810158781
+    },
+    {
+      "date": "2026-06-24",
+      "ihsg": 5883.881,
+      "market_cap": 10312029789078805
+    },
+    {
+      "date": "2026-06-25",
+      "ihsg": 5999.038,
+      "market_cap": 10515718128770631
+    },
+    {
+      "date": "2026-06-26",
+      "ihsg": 5896.134,
+      "market_cap": 10298280398969010
+    },
+    {
+      "date": "2026-06-29",
+      "ihsg": 5820.79,
+      "market_cap": 10179250800138493
+    },
+    {
+      "date": "2026-06-30",
+      "ihsg": 5643.194,
+      "market_cap": 9894028079914985
+    },
+    {
+      "date": "2026-07-01",
+      "ihsg": 5695.116,
+      "market_cap": 10007947906561450
+    },
+    {
+      "date": "2026-07-02",
+      "ihsg": 5744.556,
+      "market_cap": 10060923668899571
+    },
+    {
+      "date": "2026-07-03",
+      "ihsg": 5875.78,
+      "market_cap": 10283558418117973
+    },
+    {
+      "date": "2026-07-06",
+      "ihsg": 5916.07,
+      "market_cap": 10352610980350056
+    },
+    {
+      "date": "2026-07-07",
+      "ihsg": 5986.497,
+      "market_cap": 10462196902308353
+    },
+    {
+      "date": "2026-07-08",
+      "ihsg": 5873.372,
+      "market_cap": 10272894518876036
+    },
+    {
+      "date": "2026-07-09",
+      "ihsg": 5912.442,
+      "market_cap": 10324456194315119
+    },
+    {
+      "date": "2026-07-10",
+      "ihsg": 5924.36,
+      "market_cap": 10336481815483724
+    },
+    {
+      "date": "2026-07-13",
+      "ihsg": 6037.842,
+      "market_cap": 10506156813352519
+    },
+    {
+      "date": "2026-07-14",
+      "ihsg": 6039.521,
+      "market_cap": 10524135196509080
+    },
+    {
+      "date": "2026-07-15",
+      "ihsg": 6041.972,
+      "market_cap": 10548175926837826
+    },
+    {
+      "date": "2026-07-16",
+      "ihsg": 6108.209,
+      "market_cap": 10655671296610599
+    },
+    {
+      "date": "2026-07-17",
+      "ihsg": 6175.535,
+      "market_cap": 10745282583293599
+    },
+    {
+      "date": "2026-07-20",
+      "ihsg": 6231.78,
+      "market_cap": 10832728685598542
+    },
+    {
+      "date": "2026-07-21",
+      "ihsg": 6340.02,
+      "market_cap": 11041209401983643
+    },
+    {
+      "date": "2026-07-22",
+      "ihsg": 6334.476,
+      "market_cap": 11064991318794462
+    },
+    {
+      "date": "2026-07-23",
+      "ihsg": 6315.311,
+      "market_cap": 11058096720739904
+    },
+    {
+      "date": "2026-07-24",
+      "ihsg": 6196.43,
+      "market_cap": 10866941513180025
+    },
+    {
+      "date": "2026-07-27",
+      "ihsg": 6185.783,
+      "market_cap": 10846820086978302
+    },
+    {
+      "date": "2026-07-28",
+      "ihsg": 6130.588,
+      "market_cap": 10748777396682842
+    },
+    {
+      "date": "2026-07-29",
+      "ihsg": 6091.386,
+      "market_cap": 10671925079765237
+    },
+    {
+      "date": "2026-07-30",
+      "ihsg": 6186.363,
+      "market_cap": 10808753111947654
+    },
+    {
+      "date": "2026-07-31",
+      "ihsg": 6236.126,
+      "market_cap": 10919632662108419
+    },
+    {
+      "date": "2026-08-03",
+      "ihsg": 6234.497,
+      "market_cap": 10891533376788029
+    },
+    {
+      "date": "2026-08-04",
+      "ihsg": 6319.613,
+      "market_cap": 11026919553266172
+    },
+    {
+      "date": "2026-08-05",
+      "ihsg": 6351.139,
+      "market_cap": 11081557528513146
+    },
+    {
+      "date": "2026-08-06",
+      "ihsg": 6343.711,
+      "market_cap": 11091230654708629
+    },
+    {
+      "date": "2026-08-07",
+      "ihsg": 6409.654,
+      "market_cap": 11208370900071437
+    },
+    {
+      "date": "2026-08-10",
+      "ihsg": 6365.374,
+      "market_cap": 11127673938712190
+    },
+    {
+      "date": "2026-08-11",
+      "ihsg": 6267.88,
+      "market_cap": 10951983899532200
+    },
+    {
+      "date": "2026-08-12",
+      "ihsg": 6373.849,
+      "market_cap": 11170270993004848
+    },
+    {
+      "date": "2026-08-13",
+      "ihsg": 6301.765,
+      "market_cap": 11047038481790783
+    },
+    {
+      "date": "2026-08-14",
+      "ihsg": 6401.888,
+      "market_cap": 11239913404397486
+    },
+    {
+      "date": "2026-08-18",
+      "ihsg": 6449.83,
+      "market_cap": 11344776423883178
+    },
+    {
+      "date": "2026-08-19",
+      "ihsg": 6394.125,
+      "market_cap": 11242710814171051
+    },
+    {
+      "date": "2026-08-20",
+      "ihsg": 6501.585,
+      "market_cap": 11417105165375641
+    },
+    {
+      "date": "2026-08-21",
+      "ihsg": 6525.69,
+      "market_cap": 11445451211005613
+    },
+    {
+      "date": "2026-08-24",
+      "ihsg": 6501.667,
+      "market_cap": 11400829359169202
+    },
+    {
+      "date": "2026-08-26",
+      "ihsg": 6405.685,
+      "market_cap": 11226539253653372
+    },
+    {
+      "date": "2026-08-27",
+      "ihsg": 6521.75,
+      "market_cap": 11444254799160097
+    },
+    {
+      "date": "2026-08-28",
+      "ihsg": 6518.121,
+      "market_cap": 11427514258790209
+    },
+    {
+      "date": "2026-08-31",
+      "ihsg": 6525.478,
+      "market_cap": 11420266337232824
+    },
+    {
+      "date": "2026-09-01",
+      "ihsg": 6599.943,
+      "market_cap": 11528076154461080
+    },
+    {
+      "date": "2026-09-02",
+      "ihsg": 6595.776,
+      "market_cap": 11521577604064942
+    },
+    {
+      "date": "2026-09-03",
+      "ihsg": 6667.891,
+      "market_cap": 11637538684241799
+    },
+    {
+      "date": "2026-09-04",
+      "ihsg": 6636.475,
+      "market_cap": 11595660058206448
+    },
+    {
+      "date": "2026-09-07",
+      "ihsg": 6619.673,
+      "market_cap": 11571807924987264
+    },
+    {
+      "date": "2026-09-08",
+      "ihsg": 6686.442,
+      "market_cap": 11668902562815871
+    },
+    {
+      "date": "2026-09-09",
+      "ihsg": 6678.201,
+      "market_cap": 11671538636715858
+    },
+    {
+      "date": "2026-09-10",
+      "ihsg": 6589.338,
+      "market_cap": 11526136904331476
+    },
+    {
+      "date": "2026-09-11",
+      "ihsg": 6541.377,
+      "market_cap": 11442963914395062
+    },
+    {
+      "date": "2026-09-14",
+      "ihsg": 6534.693,
+      "market_cap": 11368110758085182
+    },
+    {
+      "date": "2026-09-15",
+      "ihsg": 6461.153,
+      "market_cap": 11257912210981978
+    },
+    {
+      "date": "2026-09-16",
+      "ihsg": 6436.853,
+      "market_cap": 11225219420982876
+    },
+    {
+      "date": "2026-09-17",
+      "ihsg": 6462.431,
+      "market_cap": 11270346560839989
+    },
+    {
+      "date": "2026-09-18",
+      "ihsg": 6441.159,
+      "market_cap": 11262605698050558
+    },
+    {
+      "date": "2026-09-21",
+      "ihsg": 6384.726,
+      "market_cap": 11161910095429389
+    },
+    {
+      "date": "2026-09-22",
+      "ihsg": 6277.044,
+      "market_cap": 10971287923179805
+    },
+    {
+      "date": "2026-09-23",
+      "ihsg": 6374.912,
+      "market_cap": 11141915820582293
+    },
+    {
+      "date": "2026-09-24",
+      "ihsg": 6298.607,
+      "market_cap": 11021365748586840
+    },
+    {
+      "date": "2026-09-25",
+      "ihsg": 6241.892,
+      "market_cap": 10902018198054911
+    },
+    {
+      "date": "2026-09-28",
+      "ihsg": 6147.859,
+      "market_cap": 10755457591436344
+    },
+    {
+      "date": "2026-09-29",
+      "ihsg": 6121.7,
+      "market_cap": 10754858845786069
+    },
+    {
+      "date": "2026-09-30",
+      "ihsg": 6071.138,
+      "market_cap": 10691719699169471
+    }
+  ],
+  "relevant_news": [
+    {
+      "title": "Analyst recommendations for consumer‑staples stocks ICBP, MYOR, CMRY and SIDO for Monday, 28 September 2026",
+      "timestamp": "2026-09-27T17:03:00",
+      "source": "https://investasi.kontan.co.id/news/cek-rekomendasi-saham-consumer-staples-icbp-myor-cmry-dan-sido-untuk-senin-289",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indofood CBP (ICBP) profit pressured by foreign-exchange losses and raw-material costs, stock recommended Hold",
+      "timestamp": "2026-09-25T09:17:00",
+      "source": "https://investasi.kontan.co.id/news/laba-indofood-cbp-icbp-tertekan-rugi-kurs-biaya-bahan-baku-saham-disarankan-hold",
+      "tags": [
+        "Currency & FX",
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Stock Market Gains, Simas Syariah Unggulan Mutual Fund Posts 10.28% Return in August",
+      "timestamp": "2026-09-04T13:24:00",
+      "source": "https://investasi.kontan.co.id/news/pasar-saham-menguat-reksadana-ini-cetak-return-hingga-1028-pada-agustus",
+      "tags": [
+        "Sharia Economy",
+        "Asset Management",
+        "Artificial Intelligence",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Batavia Dana Saham Syariah posts a 6.04% return in August, highlighting data center infrastructure stocks",
+      "timestamp": "2026-09-03T22:23:00",
+      "source": "https://investasi.kontan.co.id/news/return-reksadana-batavia-604-di-agustus-saham-infrastruktur-data-center-dipilih",
+      "tags": [
+        "Sharia Economy",
+        "Financial Metrics",
+        "Asset Management",
+        "Portfolio",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Stocks Likely to Gain in Early September Week",
+      "timestamp": "2026-08-31T06:55:43",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260831062956-92-1398088/intip-daftar-saham-berpeluang-cuan-di-pekan-awal-september",
+      "tags": [
+        "Market Sentiment",
+        "Foreign Investment",
+        "Inflation",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Rising Wheat Prices Pressure Margins of ICBP, INDF, MYOR and Other Consumer Goods Emitters",
+      "timestamp": "2026-08-30T15:37:00",
+      "source": "https://investasi.kontan.co.id/news/kenaikan-harga-gandum-membayangi-kinerja-emiten-konsumer",
+      "tags": [
+        "Commodities",
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Daily stock recommendation roundup for 28 August 2026",
+      "timestamp": "2026-08-28T08:40:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/119753/rangkuman-rekomendasi-saham-hari-ini-28-agustus-2026",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "IHSG projected to stay in correction range ahead of the weekend",
+      "timestamp": "2026-08-28T07:42:17",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260828063719-92-1397191/ihsg-diperkirakan-tertekan-jelang-akhir-pekan",
+      "tags": [
+        "Market Sentiment",
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "IHSG forecast to trade sideways with MNC Sekuritas recommending DEWA, ENRG, ICBP, and PTRO for Friday trading",
+      "timestamp": "2026-08-27T18:36:11",
+      "source": "https://investor.id/market/451847/prediksi-ihsg-dan-rekomendasi-saham-jumat-28-agustus-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Currency & FX",
+        "Politics & Regulation",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "BRI Danareksa Sekuritas recommends SMIL, MAPA and ICBP with new price targets",
+      "timestamp": "2026-08-27T07:59:26",
+      "source": "https://investor.id/market/451770/rekomendasi-saham-hari-ini-kamis-27-agustus-2026-smil-mapa-icbp",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net bought ten Indonesian stocks as the IDX Composite fell 1.48%",
+      "timestamp": "2026-08-27T07:07:00",
+      "source": "https://money.kompas.com/read/2026/08/27/070700026/10-saham-yang-diborong-asing-saat-ihsg-anjlok-1-48-persen",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net bought Rp 1.37 trillion on Wednesday, PT Dian Swastatika Sentosa Tbk topping the list as the IHSG dropped 1.48%",
+      "timestamp": "2026-08-26T20:04:00",
+      "source": "https://investasi.kontan.co.id/news/asing-net-buy-jumbo-rp-137-triliun-saat-ihsg-ambruk-cek-saham-yang-banyak-diborong",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia's Composite Index Opens in Red Zone as Brokers Cite Economic Data and Global Sentiment",
+      "timestamp": "2026-08-26T09:25:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/119479/ihsg-awali-perdagangan-di-zona-merah-ini-penyebabnya",
+      "tags": [
+        "Market Sentiment",
+        "Global Economy",
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "BRI Danareksa raises earnings outlook for PT Indofood CBP Sukses Makmur Tbk, sees up to 40% upside",
+      "timestamp": "2026-08-21T19:23:58",
+      "source": "https://investor.id/market/451175/dapur-cuan-emiten-grup-salim-saham-bisa-naik-40",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Business Expansion",
+        "Export",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Projected to Rise Today",
+      "timestamp": "2026-08-20T07:01:25",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260820060431-92-1394234/ihsg-diramal-bangkit-hari-ini",
+      "tags": [
+        "Market Sentiment",
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "OCBC Sekuritas recommends seven undervalued MSCI‑index stocks, including BBCA, with profit potentials up to 61%",
+      "timestamp": "2026-08-19T15:09:28",
+      "source": "https://investor.id/market/450883/tujuh-saham-msci-murah-potensi-cuan-maksimal-61-bbca-termasuk",
+      "tags": [
+        "Undervalued",
+        "Analyst Ratings",
+        "Global Index",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Popular News Roundup Highlights Sharp Drop in Antam Gold Prices, Indika Energy Valuation, RANS Shareholder Changes, and Indofood CBP Stock Decline",
+      "timestamp": "2026-08-15T05:54:25",
+      "source": "https://investor.id/market/450465/berita-populer-harga-emas-perhiasan-solid-hingga-emas-antam-antm-jatuh-parah",
+      "tags": [
+        "Commodities",
+        "Financial Metrics",
+        "Ownership",
+        "Market Sentiment",
+        "Foreign Investment",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "PT Indofood CBP Sukses Makmur Tbk shares deemed cheap with target price of Rp 12,000",
+      "timestamp": "2026-08-14T06:52:56",
+      "source": "https://investor.id/market/450304/saham-emiten-anthoni-salim-lagi-murahmurahnya-dicicil-terus-ramalan-ke-rp-12000",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Potential upside for PT Indofood CBP Sukses Makmur Tbk instant‑noodle stock",
+      "timestamp": "2026-08-12T14:44:11",
+      "source": "https://investor.id/market/450062/potensi-cuan-saham-raja-mi-instan",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Currency & FX",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Retail investors eye AMRT, HRUM, and ICBP as IHSG poised for limited upside",
+      "timestamp": "2026-08-12T06:07:00",
+      "source": "https://money.kompas.com/read/2026/08/12/060700426/ihsg-bakal-bangkit-investor-ritel-cermati-saham-amrt-hrum-dan-icbp",
+      "tags": [
+        "Domestic Investor",
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Global Economy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Projected to Rebound on 12 August; Analysts Highlight AMRT, HRUM, ICBP, MEDC, ESSA, and WIRG as Buy Targets",
+      "timestamp": "2026-08-11T18:26:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diproyeksi-rebound-pada-rabu-128-berikut-saham-saham-yang-bisa-ditimbang",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Global Economy",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG predicted to test 6,180‑6,200 support with MNC Sekuritas recommending AMRT, EMAS, HRUM and ICBP for Wednesday trading",
+      "timestamp": "2026-08-11T17:55:19",
+      "source": "https://investor.id/market/449950/prediksi-ihsg-dan-rekomendasi-saham-rabu-12-agustus-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Currency & FX"
+      ]
+    },
+    {
+      "title": "Foreign investors net bought Rp 1.24 trillion over the weekend, with ten Indonesian stocks leading the inflows.",
+      "timestamp": "2026-08-07T22:47:00",
+      "source": "https://investasi.kontan.co.id/news/asing-net-buy-jumbo-rp-124-triliun-cek-saham-yang-banyak-diborong-di-akhir-pekan",
+      "tags": [
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Assessing Conglomerate Stock Prospects After First‑Half 2026 Performance",
+      "timestamp": "2026-08-05T19:43:00",
+      "source": "https://investasi.kontan.co.id/news/menakar-prospek-saham-konglomerat-usai-rilis-kinerja-semester-i-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Capital & Funding",
+        "Commodities",
+        "Market Sentiment",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "IHSG rises 0.33% to 6,254 as Asian markets gain, with broker picks highlighting TINS, ASII, and TLKM",
+      "timestamp": "2026-08-04T09:20:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/117170/ihsg-menguat-pagi-ini-susul-bursa-saham-asia",
+      "tags": [
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Phintraco Sekuritas projects IHSG to test 6,250‑6,300 and recommends ICBP, MAPA, MEDC, ELSA, ASII",
+      "timestamp": "2026-08-04T07:25:00",
+      "source": "https://market.bisnis.com/read/20260804/189/1993392/ihsg-dibidik-ke-level-6300-sentimen-global-dan-domestik-makin-kondusif",
+      "tags": [
+        "Analyst Ratings",
+        "Inflation",
+        "Global Economy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "LQ45 constituents post solid first‑half 2026 earnings, with top blue‑chip picks highlighted for semester II",
+      "timestamp": "2026-08-04T05:39:00",
+      "source": "https://investasi.kontan.co.id/news/laba-emiten-lq45-lampaui-ekspektasi-cek-saham-blue-chip-pilihan-semester-ii-2026",
+      "tags": [
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Interest Rate",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Prospects and Recommendations for LQ45 Constituents After First‑Half 2026 Earnings",
+      "timestamp": "2026-08-03T21:07:00",
+      "source": "https://investasi.kontan.co.id/news/cek-prospek-rekomendasi-saham-emiten-lq45-usai-rilis-kinerja-semester-i-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Interest Rate",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Indofood Sukses Makmur Tbk reports 19% drop in net profit to Rp4.72 trillion as sales rise 9% in H1 2026",
+      "timestamp": "2026-08-03T21:00:00",
+      "source": "https://emitennews.com/news/penjualan-emiten-anthoni-salim-naik-laba-bersihnya-turun-jadi-rp472t",
+      "tags": [
+        "Financial Metrics",
+        "Currency & FX",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "INDF and ICBP report profit declines in H1 2026, with cost pressures likely to continue",
+      "timestamp": "2026-08-03T19:47:00",
+      "source": "https://investasi.kontan.co.id/news/laba-indf-dan-icbp-kompak-turun-di-semester-i-2026-tekanan-berpotensi-berlanjut",
+      "tags": [
+        "Financial Metrics",
+        "Currency & FX",
+        "Commodities",
+        "Analyst Ratings",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Analyst highlights strong first‑half 2026 earnings across LQ45 constituents and points to several stocks with upside potential through year‑end 2026",
+      "timestamp": "2026-08-03T19:32:00",
+      "source": "https://investasi.kontan.co.id/news/laba-emiten-lq45-moncer-analis-beberkan-deretan-saham-potensial-hingga-akhir-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Majority of LQ45 Index constituents post solid performance in H1 2026",
+      "timestamp": "2026-08-03T19:03:00",
+      "source": "https://investasi.kontan.co.id/news/mayoritas-emiten-di-indeks-lq45-raih-kinerja-apik-pada-semester-i-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Indofood CBP Sukses Makmur Tbk reports strong first‑half sales but a 33% decline in attributable profit",
+      "timestamp": "2026-08-03T17:09:00",
+      "source": "https://emitennews.com/news/emiten-produsen-indomie-icbp-kemas-penjualan-jumbo-tapi-laba-susut",
+      "tags": [
+        "Financial Metrics",
+        "Dividend Announcement",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Indofood Sukses Makmur Tbk reports 19% drop in first‑half profit to Rp4.72 trillion",
+      "timestamp": "2026-08-03T14:55:40",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260803135901-92-1388008/laba-indofood-anjlok-19-semester-i-anthoni-salim-beber-penyebabnya",
+      "tags": [
+        "Financial Metrics",
+        "Currency & FX",
+        "Global Economy",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Net profit of PT Indofood Sukses Makmur Tbk and PT Indofood CBP Sukses Makmur Tbk falls sharply in H1 2026",
+      "timestamp": "2026-08-03T13:01:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8602062/laba-bersih-indf-icbp-kompak-anjlok-anthoni-salim-buka-suara",
+      "tags": [
+        "Financial Metrics",
+        "Currency & FX",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Indofood Sukses Makmur Tbk's Semester‑I 2026 Net Profit Drops 19% to Rp4.7 trillion, Hit by Foreign‑Exchange Losses",
+      "timestamp": "2026-08-03T12:40:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/117057/laba-indofood-indf-tergerus-rugi-kurs-sisa-rp4-7-t",
+      "tags": [
+        "Financial Metrics",
+        "Currency & FX",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Indofood CBP Sukses Makmur Tbk reports 33% drop in net profit for H1 2026",
+      "timestamp": "2026-08-03T12:04:37",
+      "source": "https://www.cnbcindonesia.com/market/20260803111918-17-755993/laba-produsen-indomie--icbp--anjlok-33-ini-penyebabnya",
+      "tags": [
+        "Financial Metrics",
+        "Currency & FX",
+        "Production & Operations",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Mandiri Sekuritas recommends buy on PT Indofood CBP Sukses Makmur Tbk (ICBP) with target price Rp12,000 after H1 2026 earnings",
+      "timestamp": "2026-08-03T11:02:55",
+      "source": "https://investor.id/market/448874/emiten-anthoni-salim-mumpung-murah-katanya-bisa-ke-rp-12000",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Currency & FX",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Indofood Sukses Makmur Tbk reports 19% profit decline in H1 2026, cites higher unrealized FX losses",
+      "timestamp": "2026-08-03T11:01:44",
+      "source": "https://www.cnbcindonesia.com/market/20260803103553-17-755964/laba-indofood--indf--turun-19-anthoni-salim-ungkap-penyebabnya",
+      "tags": [
+        "Financial Metrics",
+        "Currency & FX",
+        "Capital & Funding",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Indofood Sukses Makmur Tbk Net Profit Falls 19.08% YoY as Financial Expenses Surge 144%",
+      "timestamp": "2026-08-03T10:32:00",
+      "source": "https://market.bisnis.com/read/20260803/192/1993092/beban-keuangan-membengkak-laba-bersih-indofood-indf-susut-1908-yoy",
+      "tags": [
+        "Financial Metrics",
+        "Currency & FX",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Indofood CBP's Net Profit Falls 33.1% YoY in H1 2026 Amid Weak Rupiah",
+      "timestamp": "2026-08-03T10:31:00",
+      "source": "https://market.bisnis.com/read/20260803/192/1993100/rupiah-lesu-laba-bersih-indofood-cbp-icbp-susut-3312-semester-i2026",
+      "tags": [
+        "Financial Metrics",
+        "Currency & FX",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Rupiah Weakening Pressures PT Unilever Indonesia Tbk, PT Mayora Indah Tbk, PT Indofood CBP Sukses Makmur Tbk, and PT Mitra Adiperkasa Tbk as Analysts Adjust Recommendations",
+      "timestamp": "2026-08-03T08:48:00",
+      "source": "https://investasi.kontan.co.id/news/dampak-pelemahan-rupiah-ke-unvr-myor-icbp-dan-mapi-cek-rekomendasi-sahamnya",
+      "tags": [
+        "Currency & FX",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG projected to strengthen in early August trading",
+      "timestamp": "2026-08-03T07:09:51",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260803063055-92-1387822/ihsg-diproyeksi-ceria-awali-pekan-pertama-agustus",
+      "tags": [
+        "Market Sentiment",
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Popular news roundup highlights Bank Central Asia control change and PT Indofood Sukses Makmur Tbk's first‑half 2026 performance",
+      "timestamp": "2026-08-02T04:58:27",
+      "source": "https://investor.id/market/448776/berita-populer-puncak-kendali-bbca-hingga-performa-emiten-grup-salim",
+      "tags": [
+        "Ownership",
+        "Financial Metrics",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "PT Indofood Sukses Makmur Tbk's Net Profit Attributable to Parent Owners Falls 19% in H1 2026",
+      "timestamp": "2026-08-01T13:46:00",
+      "source": "https://emitennews.com/news/laba-bersih-riil-indofood-diatribusikan-ke-pemilik-entitas-induk-turun",
+      "tags": [
+        "Financial Metrics",
+        "Currency & FX",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG climbs 6.13% to 6,236 as foreign investors net‑buy ten large‑cap stocks",
+      "timestamp": "2026-08-01T13:29:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-menguat-613-ke-6236-sebulan-terakhir-cek-saham-yang-banyak-diborong-asing",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Indofood Sukses Makmur Tbk reports 19% decline in H1 2026 net profit to Rp 4.72 trillion",
+      "timestamp": "2026-08-01T11:58:00",
+      "source": "https://investasi.kontan.co.id/news/laba-indf-susut-19-jadi-rp-472-triliun-di-semester-i-ini-penjelasan-manajemen",
+      "tags": [
+        "Annual Report",
+        "Financial Metrics",
+        "Currency & FX",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Indofood Sukses Makmur Tbk posts 9% sales rise and 14% operating profit increase in H1 2026 despite weaker rupiah",
+      "timestamp": "2026-08-01T08:55:02",
+      "source": "https://investor.id/market/448718/anthoni-salim-terus-terang-soal-nasib-indofood",
+      "tags": [
+        "Financial Metrics",
+        "Currency & FX",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Indofood Sukses Makmur Tbk reports Rp65.5 trillion sales and 7% increase in core profit while net profit falls due to unrealized currency loss in H1 2026",
+      "timestamp": "2026-07-31T23:22:00",
+      "source": "https://emitennews.com/news/sales-rp65t-core-profit-indf-naik-meski-laba-bersih-tertekan-kurs",
+      "tags": [
+        "Financial Metrics",
+        "Currency & FX",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Indofood reports first‑half 2026 revenue of Rp 65.53 trillion",
+      "timestamp": "2026-07-31T20:03:00",
+      "source": "https://investasi.kontan.co.id/news/indofood-indf-raih-pendapatan-rp-6553-triliun-pada-semester-i-2026",
+      "tags": [
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indofood CBP's net sales rise 11% to Rp41.86 trillion in H1 2026",
+      "timestamp": "2026-07-31T19:33:00",
+      "source": "https://investasi.kontan.co.id/news/penjualan-indofood-cbp-icbp-tumbuh-11-di-semester-i-2026",
+      "tags": [
+        "Financial Metrics",
+        "Currency & FX",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG rallies as five stocks, including BEST, surge",
+      "timestamp": "2026-07-31T09:00:46",
+      "source": "https://investor.id/market/448574/ihsg-kembali-ngebut-5-saham-tancap-gas",
+      "tags": [
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Expected to Continue Correction on July 30, 2026, with Analyst Recommendations for ESSA, INDF, MDKA, EMAS, ITMG, and TAPG",
+      "timestamp": "2026-07-30T06:42:00",
+      "source": "https://money.kompas.com/read/2026/07/30/064200826/ihsg-rawan-lanjut-koreksi-simak-rekomendasi-saham-yang-berpotensi-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Central Bank"
+      ]
+    },
+    {
+      "title": "IDX Value30 Outperforms IHSG in the Last Month, Here's Why",
+      "timestamp": "2026-07-29T18:47:00",
+      "source": "https://investasi.kontan.co.id/news/kinerja-idx-value30-ungguli-ihsg-dalam-sebulan-terakhir-ini-sebabnya",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Sharia stock indices rebound as energy and commodity stocks lead the recovery",
+      "timestamp": "2026-07-29T18:21:00",
+      "source": "https://investasi.kontan.co.id/news/indeks-saham-syariah-bangkit-dari-tekanan-sektor-energi-dan-komoditas-jadi-penggerak",
+      "tags": [
+        "Sharia Economy",
+        "Commodities",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indofood Sukses Makmur announces Rp 290 per share dividend and PBV below 1",
+      "timestamp": "2026-07-29T06:47:09",
+      "source": "https://investor.id/market/448242/cair-dividen-rp-290-per-saham-pbv-di-bawah-1",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Technical stock recommendations for PT Merdeka Gold Resources Tbk, PT Indofood Sukses Makmur Tbk, and PT Adaro Minerals Indonesia Tbk on 29 July 2026",
+      "timestamp": "2026-07-29T06:25:00",
+      "source": "https://investasi.kontan.co.id/news/simak-rekomendasi-saham-teknikal-hari-ini-297-emas-indf-dan-admr",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Technical stock recommendations for EMAS, INDF, and ADMR for Wednesday, 28 July",
+      "timestamp": "2026-07-29T06:05:00",
+      "source": "https://investasi.kontan.co.id/news/cermati-rekomendasi-teknikal-saham-emas-indf-dan-admr-untuk-rabu-287",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG slides 0.89% as a weaker rupiah and Fed outlook dampen investor sentiment",
+      "timestamp": "2026-07-28T19:24:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-turun-089-pelemahan-rupiah-dan-the-fed-tekan-sentimen-investor",
+      "tags": [
+        "Currency & FX",
+        "Market Sentiment",
+        "Global Economy"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas forecasts IHSG to test 6,050‑6,100 and recommends ADMR, DSNG, ICBP, and TPIA for Wednesday trading",
+      "timestamp": "2026-07-28T18:43:44",
+      "source": "https://investor.id/market/448185/prediksi-ihsg-dan-rekomendasi-saham-rabu-29-juli-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "PT Indofood CBP Sukses Makmur Tbk to Pay Dividend of Rp 265 per Share on 28 July 2026",
+      "timestamp": "2026-07-28T06:45:07",
+      "source": "https://investor.id/market/448091/dividen-rp-265-per-saham-cair",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Financial Reporting Season Begins – Analysts Highlight Banking, Consumer Staples and Telecom as Top Profit‑Generating Sectors for Semester I 2026",
+      "timestamp": "2026-07-26T06:52:00",
+      "source": "https://market.bisnis.com/read/20260726/192/1991071/musim-laporan-keuangan-tiba-cek-sektor-saham-potensi-cuan-boncos-semester-i2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Credit",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Stock Recommendations and IHSG Movement for Wednesday 22 July 2026",
+      "timestamp": "2026-07-22T08:10:00",
+      "source": "https://market.bisnis.com/read/20260722/7/1989939/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-rabu-22-juli-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Interest Rate",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia market outlook ahead of Bank Indonesia’s July 2026 RDG suggests minimal impact on the IHSG",
+      "timestamp": "2026-07-19T18:06:00",
+      "source": "https://investasi.kontan.co.id/news/menilik-nasib-pasar-keuangan-jelang-rdg-bi-bulan-juli-2026",
+      "tags": [
+        "Central Bank",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Remains Shadowed by Hormuz Closure, Energy Stocks Poised for Attention",
+      "timestamp": "2026-07-19T13:19:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-kembali-dibayangi-penutupan-selat-hormuz-saham-energi-berpotensi-curi-perhatian",
+      "tags": [
+        "Commodities",
+        "Currency & FX",
+        "Market Sentiment",
+        "Inflation",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "UBS Sekuritas dominates buying and selling activity among blue‑chip stocks on 17 July 2026",
+      "timestamp": "2026-07-18T06:44:00",
+      "source": "https://investasi.kontan.co.id/news/daftar-broker-pembeli-penjual-blue-chip-17-juli-2026-ubs-sekuritas-disorot",
+      "tags": [
+        "Foreign Investment"
+      ]
+    },
+    {
+      "title": "Broker technical recommendations for PT Astra International Tbk (ASII), PT Sarana Menara Nusantara Tbk (TOWR) and PT Indofood Sukses Makmur Tbk (INDF) ahead of Tuesday trade (14 July 2026)",
+      "timestamp": "2026-07-14T05:00:00",
+      "source": "https://investasi.kontan.co.id/news/cermati-rekomendasi-teknikal-saham-asii-towr-indf-untuk-perdagangan-selasa-147",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Consumer confidence weakens, putting Indonesian retail and electronics issuers at risk",
+      "timestamp": "2026-07-10T09:33:00",
+      "source": "https://investasi.kontan.co.id/news/optimisme-konsumen-melemah-emiten-ritel-dan-elektronik-rentan-tertekan",
+      "tags": [
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "JPMorgan rates MAPA, INDF and ICBP overweight amid weak Indonesian retail sales",
+      "timestamp": "2026-07-09T15:56:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/114474/prospek-cerah-saham-konsumer-usai-rilis-data-penjualan-ritel",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Reasons for the IHSG Closing Up 1.19% Today",
+      "timestamp": "2026-07-07T16:41:52",
+      "source": "https://www.cnbcindonesia.com/market/20260707160842-17-748866/penyebab-ihsg-ditutup-naik-119-hari-ini",
+      "tags": [
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Indonesia's IHSG climbs 0.46% to 5,943 as foreign reserves rise to US$145.6 billion",
+      "timestamp": "2026-07-07T12:20:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-naik-046-ke-5943-sesi-i-selasa-77-cadangan-devisa-naik-ke-us1456-miliar",
+      "tags": [
+        "Currency & FX",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "IHSG opens lower at 5,905 as analysts recommend BBRI, MDKA, TINS, XCEG, ADRO, BBNI, CPIN, EMTK, and ICBP",
+      "timestamp": "2026-07-07T09:30:25",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260707092322-92-1377710/ihsg-meradang-ke-5905-pagi-ini-239-saham-merah",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "IHSG rallies for a fourth day as foreign investors net‑buy ten leading Indonesian stocks",
+      "timestamp": "2026-07-06T20:45:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-reli-4-hari-berturut-turut-cermati-saham-net-buy-terbesar-asing-di-awal-pekan",
+      "tags": [
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Indofood CBP Sukses Makmur Tbk Enters Cum Dividend Date with Rp 26,500 per Lot Dividend",
+      "timestamp": "2026-07-06T14:34:00",
+      "source": "https://investasi.kontan.co.id/news/cum-dividen-tiba-saham-grup-salim-ini-mengandung-dividen-rp-26500lot",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Indonesian issuers entering cum dividend on Monday 6 July 2026 – full list",
+      "timestamp": "2026-07-06T11:20:00",
+      "source": "https://investasi.kontan.co.id/news/sejumlah-emiten-masuk-cum-dividen-hari-ini-senin-67-cek-daftarnya",
+      "tags": [
+        "Dividend Announcement",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "PT Indofood Sukses Makmur Tbk enters cum dividend date, final chance to receive Rp 29,000 per lot dividend",
+      "timestamp": "2026-07-06T10:20:00",
+      "source": "https://investasi.kontan.co.id/news/cum-date-tiba-hari-ini-kesempatan-akhir-dapat-dividen-rp-29000lot-dari-saham-indf",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Shareholders General Meeting",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Ten Indonesian stocks, including PT Indofood Sukses Makmur Tbk and PT Ciputra Development Tbk, enter cum-dividend date on 6 July 2026",
+      "timestamp": "2026-07-06T08:08:00",
+      "source": "https://market.bisnis.com/read/20260706/7/1985728/catat-10-saham-cum-dividen-hari-ini-ada-indofood-indf-hingga-ciputra-ctra",
+      "tags": [
+        "Dividend Announcement",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Indofood CBP Sukses Makmur Tbk, PT Indofood Sukses Makmur Tbk and PT Dayamitra Telekomunikasi Tbk announce July dividend payouts",
+      "timestamp": "2026-07-06T07:40:00",
+      "source": "https://emitennews.com/news/tiga-saham-cum-dividen-hari-ini-apa-saja",
+      "tags": [
+        "Dividend Announcement",
+        "Subsidiaries",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Indofood CBP Sukses Makmur Tbk and PT Indofood Sukses Makmur Tbk announce 2025 cash dividends of Rp265 and Rp290 per share",
+      "timestamp": "2026-07-06T07:23:00",
+      "source": "https://emitennews.com/news/emiten-grup-salim-icbp-dan-indf-bagi-dividen-yield-3-4-persen",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Upcoming dividend cum dates on July 6‑7 2026 include Indofood Sukses Makmur, Indofood CBP Sukses Makmur, Sampoerna Agro, and Ciputra Development",
+      "timestamp": "2026-07-05T09:26:41",
+      "source": "https://investor.id/market/445279/cum-date-dividen-marak-ada-namanama-besar",
+      "tags": [
+        "Dividend Announcement"
+      ]
+    },
+    {
+      "title": "LQ45 Blue‑Chip Stocks Remain Cheap as Prices Fall, Analysts Suggest Buying Opportunities",
+      "timestamp": "2026-07-03T11:39:00",
+      "source": "https://investasi.kontan.co.id/news/peluang-cuan-lq45-harga-saham-blue-chip-terus-merosot-saatnya-koleksi-lagi",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Financial Metrics",
+        "Global Economy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG rebounds to 5,744.55, spotlighting foreign investors' biggest net‑buy stocks",
+      "timestamp": "2026-07-02T20:54:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-kembali-menguat-ke-5744-intip-saham-net-buy-terbesar-asing-kamis-27",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Blue‑chip stocks are cheap, yet fundamental risks still loom",
+      "timestamp": "2026-07-02T20:12:00",
+      "source": "https://investasi.kontan.co.id/news/saham-bluechip-sudah-murah-tapi-risiko-fundamental-tetap-membayangi",
+      "tags": [
+        "Financial Metrics",
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG fluctuates at the start of July trading, ending 0.58% higher at 5,675",
+      "timestamp": "2026-07-01T09:26:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/113560/ihsg-fluktuatif-awali-perdagangan-juli",
+      "tags": [
+        "Market Sentiment",
+        "Inflation",
+        "Commodities",
+        "Global Economy"
+      ]
+    },
+    {
+      "title": "MTEL Announces Rp2.9tn Capex Plan as ICBP Issues Final Dividend",
+      "timestamp": "2026-07-01T08:39:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8554716/mtel-tambah-capex-icbp-tebar-dividen-final-cek-rekomendasi-saham-hari-ini",
+      "tags": [
+        "Capital & Funding",
+        "Dividend Announcement",
+        "Rights Issue",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Predicted to Remain Weak; CGS International Sekuritas Indonesia Highlights Six Potential Winners",
+      "timestamp": "2026-07-01T08:04:24",
+      "source": "https://investor.id/market/444815/ihsg-masih-rawan-koreksi-tapi-bisa-cermati-6-saham-calon-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Commodities",
+        "Currency & FX"
+      ]
+    },
+    {
+      "title": "Indofood announces cash dividend of Rp290 per share, cum date July 6, 2026",
+      "timestamp": "2026-07-01T06:30:00",
+      "source": "https://emitennews.com/news/indf-jadwal-dividen-rp290-per-saham-cum-date-6-juli",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Fitch Ratings flags heightened macro and regulatory risk for Indonesian issuers, with PT Indofood CBP Sukses Makmur Tbk highlighted",
+      "timestamp": "2026-06-30T21:02:00",
+      "source": "https://investasi.kontan.co.id/news/fitch-ratings-soroti-makroekonomi-dan-ketidakpastian-regulasi-ini-dampak-bagi-emiten",
+      "tags": [
+        "Analyst Ratings",
+        "Government Policy",
+        "Central Bank",
+        "Currency & FX",
+        "Bonds",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "BBCA and BBRI Lead Financial Sector Outlook as Analysts Recommend Defensive Picks for H2 2026",
+      "timestamp": "2026-06-30T18:51:00",
+      "source": "https://investasi.kontan.co.id/news/sektor-finansial-konsumsi-bisa-pimpin-pemulihan-semester-ii-ini-pilihan-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Portfolio",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Indofood CBP Sukses Makmur Tbk announces dividend of Rp 26,500 per lot",
+      "timestamp": "2026-06-30T06:54:00",
+      "source": "https://investasi.kontan.co.id/news/harga-turun-17-saham-ini-mengandung-dividen-rp-26500lot-cek-jadwal-cum-date",
+      "tags": [
+        "Dividend Announcement",
+        "Shareholders General Meeting",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Retail investors eye IMPC, INDY and MTEL as IHSG faces correction risk",
+      "timestamp": "2026-06-30T06:17:00",
+      "source": "https://money.kompas.com/read/2026/06/30/061705326/ihsg-rawan-koreksi-investor-ritel-bisa-cermati-saham-impc-indy-hingga-mtel",
+      "tags": [
+        "Domestic Investor",
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Indofood Sukses Makmur Tbk pays cash dividend of Rp290 per share",
+      "timestamp": "2026-06-29T20:41:00",
+      "source": "https://emitennews.com/news/indofood-indf-bayar-dividen-29-juli-ini-pesan-penting-anthoni-salim",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Shareholders General Meeting",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Technical buy recommendations issued for MTEL, DSSA and INDF for Tuesday, June 30",
+      "timestamp": "2026-06-29T17:25:00",
+      "source": "https://investasi.kontan.co.id/news/rekomendasi-teknikal-saham-mtel-dssa-dan-indf-untuk-selasa-306",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Indofood to pay dividend of Rp 265 per share",
+      "timestamp": "2026-06-29T15:05:39",
+      "source": "https://www.cnbcindonesia.com/market/20260629143216-17-746549/anthoni-salim-bagi-bagi-dividen-indofood--icbp--rp-265-saham",
+      "tags": [
+        "Dividend Announcement",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indofood Sukses Makmur to pay Rp290 per share cash dividend",
+      "timestamp": "2026-06-29T10:40:00",
+      "source": "https://market.bisnis.com/read/20260629/192/1984028/investor-siap-cuan-grup-salim-indf-icbp-simp-lsip-bagikan-dividen-cek-nominalnya",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Indofood CBP Sukses Makmur Tbk (ICBP) announces final dividend of Rp265 per share",
+      "timestamp": "2026-06-28T17:45:00",
+      "source": "https://emitennews.com/news/emiten-grup-salim-icbp-sebar-dividen-rp309-triliun-rp265saham",
+      "tags": [
+        "Dividend Announcement",
+        "Shareholders General Meeting",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Indofood CBP Sukses Makmur Tbk declares dividend of Rp 265 per share",
+      "timestamp": "2026-06-27T23:56:50",
+      "source": "https://investor.id/market/444396/icbp-bagi-dividen-rp-265saham",
+      "tags": [
+        "Dividend Announcement",
+        "Shareholders General Meeting",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT PP London Sumatra Indonesia Tbk declares Rp 83 dividend, yielding 6.29%",
+      "timestamp": "2026-06-27T15:50:00",
+      "source": "https://investasi.kontan.co.id/news/emiten-grup-salim-kompak-bagi-dividen-ada-yang-yield-tembus-6",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Indofood Sukses Makmur Tbk declares Rp 290 per share dividend",
+      "timestamp": "2026-06-27T08:22:53",
+      "source": "https://investor.id/market/444304/anthoni-salim-terus-terang-soal-indofood",
+      "tags": [
+        "Dividend Announcement",
+        "Annual Report",
+        "Shareholders General Meeting",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Indofood CBP Sukses Makmur Tbk to Pay Dividend of Rp 265 per Share",
+      "timestamp": "2026-06-26T19:04:00",
+      "source": "https://investasi.kontan.co.id/news/indofood-cbp-icbp-bakal-bagi-dividen-rp-265-per-saham",
+      "tags": [
+        "Dividend Announcement",
+        "Shareholders General Meeting",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Indofood Sukses Makmur Tbk declares Rp 290 per share dividend",
+      "timestamp": "2026-06-26T18:56:00",
+      "source": "https://investasi.kontan.co.id/news/indofood-indf-tebar-dividen-rp-290-per-saham-segini-potensi-yieldnya",
+      "tags": [
+        "Dividend Announcement",
+        "Shareholders General Meeting",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Indofood Sukses Makmur Tbk declares cash dividend of Rp290 per share",
+      "timestamp": "2026-06-26T17:37:00",
+      "source": "https://emitennews.com/news/indf-bagi-dividen-rp290-per-saham-fokus-jaga-pangsa-pasar-dan-profit",
+      "tags": [
+        "Dividend Announcement",
+        "Shareholders General Meeting",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Indofood CBP Sukses Makmur Tbk reports Q1 2026 profit decline amid revenue growth, analysts keep hold rating",
+      "timestamp": "2026-06-25T18:41:00",
+      "source": "https://investasi.kontan.co.id/news/potensi-harga-bahan-baku-naik-simak-rekomendasi-saham-indofood-cbp-icbp",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Commodities",
+        "Currency & FX",
+        "Export",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas cuts 2026 net profit forecast for PT Indofood Sukses Makmur Tbk by 7.2% amid rising input costs",
+      "timestamp": "2026-06-25T14:21:34",
+      "source": "https://investor.id/market/444097/proyeksi-laba-emiten-grup-salim-direvisi-target-harga-saham",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Commodities",
+        "Currency & FX",
+        "Government Policy",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Popular news roundup: BBCA recommendation, DSSA consolidation, INKP plant launch, and ICBP earnings rise",
+      "timestamp": "2026-06-23T04:59:55",
+      "source": "https://investor.id/market/443702/berita-populer-bbca-masuk-listhingga-harga-emas-perhiasan-solid",
+      "tags": [
+        "Analyst Ratings",
+        "Mergers & Acquisitions",
+        "Business Expansion",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Indofood CBP Sukses Makmur Tbk faces tougher commodity cost test, analysts maintain Hold",
+      "timestamp": "2026-06-22T13:44:54",
+      "source": "https://investor.id/stock/443601/ujian-berat-emiten-grup-salim-saham-hold-dulu",
+      "tags": [
+        "Commodities",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Bank Central Asia Tbk and PT Bank Negara Indonesia Tbk Lead Foreign Net Buying as Indonesia Market Rebounds",
+      "timestamp": "2026-06-19T21:55:00",
+      "source": "https://investasi.kontan.co.id/news/bbca-dan-bbni-teratas-cermati-saham-yang-banyak-diborong-asing-akhir-pekan-ini",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Technical recommendations released for three Indonesian stocks for Friday trading",
+      "timestamp": "2026-06-18T16:57:00",
+      "source": "https://investasi.kontan.co.id/news/cek-rekomendasi-teknikal-saham-tins-excl-indf-untuk-jumat-196",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Indonesian IHSG gains modestly after US‑Iran peace talks but foreign investors continue large outflows",
+      "timestamp": "2026-06-16T21:08:00",
+      "source": "https://investasi.kontan.co.id/news/melihat-arah-ihsg-pasca-perdamaian-as-iran-investor-asing-kabur-besar-besaran",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Currency & FX",
+        "Central Bank"
+      ]
+    },
+    {
+      "title": "Indofood Sukses Makmur (INDF) sees foreign net buying, PBV below 1 and earnings of Rp 1,217 per share",
+      "timestamp": "2026-06-15T07:28:03",
+      "source": "https://investor.id/stock/442742/saham-emiten-anthoni-salim-diserok-pbv-di-bawah-1-labarp-1217-per-saham",
+      "tags": [
+        "Foreign Investment",
+        "Financial Metrics",
+        "Dividend Announcement",
+        "Shareholders General Meeting",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia's IHSG projected to rebound to around 7,000 by end-2026",
+      "timestamp": "2026-06-11T21:36:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diproyeksikan-masih-bisa-rebound-ke-level-7000-pada-akhir-2026",
+      "tags": [
+        "Portfolio",
+        "Commodities",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Consumer confidence dip to 120.9 may curb growth for discretionary consumer issuers",
+      "timestamp": "2026-06-11T18:23:00",
+      "source": "https://investasi.kontan.co.id/news/masyarakat-mulai-hati-hati-dalam-belanja-emiten-konsumer-bakal-terimbas",
+      "tags": [
+        "Central Bank",
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Consumer Confidence Index Drops to 120.9, Analysts Recommend Consumer Staples Shares",
+      "timestamp": "2026-06-11T15:34:00",
+      "source": "https://investasi.kontan.co.id/news/indeks-kepercayaan-konsumen-turun-saham-emiten-consumer-staples-direkomendasikan",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    }
+  ],
+  "corporate_events": [
+    {
+      "date": "2026-07-07",
+      "type": "Dividen",
+      "detail": "Dividen per saham Rp 265,00 · Pembayaran: 2026-07-28"
+    },
+    {
+      "date": "2026-06-26",
+      "type": "RUPS",
+      "detail": "Waktu: 10:00:00 · Lokasi: Sudirman Plaza, Indofood Tower Lantai PH, Jalan Jenderal Sudirman Kav. 76-78, Jakarta 12910 · Agenda #1: Acceptance and approval of the Annual Report on business activities and financial performance for the fiscal year ended December 31, 2025, approved with 99.089% votes in favor; quorum 90.088%.\nAgenda #2: Ratification of the company's audited financial statements, including the balance sheet and statement of finance for the year ended December 31, 2025, approved with 99.079% in favor; audited by Purwanto Susanti dan Surja.\nAgenda #3: Determination of net profit usage, including setting aside Rp5 billion as a reserve fund, a cash dividend of Rp265 per share, and retaining the remainder as unappropriated retained earnings, approved with 99.114% in favor.\nAgenda #4: Determination of maximum total remuneration for the Board of Commissioners and Directors from January 1, 2026 to December 31, 2026, set at Rp140,000,000,000 before tax, approved with 95.407% in favor.\nAgenda #5: Appointment of Purwanto Susanti dan Surja as the registered Public Accountant for the 2026 fiscal year audit, with authorization for the Board to set the fee and conditions, approved with 98.826% in favor."
+    }
+  ],
+  "context_period": {
+    "start": "2026-04-01",
+    "end": "2026-09-30"
+  },
+  "source_availability": {
+    "company_fundamentals": true,
+    "corporate_events": true,
+    "news": true,
+    "peer_comparison": true,
+    "market_context": true,
+    "sector_market_series": false
+  },
+  "news_archive": {
+    "pages": 4,
+    "rows": 113,
+    "pagination_exhausted": true,
+    "totals_seen": [
+      113
+    ]
+  }
 }

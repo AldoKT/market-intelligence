@@ -3,8 +3,8 @@
   "as_of": "2026-09-30",
   "identity": {
     "symbol": "ANTM",
-    "company_name": null,
-    "peer_group": null
+    "company_name": "Aneka Tambang Tbk.",
+    "peer_group": "Basic Materials"
   },
   "current": {
     "scope": "NO_CONTEXT",
@@ -20,5 +20,3701 @@
   "daily_market": {},
   "notes": [
     "Dataset scope: 28 reviewed stocks. No full-market or peer-context score is computed."
-  ]
+  ],
+  "company_snapshot": {
+    "price_date": "2026-10-07",
+    "captured_at": "2026-10-08",
+    "sector": "Basic Materials",
+    "industry": "Metals & Minerals",
+    "website": "http://www.antam.com/",
+    "market_cap": 77619370061750,
+    "annual_year": 2025,
+    "valuation_year": 2026,
+    "metrics": [
+      {
+        "label": "Pendapatan",
+        "value": "Rp 84,64 T"
+      },
+      {
+        "label": "Laba bersih",
+        "value": "Rp 7,21 T"
+      },
+      {
+        "label": "Total aset",
+        "value": "Rp 52,53 T"
+      },
+      {
+        "label": "Ekuitas",
+        "value": "Rp 36,60 T"
+      },
+      {
+        "label": "EPS",
+        "value": "Rp 299,98"
+      },
+      {
+        "label": "P/E TTM",
+        "value": "8,72×"
+      },
+      {
+        "label": "P/B",
+        "value": "2,08×"
+      }
+    ]
+  },
+  "fundamental_peers": [
+    {
+      "symbol": "ANTM",
+      "name": "Aneka Tambang Tbk.",
+      "year": 2025,
+      "market_cap": 78099985356250,
+      "pe": 8.77424408988265,
+      "pb": 2.09551817294205,
+      "revenue": 84642439000000,
+      "in_universe": true
+    },
+    {
+      "symbol": "BRMS",
+      "name": "Bumi Resources Minerals Tbk",
+      "year": 2025,
+      "market_cap": 85779344404490,
+      "pe": 128.681108271325,
+      "pb": 3.80749435448613,
+      "revenue": 4173309138074,
+      "in_universe": true
+    },
+    {
+      "symbol": "NCKL",
+      "name": "PT Trimegah Bangun Persada Tbk",
+      "year": 2025,
+      "market_cap": 54895782000000,
+      "pe": 5.14801415334402,
+      "pb": 1.25126094740861,
+      "revenue": 29632799000000,
+      "in_universe": true
+    },
+    {
+      "symbol": "MBMA",
+      "name": "PT Merdeka Battery Materials Tbk",
+      "year": 2025,
+      "market_cap": 53133746590800,
+      "pe": 50.3527116240155,
+      "pb": 1.92970800646396,
+      "revenue": 24008773360660,
+      "in_universe": false
+    },
+    {
+      "symbol": "INCO",
+      "name": "Vale Indonesia Tbk",
+      "year": 2025,
+      "market_cap": 45531869186880,
+      "pe": 17.0090573804861,
+      "pb": 0.898449062355063,
+      "revenue": 16572359009700,
+      "in_universe": true
+    },
+    {
+      "symbol": "TINS",
+      "name": "PT Timah Tbk",
+      "year": 2025,
+      "market_cap": 34781008630180,
+      "pe": 9.32906661081727,
+      "pb": 3.29764577202305,
+      "revenue": 11552733000000,
+      "in_universe": true
+    },
+    {
+      "symbol": "IFSH",
+      "name": "PT Ifishdeco Tbk",
+      "year": 2025,
+      "market_cap": 4377500000000,
+      "pe": 35.5853512496148,
+      "pb": 5.40778287570013,
+      "revenue": 1000944680453,
+      "in_universe": false
+    },
+    {
+      "symbol": "DAAZ",
+      "name": "PT Daaz Bara Lestari Tbk",
+      "year": 2025,
+      "market_cap": 4233640000000,
+      "pe": 15.502762149675,
+      "pb": 2.52179242541966,
+      "revenue": 13412629633004,
+      "in_universe": false
+    },
+    {
+      "symbol": "NICL",
+      "name": "PT PAM Mineral Tbk",
+      "year": 2025,
+      "market_cap": 4020273774846,
+      "pe": 37.1800481074381,
+      "pb": 4.83645043373912,
+      "revenue": 1473081323094,
+      "in_universe": false
+    },
+    {
+      "symbol": "DKFT",
+      "name": "Central Omega Resources Tbk",
+      "year": 2025,
+      "market_cap": 3749433989000,
+      "pe": 5.59948873740599,
+      "pb": 2.43760361162018,
+      "revenue": 1576178059957,
+      "in_universe": false
+    }
+  ],
+  "market_history": [
+    {
+      "date": "2026-04-01",
+      "ihsg": 7184.438,
+      "market_cap": 12646140309231200
+    },
+    {
+      "date": "2026-04-02",
+      "ihsg": 7026.782,
+      "market_cap": 12301402169484936
+    },
+    {
+      "date": "2026-04-06",
+      "ihsg": 6989.426,
+      "market_cap": 12181292965738515
+    },
+    {
+      "date": "2026-04-07",
+      "ihsg": 6971.027,
+      "market_cap": 12220087895953627
+    },
+    {
+      "date": "2026-04-08",
+      "ihsg": 7279.209,
+      "market_cap": 12745135690725105
+    },
+    {
+      "date": "2026-04-09",
+      "ihsg": 7307.589,
+      "market_cap": 12927661360702306
+    },
+    {
+      "date": "2026-04-10",
+      "ihsg": 7458.496,
+      "market_cap": 13183485554446575
+    },
+    {
+      "date": "2026-04-13",
+      "ihsg": 7500.187,
+      "market_cap": 13334711369769658
+    },
+    {
+      "date": "2026-04-14",
+      "ihsg": 7675.951,
+      "market_cap": 13680203483861089
+    },
+    {
+      "date": "2026-04-15",
+      "ihsg": 7623.586,
+      "market_cap": 13577551326427693
+    },
+    {
+      "date": "2026-04-16",
+      "ihsg": 7621.382,
+      "market_cap": 13580909513734445
+    },
+    {
+      "date": "2026-04-17",
+      "ihsg": 7634.004,
+      "market_cap": 13631805736754862
+    },
+    {
+      "date": "2026-04-20",
+      "ihsg": 7594.111,
+      "market_cap": 13530051609880990
+    },
+    {
+      "date": "2026-04-21",
+      "ihsg": 7559.38,
+      "market_cap": 13439346111420433
+    },
+    {
+      "date": "2026-04-22",
+      "ihsg": 7541.612,
+      "market_cap": 13331962629649015
+    },
+    {
+      "date": "2026-04-23",
+      "ihsg": 7378.606,
+      "market_cap": 13176851273619842
+    },
+    {
+      "date": "2026-04-24",
+      "ihsg": 7129.49,
+      "market_cap": 12732776963937495
+    },
+    {
+      "date": "2026-04-27",
+      "ihsg": 7106.52,
+      "market_cap": 12687518028997883
+    },
+    {
+      "date": "2026-04-28",
+      "ihsg": 7072.392,
+      "market_cap": 12590034125678447
+    },
+    {
+      "date": "2026-04-29",
+      "ihsg": 7101.226,
+      "market_cap": 12635384034178860
+    },
+    {
+      "date": "2026-04-30",
+      "ihsg": 6956.804,
+      "market_cap": 12378413759882228
+    },
+    {
+      "date": "2026-05-04",
+      "ihsg": 6971.953,
+      "market_cap": 12411009903513114
+    },
+    {
+      "date": "2026-05-05",
+      "ihsg": 7057.106,
+      "market_cap": 12626309574250122
+    },
+    {
+      "date": "2026-05-06",
+      "ihsg": 7092.467,
+      "market_cap": 12699830398460331
+    },
+    {
+      "date": "2026-05-07",
+      "ihsg": 7174.321,
+      "market_cap": 12778962713690869
+    },
+    {
+      "date": "2026-05-08",
+      "ihsg": 6969.396,
+      "market_cap": 12402407487340402
+    },
+    {
+      "date": "2026-05-11",
+      "ihsg": 6905.62,
+      "market_cap": 12280030079664830
+    },
+    {
+      "date": "2026-05-12",
+      "ihsg": 6858.899,
+      "market_cap": 12142773427321380
+    },
+    {
+      "date": "2026-05-13",
+      "ihsg": 6723.32,
+      "market_cap": 11821690407165346
+    },
+    {
+      "date": "2026-05-18",
+      "ihsg": 6599.24,
+      "market_cap": 11535132183193835
+    },
+    {
+      "date": "2026-05-19",
+      "ihsg": 6370.679,
+      "market_cap": 11105372542285443
+    },
+    {
+      "date": "2026-05-20",
+      "ihsg": 6318.5,
+      "market_cap": 10959980491971602
+    },
+    {
+      "date": "2026-05-21",
+      "ihsg": 6094.941,
+      "market_cap": 10549507904767653
+    },
+    {
+      "date": "2026-05-22",
+      "ihsg": 6162.045,
+      "market_cap": 10631421768765943
+    },
+    {
+      "date": "2026-05-25",
+      "ihsg": 6206.349,
+      "market_cap": 10692705367587005
+    },
+    {
+      "date": "2026-05-26",
+      "ihsg": 6130.19,
+      "market_cap": 10613054794742598
+    },
+    {
+      "date": "2026-05-29",
+      "ihsg": 6127.381,
+      "market_cap": 10725485605975573
+    },
+    {
+      "date": "2026-06-02",
+      "ihsg": 6195.427,
+      "market_cap": 10891278361519046
+    },
+    {
+      "date": "2026-06-03",
+      "ihsg": 5941.066,
+      "market_cap": 10451829355656557
+    },
+    {
+      "date": "2026-06-04",
+      "ihsg": 5839.785,
+      "market_cap": 10259085293637228
+    },
+    {
+      "date": "2026-06-05",
+      "ihsg": 5594.765,
+      "market_cap": 9803592659706909
+    },
+    {
+      "date": "2026-06-08",
+      "ihsg": 5342.137,
+      "market_cap": 9414771844192581
+    },
+    {
+      "date": "2026-06-09",
+      "ihsg": 5746.648,
+      "market_cap": 10095511071726246
+    },
+    {
+      "date": "2026-06-10",
+      "ihsg": 5902.376,
+      "market_cap": 10341178905408617
+    },
+    {
+      "date": "2026-06-11",
+      "ihsg": 5886.032,
+      "market_cap": 10287950241660193
+    },
+    {
+      "date": "2026-06-12",
+      "ihsg": 6007.656,
+      "market_cap": 10520825968837381
+    },
+    {
+      "date": "2026-06-15",
+      "ihsg": 6254.966,
+      "market_cap": 10899408952482727
+    },
+    {
+      "date": "2026-06-17",
+      "ihsg": 6220.74,
+      "market_cap": 10776148487729844
+    },
+    {
+      "date": "2026-06-18",
+      "ihsg": 6172.34,
+      "market_cap": 10736980009961606
+    },
+    {
+      "date": "2026-06-19",
+      "ihsg": 6177.139,
+      "market_cap": 10784594953877444
+    },
+    {
+      "date": "2026-06-22",
+      "ihsg": 6116.69,
+      "market_cap": 10708711379319414
+    },
+    {
+      "date": "2026-06-23",
+      "ihsg": 6101.333,
+      "market_cap": 10685047810158781
+    },
+    {
+      "date": "2026-06-24",
+      "ihsg": 5883.881,
+      "market_cap": 10312029789078805
+    },
+    {
+      "date": "2026-06-25",
+      "ihsg": 5999.038,
+      "market_cap": 10515718128770631
+    },
+    {
+      "date": "2026-06-26",
+      "ihsg": 5896.134,
+      "market_cap": 10298280398969010
+    },
+    {
+      "date": "2026-06-29",
+      "ihsg": 5820.79,
+      "market_cap": 10179250800138493
+    },
+    {
+      "date": "2026-06-30",
+      "ihsg": 5643.194,
+      "market_cap": 9894028079914985
+    },
+    {
+      "date": "2026-07-01",
+      "ihsg": 5695.116,
+      "market_cap": 10007947906561450
+    },
+    {
+      "date": "2026-07-02",
+      "ihsg": 5744.556,
+      "market_cap": 10060923668899571
+    },
+    {
+      "date": "2026-07-03",
+      "ihsg": 5875.78,
+      "market_cap": 10283558418117973
+    },
+    {
+      "date": "2026-07-06",
+      "ihsg": 5916.07,
+      "market_cap": 10352610980350056
+    },
+    {
+      "date": "2026-07-07",
+      "ihsg": 5986.497,
+      "market_cap": 10462196902308353
+    },
+    {
+      "date": "2026-07-08",
+      "ihsg": 5873.372,
+      "market_cap": 10272894518876036
+    },
+    {
+      "date": "2026-07-09",
+      "ihsg": 5912.442,
+      "market_cap": 10324456194315119
+    },
+    {
+      "date": "2026-07-10",
+      "ihsg": 5924.36,
+      "market_cap": 10336481815483724
+    },
+    {
+      "date": "2026-07-13",
+      "ihsg": 6037.842,
+      "market_cap": 10506156813352519
+    },
+    {
+      "date": "2026-07-14",
+      "ihsg": 6039.521,
+      "market_cap": 10524135196509080
+    },
+    {
+      "date": "2026-07-15",
+      "ihsg": 6041.972,
+      "market_cap": 10548175926837826
+    },
+    {
+      "date": "2026-07-16",
+      "ihsg": 6108.209,
+      "market_cap": 10655671296610599
+    },
+    {
+      "date": "2026-07-17",
+      "ihsg": 6175.535,
+      "market_cap": 10745282583293599
+    },
+    {
+      "date": "2026-07-20",
+      "ihsg": 6231.78,
+      "market_cap": 10832728685598542
+    },
+    {
+      "date": "2026-07-21",
+      "ihsg": 6340.02,
+      "market_cap": 11041209401983643
+    },
+    {
+      "date": "2026-07-22",
+      "ihsg": 6334.476,
+      "market_cap": 11064991318794462
+    },
+    {
+      "date": "2026-07-23",
+      "ihsg": 6315.311,
+      "market_cap": 11058096720739904
+    },
+    {
+      "date": "2026-07-24",
+      "ihsg": 6196.43,
+      "market_cap": 10866941513180025
+    },
+    {
+      "date": "2026-07-27",
+      "ihsg": 6185.783,
+      "market_cap": 10846820086978302
+    },
+    {
+      "date": "2026-07-28",
+      "ihsg": 6130.588,
+      "market_cap": 10748777396682842
+    },
+    {
+      "date": "2026-07-29",
+      "ihsg": 6091.386,
+      "market_cap": 10671925079765237
+    },
+    {
+      "date": "2026-07-30",
+      "ihsg": 6186.363,
+      "market_cap": 10808753111947654
+    },
+    {
+      "date": "2026-07-31",
+      "ihsg": 6236.126,
+      "market_cap": 10919632662108419
+    },
+    {
+      "date": "2026-08-03",
+      "ihsg": 6234.497,
+      "market_cap": 10891533376788029
+    },
+    {
+      "date": "2026-08-04",
+      "ihsg": 6319.613,
+      "market_cap": 11026919553266172
+    },
+    {
+      "date": "2026-08-05",
+      "ihsg": 6351.139,
+      "market_cap": 11081557528513146
+    },
+    {
+      "date": "2026-08-06",
+      "ihsg": 6343.711,
+      "market_cap": 11091230654708629
+    },
+    {
+      "date": "2026-08-07",
+      "ihsg": 6409.654,
+      "market_cap": 11208370900071437
+    },
+    {
+      "date": "2026-08-10",
+      "ihsg": 6365.374,
+      "market_cap": 11127673938712190
+    },
+    {
+      "date": "2026-08-11",
+      "ihsg": 6267.88,
+      "market_cap": 10951983899532200
+    },
+    {
+      "date": "2026-08-12",
+      "ihsg": 6373.849,
+      "market_cap": 11170270993004848
+    },
+    {
+      "date": "2026-08-13",
+      "ihsg": 6301.765,
+      "market_cap": 11047038481790783
+    },
+    {
+      "date": "2026-08-14",
+      "ihsg": 6401.888,
+      "market_cap": 11239913404397486
+    },
+    {
+      "date": "2026-08-18",
+      "ihsg": 6449.83,
+      "market_cap": 11344776423883178
+    },
+    {
+      "date": "2026-08-19",
+      "ihsg": 6394.125,
+      "market_cap": 11242710814171051
+    },
+    {
+      "date": "2026-08-20",
+      "ihsg": 6501.585,
+      "market_cap": 11417105165375641
+    },
+    {
+      "date": "2026-08-21",
+      "ihsg": 6525.69,
+      "market_cap": 11445451211005613
+    },
+    {
+      "date": "2026-08-24",
+      "ihsg": 6501.667,
+      "market_cap": 11400829359169202
+    },
+    {
+      "date": "2026-08-26",
+      "ihsg": 6405.685,
+      "market_cap": 11226539253653372
+    },
+    {
+      "date": "2026-08-27",
+      "ihsg": 6521.75,
+      "market_cap": 11444254799160097
+    },
+    {
+      "date": "2026-08-28",
+      "ihsg": 6518.121,
+      "market_cap": 11427514258790209
+    },
+    {
+      "date": "2026-08-31",
+      "ihsg": 6525.478,
+      "market_cap": 11420266337232824
+    },
+    {
+      "date": "2026-09-01",
+      "ihsg": 6599.943,
+      "market_cap": 11528076154461080
+    },
+    {
+      "date": "2026-09-02",
+      "ihsg": 6595.776,
+      "market_cap": 11521577604064942
+    },
+    {
+      "date": "2026-09-03",
+      "ihsg": 6667.891,
+      "market_cap": 11637538684241799
+    },
+    {
+      "date": "2026-09-04",
+      "ihsg": 6636.475,
+      "market_cap": 11595660058206448
+    },
+    {
+      "date": "2026-09-07",
+      "ihsg": 6619.673,
+      "market_cap": 11571807924987264
+    },
+    {
+      "date": "2026-09-08",
+      "ihsg": 6686.442,
+      "market_cap": 11668902562815871
+    },
+    {
+      "date": "2026-09-09",
+      "ihsg": 6678.201,
+      "market_cap": 11671538636715858
+    },
+    {
+      "date": "2026-09-10",
+      "ihsg": 6589.338,
+      "market_cap": 11526136904331476
+    },
+    {
+      "date": "2026-09-11",
+      "ihsg": 6541.377,
+      "market_cap": 11442963914395062
+    },
+    {
+      "date": "2026-09-14",
+      "ihsg": 6534.693,
+      "market_cap": 11368110758085182
+    },
+    {
+      "date": "2026-09-15",
+      "ihsg": 6461.153,
+      "market_cap": 11257912210981978
+    },
+    {
+      "date": "2026-09-16",
+      "ihsg": 6436.853,
+      "market_cap": 11225219420982876
+    },
+    {
+      "date": "2026-09-17",
+      "ihsg": 6462.431,
+      "market_cap": 11270346560839989
+    },
+    {
+      "date": "2026-09-18",
+      "ihsg": 6441.159,
+      "market_cap": 11262605698050558
+    },
+    {
+      "date": "2026-09-21",
+      "ihsg": 6384.726,
+      "market_cap": 11161910095429389
+    },
+    {
+      "date": "2026-09-22",
+      "ihsg": 6277.044,
+      "market_cap": 10971287923179805
+    },
+    {
+      "date": "2026-09-23",
+      "ihsg": 6374.912,
+      "market_cap": 11141915820582293
+    },
+    {
+      "date": "2026-09-24",
+      "ihsg": 6298.607,
+      "market_cap": 11021365748586840
+    },
+    {
+      "date": "2026-09-25",
+      "ihsg": 6241.892,
+      "market_cap": 10902018198054911
+    },
+    {
+      "date": "2026-09-28",
+      "ihsg": 6147.859,
+      "market_cap": 10755457591436344
+    },
+    {
+      "date": "2026-09-29",
+      "ihsg": 6121.7,
+      "market_cap": 10754858845786069
+    },
+    {
+      "date": "2026-09-30",
+      "ihsg": 6071.138,
+      "market_cap": 10691719699169471
+    }
+  ],
+  "relevant_news": [
+    {
+      "title": "PT Daaz Bara Lestari Tbk (DAAZ) Named Strategic Partner of PT Aneka Tambang Tbk (ANTM) in Nickel Downstream Project",
+      "timestamp": "2026-09-30T17:59:00",
+      "source": "https://investor.id/market/456137/emiten-jadi-mitra-strategis-antam-saham-bakal-naik-138",
+      "tags": [
+        "Partnerships & Agreements",
+        "Business Expansion",
+        "Commodities",
+        "Artificial Intelligence",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "New Mining Services Rules Seen Having Varied Impacts on Mineral and Coal Issuers",
+      "timestamp": "2026-09-29T17:54:00",
+      "source": "https://investasi.kontan.co.id/news/aturan-baru-jasa-tambang-dampaknya-akan-berbeda-ke-emiten-minerba",
+      "tags": [
+        "Politics & Regulation",
+        "Analyst Ratings",
+        "Commodities",
+        "Production & Operations",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas Raises PT Antam Tbk (ANTM) 2026 Net Profit Projection and Sets New Price Target",
+      "timestamp": "2026-09-28T14:34:00",
+      "source": "https://investor.id/market/455791/antam-antm-gali-laba-lebih-dalam-ada-target-harga-baru",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk (ANTM) reports 9‑ton gold purchase from Freeport and semester‑I sales of Rp50.39 trillion",
+      "timestamp": "2026-09-25T22:16:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/122766/antam-serap-9-ton-emas-freeport-semester-i-catat-sales-rp50-t",
+      "tags": [
+        "Asset Purchase",
+        "Commodities",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net sold a record Rp 1.49 trillion as the IHSG fell, with PT Bank Mandiri Tbk (BMRI) topping the list of heavily shorted stocks.",
+      "timestamp": "2026-09-24T21:44:00",
+      "source": "https://investasi.kontan.co.id/news/asing-net-sell-jumbo-rp-149-triliun-saat-ihsg-ambruk-cek-saham-yagn-banyak-dilego",
+      "tags": [
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Analyst highlights nickel stock recommendations and sector outlook amid RKAB and HPM regulatory pressure",
+      "timestamp": "2026-09-23T06:14:00",
+      "source": "https://investasi.kontan.co.id/news/cermati-rekomendasi-saham-dan-prospek-emiten-nikel-yang-tertekan-rkab-dan-hpm",
+      "tags": [
+        "Analyst Ratings",
+        "Government Policy",
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Nickel stocks pressured by RKAB approval uncertainty and HPM regulation, PT PAM Mineral Tbk (NICL) leads declines.",
+      "timestamp": "2026-09-22T16:36:00",
+      "source": "https://investasi.kontan.co.id/news/saham-nikel-tertekan-rkab-dan-harga-patokan-mineral-simak-prospeknya-berikut-ini",
+      "tags": [
+        "Commodities",
+        "Government Policy",
+        "Capital & Funding",
+        "Global Economy",
+        "Analyst Ratings",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign investors net sold Rp 510.07 bn of Indonesian stocks, led by PT Bank Mandiri Tbk (BMRI)",
+      "timestamp": "2026-09-21T21:14:00",
+      "source": "https://investasi.kontan.co.id/news/asing-net-sell-jumbo-rp-510-miliar-cek-saham-yang-banyak-dijual-di-awal-pekan",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG down 0.27% as foreign investors sell shares, with PT Aneka Tambang Tbk (ANTM) and PT Chandra Asri Pacific Tbk (TPIA) among the most traded stocks",
+      "timestamp": "2026-09-21T12:45:00",
+      "source": "https://www.idnfinancials.com/id/news/69168/ihsg-turun-0-27-tertekan-aksi-jual-asing-di-saham-saham-ini",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "IHSG Forecast to Test 6.633 This Week, with Analyst Recommendations for PT Aneka Tambang Tbk (ANTM), PT Dayamitra Telekomunikasi Tbk (MTEL) and PT Impack Pratama Industri Tbk (IMPC).",
+      "timestamp": "2026-09-21T08:50:00",
+      "source": "https://market.bisnis.com/read/20260921/189/2005724/ihsg-diramal-uji-6633-pekan-ini-cek-saham-antm-mtel-hingga-impc",
+      "tags": [
+        "Analyst Ratings",
+        "Global Economy",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Today's Stock Recommendations: ANTM, VKTR, and MAPI",
+      "timestamp": "2026-09-21T08:38:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8671790/rekomendasi-saham-hari-ini-antm-vktr-hingga-mapi",
+      "tags": [
+        "Analyst Ratings",
+        "Rights Issue",
+        "MoU",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors favor PT Bumi Resources Minerals Tbk (BRMS), PT Merdeka Gold Resources Tbk (EMAS) and PT Adaro Andalan Indonesia Tbk (AADI); Top 10 Net‑Buy Stocks of the Week",
+      "timestamp": "2026-09-19T07:17:00",
+      "source": "https://market.bisnis.com/read/20260919/7/2005456/saham-brms-emas-aadi-jadi-favorit-investor-asing-simak-top-10-saham-net-buy-asing-sepekan",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign outflow hits Rp1.79 trillion, with BBCA and BMRI leading net sells",
+      "timestamp": "2026-09-18T20:20:00",
+      "source": "https://www.idnfinancials.com/id/news/69078/outflow-asing-capai-rp1-79-triliun-bbca-dan-bmri-top-net-sell",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Capital & Funding",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG Opens Weaker at Start of Week, Pressured by Global Sentiment",
+      "timestamp": "2026-09-14T09:33:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/121427/ihsg-dibuka-melemah-di-awal-pekan-tertekan-sentimen-global",
+      "tags": [
+        "Market Sentiment",
+        "Commodities",
+        "Interest Rate",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk reports 34% net profit growth and higher margin in H1 2026",
+      "timestamp": "2026-09-13T10:30:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/121382/laba-bersih-antm-tumbuh-34-margin-makin-tebal",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Capital & Funding",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Mirae Asset Sekuritas assesses global pressures still weighing on the market",
+      "timestamp": "2026-09-11T15:37:00",
+      "source": "https://www.antaranews.com/berita/5736489/mirae-asset-nilai-tekanan-global-masih-bayangi-pasar",
+      "tags": [
+        "Market Sentiment",
+        "Global Economy",
+        "Foreign Investment",
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Antam reports H1-2026 revenue of Rp 62.71 trillion, with gold sales exceeding Rp 50 trillion",
+      "timestamp": "2026-09-10T18:30:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8657400/emas-sumbang-mayoritas-pendapatan-antam-total-penjualan-tembus-rp-50-t",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Production & Operations",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts Project Continued Strength for Metal Miners ANTM, INCO, and TINS Through Late 2026",
+      "timestamp": "2026-09-10T17:34:00",
+      "source": "https://market.bisnis.com/read/20260910/189/2003142/intip-prospek-emiten-logam-antm-inco-hingga-tins-di-sisa-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Financial Metrics",
+        "Production & Operations",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "UBS Sekuritas Leads Net Buying of PT Aneka Tambang Tbk Shares, While JP Morgan Issues Bullish Outlook",
+      "timestamp": "2026-09-10T12:58:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/121148/ubs-sekuritas-hingga-jp-morgan-borong-saham-antm",
+      "tags": [
+        "Analyst Ratings",
+        "Institutional Investor",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BRI Danareksa Sekuritas analyst highlights expansion prospects and buy recommendations for PT Bumi Resources Tbk, PT Petrosea Tbk, PT United Tractors Tbk and PT Aneka Tambang Tbk.",
+      "timestamp": "2026-09-07T18:54:00",
+      "source": "https://investasi.kontan.co.id/news/cek-prospek-dan-rekomendasi-emiten-yang-akuisisi-aset-tambang-di-luar-negeri",
+      "tags": [
+        "Analyst Ratings",
+        "Business Expansion",
+        "Mergers & Acquisitions",
+        "Foreign Investment",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors show early signs of tactical re-entry into Indonesian equities, with analysts highlighting big banks and select sectors.",
+      "timestamp": "2026-09-07T15:43:00",
+      "source": "https://investasi.kontan.co.id/news/asing-mulai-re-entry-ke-pasar-saham-intip-rekomendasi-saham-yang-menarik-dicermati",
+      "tags": [
+        "Foreign Investment",
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Currency & FX",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk Shares at Rp 3,120, Analysts Forecast Rise to Rp 4,700",
+      "timestamp": "2026-09-07T06:48:00",
+      "source": "https://investasi.kontan.co.id/news/harga-saham-bumn-tambang-ini-rp-3120-analis-prediksi-akan-naik-jadi-rp-4700",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Antam Gold Buyback Price Increases by Rp133,000 to Rp2.493 million per Gram on Sep 6",
+      "timestamp": "2026-09-06T09:40:00",
+      "source": "https://market.bisnis.com/read/20260906/235/2001704/harga-buyback-emas-antam-naik-rp133000-hingga-hari-ini-minggu-69",
+      "tags": [
+        "Commodities",
+        "Politics & Regulation",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Maybank Sekuritas Maintains Buy Rating and Rp 4,700 Target Price for PT Aneka Tambang Tbk as Nickel Business Drives Growth",
+      "timestamp": "2026-09-05T19:27:00",
+      "source": "https://investasi.kontan.co.id/news/nikel-jadi-mesin-pertumbuhan-antam-antm-maybank-pertahankan-target-harga-rp-4700",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Stock Market Gains, Simas Syariah Unggulan Mutual Fund Posts 10.28% Return in August",
+      "timestamp": "2026-09-04T13:24:00",
+      "source": "https://investasi.kontan.co.id/news/pasar-saham-menguat-reksadana-ini-cetak-return-hingga-1028-pada-agustus",
+      "tags": [
+        "Sharia Economy",
+        "Asset Management",
+        "Artificial Intelligence",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG and Asian Exchanges Cheerful This Morning",
+      "timestamp": "2026-09-04T09:27:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/120491/ihsg-dan-bursa-asia-semringah-pagi-ini",
+      "tags": [
+        "Foreign Investment",
+        "Currency & FX",
+        "Commodities",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Foreign Investors Net Buy Rp1.07 Trillion, Lifting IHSG 1.09% as Jumbo Banks Lead Inflows",
+      "timestamp": "2026-09-04T07:00:36",
+      "source": "https://www.cnbcindonesia.com/market/20260904053931-17-764827/ihsg-naik-1-ditopang-asing-serok-saham-bank-jumbo",
+      "tags": [
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Batavia Dana Saham Syariah posts a 6.04% return in August, highlighting data center infrastructure stocks",
+      "timestamp": "2026-09-03T22:23:00",
+      "source": "https://investasi.kontan.co.id/news/return-reksadana-batavia-604-di-agustus-saham-infrastruktur-data-center-dipilih",
+      "tags": [
+        "Sharia Economy",
+        "Financial Metrics",
+        "Asset Management",
+        "Portfolio",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG May Face Correction on Friday (4/9) – Projections and Stock Recommendations",
+      "timestamp": "2026-09-03T19:29:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-berpeluang-terkoreksi-jumat-49-simak-proyeksi-dan-rekomendasi-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "First-Half 2026 Net Profit Rises Sharply for Indonesian BUMNs, Analysts Cite Danantara's Restructuring and Issue Stock Recommendations",
+      "timestamp": "2026-09-03T18:47:00",
+      "source": "https://investasi.kontan.co.id/news/laba-emiten-bumn-di-bawah-danantara-membaik-simak-prospek-dan-rekomendasi-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Capital & Funding",
+        "Commodities",
+        "Currency & FX",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net buy Rp1 trillion, collectively snapping up PT Bank Mandiri Tbk and PT Bank Negara Indonesia Tbk shares",
+      "timestamp": "2026-09-03T18:41:38",
+      "source": "https://www.cnbcindonesia.com/market/20260903180536-17-764793/asing-net-buy-rp1-triliun-kompak-borong-saham-bmri-bbni",
+      "tags": [
+        "Foreign Investment",
+        "Central Bank",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Mandiri Sekuritas projects Indonesia's IHSG could reach 7,470 by end‑2026, citing four catalysts",
+      "timestamp": "2026-09-03T18:40:00",
+      "source": "https://market.bisnis.com/read/20260903/7/2001179/mandiri-sekuritas-buka-peluang-ihsg-tembus-7470-akhir-2026-ini-katalisnya",
+      "tags": [
+        "Government Policy",
+        "Capital & Funding",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "ANTM reports semester I‑2026 net profit of Rp 6.91 trillion",
+      "timestamp": "2026-09-03T12:10:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8646412/antam-cetak-laba-rp-6-91-t",
+      "tags": [
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Antam (ANTM) Posts Q2 2026 Net Profit of Rp 3 Trillion, Analyst Issues Recommendation and Target Price",
+      "timestamp": "2026-09-02T17:33:24",
+      "source": "https://investor.id/market/452610/antam-antm-masuki-babak-penentuan",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG predicted to consolidate with four stock trading recommendations for September 2, 2026",
+      "timestamp": "2026-09-01T19:26:05",
+      "source": "https://investor.id/market/452488/prediksi-ihsg-dan-rekomendasi-saham-rabu-2-september-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Inflation",
+        "Currency & FX",
+        "Commodities"
+      ]
+    },
+    {
+      "title": "Kiwoom Sekuritas Indonesia forecasts IHSG 6,300-6,650 in September, recommends nine stocks with up to 76% upside",
+      "timestamp": "2026-09-01T18:40:00",
+      "source": "https://market.bisnis.com/read/20260901/189/2000529/peluang-ihsg-ke-6650-kiwoom-jagokan-9-saham-pilihan",
+      "tags": [
+        "Analyst Ratings",
+        "Stock Buyback",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign analysts turn bullish on PT Aneka Tambang (Persero) Tbk (ANTM) after reporting Rp6.91 trillion net profit for H1 2026",
+      "timestamp": "2026-08-31T16:36:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/120029/analis-asing-bullish-terhadap-saham-antm-usai-cetak-laba-rp6-9-t",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk reports 34% rise in first‑half 2026 profit, gold accounts for 80% of sales",
+      "timestamp": "2026-08-31T14:40:00",
+      "source": "https://www.idnfinancials.com/id/news/68105/dirut-antm-untung-budiharto-laba-naik-34-emas-kontributor-terbesar",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG September 2026 Outlook Highlights Potential Volatility Amid Global Risks",
+      "timestamp": "2026-08-31T09:54:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-september-2026-berpotensi-volatil-investor-perlu-cermati-risiko-global",
+      "tags": [
+        "Market Sentiment",
+        "Global Economy",
+        "Commodities",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "IHSG Weakens Slightly; Today's Stock Recommendations",
+      "timestamp": "2026-08-31T08:45:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8641292/ihsg-melemah-tipis-cek-rekomendasi-saham-hari-ini",
+      "tags": [
+        "Market Sentiment",
+        "Foreign Investment",
+        "Private Placement",
+        "Capital & Funding",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk reports net profit of Rp 6.91 trillion in H1 2026 and maintains a positive outlook for H2 2026",
+      "timestamp": "2026-08-30T17:33:00",
+      "source": "https://investasi.kontan.co.id/news/antm-cetak-laba-rp-691-triliun-prospek-semester-ii-2026-masih-positif",
+      "tags": [
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG September 2026 Outlook Highlights Potential Weakness and Lists Recommended Stocks",
+      "timestamp": "2026-08-30T14:53:00",
+      "source": "https://investasi.kontan.co.id/news/pergerakan-ihsg-di-september-2026-berpotensi-loyo-cek-rekomendasi-saham-pilihannya",
+      "tags": [
+        "Market Sentiment",
+        "Global Economy",
+        "Analyst Ratings",
+        "Interest Rate"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk reports net profit of Rp 6.91 trillion in the first half of 2026",
+      "timestamp": "2026-08-29T12:27:00",
+      "source": "https://investasi.kontan.co.id/news/aneka-tambang-antm-kantongi-laba-bersih-rp-691-triliun-pada-semester-i-2026",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk reports net profit of Rp6.91 trillion for H1 2026",
+      "timestamp": "2026-08-29T09:30:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/119865/antm-cetak-laba-bersih-rp6-91-triliun-semester-i-2026",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Aneka Tambang reports net profit of Rp6.91 trillion for H1 2026",
+      "timestamp": "2026-08-29T09:11:00",
+      "source": "https://market.bisnis.com/read/20260829/192/1999700/aneka-tambang-antm-cetak-laba-bersih-rp691-triliun-semester-i2026",
+      "tags": [
+        "Financial Metrics",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "PT Merdeka Gold Resources Tbk reports a first‑half 2026 loss of Rp265.6 billion",
+      "timestamp": "2026-08-28T08:10:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/119744/merdeka-gold-emas-rugi-rp265-6-miliar-semester-i-2026",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG projected to stay in correction range ahead of the weekend",
+      "timestamp": "2026-08-28T07:42:17",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260828063719-92-1397191/ihsg-diperkirakan-tertekan-jelang-akhir-pekan",
+      "tags": [
+        "Market Sentiment",
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Commodity Stock Recommendations After Clarification of PT Danantara Sumberdaya Indonesia’s Role",
+      "timestamp": "2026-08-27T07:44:00",
+      "source": "https://investasi.kontan.co.id/news/cek-rekomendasi-saham-emiten-komoditas-setelah-peran-dsi-makin-jelas",
+      "tags": [
+        "Commodities",
+        "Analyst Ratings",
+        "Export",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Vanguard, Invesco and FOURTON increase holdings in PT Aneka Tambang Tbk (ANTM)",
+      "timestamp": "2026-08-26T16:22:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/119565/vanguard-hingga-invesco-borong-saham-antm",
+      "tags": [
+        "Institutional Investor",
+        "Foreign Investment",
+        "Analyst Ratings",
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Antam gold buyback price drops to Rp2.610.000 per gram on 26 August 2026, with PPh 22 tax of 1.5% / 3% applied",
+      "timestamp": "2026-08-26T08:58:00",
+      "source": "https://market.bisnis.com/read/20260826/235/1998877/tabel-harga-buyback-emas-antam-hari-ini-rabu-26-agustus-2026-besaran-pajaknya",
+      "tags": [
+        "Stock Buyback",
+        "Commodities",
+        "Politics & Regulation",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Antam gold buyback price rises 10.59% to Rp2.610.000 per gram on 26 August",
+      "timestamp": "2026-08-26T08:43:00",
+      "source": "https://market.bisnis.com/read/20260826/235/1998871/harga-buyback-emas-antam-naik-1059-hingga-hari-ini-rabu-268",
+      "tags": [
+        "Stock Buyback",
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG Expected to Show Limited Upside on Wednesday, with Analyst Recommendations for ANTM, PTBA, and TINS",
+      "timestamp": "2026-08-26T07:15:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-berpeluang-menguat-terbatas-pada-rabu-268-cek-rekomendasi-saham-berikut",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "IHSG projected limited upside on Wednesday, with analyst recommendations for PT Aneka Tambang Tbk, PT Bukit Asam Tbk and PT Timah Tbk",
+      "timestamp": "2026-08-25T09:29:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diproyeksi-menguat-terbatas-rabu-268-cek-saham-rekomendasi-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Currency & FX",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "IHSG predicted to trade sideways; MNC recommends ANTM, PGAS, PTBA, and TINS for Wednesday, 26 August 2026",
+      "timestamp": "2026-08-24T19:39:41",
+      "source": "https://investor.id/market/451471/prediksi-ihsg-dan-rekomendasi-saham-rabu-26-agustus-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Currency & FX"
+      ]
+    },
+    {
+      "title": "Analysts predict ANTM, HRTA, BRMS and other gold issuers will benefit from the newly launched Indonesia Bullion Market Association",
+      "timestamp": "2026-08-24T05:43:00",
+      "source": "https://investasi.kontan.co.id/news/emiten-emas-ini-diprediksi-diuntungkan-dengan-hadirnya-asosiasi-pasar-bullion",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "KB Valbury forecasts PT Antam Tbk net profit of Rp 8.9 trillion for 2026 and issues stock target",
+      "timestamp": "2026-08-23T11:03:42",
+      "source": "https://investor.id/market/451300/ramalan-laba-antam-antm-akhir-2026-plus-target-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors lead net buying in BBRI, BBCA and BMRI, with the ten largest net‑buy stocks on Friday (21/8)",
+      "timestamp": "2026-08-21T21:00:00",
+      "source": "https://investasi.kontan.co.id/news/bbri-bbca-bmri-mulai-diborong-cek-saham-net-buy-terbesar-asing-jumat-218",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors top up ten Indonesian stocks amid IHSG jump, with AMMN and BBRI leading net purchases",
+      "timestamp": "2026-08-21T08:20:00",
+      "source": "https://money.kompas.com/read/2026/08/21/082000026/10-saham-yang-diborong-asing-saat-ihsg-melonjak-ada-ammn-dan-bbri",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors record net purchases in Indonesian stocks, with AMMN, BBRI and ANTM among the top net‑buy entries",
+      "timestamp": "2026-08-21T07:02:41",
+      "source": "https://investor.id/market/451081/sahamsaham-masuk-daftarbeli-asing",
+      "tags": [
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors’ top net‑buy stocks as the IHSG jumped 1.68% to 6,501 on 20 August",
+      "timestamp": "2026-08-20T22:16:00",
+      "source": "https://investasi.kontan.co.id/news/cek-saham-yang-banyak-diborong-asing-saat-ihsg-melesat-168-ke-6501-rabu-208",
+      "tags": [
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Big‑cap stocks and a stronger rupiah drove the IHSG higher on 20 August 2026",
+      "timestamp": "2026-08-20T17:50:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/119041/saham-big-caps-rupiah-menguat-jadi-pendorong-penguatan-ihsg",
+      "tags": [
+        "Currency & FX",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Gold price tops US$4,500 per ounce, MNC Sekuritas flags ANTM, HRTA, MDKA and peers as potential gainers",
+      "timestamp": "2026-08-20T10:00:00",
+      "source": "https://market.bisnis.com/read/20260820/7/1997662/harga-emas-tembus-us4500-saham-antm-hingga-mdka-berpotensi-cuan",
+      "tags": [
+        "Commodities",
+        "Analyst Ratings",
+        "Central Bank",
+        "Inflation",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG opens higher at 6,447 as AMMN, ANTM and gold rise into the green zone",
+      "timestamp": "2026-08-20T09:13:00",
+      "source": "https://market.bisnis.com/read/20260820/7/1997653/ihsg-dibuka-menguat-ke-6447-saham-ammn-antm-hingga-emas-naik-ke-zona-hijau",
+      "tags": [
+        "Central Bank",
+        "Interest Rate",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Analysts Recommend Hold and Buy Ratings for PT Bumi Resources Minerals amid Q2 2026 revenue and profit declines",
+      "timestamp": "2026-08-19T18:57:00",
+      "source": "https://investasi.kontan.co.id/news/dibayangi-risiko-tekanan-harga-hingga-produksi-simak-rekomendasi-saham-brms",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Partnerships & Agreements",
+        "Business Expansion",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Analysts assess Danantara’s outlook as the government targets Rp 200 trillion in BUMN dividends for 2026",
+      "timestamp": "2026-08-18T20:32:00",
+      "source": "https://investasi.kontan.co.id/news/menilik-prospek-emiten-danantara-kala-target-dividen-bumn-naik-ke-rp-200-t-pada-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Dividend Announcement",
+        "Government Policy",
+        "Currency & FX",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Summary of Today's Stock Recommendations, 18 August 2026",
+      "timestamp": "2026-08-18T08:55:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/118637/rangkuman-rekomendasi-saham-hari-ini-18-agustus-2026",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Foreign investors quietly amass conglomerate shares, led by Dian Swastatika Sentosa",
+      "timestamp": "2026-08-18T08:00:57",
+      "source": "https://www.cnbcindonesia.com/market/20260817222646-17-760119/asing-diam-diam-borong-saham-konglomerat",
+      "tags": [
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analyst outlook for PT Aneka Tambang Tbk (ANTM) highlights gold and nickel price risks",
+      "timestamp": "2026-08-18T07:02:00",
+      "source": "https://investasi.kontan.co.id/news/prospek-antm-dibayangi-risiko-harga-emas-dan-bijih-nikel-cek-rekomendasi-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Risk & Compliance",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG Likely to Brighten After Long Holiday as Analysts Forecast Upside and Recommend Select Stocks",
+      "timestamp": "2026-08-18T07:01:00",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260818062643-92-1393391/ihsg-berpeluang-cerah-usai-libur-panjang",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Predicted to Strengthen, Retail Investors May Watch PT Adaro Andalan Indonesia Tbk, PT Aneka Tambang Tbk, and PT VKTR Teknologi Mobilitas Tbk",
+      "timestamp": "2026-08-18T06:03:00",
+      "source": "https://money.kompas.com/read/2026/08/18/060358626/ihsg-diprediksi-menguat-ritel-bisa-cermati-saham-aadi-antm-hingga-vktr",
+      "tags": [
+        "Domestic Investor",
+        "Analyst Ratings",
+        "Central Bank",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "LQ45 lowest‑PER stocks rally while highest‑PER stocks show mixed moves on 14 August 2026",
+      "timestamp": "2026-08-18T04:28:00",
+      "source": "https://investasi.kontan.co.id/news/daftar-saham-per-terendah-tertinggi-lq45-14-agustus-2026-jpfa-dan-mdka-disorot",
+      "tags": [
+        "Market Sentiment",
+        "Foreign Investment",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "IHSG projected to rise on Tuesday (18 Aug) with stock picks AADI, ANTM, and VKTR highlighted",
+      "timestamp": "2026-08-17T16:22:00",
+      "source": "https://investasi.kontan.co.id/news/intip-proyeksi-ihsg-dan-saham-pilihan-untuk-perdagangan-selasa-188",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Foreign Investment"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas projects IHSG to rise toward 6,544 and highlights gains in AADI, ANTM, PGAS, and VKTR",
+      "timestamp": "2026-08-17T13:58:00",
+      "source": "https://market.bisnis.com/read/20260817/189/1996883/ihsg-berpeluang-menguat-ke-6544-cek-saham-aadi-antm-hingga-vktr",
+      "tags": [
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Basic Materials Stocks Grow Significantly Over the Past Month, Prospects for ANTM, BRMS, MDKA, AMMN and TPIA",
+      "timestamp": "2026-08-17T12:50:00",
+      "source": "https://investasi.kontan.co.id/news/saham-emiten-bahan-baku-tumbuh-signifikan-dalam-sebulan-terakhir-simak-prospeknya",
+      "tags": [
+        "Commodities",
+        "Analyst Ratings",
+        "Risk & Compliance",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "RAPBN 2027 Expected to Boost BUMN Stocks, Samuel Sekuritas Picks BMRI, TINS, and ANTM",
+      "timestamp": "2026-08-16T08:25:00",
+      "source": "https://market.bisnis.com/read/20260816/189/1996664/rapbn-2027-jadi-katalis-saham-bumn-bmri-hingga-antm-jadi-pilihan",
+      "tags": [
+        "Analyst Ratings",
+        "Government Policy",
+        "Export",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Popular News Roundup Highlights Sharp Drop in Antam Gold Prices, Indika Energy Valuation, RANS Shareholder Changes, and Indofood CBP Stock Decline",
+      "timestamp": "2026-08-15T05:54:25",
+      "source": "https://investor.id/market/450465/berita-populer-harga-emas-perhiasan-solid-hingga-emas-antam-antm-jatuh-parah",
+      "tags": [
+        "Commodities",
+        "Financial Metrics",
+        "Ownership",
+        "Market Sentiment",
+        "Foreign Investment",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "RAPBN 2027’s expansive budget could lift a range of Indonesian stocks, according to RHB Sekuritas research",
+      "timestamp": "2026-08-14T19:20:00",
+      "source": "https://market.bisnis.com/read/20260814/7/1996485/rapbn-2027-ekspansif-ini-deretan-saham-yang-berpotensi-ketiban-berkah",
+      "tags": [
+        "Government Policy",
+        "Commodities",
+        "Export",
+        "Dividend Announcement",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Daaz Bara Lestari Tbk outlines new contracts and biodiesel production to offset RKAB limitations",
+      "timestamp": "2026-08-13T15:51:00",
+      "source": "https://money.kompas.com/read/2026/08/13/155118826/siasati-keterbatasan-rkab-daaz-pacu-kontrak-baru-dan-produksi-mandiri-b40",
+      "tags": [
+        "Business Expansion",
+        "Production & Operations",
+        "Government Policy",
+        "Financial Metrics",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "OCBC Sekuritas maintains Buy rating on PT Aneka Tambang Tbk with target price IDR 4,650 ahead of H1 2026 earnings",
+      "timestamp": "2026-08-13T15:09:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/118225/jelang-lapkeu-semester-i-cek-target-dan-rekomendasi-saham-antm",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Commodities",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net‑sell PT Bank Mandiri Tbk, PT Telkom Indonesia Tbk and other stocks as the IHSG rose 1.69%",
+      "timestamp": "2026-08-13T09:01:00",
+      "source": "https://investasi.kontan.co.id/news/bmri-tlkm-teratas-intip-saham-yang-banyak-dijual-asing-saat-ihsg-melonjak-kemarin",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk gold price falls 30,000 Rupiah to 2.68 million per gram",
+      "timestamp": "2026-08-12T09:58:38",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260812093114-92-1391320/harga-emas-antam-anjlok-rp30-ribu-jadi-rp2680-juta-per-gram",
+      "tags": [
+        "Commodities",
+        "Stock Buyback",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Rising Gold Prices Boost Prospects for ANTM, BRMS, MDKA and EMAS Shares",
+      "timestamp": "2026-08-11T17:36:00",
+      "source": "https://investasi.kontan.co.id/news/harga-emas-kembali-melejit-prospek-saham-antm-brms-mdka-hingga-emas-ikut-terangkat",
+      "tags": [
+        "Commodities",
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors recorded a net sell of Rp774.89 billion in Session I, with PT Dian Swastatika Sentosa Tbk leading the outflows",
+      "timestamp": "2026-08-11T15:31:34",
+      "source": "https://www.cnbcindonesia.com/market/20260811143432-17-758299/asing-net-sell-rp774-miliar-di-sesi-i-ini-daftar-sahamnya",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Commodities",
+        "Global Economy",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Antam launches 3D gold bar and Bromo silver coin for Indonesia’s 81st Independence Day",
+      "timestamp": "2026-08-11T14:56:00",
+      "source": "https://market.bisnis.com/read/20260811/235/1995335/hut-ke-81-ri-antam-rilis-emas-3d-karapan-sapi-koin-perak-bromo",
+      "tags": [
+        "Product Launch",
+        "Commodities",
+        "ESG",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analyst Outlook Highlights PT Aneka Tambang Tbk and MDKA as Top Picks Amid Nickel Export Slowdown",
+      "timestamp": "2026-08-11T11:14:00",
+      "source": "https://investasi.kontan.co.id/news/menakar-nasib-emiten-nikel-di-tengah-perlambatan-ekspor",
+      "tags": [
+        "Analyst Ratings",
+        "Export",
+        "Commodities",
+        "Diversification",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Antam Gold Buyback Price Rises 7.88% to Rp2.546 million on Aug 11, 2026",
+      "timestamp": "2026-08-11T09:34:00",
+      "source": "https://market.bisnis.com/read/20260811/235/1995236/harga-buyback-emas-antam-naik-788-hingga-hari-ini-selasa-118",
+      "tags": [
+        "Stock Buyback",
+        "Financial Metrics",
+        "Commodities",
+        "Politics & Regulation",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Popular news roundup highlights GGRM’s 5.46% jump, gold jewelry price rises, BBRI foreign buying, Antam gold surge, and BBCA shareholder decline",
+      "timestamp": "2026-08-09T05:31:39",
+      "source": "https://investor.id/market/449624/berita-populer-ggrm-curi-perhatian-hingga-harga-emas-perhiasan-dalam-sorotan",
+      "tags": [
+        "Commodities",
+        "Foreign Investment",
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MIND ID to remit Rp 12.6 trillion in dividends to the state in 2025",
+      "timestamp": "2026-08-08T19:19:00",
+      "source": "https://money.kompas.com/read/2026/08/08/191900226/mind-id-setor-dividen-rp-12-6-triliun-ke-negara-sepanjang-2025-",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Foreign investors record net buying on the IDX, with PT Bank Rakyat Indonesia Tbk leading the top net buy",
+      "timestamp": "2026-08-07T23:00:00",
+      "source": "https://www.idnfinancials.com/id/news/67169/perdagangan-asing-net-buy-bbri-tercatat-top-buy",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Foreign investors net bought Rp 1.24 trillion over the weekend, with ten Indonesian stocks leading the inflows.",
+      "timestamp": "2026-08-07T22:47:00",
+      "source": "https://investasi.kontan.co.id/news/asing-net-buy-jumbo-rp-124-triliun-cek-saham-yang-banyak-diborong-di-akhir-pekan",
+      "tags": [
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG rises 1.04% to 6,409.65 – Weekly market review",
+      "timestamp": "2026-08-07T19:24:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-naik-103-hari-ini-78-simak-reviewnya-sepekan",
+      "tags": [
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Currency & FX"
+      ]
+    },
+    {
+      "title": "Analyst recommends buying PT Aneka Tambang Tbk and PT Archi Indonesia Tbk as gold stocks after IHSG rally",
+      "timestamp": "2026-08-07T16:55:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-menguat-ke-level-6409-analis-rekomendasikan-saham-emas",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Holding Industri Pertambangan to remit Rp12.6 trillion in dividends to the state in 2025",
+      "timestamp": "2026-08-07T14:39:29",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260807133343-85-1389700/mind-id-setor-dividen-rp126-t-ke-negara-sepanjang-2025",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Subsidiaries",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Danantara’s limited role leaves BUMN issuers’ performance uneven",
+      "timestamp": "2026-08-07T13:58:00",
+      "source": "https://investasi.kontan.co.id/news/peran-danantara-kurang-maksimal-kinerja-emiten-bumn-belum-merata",
+      "tags": [
+        "Capital & Funding",
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Institutional Investor",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors sell and buy Indonesian energy stocks amid a jump in world oil prices",
+      "timestamp": "2026-08-07T13:44:00",
+      "source": "https://money.kompas.com/read/2026/08/07/134409126/harga-minyak-dunia-melonjak-asing-jual-sejumlah-saham-energi-di-bursa-ri",
+      "tags": [
+        "Foreign Investment",
+        "Commodities",
+        "Market Sentiment",
+        "Global Economy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BUMN stocks remain undervalued despite solid first‑half 2026 earnings, highlighting attractive buying opportunities.",
+      "timestamp": "2026-08-07T05:00:00",
+      "source": "https://investasi.kontan.co.id/news/harga-saham-bumn-masih-tertekan-meskipun-laporan-kinerja-bagus-cek-yang-layak-beli",
+      "tags": [
+        "Undervalued",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BUMN issuers' first‑half 2026 results show limited impact from Danantara, with mixed performance across sectors",
+      "timestamp": "2026-08-06T18:21:00",
+      "source": "https://investasi.kontan.co.id/news/kinerja-emiten-bumn-belum-terdorong-peran-danantara-simak-prospeknya",
+      "tags": [
+        "Financial Metrics",
+        "Asset Management",
+        "Analyst Ratings",
+        "Risk & Compliance",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign broker UBS Sekuritas leads net buying of PT Aneka Tambang, pushing shares up over 6%",
+      "timestamp": "2026-08-06T10:05:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/117476/broker-asing-diam-diam-borong-saham-antm",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG opens higher at 6,369.99 as PT Hartadinata Abadi Tbk, PT Aneka Tambang Tbk and PT Indika Energy Tbk post notable gains",
+      "timestamp": "2026-08-06T09:10:00",
+      "source": "https://market.bisnis.com/read/20260806/7/1994111/ihsg-dibuka-naik-ke-6369-saham-hrta-antm-indy-melaju",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Analysis of Profit and Loss for Antam Gold Buyers Over Ten Lebaran Periods up to August 2026",
+      "timestamp": "2026-08-06T06:46:00",
+      "source": "https://market.bisnis.com/read/20260806/235/1994069/nasib-cuan-boncos-pembeli-emas-antam-lebaran-10-tahun-agustus-2026",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Stock Buyback"
+      ]
+    },
+    {
+      "title": "ANTM stock highlighted as foreign investors heavily target it",
+      "timestamp": "2026-08-05T13:16:29",
+      "source": "https://investor.id/market/449192/saham-antm-disorot-banyak-diserok-asing",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Session I: IHSG rises 0.69% on stronger‑than‑expected Q2 GDP",
+      "timestamp": "2026-08-05T13:09:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/117370/ihsg-menguat-efek-data-ekonomi-ri-yang-lampaui-ekspektasi",
+      "tags": [
+        "Market Sentiment",
+        "Global Economy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas recommends ANTM, EMAS, INDY, VKTR and XIHD as top picks amid IHSG outlook for August 5 2026",
+      "timestamp": "2026-08-05T09:02:00",
+      "source": "https://market.bisnis.com/read/20260805/189/1993729/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-rabu-5-agustus-2026",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Gold miner emitters compete in semester II 2026 as MDKA leads while ANTM and BRMS lag",
+      "timestamp": "2026-08-05T06:30:00",
+      "source": "https://market.bisnis.com/read/20260805/192/1993703/adu-siasat-emiten-emas-semester-ii2026-saham-mana-paling-berkilau",
+      "tags": [
+        "Commodities",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Business Expansion",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Antam gold buyers continue to incur losses as buyback price stays near Rp2.37 million per gram through Tuesday, Aug 4 2026",
+      "timestamp": "2026-08-04T17:24:00",
+      "source": "https://market.bisnis.com/read/20260804/235/1993616/nasib-pembeli-emas-antam-yang-masih-boncos-hingga-selasa-48",
+      "tags": [
+        "Commodities",
+        "Politics & Regulation",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Contemporary Amperex Technology Indonesia Battery (CATIB) completes Karawang EV battery plant, pending inauguration by President Prabowo",
+      "timestamp": "2026-08-04T17:19:00",
+      "source": "https://money.kompas.com/read/2026/08/04/171947626/bahlil-sebut-pabrik-baterai-ev-di-karawang-rampung-tinggal-diresmikan-prabowo",
+      "tags": [
+        "Production & Operations",
+        "Joint Venture",
+        "Capital & Funding",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts project strong upside for Indonesia’s red‑plate (BUMN) stocks in the second half of 2026 following the IDX BUMN 20 rebalancing",
+      "timestamp": "2026-08-04T08:55:00",
+      "source": "https://market.bisnis.com/read/20260804/192/1993383/prospek-cerah-saham-pelat-merah-di-sisa-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analyst Highlights PT Aneka Tambang Tbk, PT Bukit Asam Tbk, and PT Bank Mandiri Tbk as Top Picks After IDX BUMN20 Rebalancing",
+      "timestamp": "2026-08-03T16:26:00",
+      "source": "https://market.bisnis.com/read/20260803/189/1993241/cermati-antm-ptba-dan-bmri-masuk-radar-analis-usai-evaluasi-idx-bumn-20",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Stagnates at 6,234.29 in Early Trading",
+      "timestamp": "2026-08-03T13:04:37",
+      "source": "https://www.cnbcindonesia.com/market/20260803121623-17-756035/ihsg-sesi-pertama-stagnan-di-level-6234",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Broker recommendation highlights PT Timah Tbk, PT Vale Indonesia Tbk, PT Aneka Tambang Tbk, and PT Bukit Asam Tbk for Semester II‑2026",
+      "timestamp": "2026-08-03T07:00:00",
+      "source": "https://investasi.kontan.co.id/news/intip-rekomendasi-saham-pilihan-emiten-pertambangan-mind-id-di-semester-ii-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk reports 12% rise in gold production but 38% drop in gold sales in Q2 2026",
+      "timestamp": "2026-08-03T06:14:00",
+      "source": "https://money.kompas.com/read/2026/08/03/061400526/produksi-emas-antm-melonjak-12-persen-tapi-penjualan-anjlok-",
+      "tags": [
+        "Commodities",
+        "Financial Metrics",
+        "Production & Operations",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Popular financial news roundup covers Antam gold price outlook, UNTR losses and discounts, IHSG prospects, and BMRI valuation",
+      "timestamp": "2026-08-03T05:06:55",
+      "source": "https://investor.id/market/448837/berita-populer-arah-harga-emas-antam-antm-hingga-untr-lagi-diskon",
+      "tags": [
+        "Commodities",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Central Bank",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Foreign investors' top ten net‑sell stocks in Indonesia during the last week of July 2026",
+      "timestamp": "2026-08-03T00:25:00",
+      "source": "https://investasi.kontan.co.id/news/cermati-saham-net-sell-terbesar-asing-di-pekan-terakhir-bulan-juli-2026",
+      "tags": [
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Prospects for MIND ID Mining Issuers in H2‑2026 Remain Positive, Analysts Highlight PT Timah Tbk, PT Vale Indonesia Tbk, PT Aneka Tambang Tbk and PT Bukit Asam Tbk",
+      "timestamp": "2026-08-02T16:36:00",
+      "source": "https://investasi.kontan.co.id/news/menakar-prospek-kinerja-emiten-pertambangan-mind-id-di-semester-ii-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG climbs 6.13% to 6,236 as foreign investors net‑buy ten large‑cap stocks",
+      "timestamp": "2026-08-01T13:29:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-menguat-613-ke-6236-sebulan-terakhir-cek-saham-yang-banyak-diborong-asing",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk reports operational growth across all mining segments in H1 2026",
+      "timestamp": "2026-08-01T09:42:00",
+      "source": "https://investasi.kontan.co.id/news/antm-bukukan-pertumbuhan-operasional-di-seluruh-segmen-tambang-semester-i-2026",
+      "tags": [
+        "Business Expansion",
+        "Production & Operations",
+        "Commodities",
+        "Export",
+        "ESG",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net sold Rp 250.53 billion over the weekend, with PT MNC Digital Entertainment Tbk leading the top‑10 most‑sold stocks",
+      "timestamp": "2026-07-31T21:21:00",
+      "source": "https://investasi.kontan.co.id/news/asing-catat-net-sell-rp-250-miliar-di-akhir-pekan-cek-saham-yang-banyak-diborong",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Financial Reports as Fuel for Mining Stocks: Which Are Most Attractive?",
+      "timestamp": "2026-07-31T15:11:55",
+      "source": "https://www.cnbcindonesia.com/market/20260731134624-17-755471/laporan-keuangan-jadi-bahan-bakar-saham-tambang-siapa-paling-menarik",
+      "tags": [
+        "Annual Report",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Popular news: solid jewelry gold prices and a spectacular earnings jump for PT Super Bank Indonesia Tbk (SUPA)",
+      "timestamp": "2026-07-31T05:00:46",
+      "source": "https://investor.id/market/448547/berita-populer-harga-emas-perhiasan-kokoh-hingga-ramalan-fantastis-saham-gopek-supa",
+      "tags": [
+        "Commodities",
+        "Financial Metrics",
+        "Stock Buyback",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Rebound signals for ANTM and INCO stocks ahead of first‑half 2026 earnings for state‑owned mining firms",
+      "timestamp": "2026-07-30T21:54:00",
+      "source": "https://market.bisnis.com/read/20260730/189/1992475/sinyal-rebound-antm-inco-jelang-lapkeu-semester-i2026-tambang-bumn",
+      "tags": [
+        "Market Sentiment",
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG diperkirakan uji level 6.000; Phintraco rekomendasikan enam saham",
+      "timestamp": "2026-07-30T06:36:47",
+      "source": "https://investor.id/market/448389/ihsg-bersiap-hadapi-ujian-6-saham-jadi-sorotan",
+      "tags": [
+        "Analyst Ratings",
+        "Currency & FX"
+      ]
+    },
+    {
+      "title": "IDX Value30 Outperforms IHSG in the Last Month, Here's Why",
+      "timestamp": "2026-07-29T18:47:00",
+      "source": "https://investasi.kontan.co.id/news/kinerja-idx-value30-ungguli-ihsg-dalam-sebulan-terakhir-ini-sebabnya",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Sharia stock indices rebound as energy and commodity stocks lead the recovery",
+      "timestamp": "2026-07-29T18:21:00",
+      "source": "https://investasi.kontan.co.id/news/indeks-saham-syariah-bangkit-dari-tekanan-sektor-energi-dan-komoditas-jadi-penggerak",
+      "tags": [
+        "Sharia Economy",
+        "Commodities",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Buyback gold price for PT Aneka Tambang Tbk falls to Rp2.346 million per gram",
+      "timestamp": "2026-07-29T09:02:00",
+      "source": "https://market.bisnis.com/read/20260729/235/1991925/harga-buyback-emas-antam-turun-hari-ini-berikut-simulasi-hasil-bersih-setelah-pajak",
+      "tags": [
+        "Stock Buyback",
+        "Commodities",
+        "Politics & Regulation",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Reasons behind the IHSG closing at 6,130",
+      "timestamp": "2026-07-28T17:45:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/116489/penyebab-ihsg-ditutup-di-posisi-6-130",
+      "tags": [
+        "Central Bank",
+        "Currency & FX",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Antam gold buyback price drops to Rp2.361 million per gram on 28 July 2026, with tax rates of 1.5% for NPWP holders and 3% for non‑NPWP",
+      "timestamp": "2026-07-28T09:13:00",
+      "source": "https://market.bisnis.com/read/20260728/235/1991599/tabel-harga-buyback-emas-antam-hari-ini-selasa-28-juli-2026-besaran-pajaknya",
+      "tags": [
+        "Stock Buyback",
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Kompas100 Index Outperforms IHSG Over the Past Month, Analysts Recommend Several Stocks",
+      "timestamp": "2026-07-26T17:41:00",
+      "source": "https://investasi.kontan.co.id/news/indeks-kompas100-ungguli-ihsg-sebulan-terakhir-cek-rekomendasi-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Digital Gold Transactions Reach Rp172.7 Trillion in First Half 2026, Up 601%",
+      "timestamp": "2026-07-25T08:06:00",
+      "source": "https://market.bisnis.com/read/20260725/235/1990968/transaksi-emas-digital-tembus-rp1727-triliun-semester-i2026-melonjak-601",
+      "tags": [
+        "Commodities",
+        "Digital Transformation"
+      ]
+    },
+    {
+      "title": "Popular news roundup: BBRI dividend outlook and Antam gold price plunge alongside updates on BUMI, BBCA and SUPR tender offer",
+      "timestamp": "2026-07-25T05:40:54",
+      "source": "https://investor.id/market/447824/berita-populer-dividen-bbri-hingga-harga-emas-antam-antm-rontok-parah",
+      "tags": [
+        "Dividend Announcement",
+        "Commodities",
+        "Mergers & Acquisitions",
+        "Financial Metrics",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Foreign investors net sell Rp759.46 billion in Session I, led by BMRI and BUMI",
+      "timestamp": "2026-07-24T13:34:16",
+      "source": "https://www.cnbcindonesia.com/market/20260724132831-17-753577/asing-net-sell-rp75946-miliar-di-sesi-i-ini-daftar-sahamnya",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Mineral downstreaming program seen as positive catalyst for mining issuers ANTM, ADMR and CITA",
+      "timestamp": "2026-07-23T09:55:00",
+      "source": "https://money.kompas.com/read/2026/07/23/095514526/program-hilirisasi-jadi-angin-segar-bagi-saham-emiten-tambang",
+      "tags": [
+        "Government Policy",
+        "Business Expansion",
+        "Capital & Funding",
+        "Commodities",
+        "Risk & Compliance",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Daily stock recommendation roundup for 23 July 2026",
+      "timestamp": "2026-07-23T08:50:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/115953/rangkuman-rekomendasi-saham-hari-ini-23-juli-2026",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Foreign investors dump five Indonesian stocks, with DSSA topping net sell on July 22, 2026",
+      "timestamp": "2026-07-22T20:50:11",
+      "source": "https://investor.id/market/447525/5-saham-diterpa-gelombang-besar-aksi-jual-asing",
+      "tags": [
+        "Foreign Investment",
+        "Analyst Ratings",
+        "Joint Venture",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Downstream (hilirisasi) programs enhance outlook for mining issuers PT Aneka Tambang Tbk, PT Alamtri Minerals Indonesia Tbk and PT Cita Mineral Investindo Tbk",
+      "timestamp": "2026-07-22T19:01:00",
+      "source": "https://investasi.kontan.co.id/news/emiten-tambang-ketiban-berkah-program-hilirisasi-cek-rekomendasi-sahamnya",
+      "tags": [
+        "Business Expansion",
+        "Production & Operations",
+        "Commodities",
+        "Diversification",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Antam gold buyback price rises today (22 July) passing early‑2026 level",
+      "timestamp": "2026-07-22T08:54:00",
+      "source": "https://market.bisnis.com/read/20260722/235/1989991/harga-buyback-emas-antam-naik-hari-ini-rabu-227-lewati-awal-2026",
+      "tags": [
+        "Stock Buyback",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Expected to Continue Rising with Six Recommended Stocks Highlighted",
+      "timestamp": "2026-07-22T07:53:03",
+      "source": "https://investor.id/market/447415/ihsg-bakal-lanjut-nanjak-6-saham-jagoan-cuan",
+      "tags": [
+        "Market Sentiment",
+        "Central Bank",
+        "Currency & FX",
+        "Commodities"
+      ]
+    },
+    {
+      "title": "Foreign investors post biggest net purchase of PT Dian Swastatika Sentosa Tbk (DSSA) on July 21, 2026",
+      "timestamp": "2026-07-21T19:37:07",
+      "source": "https://investor.id/market/447366/giliran-saham-dssa-grup-sinar-mas-jadi-sasaran-utama",
+      "tags": [
+        "Foreign Investment",
+        "Mergers & Acquisitions",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia's IHSG closes up 1.74% as foreign investors accumulate shares in PT Dian Swastatika Sentosa Tbk, PT Aneka Tambang Tbk, and PT Bank Mandiri Tbk",
+      "timestamp": "2026-07-21T18:54:00",
+      "source": "https://money.kompas.com/read/2026/07/21/185413426/ihsg-ditutup-melonjak-174-persen-asing-akumulasi-saham-dssa-antm-hingga-bmri",
+      "tags": [
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BlackRock Rebuilds Stake in PT Aneka Tambang Tbk (ANTM) with 4.29 Million‑Share Purchase",
+      "timestamp": "2026-07-21T15:16:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/115755/blackrock-balik-akumulasi-saham-aneka-tambang-antm",
+      "tags": [
+        "Asset Management",
+        "Ownership",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Aneka Tambang and Bank Muamalat Announce Strategic Partnership to Distribute ANTM Gold",
+      "timestamp": "2026-07-21T09:30:00",
+      "source": "https://investasi.kontan.co.id/news/aneka-tambang-antm-dan-bank-muamalat-kolaborasi-distribusi-logam-mulia",
+      "tags": [
+        "Partnerships & Agreements",
+        "Sharia Economy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Popular news roundup highlights ADRO’s new stock target and first aluminium export, plus updates on gold prices, big‑cap stocks and BBRI recommendation",
+      "timestamp": "2026-07-20T05:07:25",
+      "source": "https://investor.id/market/447108/berita-populer-target-harga-saham-adro-terbaru-hingga-harga-emas-perhiasan-kokoh",
+      "tags": [
+        "Analyst Ratings",
+        "Export",
+        "Commodities",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia market outlook ahead of Bank Indonesia’s July 2026 RDG suggests minimal impact on the IHSG",
+      "timestamp": "2026-07-19T18:06:00",
+      "source": "https://investasi.kontan.co.id/news/menilik-nasib-pasar-keuangan-jelang-rdg-bi-bulan-juli-2026",
+      "tags": [
+        "Central Bank",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "ANTAM distributes Rp5.05 trillion cash dividend for FY 2025, payout ratio 70%",
+      "timestamp": "2026-07-17T19:17:00",
+      "source": "https://market.bisnis.com/read/20260717/192/1988967/antam-antm-distribusikan-dividen-rp505-triliun-payout-ratio-70",
+      "tags": [
+        "Dividend Announcement",
+        "Award",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Antam (ANTM) Target Price Revised to Rp 4,100",
+      "timestamp": "2026-07-17T18:15:58",
+      "source": "https://investor.id/market/446948/antam-antm-punya-target-harga-baru",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk distributes Rp 5.05 trillion cash dividend for FY 2025",
+      "timestamp": "2026-07-17T18:07:00",
+      "source": "https://investasi.kontan.co.id/news/aneka-tambang-antm-distribusikan-dividen-rp-505-triliun-pada-pemegang-saham",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Antam gold price falls to IDR 2.606 million per gram amid global gold slump and Middle East tensions",
+      "timestamp": "2026-07-17T09:14:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/115345/penyebab-kejatuhan-harga-emas-antam-hari-ini",
+      "tags": [
+        "Commodities",
+        "Global Economy",
+        "Inflation",
+        "Central Bank",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG projected higher as analysts recommend INCO, INDY, ISAT, OASA, ANTM, ASII, MBMA, MDKA, and PTBA",
+      "timestamp": "2026-07-17T06:46:07",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260717060604-92-1381672/ihsg-diperkirakan-cerah-jelang-akhir-pekan",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Broker Recommendations Highlight ANTM, ARTO, ARCI, INCO, ISAT, and OASA as IHSG Eyes Limited Upside",
+      "timestamp": "2026-07-17T05:51:00",
+      "source": "https://investasi.kontan.co.id/news/intip-rekomendasi-saham-pilihan-hari-ini-177-ihsg-berpeluang-menguat-terbatas",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "JP Morgan highlights PT Aneka Tambang Tbk, PT Merdeka Copper Gold Tbk and PT Vale Indonesia Tbk as top Indonesian nickel stocks with strong 2026 profit outlook",
+      "timestamp": "2026-07-16T19:37:50",
+      "source": "https://investor.id/market/446805/tiga-saham-nikel-andalan-jp-morgan-laba-dan-cuan-gedegede",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Politics & Regulation",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG projected to gain modestly on Friday, led by BMRI, BBRI, AMMN and ASII",
+      "timestamp": "2026-07-16T18:21:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diproyeksikan-menguat-terbatas-pada-perdagangan-jumat-177",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Currency & FX",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk gold buyback price drops to Rp2.380.000 per gram on Thursday, 16 July 2026, with applicable PPh 22 tax rates",
+      "timestamp": "2026-07-16T08:51:00",
+      "source": "https://market.bisnis.com/read/20260716/235/1988492/tabel-harga-buyback-emas-antam-hari-ini-kamis-16-juli-2026-besaran-pajaknya",
+      "tags": [
+        "Commodities",
+        "Financial Metrics",
+        "Politics & Regulation",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "CGS International Sekuritas Indonesia forecasts limited IHSG upside and recommends six stocks: ANTM, EXCL, ISAT, LSIP, MYOR, HMSP",
+      "timestamp": "2026-07-16T08:43:27",
+      "source": "https://investor.id/market/446717/ihsg-bakal-menguat-terbatas-6-saham-potensi-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Currency & FX"
+      ]
+    },
+    {
+      "title": "Foreign investors net‑buy BMRI, ANTM and BBRI as IHSG edges higher",
+      "timestamp": "2026-07-16T07:43:27",
+      "source": "https://investor.id/market/446709/belum-berhenti-serok-saham-ini-dikoleksi-asing",
+      "tags": [
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Antam Gold Buyback Price Rebounds to Rp2.382 million per gram on July 15, 2026",
+      "timestamp": "2026-07-15T15:57:00",
+      "source": "https://market.bisnis.com/read/20260715/235/1988310/harga-buyback-emas-antam-rebound-hari-ini-rabu-157",
+      "tags": [
+        "Stock Buyback",
+        "Commodities"
+      ]
+    },
+    {
+      "title": "Reasons Behind Antam Gold Price Rising Rp20,000 Today",
+      "timestamp": "2026-07-15T09:36:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/115041/penyebab-harga-emas-antam-hari-ini-naik-rp20-000",
+      "tags": [
+        "Commodities",
+        "Stock Buyback",
+        "Inflation",
+        "Global Economy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Antam gold buyback price rises to Rp2.382 000 per gram on 15 July 2026, with applicable PPh 22 tax rates",
+      "timestamp": "2026-07-15T08:49:00",
+      "source": "https://market.bisnis.com/read/20260715/235/1988167/tabel-harga-buyback-emas-antam-hari-ini-rabu-15-juli-2026-besaran-pajaknya",
+      "tags": [
+        "Stock Buyback",
+        "Commodities",
+        "Government Policy"
+      ]
+    },
+    {
+      "title": "S&P stable outlook leads BRI Danareksa to spotlight BBCA, ANTM and AADI while keeping IHSG target at 7,200",
+      "timestamp": "2026-07-14T18:29:07",
+      "source": "https://investor.id/market/446505/bbca-antm-hingga-aadi-masuk-radar-usai-keputusan-sp",
+      "tags": [
+        "Analyst Ratings",
+        "Credit",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Nickel production quota relaxation seen as positive catalyst for Indonesian nickel miners ANTM and INCO",
+      "timestamp": "2026-07-14T12:42:28",
+      "source": "https://www.cnbcindonesia.com/market/20260714121704-17-750673/relaksasi-kuota-produksi-nikel-jadi-katalis-positif-saham-tambang",
+      "tags": [
+        "Government Policy",
+        "Commodities",
+        "Market Sentiment",
+        "Foreign Investment",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Antam gold buyback price on Tuesday 14 July 2026 and applicable tax rates",
+      "timestamp": "2026-07-14T09:51:00",
+      "source": "https://market.bisnis.com/read/20260714/235/1987865/harga-buyback-emas-antam-hari-ini-selasa-14-juli-2026-besaran-pajaknya",
+      "tags": [
+        "Stock Buyback",
+        "Commodities",
+        "Politics & Regulation",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk's gold buyback price falls to Rp2.352 million per gram on Tuesday",
+      "timestamp": "2026-07-14T09:41:00",
+      "source": "https://market.bisnis.com/read/20260714/235/1987857/harga-buyback-emas-antam-amblas-hari-ini-selasa-147",
+      "tags": [
+        "Stock Buyback",
+        "Commodities",
+        "Global Economy",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas recommends ADMR, ANTM, ASII and BRMS as IHSG targets the 6,083–6,254 range on Tuesday, 14 July 2026",
+      "timestamp": "2026-07-14T09:03:00",
+      "source": "https://market.bisnis.com/read/20260714/189/1987739/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-selasa-14-juli-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "IHSG projected to continue rising on Tuesday, 14 July",
+      "timestamp": "2026-07-14T07:45:31",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260714064733-92-1380366/ihsg-diprediksi-lanjut-ngegas-hari-ini",
+      "tags": [
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Rising production costs test profit resilience of PT Aneka Tambang Tbk, PT Timah Tbk, and PT Vale Indonesia Tbk",
+      "timestamp": "2026-07-14T07:30:00",
+      "source": "https://market.bisnis.com/read/20260714/192/1987831/beban-produksi-membengkak-cek-daya-tahan-laba-saham-antm-tins-dan-inco",
+      "tags": [
+        "Production & Operations",
+        "Financial Metrics",
+        "Commodities",
+        "Analyst Ratings",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Assessing Basic Materials Sector Prospects for H2 2026, Highlighting ANTM and MDKA as Attractive Picks",
+      "timestamp": "2026-07-13T20:10:00",
+      "source": "https://investasi.kontan.co.id/news/menakar-prospek-sektor-bahan-baku-di-semester-ii-2026-saham-ini-layak-jadi-pilihan",
+      "tags": [
+        "Commodities",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk gold buyback price falls to Rp2.395 million per gram, Rp594,000 below record",
+      "timestamp": "2026-07-13T15:54:00",
+      "source": "https://market.bisnis.com/read/20260713/235/1987671/harga-buyback-emas-antam-sudah-turun-rp594000-dari-rekor-hingga-hari-ini-senin-137",
+      "tags": [
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Antam gold price falls to Rp2.635.000 per gram on Monday",
+      "timestamp": "2026-07-13T12:50:00",
+      "source": "https://www.idnfinancials.com/id/news/65981/harga-emas-antam-hari-senin-137-turun-jadi-rp2-635-000-per-gram",
+      "tags": [
+        "Commodities",
+        "Government Policy",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk's Antam gold price drops 20,000 rupiah to 2,635,000 per gram on Monday",
+      "timestamp": "2026-07-13T09:37:00",
+      "source": "https://investasi.kontan.co.id/news/harga-emas-antam-turun-rp-20000-jadi-rp-2635000-per-gram-senin-137",
+      "tags": [
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG expected to consolidate, but LSIP, ANTM, and NTBK seen as profit‑potential stocks",
+      "timestamp": "2026-07-13T08:05:25",
+      "source": "https://investor.id/market/446261/ihsg-akan-konsolidasi-tapi-3-saham-berpotensi-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Currency & FX",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "IHSG Expected to Strengthen Early This Week, Analysts Project Support and Resistance Levels",
+      "timestamp": "2026-07-13T07:09:05",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260713061053-92-1379922/ihsg-diperkirakan-unjuk-gigi-awali-pekan-ini",
+      "tags": [
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Analysts see bright outlook for Indonesian metal‑mining stocks and recommend buys for PT Amman Mineral Internasional Tbk, PT Timah Tbk, PT Vale Indonesia Tbk and PT Aneka Tambang Tbk",
+      "timestamp": "2026-07-12T17:11:00",
+      "source": "https://investasi.kontan.co.id/news/prospek-saham-tambang-logam-masih-cerah-ini-rekomendasi-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Partnerships & Agreements",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Cost pressures expected to ease in H2 2026, keeping ANTM, INCO, AMMN and TINS stocks prospective",
+      "timestamp": "2026-07-12T16:06:00",
+      "source": "https://investasi.kontan.co.id/news/beban-biaya-berpotensi-menyusut-saham-antm-inco-ammn-dan-tins-masih-prospektif",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Financial Metrics",
+        "Currency & FX",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG rises 0.83% to 5,924 as foreign investors heavily buy ten leading stocks",
+      "timestamp": "2026-07-11T20:32:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-menguat-083-ke-5924-cek-saham-yang-banyak-diburu-asing-sepekan-terakhir",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Gold Remains the Primary Growth Engine for PT ANTAM (Persero) Tbk",
+      "timestamp": "2026-07-10T14:57:48",
+      "source": "https://www.cnbcindonesia.com/market/20260710145026-17-749856/emas-masih-jadi-mesin-utama-pertumbuhan-antm",
+      "tags": [
+        "Commodities",
+        "Business Expansion",
+        "Financial Metrics",
+        "Partnerships & Agreements",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Antam (ANTM) to Pay Cash Dividend of Rp 209.98 per Share on July 10, 2026",
+      "timestamp": "2026-07-10T08:17:48",
+      "source": "https://investor.id/market/445963/antam-antm-beraksi-duit-rp-2099-per-saham-cair",
+      "tags": [
+        "Dividend Announcement",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BRI Danareksa Sekuritas recommends BUVA, ANTM and BUMI as potential gainers on July 10, 2026",
+      "timestamp": "2026-07-10T06:45:00",
+      "source": "https://investasi.kontan.co.id/news/rekomendasi-saham-hari-ini-107-antm-buva-dan-bumi-berpeluang-menguat",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "List of LQ45 stocks with the lowest and highest PER on 9 July 2026, highlighting strong gains in DEWA and BRPT",
+      "timestamp": "2026-07-10T06:25:00",
+      "source": "https://investasi.kontan.co.id/news/daftar-saham-per-terendah-tertinggi-lq45-9-juli-2026-dewa-dan-brpt-jadi-sorotan",
+      "tags": [
+        "Financial Metrics",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG expected to move sideways on Friday (10 July) with analyst buy recommendations for BUMI, BUVA and ANTM",
+      "timestamp": "2026-07-09T17:20:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diproyeksi-bergerak-sideways-pada-jumat-107-ini-rekomendasi-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "LQ45 stocks with the lowest and highest PER on 8 July 2026 saw most shares close lower",
+      "timestamp": "2026-07-09T05:58:00",
+      "source": "https://investasi.kontan.co.id/news/daftar-saham-per-terendah-tertinggi-lq45-8-juli-2026-mayoritas-kompak-merah",
+      "tags": [
+        "Financial Metrics",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Bank Muamalat Indonesia and PT Aneka Tambang Tbk sign strategic partnership to expand sharia‑compliant gold financing",
+      "timestamp": "2026-07-08T18:44:00",
+      "source": "https://keuangan.kontan.co.id/news/bank-muamalat-gandeng-antam-antm-genjot-pembiayaan-emas-syariah",
+      "tags": [
+        "Sharia Economy",
+        "Partnerships & Agreements",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT ANTAM (Persero) Tbk joins Rp 14.8 trillion SGAR Phase 2 alumina refinery project targeting 1 million‑ton annual output by 2028",
+      "timestamp": "2026-07-08T13:52:55",
+      "source": "https://www.cnbcindonesia.com/market/20260708134646-17-749140/lewat-proyek-ini-kinerja-antam-makin-solid-untuk-jangka-panjang",
+      "tags": [
+        "Business Expansion",
+        "Capital & Funding",
+        "Commodities",
+        "Joint Venture",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk gold buyback price falls to Rp2,393,000 per gram on 8 July 2026, with PPh 22 tax of 1.5% for NPWP holders and 3% for non‑NPWP",
+      "timestamp": "2026-07-08T09:57:00",
+      "source": "https://market.bisnis.com/read/20260708/235/1986464/tabel-harga-buyback-emas-antam-hari-ini-rabu-8-juli-2026-nilai-pajaknya",
+      "tags": [
+        "Stock Buyback",
+        "Commodities",
+        "Politics & Regulation",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Popular financial news roundup highlights DEWA contract boost, tax shortfall concerns, and commodity stock re‑rating",
+      "timestamp": "2026-07-08T04:54:20",
+      "source": "https://investor.id/market/445647/berita-populer-saham-bakrie-dewa-bakal-meroket-hingga-purbaya-soal-shortfall-pajak",
+      "tags": [
+        "Business Expansion",
+        "Government Policy",
+        "Commodities",
+        "Mergers & Acquisitions",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesian big‑cap stocks such as BMRI, TLKM, ANTM and HRTA trade at valuation discounts",
+      "timestamp": "2026-07-07T05:34:00",
+      "source": "https://money.kompas.com/read/2026/07/07/053435626/saham-big-caps-ri-sedang-diskon-ada-bmri-tlkm-antm-hingga-hrta",
+      "tags": [
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Global Economy",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk's Antam gold buyback price holds at Rp2.429.000 per gram on Monday, 6 July 2026, with applicable PPh 22 tax rates",
+      "timestamp": "2026-07-06T08:49:00",
+      "source": "https://market.bisnis.com/read/20260706/235/1985737/tabel-harga-buyback-emas-antam-hari-ini-senin-6-juli-2026-besaran-pajaknya",
+      "tags": [
+        "Stock Buyback",
+        "Government Policy"
+      ]
+    },
+    {
+      "title": "Weekly Top 10 IHSG Supporting Stocks: AMMN, DCII and BREN Lead",
+      "timestamp": "2026-07-05T08:06:00",
+      "source": "https://market.bisnis.com/read/20260705/7/1985593/10-saham-penopang-ihsg-sepekan-ammn-dcii-hingga-bren-pimpin-top-leaders",
+      "tags": [
+        "Foreign Investment"
+      ]
+    },
+    {
+      "title": "PGAS and ANTM drag the IHSG, preventing a green‑zone close",
+      "timestamp": "2026-07-04T19:00:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/113938/pgas-antm-jegal-ihsg-hingga-gagal-finish-di-zona-hijau",
+      "tags": [
+        "Market Sentiment",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Analysts discuss PT Aneka Tambang Tbk stock outlook and recommend a 4,800 IDR target.",
+      "timestamp": "2026-07-03T16:12:30",
+      "source": "https://www.cnbcindonesia.com/market/20260703154116-17-747891/analis-buka-bukaan-soal-prospek-saham-antm-target-segini",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analyst projects PT Aneka Tambang Tbk to earn strong profits in 2026 as global gold prices stay high",
+      "timestamp": "2026-07-03T13:50:23",
+      "source": "https://www.cnbcindonesia.com/market/20260703133002-17-747832/harga-emas-global-masih-tinggi-emiten-ini-bakal-cuan-besar-di-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Antam gold buyback price jumps Rp55,000 per gram on Friday (3/7)",
+      "timestamp": "2026-07-03T12:10:00",
+      "source": "https://www.idnfinancials.com/id/news/65563/harga-buyback-emas-antam-hari-jumat-37-melonjak-rp55-000-per-gram",
+      "tags": [
+        "Stock Buyback",
+        "Commodities"
+      ]
+    },
+    {
+      "title": "IHSG jumps over 2% as major banks and state‑owned firms drive the rally",
+      "timestamp": "2026-07-03T10:21:21",
+      "source": "https://www.cnbcindonesia.com/market/20260703093257-17-747737/ini-penyebab-ihsg-tiba-tiba-lompat-2-lebih",
+      "tags": [
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Antam gold price rises to Rp 2.651.000 per gram as buyback price jumps Rp 55.000 to Rp 2.400.000",
+      "timestamp": "2026-07-03T08:35:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/113831/harga-emas-antam-hari-ini-buyback-melonjak-rp55-000",
+      "tags": [
+        "Commodities",
+        "Stock Buyback",
+        "Interest Rate",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "CGS International Sekuritas Indonesia forecasts IHSG to keep rising, recommending ANTM, INCO, ARCI, ISAT, BBCA and BMRI",
+      "timestamp": "2026-07-03T08:17:55",
+      "source": "https://investor.id/market/445102/ihsg-bakal-lanjut-menguat-siapsiap-6-saham-kasih-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG rebounds to 5,744.55, spotlighting foreign investors' biggest net‑buy stocks",
+      "timestamp": "2026-07-02T20:54:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-kembali-menguat-ke-5744-intip-saham-net-buy-terbesar-asing-kamis-27",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Ciptadana and JP Morgan lift 2026‑2028 earnings forecasts for PT Aneka Tambang Tbk",
+      "timestamp": "2026-07-02T18:40:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/113789/keyakinan-besar-ciptadana-jp-morgan-buat-antm",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "ANTM shares close up 5.75% to Rp2,760, nearing the Rp3,000 level",
+      "timestamp": "2026-07-02T17:15:44",
+      "source": "https://www.cnbcindonesia.com/market/20260702164005-17-747608/ditutup-menguat-575-saham-antm-siap-balik-ke-rp3000",
+      "tags": [
+        "Market Sentiment",
+        "Financial Metrics",
+        "Commodities",
+        "Government Policy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net bought Rp306.45 billion of PT Aneka Tambang Tbk shares, pushing the stock to 2,610 (+0.77%)",
+      "timestamp": "2026-07-02T09:33:32",
+      "source": "https://www.cnbcindonesia.com/market/20260701204439-17-747333/masih-menarik-asing-tampung-saham-antm-net-buy-tembus-30645-m",
+      "tags": [
+        "Foreign Investment",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Antam gold price today (July 2): up Rp 15,000 to Rp 2,640,000 per gram",
+      "timestamp": "2026-07-02T08:51:00",
+      "source": "https://investasi.kontan.co.id/news/daftar-harga-emas-antam-hari-ini-27-naik-rp-15000-jadi-rp-2640000-per-gram",
+      "tags": [
+        "Commodities"
+      ]
+    },
+    {
+      "title": "Antam gold price climbs Rp15,000 to Rp2.640.000 per gram, buyback price rises to Rp2.345.000",
+      "timestamp": "2026-07-02T08:48:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/113704/harga-emas-antam-hari-ini-naik-rp15-000-buyback-lebih-banyak",
+      "tags": [
+        "Commodities",
+        "Stock Buyback",
+        "Market Sentiment",
+        "Inflation",
+        "Global Economy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Cermati recommends today's selected stocks (2/7) as the IDX may weaken",
+      "timestamp": "2026-07-02T05:51:00",
+      "source": "https://investasi.kontan.co.id/news/cermati-rekomendasi-saham-pilihan-hari-ini-27-ihsg-berpotensi-kembali-melemah",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang's Antam gold bar price drops to Rp 2.625 000 per gram, spread widens to Rp 305 000",
+      "timestamp": "2026-07-02T05:05:00",
+      "source": "https://investasi.kontan.co.id/news/harga-emas-antam-17-turun-selisih-spread-tembus-rp-305000-per-gram",
+      "tags": [
+        "Commodities",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas recommends ANTM, BIPI, BRPT, and PGAS for Thursday trading as IHSG is expected to consolidate",
+      "timestamp": "2026-07-01T18:04:24",
+      "source": "https://investor.id/market/444895/prediksi-ihsg-dan-rekomendasi-saham-kamis-2-juli-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Inflation",
+        "Currency & FX"
+      ]
+    },
+    {
+      "title": "Antam gold price slips to Rp2.625 million per gram",
+      "timestamp": "2026-07-01T11:16:19",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260701104026-92-1375443/harga-emas-antam-turun-tipis-jadi-rp2625-juta-per-gram",
+      "tags": [
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG climbs green to 5,688 points this morning",
+      "timestamp": "2026-07-01T10:12:58",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260701080107-92-1375390/ihsg-merangkak-hijau-ke-level-5688-pagi-ini",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Antam gold buyback price on 1 July 2026 is Rp2.320 million per gram, with PPh 22 tax of 1.5% (NPWP) or 3% (non‑NPWP).",
+      "timestamp": "2026-07-01T08:56:00",
+      "source": "https://market.bisnis.com/read/20260701/235/1984618/tabel-harga-buyback-emas-antam-hari-ini-rabu-1-juli-2026-nilai-pajaknya",
+      "tags": [
+        "Stock Buyback",
+        "Commodities"
+      ]
+    },
+    {
+      "title": "Cermati recommends select Kompas 100 constituents for Semester II‑2026",
+      "timestamp": "2026-07-01T07:50:00",
+      "source": "https://investasi.kontan.co.id/news/cermati-rekomendasi-saham-pilihan-emiten-indeks-kompas-100-di-semester-ii-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Government Policy",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Projected to Open July Red as Analysts Recommend Specific Stocks",
+      "timestamp": "2026-07-01T07:16:23",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260630210016-92-1375299/ihsg-diramal-merah-mengawali-juli-ini-rekomendasi-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Foreign investors sell Rp 60.2 trillion of Indonesian stocks in H1 2026, with PT Bank Central Asia Tbk leading the declines",
+      "timestamp": "2026-06-30T21:03:00",
+      "source": "https://investasi.kontan.co.id/news/asing-net-sell-rp-602-triliun-sejak-awal-2026-cermati-saham-yang-banyak-dijual",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Fitch Ratings flags heightened macro and regulatory risk for Indonesian issuers, with PT Indofood CBP Sukses Makmur Tbk highlighted",
+      "timestamp": "2026-06-30T21:02:00",
+      "source": "https://investasi.kontan.co.id/news/fitch-ratings-soroti-makroekonomi-dan-ketidakpastian-regulasi-ini-dampak-bagi-emiten",
+      "tags": [
+        "Analyst Ratings",
+        "Government Policy",
+        "Central Bank",
+        "Currency & FX",
+        "Bonds",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "BBCA and BBRI Lead Financial Sector Outlook as Analysts Recommend Defensive Picks for H2 2026",
+      "timestamp": "2026-06-30T18:51:00",
+      "source": "https://investasi.kontan.co.id/news/sektor-finansial-konsumsi-bisa-pimpin-pemulihan-semester-ii-ini-pilihan-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Portfolio",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk gold price falls to Rp 2.630.000 per gram on June 30, 2026",
+      "timestamp": "2026-06-30T09:30:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/113414/harga-emas-antam-hari-ini-di-rp2-63-juta-gram",
+      "tags": [
+        "Commodities",
+        "Market Sentiment",
+        "Global Economy",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk buyback gold price drops to Rp2.335.000 per gram on 30 June 2026",
+      "timestamp": "2026-06-30T08:54:00",
+      "source": "https://market.bisnis.com/read/20260630/235/1984300/tabel-harga-buyback-emas-antam-hari-ini-selasa-30-juni-2026-besaran-pajaknya",
+      "tags": [
+        "Stock Buyback",
+        "Commodities",
+        "Politics & Regulation",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Stock recommendation roundup for June 30, 2026 highlights multiple Indonesian equities",
+      "timestamp": "2026-06-30T08:35:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/113420/rangkuman-rekomendasi-saham-hari-ini-30-juni-2026",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "PT Merdeka Copper Gold Tbk posts US$57.4 million net profit in Q1 2026, revenue up 23.5 %",
+      "timestamp": "2026-06-29T20:42:55",
+      "source": "https://investor.id/market/444594/grup-merdeka-mdka-rebound",
+      "tags": [
+        "Financial Metrics",
+        "Export",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors dump PT Bank Central Asia Tbk while buying PT Dian Swastatika Sentosa Tbk as IHSG falls 1.28%",
+      "timestamp": "2026-06-29T19:10:00",
+      "source": "https://money.kompas.com/read/2026/06/29/191045026/ihsg-anjlok-128-persen-di-awal-pekan-investor-asing-jual-bersih-rp854-miliar",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Merdeka Gold Resources posts Q1 2026 loss despite gold sale to Antam",
+      "timestamp": "2026-06-29T13:10:00",
+      "source": "https://www.idnfinancials.com/id/news/65337/merdeka-gold-resources-masih-rugi-meski-catat-penjualan-emas-ke-antam",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Capital & Funding",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang (Persero) Tbk Antam gold price drops to Rp2.645.000 per gram on Monday",
+      "timestamp": "2026-06-29T12:10:00",
+      "source": "https://www.idnfinancials.com/id/news/65328/harga-emas-antam-hari-senin-296-turun-jadi-rp2-645-000-per-gram",
+      "tags": [
+        "Commodities",
+        "Financial Metrics",
+        "Government Policy",
+        "Politics & Regulation"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk's gold buyback price falls to Rp2.36 million per gram, matching 2025 level",
+      "timestamp": "2026-06-29T10:50:00",
+      "source": "https://market.bisnis.com/read/20260629/235/1984039/harga-buyback-emas-antam-balik-lagi-ke-2025-waktunya-jual-atau-beli",
+      "tags": [
+        "Stock Buyback",
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Antam buyback gold price falls to Rp2.36 million per gram on 29 June 2026",
+      "timestamp": "2026-06-29T08:52:00",
+      "source": "https://market.bisnis.com/read/20260629/235/1983998/harga-buyback-emas-antam-hari-ini-senin-29-juni-2026-besaran-pajaknya",
+      "tags": [
+        "Stock Buyback",
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk's Antam gold price falls to Rp 2.645 million per gram on June 29",
+      "timestamp": "2026-06-29T08:50:00",
+      "source": "https://investasi.kontan.co.id/news/harga-emas-hari-ini-turun-rp-15000-menjadi-rp-2645000-per-gram-senin-2962026",
+      "tags": [
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Nickel Prices Pressured, Analysts Still Favor PT Aneka Tambang Tbk, PT Vale Indonesia Tbk and PT Merdeka Battery Materials Tbk",
+      "timestamp": "2026-06-28T20:00:00",
+      "source": "https://investasi.kontan.co.id/news/harga-nikel-tertekan-analis-masih-jagokan-saham-antm-inco-dan-mbma",
+      "tags": [
+        "Commodities",
+        "Analyst Ratings",
+        "Government Policy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net buy Rp 358.9 bn of Barito Renewables Energy (BREN) as its shares fall 8.2%",
+      "timestamp": "2026-06-28T09:56:27",
+      "source": "https://investor.id/market/444406/aksi-serok-saham-bren-dana-besar-masuk",
+      "tags": [
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia Composite Index Falls 1.72% to 5,896 as Foreign Investors Net Sell Rp 302 Billion",
+      "timestamp": "2026-06-26T21:30:00",
+      "source": "https://money.kompas.com/read/2026/06/26/213000626/ihsg-anjlok-1-72-persen-ke-level-5.896-asing-net-sell-rp-302-miliar",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG climbs 1.96% as foreign investors net buy PT DIan Swastatika Sentosa Tbk the most",
+      "timestamp": "2026-06-25T22:38:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-melonjak-196-ke-5999-cermati-saham-net-buy-terbesar-asing-kamis-256",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net sell 1.90 billion shares, PT Bumi Resources Tbk records top net sell",
+      "timestamp": "2026-06-24T21:20:00",
+      "source": "https://www.idnfinancials.com/id/news/65174/perdagangan-asing-net-sell-1-90-miliar-lembar-bumi-top-sell",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MIND ID Mining Stocks Show Mixed YTD Performance; Analysts Recommend PT Bukit Asam and PT Aneka Tambang",
+      "timestamp": "2026-06-24T19:43:00",
+      "source": "https://investasi.kontan.co.id/news/kinerja-saham-grup-mind-id-bervariasi-simak-rekomendasinya",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Politics & Regulation",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas recommends ADMR, ARCI, PTBA and TAPG as Indonesia's IHSG closes 0.25% lower",
+      "timestamp": "2026-06-24T12:22:00",
+      "source": "https://market.bisnis.com/read/20260624/189/1982904/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-rabu-24-juni-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "UOB Kay Hian finds mining stocks attractive as PT Danantara Sumberdaya Indonesia’s export oversight gains clarity",
+      "timestamp": "2026-06-24T11:10:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/112845/arah-saham-tambang-usai-pengawasan-danantara-makin-terang",
+      "tags": [
+        "Export",
+        "Commodities",
+        "Analyst Ratings",
+        "Government Policy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MSCI Annual Market Classification Review Set to Impact Numerous Indonesian Stocks",
+      "timestamp": "2026-06-23T17:21:00",
+      "source": "https://money.kompas.com/read/2026/06/23/172138226/investor-wajib-tahu-saham-yang-paling-sensitif-review-msci",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk (ANTM) shares drop 4.4% to Rp 2,830 as foreign selling intensifies",
+      "timestamp": "2026-06-23T13:32:02",
+      "source": "https://investor.id/market/443763/saham-antam-antm-tibatiba-jadi-merah-terus",
+      "tags": [
+        "Market Sentiment",
+        "Foreign Investment",
+        "Dividend Announcement",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Indonesia Composite Index Closes in Red Zone as Foreign Investors Sell Rp 1.11 Trillion",
+      "timestamp": "2026-06-22T18:04:00",
+      "source": "https://money.kompas.com/read/2026/06/22/180436226/ihsg-ditutup-ke-zona-merah-asing-kabur-dari-bursa-rp-111-triliun",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk shares drop 4.22% on ex‑dividend date despite net buying",
+      "timestamp": "2026-06-22T09:31:27",
+      "source": "https://investor.id/stock/443561/saham-antm-diserok",
+      "tags": [
+        "Dividend Announcement",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk shares fall 2.84% to Rp 3,080 ahead of dividend ex‑date",
+      "timestamp": "2026-06-22T07:31:27",
+      "source": "https://investor.id/stock/443541/siapsiap-saham-antam-antm",
+      "tags": [
+        "Dividend Announcement",
+        "Market Sentiment",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IDX BUMN20 Holds Up with 17.28% YTD Decline as Analysts Recommend BBRI, BMRI, BBNI, BBTN, ANTM, TINS, TLKM, and PTBA",
+      "timestamp": "2026-06-21T12:04:00",
+      "source": "https://investasi.kontan.co.id/news/kinerja-idx-bumn20-tahan-banting-simak-rekomendasi-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Stock Buyback",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts Recommend ANTM, TINS, BBRI, and TLKM as Top Danantara Picks",
+      "timestamp": "2026-06-20T09:22:00",
+      "source": "https://investasi.kontan.co.id/news/cek-rekomendasi-saham-danantara-antm-tins-bbri-tlkm-bisa-jadi-pilihan",
+      "tags": [
+        "Analyst Ratings",
+        "Stock Buyback",
+        "Foreign Investment",
+        "Currency & FX",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Multiple Indonesian listed companies begin cum‑dividend period on 19 June 2026",
+      "timestamp": "2026-06-19T09:38:00",
+      "source": "https://emitennews.com/news/jelang-akhir-pekan-saham-saham-ini-masuk-cum-dividen",
+      "tags": [
+        "Dividend Announcement",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk's Antam gold price drops to Rp 2.673,000 per gram on June 19",
+      "timestamp": "2026-06-19T08:56:00",
+      "source": "https://investasi.kontan.co.id/news/harga-emas-antam-hari-ini-turun-rp-30000-di-level-rp-2673-per-gram-jumat-196",
+      "tags": [
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "CGS International Sekuritas Indonesia forecasts IHSG strength and highlights six stock picks",
+      "timestamp": "2026-06-19T08:24:43",
+      "source": "https://investor.id/stock/443287/ihsg-bakal-menguat-cermati-6-saham-potensial-cuan",
+      "tags": [
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Danantara Stocks Show Greater Resilience Than IHSG, Analysts Highlight BBRI, BMRI, BBNI, ANTM, TINS, TLKM",
+      "timestamp": "2026-06-19T08:23:00",
+      "source": "https://investasi.kontan.co.id/news/saham-danantara-lebih-tahan-koreksi-dari-ihsg-cermati-rekomendasi-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Stock Buyback",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "ACES posts 8.61% dividend yield as eight Indonesian stocks enter cum‑dividend on 19 June 2026",
+      "timestamp": "2026-06-19T07:31:00",
+      "source": "https://investasi.kontan.co.id/news/8-saham-aces-antm-byan-ipcc-cum-dividen-hari-ini-196-yield-ada-yang-tembus-8",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IDX BUMN20 outperforms IHSG as state‑owned stocks remain resilient amid market volatility",
+      "timestamp": "2026-06-18T20:38:00",
+      "source": "https://investasi.kontan.co.id/news/menakar-prospek-saham-bumn-di-bawah-danantara-saat-pasar-volatil",
+      "tags": [
+        "Market Sentiment",
+        "Foreign Investment",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk faces slower gold price outlook in H2 2026 but retains buy rating with Rp4,600 target",
+      "timestamp": "2026-06-18T12:51:00",
+      "source": "https://investasi.kontan.co.id/news/harga-emas-diproyeksi-melandai-di-semester-ii-2026-cek-rekomendasi-saham-antm",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG rebounds but analyst warns bearish phase not over",
+      "timestamp": "2026-06-17T20:45:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-rebound-analis-sebut-belum-tanda-akhir-fase-bearish",
+      "tags": [
+        "Market Sentiment",
+        "Foreign Investment",
+        "Currency & FX"
+      ]
+    },
+    {
+      "title": "ANTM projected strong earnings growth but faces regulatory risk, analysts keep buy recommendations",
+      "timestamp": "2026-06-17T17:31:00",
+      "source": "https://investasi.kontan.co.id/news/kinerja-antm-diproyeksi-tumbuh-kuat-investor-waspadai-risiko-regulasi",
+      "tags": [
+        "Analyst Ratings",
+        "Politics & Regulation",
+        "Financial Metrics",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesian IHSG gains modestly after US‑Iran peace talks but foreign investors continue large outflows",
+      "timestamp": "2026-06-16T21:08:00",
+      "source": "https://investasi.kontan.co.id/news/melihat-arah-ihsg-pasca-perdamaian-as-iran-investor-asing-kabur-besar-besaran",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Currency & FX",
+        "Central Bank"
+      ]
+    },
+    {
+      "title": "TINS, ANTM and PTBA to pay cash dividends on July 10, 2026",
+      "timestamp": "2026-06-16T19:04:58",
+      "source": "https://investor.id/corporate-action/442929/dividen-tins-antm-dan-ptba-cair-serempak",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "30 Companies Schedule Cash Dividend Cum Dates June 17‑19, 2025",
+      "timestamp": "2026-06-16T15:59:00",
+      "source": "https://investasi.kontan.co.id/news/ada-puluhan-emiten-bakal-bagi-dividen-pekan-ini-simak-daftar-dan-saran-analis",
+      "tags": [
+        "Dividend Announcement",
+        "Analyst Ratings",
+        "Stock Buyback",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Bank Central Asia shares jump 5.5% to Rp 6,250",
+      "timestamp": "2026-06-16T05:01:41",
+      "source": "https://investor.id/stock/442859/berita-populer-harga-emas-perhiasan-kokoh-hingga-pemicu-saham-bbca-melonjak",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net sell coal stocks, led by PT Bumi Resources Tbk, as Indonesia's IHSG rallies 4.12% on 15 June 2026",
+      "timestamp": "2026-06-15T20:10:00",
+      "source": "https://money.kompas.com/read/2026/06/15/201000126/jual-saham-emiten-batu-bara-asing-masih-net-sell-di-tengah-reli-ihsg",
+      "tags": [
+        "Foreign Investment",
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "ANTM shares surge 9.8% as dividend of Rp 209.9 per share is announced",
+      "timestamp": "2026-06-15T11:28:03",
+      "source": "https://investor.id/stock/442767/yang-bikin-saham-antm-diborong",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "State‑Owned Bank Mandiri Leads BUMN‑Driven Surge in Indonesia’s IHSG",
+      "timestamp": "2026-06-15T10:43:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8532367/saham-bumn-pimpin-kenaikan-ihsg-dony-oskaria-bumn-berada-di-posisi-terbaik",
+      "tags": [
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Potential MSCI re‑entry for Antam, Merdeka Gold Resources and Bumi Resources and outlook for Indonesia’s big‑four banks",
+      "timestamp": "2026-06-15T05:28:03",
+      "source": "https://investor.id/stock/442732/berita-populer-potensi-antm-emas-bumi-masuk-msci-hingga-prospek-bbca-bbri-cs",
+      "tags": [
+        "Global Index",
+        "Market Sentiment",
+        "Stock Buyback",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts recommend ANTM, AMMN, BUMI, TINS and BMRI as attractive stocks amid policy tailwinds",
+      "timestamp": "2026-06-14T16:09:45",
+      "source": "https://investor.id/stock/442705/angin-segar-berhembus-ke-antm-bumi-hingga-bmri",
+      "tags": [
+        "Analyst Ratings",
+        "Government Policy",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "ANTM, EMAS, and BUMI could re‑enter MSCI index",
+      "timestamp": "2026-06-14T09:06:36",
+      "source": "https://investor.id/stock/442644/antm-emas-bumi-bisa-masuk-indeks-msci-lagi",
+      "tags": [
+        "Global Index",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk's Antam gold price unchanged at Rp2.711.000 per gram on 14 June 2026",
+      "timestamp": "2026-06-14T08:08:00",
+      "source": "https://investasi.kontan.co.id/news/harga-emas-antam-stagnan-di-rp2711000-per-gram-pada-minggu-146",
+      "tags": [
+        "Commodities",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Regulatory Clarity Boosts PT Aneka Tambang Tbk Stock Outlook",
+      "timestamp": "2026-06-13T19:54:00",
+      "source": "https://investasi.kontan.co.id/news/regulasi-tambang-lebih-jelas-sentimen-positif-mengalir-ke-saham-emiten-nikel",
+      "tags": [
+        "Analyst Ratings",
+        "Government Policy",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Maybank Sekuritas flags ANTM, INCO and AMMN as top mining picks amid cautious global sentiment",
+      "timestamp": "2026-06-13T18:59:00",
+      "source": "https://investasi.kontan.co.id/news/masih-ragu-ke-ri-ini-pemicunya-menurut-maybank-sekuritas-saat-jumpa-investor-global",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Dividend Announcement",
+        "Export",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk announces Rp 209.9 dividend per share",
+      "timestamp": "2026-06-13T07:51:04",
+      "source": "https://investor.id/stock/442627/antm-diburu-jelang-cum-dividen-rp-2099-per-saham",
+      "tags": [
+        "Dividend Announcement",
+        "Foreign Investment",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Antam Announces Jumbo Dividend, Analyst Highlights Business Prospects",
+      "timestamp": "2026-06-12T16:02:14",
+      "source": "https://www.cnbcindonesia.com/market/20260612154538-17-742410/usai-bagi-dividen-jumbo-analis-ungkap-prospek-bisnis-antam",
+      "tags": [
+        "Dividend Announcement",
+        "Analyst Ratings",
+        "Commodities",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Aneka Tambang to pay Rp5.04 trillion cash dividend, 70% of 2025 profit",
+      "timestamp": "2026-06-12T09:05:00",
+      "source": "https://emitennews.com/news/antm-jadwal-dividen-70-persen-laba-yield-772-persen",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk's Antam gold price rises to Rp 2.709.000 per gram",
+      "timestamp": "2026-06-12T08:41:00",
+      "source": "https://investasi.kontan.co.id/news/daftar-harga-emas-antam-hari-ini-126-naik-rp-20000-jadi-rp-2709000-per-gram",
+      "tags": [
+        "Commodities",
+        "Stock Buyback",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia's IHSG projected to rebound to around 7,000 by end-2026",
+      "timestamp": "2026-06-11T21:36:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diproyeksikan-masih-bisa-rebound-ke-level-7000-pada-akhir-2026",
+      "tags": [
+        "Portfolio",
+        "Commodities",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Foreign Investors Net Buy BBCA, TLKM, TPIA and ANTM as IHSG Slightly Corrects",
+      "timestamp": "2026-06-11T18:33:00",
+      "source": "https://money.kompas.com/read/2026/06/11/183316926/ihsg-terkoreksi-tipis-asing-serok-saham-tlkm-bbca-tpia-hingga-antam",
+      "tags": [
+        "Foreign Investment"
+      ]
+    },
+    {
+      "title": "Antam cuts dividend payout ratio to 70% for FY 2025, announces Rp5.04 trillion cash dividend",
+      "timestamp": "2026-06-11T11:10:30",
+      "source": "https://investor.id/corporate-action/442315/antam-antm-ungkap-alasan-pangkas-rasio-dividen-jadi-70",
+      "tags": [
+        "Dividend Announcement",
+        "Capital & Funding",
+        "Business Expansion",
+        "Executive Changes",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk approves Rp 5.04 trillion cash dividend",
+      "timestamp": "2026-06-11T09:29:00",
+      "source": "https://investasi.kontan.co.id/news/gelar-rupst-aneka-tambang-antm-bagi-dividen-tunai-hingga-rombak-jajaran-pengurus",
+      "tags": [
+        "Dividend Announcement",
+        "Annual Report",
+        "Executive Changes",
+        "Partnerships & Agreements",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk declares Rp 5.04 trillion dividend",
+      "timestamp": "2026-06-11T07:00:00",
+      "source": "https://money.kompas.com/read/2026/06/11/070000926/dividen-antam-antm-naik-ke-rp-5-triliun-mengapa-payout-ratio-turun-",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Capital & Funding",
+        "Government Policy",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk announces Rp 5.05 trillion dividend",
+      "timestamp": "2026-06-11T05:00:00",
+      "source": "https://investasi.kontan.co.id/news/harga-saham-anjlok-25-saham-bumn-tambang-antm-beri-dividen-jumbo-rp-5-triliun",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Shareholders General Meeting",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk appoints Arini Kasmira as Finance and Risk Management Director and adds Arianto Wibowo as Commissioner",
+      "timestamp": "2026-06-10T21:36:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8526889/antam-ganti-direktur-keuangan-ini-susunan-terbaru-direksi-komisaris",
+      "tags": [
+        "Executive Changes",
+        "Shareholders General Meeting"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk reports 2025 net profit up 106% and declares Rp 5.04 trillion dividend",
+      "timestamp": "2026-06-10T20:25:00",
+      "source": "https://money.kompas.com/read/2026/06/10/202511526/laba-antm-2025-melonjak-106-persen-ini-tiga-mesin-pertumbuhannya",
+      "tags": [
+        "Dividend Announcement",
+        "Annual Report",
+        "Financial Metrics",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Aneka Tambang Tbk cuts dividend payout ratio to 70% as shares drop 4.5%",
+      "timestamp": "2026-06-10T20:01:00",
+      "source": "https://emitennews.com/news/rasio-dividen-antam-antm-turun-ke-70-persen-saham-mendadak-jeblok",
+      "tags": [
+        "Dividend Announcement",
+        "Shareholders General Meeting",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Aneka Tambang announces cash dividend of Rp 5.05 trillion",
+      "timestamp": "2026-06-10T19:52:00",
+      "source": "https://investasi.kontan.co.id/news/aneka-tambang-antm-tebar-dividen-tunai-rp-505-triliun-begini-catatan-analis",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Antam approves Rp 5.04 trillion dividend",
+      "timestamp": "2026-06-10T19:22:00",
+      "source": "https://money.kompas.com/read/2026/06/10/192247226/rupst-antam-antm-setujui-dividen-rp-504-triliun-dari-laba-2025",
+      "tags": [
+        "Dividend Announcement",
+        "Annual Report",
+        "Business Expansion",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Antam declares Rp 5.04 trillion dividend",
+      "timestamp": "2026-06-10T18:59:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8526717/antam-tebar-dividen-rp-5-triliun",
+      "tags": [
+        "Dividend Announcement",
+        "Shareholders General Meeting",
+        "Financial Metrics",
+        "Annual Report",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Aneka Tambang announces cash dividend of Rp 5.05 trillion",
+      "timestamp": "2026-06-10T17:57:00",
+      "source": "https://investasi.kontan.co.id/news/gelar-rupst-aneka-tambang-antm-bakal-bagi-dividen-tunai-rp-505-triliun",
+      "tags": [
+        "Dividend Announcement",
+        "Shareholders General Meeting",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MIND ID Accelerates Post‑Mining Reclamation and Develops Former Mine Lands for Energy and Conservation",
+      "timestamp": "2026-06-10T13:08:00",
+      "source": "https://money.kompas.com/read/2026/06/10/130805426/mind-id-genjot-reklamasi-lahan-bekas-tambang-dikembangkan-untuk-energi-dan",
+      "tags": [
+        "ESG"
+      ]
+    }
+  ],
+  "corporate_events": [
+    {
+      "date": "2026-09-10",
+      "type": "RUPS",
+      "detail": "Waktu: 16:00:00 · Lokasi: IDX Public Expose"
+    },
+    {
+      "date": "2026-06-22",
+      "type": "Dividen",
+      "detail": "Dividen per saham Rp 209,99 · Pembayaran: 2026-07-10"
+    },
+    {
+      "date": "2026-06-10",
+      "type": "RUPS",
+      "detail": "Waktu: 14:00:00 · Lokasi: DKI Jakarta, Secara Elektronik Melalui Fasilitas Electronic General Meeting System Ksei Dalam Yang Disediakan Oleh PT Kustodian Sentralefek Indonesia · Agenda #1: Shareholders approved the 2025 Annual Report and Consolidated Financial Statements audited by KAP Purwanto Susanti dan Surja, granting full discharge to the Board of Directors and Commissioners.\nAgenda #2: The meeting approved a net profit allocation of Rp7.2 trillion, designating 70% as cash dividends and 30% as retained earnings.\nAgenda #3: Authority was granted to the Majority Series B Shareholder and the Board of Commissioners to determine salaries, honoraria, and facilities for the company's management for 2025 and 2026.\nAgenda #4: KAP Purwanto Susanti dan Surja (Ernst & Young Global Limited) was appointed to audit the 2026 Consolidated Financial Statements and PUMK reports.\nAgenda #5: The Board of Commissioners was authorized to approve the 2026-2030 Long-Term Company Plan and the 2027 Work Plan and Budget after obtaining written approval from Series B Shareholders.\nAgenda #6: The meeting accepted the report regarding the realization of state capital participation funds and proceeds from the Limited Public Offering I through a rights issue.\nAgenda #7: The company received approval to accept special assignments from the Central Government to accelerate nickel downstreaming and the electric vehicle battery ecosystem.\nAgenda #8: Shareholders approved amending Article 3 of the Articles of Association to align business activities with the 2025 Indonesia Standard Industrial Classification (KBLI).\nAgenda #9: The meeting approved the dismissal of several members, changed the nomenclature of director positions, and appointed new members including Arini Kasmira as Finance & Risk Management Director.\nAgenda #10: The meeting established a maximum term of five annual general meetings for board members and required compliance with laws governing State-Owned Enterprises.\nAgenda #11: The Board of Directors was granted power of attorney to notarize meeting decisions and perform necessary regulatory adjustments."
+    }
+  ],
+  "context_period": {
+    "start": "2026-04-01",
+    "end": "2026-09-30"
+  },
+  "source_availability": {
+    "company_fundamentals": true,
+    "corporate_events": true,
+    "news": true,
+    "peer_comparison": true,
+    "market_context": true,
+    "sector_market_series": false
+  },
+  "news_archive": {
+    "pages": 10,
+    "rows": 274,
+    "pagination_exhausted": true,
+    "totals_seen": [
+      274,
+      276
+    ]
+  }
 }

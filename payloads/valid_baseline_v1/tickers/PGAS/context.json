@@ -3,8 +3,8 @@
   "as_of": "2026-09-30",
   "identity": {
     "symbol": "PGAS",
-    "company_name": null,
-    "peer_group": null
+    "company_name": "PT Perusahaan Gas Negara Tbk",
+    "peer_group": "Oil, Gas & Coal"
   },
   "current": {
     "scope": "NO_CONTEXT",
@@ -20,5 +20,1499 @@
   "daily_market": {},
   "notes": [
     "Dataset scope: 28 reviewed stocks. No full-market or peer-context score is computed."
-  ]
+  ],
+  "company_snapshot": {
+    "price_date": "2026-10-07",
+    "captured_at": "2026-10-08",
+    "sector": "Energy",
+    "industry": "Oil & Gas",
+    "website": "www.pgn.co.id",
+    "market_cap": 34422941638320,
+    "annual_year": 2025,
+    "valuation_year": 2026,
+    "metrics": [
+      {
+        "label": "Pendapatan",
+        "value": "Rp 66,54 T"
+      },
+      {
+        "label": "Laba bersih",
+        "value": "Rp 3,60 T"
+      },
+      {
+        "label": "Total aset",
+        "value": "Rp 104,31 T"
+      },
+      {
+        "label": "Ekuitas",
+        "value": "Rp 60,38 T"
+      },
+      {
+        "label": "EPS",
+        "value": "Rp 148,69"
+      },
+      {
+        "label": "P/E TTM",
+        "value": "8,49×"
+      },
+      {
+        "label": "P/B",
+        "value": "0,72×"
+      }
+    ]
+  },
+  "fundamental_peers": [
+    {
+      "symbol": "PGAS",
+      "name": "PT Perusahaan Gas Negara Tbk",
+      "year": 2025,
+      "market_cap": 34422941638320,
+      "pe": 8.49182293286874,
+      "pb": 0.715702086479554,
+      "revenue": 66542796017991,
+      "in_universe": true
+    },
+    {
+      "symbol": "AKRA",
+      "name": "PT AKR Corporindo Tbk.",
+      "year": 2025,
+      "market_cap": 30511681392000,
+      "pe": 11.2037770195007,
+      "pb": 2.35459132135378,
+      "revenue": 46018468072000,
+      "in_universe": false
+    },
+    {
+      "symbol": "RAJA",
+      "name": "Rukun Raharja Tbk",
+      "year": 2025,
+      "market_cap": 14477757562500,
+      "pe": 21.7780748818931,
+      "pb": 3.69365173904684,
+      "revenue": 4463061612293,
+      "in_universe": false
+    },
+    {
+      "symbol": "SHIP",
+      "name": "PT Sillo Maritime Perdana Tbk",
+      "year": 2025,
+      "market_cap": 6962662400000,
+      "pe": 25.74589676494,
+      "pb": 2.5544173645206,
+      "revenue": 2908932480691,
+      "in_universe": false
+    },
+    {
+      "symbol": "BULL",
+      "name": "PT Buana Lintas Lautan Tbk.",
+      "year": 2025,
+      "market_cap": 5763930412596,
+      "pe": 4.42094373692531,
+      "pb": 1.24212595272025,
+      "revenue": 2430113008642,
+      "in_universe": false
+    },
+    {
+      "symbol": "SOCI",
+      "name": "PT Soechi Lines Tbk",
+      "year": 2025,
+      "market_cap": 4376580000000,
+      "pe": 11.8601339161854,
+      "pb": 0.574284307787099,
+      "revenue": 2599580239422,
+      "in_universe": false
+    },
+    {
+      "symbol": "HUMI",
+      "name": "PT Humpuss Maritim Internasional Tbk",
+      "year": 2025,
+      "market_cap": 2276035218954,
+      "pe": 230.176201832689,
+      "pb": 0.832124372984162,
+      "revenue": 2142103504807,
+      "in_universe": false
+    },
+    {
+      "symbol": "GTSI",
+      "name": "PT GTS Internasional Tbk",
+      "year": 2025,
+      "market_cap": 2135584273545,
+      "pe": -32.0025564855522,
+      "pb": 2.3935302856979,
+      "revenue": 580047634426,
+      "in_universe": false
+    },
+    {
+      "symbol": "HITS",
+      "name": "Humpuss Intermoda Transportasi Tbk",
+      "year": 2025,
+      "market_cap": 823725836916,
+      "pe": -6.97644425625172,
+      "pb": 0.870662951754598,
+      "revenue": 2235550060735,
+      "in_universe": false
+    },
+    {
+      "symbol": "INPS",
+      "name": "PT Indah Prakasa Sentosa Tbk",
+      "year": 2025,
+      "market_cap": 692250000000,
+      "pe": -55.9730752387496,
+      "pb": -15.7898890793938,
+      "revenue": 263851941927,
+      "in_universe": false
+    }
+  ],
+  "market_history": [
+    {
+      "date": "2026-04-01",
+      "ihsg": 7184.438,
+      "market_cap": 12646140309231200
+    },
+    {
+      "date": "2026-04-02",
+      "ihsg": 7026.782,
+      "market_cap": 12301402169484936
+    },
+    {
+      "date": "2026-04-06",
+      "ihsg": 6989.426,
+      "market_cap": 12181292965738515
+    },
+    {
+      "date": "2026-04-07",
+      "ihsg": 6971.027,
+      "market_cap": 12220087895953627
+    },
+    {
+      "date": "2026-04-08",
+      "ihsg": 7279.209,
+      "market_cap": 12745135690725105
+    },
+    {
+      "date": "2026-04-09",
+      "ihsg": 7307.589,
+      "market_cap": 12927661360702306
+    },
+    {
+      "date": "2026-04-10",
+      "ihsg": 7458.496,
+      "market_cap": 13183485554446575
+    },
+    {
+      "date": "2026-04-13",
+      "ihsg": 7500.187,
+      "market_cap": 13334711369769658
+    },
+    {
+      "date": "2026-04-14",
+      "ihsg": 7675.951,
+      "market_cap": 13680203483861089
+    },
+    {
+      "date": "2026-04-15",
+      "ihsg": 7623.586,
+      "market_cap": 13577551326427693
+    },
+    {
+      "date": "2026-04-16",
+      "ihsg": 7621.382,
+      "market_cap": 13580909513734445
+    },
+    {
+      "date": "2026-04-17",
+      "ihsg": 7634.004,
+      "market_cap": 13631805736754862
+    },
+    {
+      "date": "2026-04-20",
+      "ihsg": 7594.111,
+      "market_cap": 13530051609880990
+    },
+    {
+      "date": "2026-04-21",
+      "ihsg": 7559.38,
+      "market_cap": 13439346111420433
+    },
+    {
+      "date": "2026-04-22",
+      "ihsg": 7541.612,
+      "market_cap": 13331962629649015
+    },
+    {
+      "date": "2026-04-23",
+      "ihsg": 7378.606,
+      "market_cap": 13176851273619842
+    },
+    {
+      "date": "2026-04-24",
+      "ihsg": 7129.49,
+      "market_cap": 12732776963937495
+    },
+    {
+      "date": "2026-04-27",
+      "ihsg": 7106.52,
+      "market_cap": 12687518028997883
+    },
+    {
+      "date": "2026-04-28",
+      "ihsg": 7072.392,
+      "market_cap": 12590034125678447
+    },
+    {
+      "date": "2026-04-29",
+      "ihsg": 7101.226,
+      "market_cap": 12635384034178860
+    },
+    {
+      "date": "2026-04-30",
+      "ihsg": 6956.804,
+      "market_cap": 12378413759882228
+    },
+    {
+      "date": "2026-05-04",
+      "ihsg": 6971.953,
+      "market_cap": 12411009903513114
+    },
+    {
+      "date": "2026-05-05",
+      "ihsg": 7057.106,
+      "market_cap": 12626309574250122
+    },
+    {
+      "date": "2026-05-06",
+      "ihsg": 7092.467,
+      "market_cap": 12699830398460331
+    },
+    {
+      "date": "2026-05-07",
+      "ihsg": 7174.321,
+      "market_cap": 12778962713690869
+    },
+    {
+      "date": "2026-05-08",
+      "ihsg": 6969.396,
+      "market_cap": 12402407487340402
+    },
+    {
+      "date": "2026-05-11",
+      "ihsg": 6905.62,
+      "market_cap": 12280030079664830
+    },
+    {
+      "date": "2026-05-12",
+      "ihsg": 6858.899,
+      "market_cap": 12142773427321380
+    },
+    {
+      "date": "2026-05-13",
+      "ihsg": 6723.32,
+      "market_cap": 11821690407165346
+    },
+    {
+      "date": "2026-05-18",
+      "ihsg": 6599.24,
+      "market_cap": 11535132183193835
+    },
+    {
+      "date": "2026-05-19",
+      "ihsg": 6370.679,
+      "market_cap": 11105372542285443
+    },
+    {
+      "date": "2026-05-20",
+      "ihsg": 6318.5,
+      "market_cap": 10959980491971602
+    },
+    {
+      "date": "2026-05-21",
+      "ihsg": 6094.941,
+      "market_cap": 10549507904767653
+    },
+    {
+      "date": "2026-05-22",
+      "ihsg": 6162.045,
+      "market_cap": 10631421768765943
+    },
+    {
+      "date": "2026-05-25",
+      "ihsg": 6206.349,
+      "market_cap": 10692705367587005
+    },
+    {
+      "date": "2026-05-26",
+      "ihsg": 6130.19,
+      "market_cap": 10613054794742598
+    },
+    {
+      "date": "2026-05-29",
+      "ihsg": 6127.381,
+      "market_cap": 10725485605975573
+    },
+    {
+      "date": "2026-06-02",
+      "ihsg": 6195.427,
+      "market_cap": 10891278361519046
+    },
+    {
+      "date": "2026-06-03",
+      "ihsg": 5941.066,
+      "market_cap": 10451829355656557
+    },
+    {
+      "date": "2026-06-04",
+      "ihsg": 5839.785,
+      "market_cap": 10259085293637228
+    },
+    {
+      "date": "2026-06-05",
+      "ihsg": 5594.765,
+      "market_cap": 9803592659706909
+    },
+    {
+      "date": "2026-06-08",
+      "ihsg": 5342.137,
+      "market_cap": 9414771844192581
+    },
+    {
+      "date": "2026-06-09",
+      "ihsg": 5746.648,
+      "market_cap": 10095511071726246
+    },
+    {
+      "date": "2026-06-10",
+      "ihsg": 5902.376,
+      "market_cap": 10341178905408617
+    },
+    {
+      "date": "2026-06-11",
+      "ihsg": 5886.032,
+      "market_cap": 10287950241660193
+    },
+    {
+      "date": "2026-06-12",
+      "ihsg": 6007.656,
+      "market_cap": 10520825968837381
+    },
+    {
+      "date": "2026-06-15",
+      "ihsg": 6254.966,
+      "market_cap": 10899408952482727
+    },
+    {
+      "date": "2026-06-17",
+      "ihsg": 6220.74,
+      "market_cap": 10776148487729844
+    },
+    {
+      "date": "2026-06-18",
+      "ihsg": 6172.34,
+      "market_cap": 10736980009961606
+    },
+    {
+      "date": "2026-06-19",
+      "ihsg": 6177.139,
+      "market_cap": 10784594953877444
+    },
+    {
+      "date": "2026-06-22",
+      "ihsg": 6116.69,
+      "market_cap": 10708711379319414
+    },
+    {
+      "date": "2026-06-23",
+      "ihsg": 6101.333,
+      "market_cap": 10685047810158781
+    },
+    {
+      "date": "2026-06-24",
+      "ihsg": 5883.881,
+      "market_cap": 10312029789078805
+    },
+    {
+      "date": "2026-06-25",
+      "ihsg": 5999.038,
+      "market_cap": 10515718128770631
+    },
+    {
+      "date": "2026-06-26",
+      "ihsg": 5896.134,
+      "market_cap": 10298280398969010
+    },
+    {
+      "date": "2026-06-29",
+      "ihsg": 5820.79,
+      "market_cap": 10179250800138493
+    },
+    {
+      "date": "2026-06-30",
+      "ihsg": 5643.194,
+      "market_cap": 9894028079914985
+    },
+    {
+      "date": "2026-07-01",
+      "ihsg": 5695.116,
+      "market_cap": 10007947906561450
+    },
+    {
+      "date": "2026-07-02",
+      "ihsg": 5744.556,
+      "market_cap": 10060923668899571
+    },
+    {
+      "date": "2026-07-03",
+      "ihsg": 5875.78,
+      "market_cap": 10283558418117973
+    },
+    {
+      "date": "2026-07-06",
+      "ihsg": 5916.07,
+      "market_cap": 10352610980350056
+    },
+    {
+      "date": "2026-07-07",
+      "ihsg": 5986.497,
+      "market_cap": 10462196902308353
+    },
+    {
+      "date": "2026-07-08",
+      "ihsg": 5873.372,
+      "market_cap": 10272894518876036
+    },
+    {
+      "date": "2026-07-09",
+      "ihsg": 5912.442,
+      "market_cap": 10324456194315119
+    },
+    {
+      "date": "2026-07-10",
+      "ihsg": 5924.36,
+      "market_cap": 10336481815483724
+    },
+    {
+      "date": "2026-07-13",
+      "ihsg": 6037.842,
+      "market_cap": 10506156813352519
+    },
+    {
+      "date": "2026-07-14",
+      "ihsg": 6039.521,
+      "market_cap": 10524135196509080
+    },
+    {
+      "date": "2026-07-15",
+      "ihsg": 6041.972,
+      "market_cap": 10548175926837826
+    },
+    {
+      "date": "2026-07-16",
+      "ihsg": 6108.209,
+      "market_cap": 10655671296610599
+    },
+    {
+      "date": "2026-07-17",
+      "ihsg": 6175.535,
+      "market_cap": 10745282583293599
+    },
+    {
+      "date": "2026-07-20",
+      "ihsg": 6231.78,
+      "market_cap": 10832728685598542
+    },
+    {
+      "date": "2026-07-21",
+      "ihsg": 6340.02,
+      "market_cap": 11041209401983643
+    },
+    {
+      "date": "2026-07-22",
+      "ihsg": 6334.476,
+      "market_cap": 11064991318794462
+    },
+    {
+      "date": "2026-07-23",
+      "ihsg": 6315.311,
+      "market_cap": 11058096720739904
+    },
+    {
+      "date": "2026-07-24",
+      "ihsg": 6196.43,
+      "market_cap": 10866941513180025
+    },
+    {
+      "date": "2026-07-27",
+      "ihsg": 6185.783,
+      "market_cap": 10846820086978302
+    },
+    {
+      "date": "2026-07-28",
+      "ihsg": 6130.588,
+      "market_cap": 10748777396682842
+    },
+    {
+      "date": "2026-07-29",
+      "ihsg": 6091.386,
+      "market_cap": 10671925079765237
+    },
+    {
+      "date": "2026-07-30",
+      "ihsg": 6186.363,
+      "market_cap": 10808753111947654
+    },
+    {
+      "date": "2026-07-31",
+      "ihsg": 6236.126,
+      "market_cap": 10919632662108419
+    },
+    {
+      "date": "2026-08-03",
+      "ihsg": 6234.497,
+      "market_cap": 10891533376788029
+    },
+    {
+      "date": "2026-08-04",
+      "ihsg": 6319.613,
+      "market_cap": 11026919553266172
+    },
+    {
+      "date": "2026-08-05",
+      "ihsg": 6351.139,
+      "market_cap": 11081557528513146
+    },
+    {
+      "date": "2026-08-06",
+      "ihsg": 6343.711,
+      "market_cap": 11091230654708629
+    },
+    {
+      "date": "2026-08-07",
+      "ihsg": 6409.654,
+      "market_cap": 11208370900071437
+    },
+    {
+      "date": "2026-08-10",
+      "ihsg": 6365.374,
+      "market_cap": 11127673938712190
+    },
+    {
+      "date": "2026-08-11",
+      "ihsg": 6267.88,
+      "market_cap": 10951983899532200
+    },
+    {
+      "date": "2026-08-12",
+      "ihsg": 6373.849,
+      "market_cap": 11170270993004848
+    },
+    {
+      "date": "2026-08-13",
+      "ihsg": 6301.765,
+      "market_cap": 11047038481790783
+    },
+    {
+      "date": "2026-08-14",
+      "ihsg": 6401.888,
+      "market_cap": 11239913404397486
+    },
+    {
+      "date": "2026-08-18",
+      "ihsg": 6449.83,
+      "market_cap": 11344776423883178
+    },
+    {
+      "date": "2026-08-19",
+      "ihsg": 6394.125,
+      "market_cap": 11242710814171051
+    },
+    {
+      "date": "2026-08-20",
+      "ihsg": 6501.585,
+      "market_cap": 11417105165375641
+    },
+    {
+      "date": "2026-08-21",
+      "ihsg": 6525.69,
+      "market_cap": 11445451211005613
+    },
+    {
+      "date": "2026-08-24",
+      "ihsg": 6501.667,
+      "market_cap": 11400829359169202
+    },
+    {
+      "date": "2026-08-26",
+      "ihsg": 6405.685,
+      "market_cap": 11226539253653372
+    },
+    {
+      "date": "2026-08-27",
+      "ihsg": 6521.75,
+      "market_cap": 11444254799160097
+    },
+    {
+      "date": "2026-08-28",
+      "ihsg": 6518.121,
+      "market_cap": 11427514258790209
+    },
+    {
+      "date": "2026-08-31",
+      "ihsg": 6525.478,
+      "market_cap": 11420266337232824
+    },
+    {
+      "date": "2026-09-01",
+      "ihsg": 6599.943,
+      "market_cap": 11528076154461080
+    },
+    {
+      "date": "2026-09-02",
+      "ihsg": 6595.776,
+      "market_cap": 11521577604064942
+    },
+    {
+      "date": "2026-09-03",
+      "ihsg": 6667.891,
+      "market_cap": 11637538684241799
+    },
+    {
+      "date": "2026-09-04",
+      "ihsg": 6636.475,
+      "market_cap": 11595660058206448
+    },
+    {
+      "date": "2026-09-07",
+      "ihsg": 6619.673,
+      "market_cap": 11571807924987264
+    },
+    {
+      "date": "2026-09-08",
+      "ihsg": 6686.442,
+      "market_cap": 11668902562815871
+    },
+    {
+      "date": "2026-09-09",
+      "ihsg": 6678.201,
+      "market_cap": 11671538636715858
+    },
+    {
+      "date": "2026-09-10",
+      "ihsg": 6589.338,
+      "market_cap": 11526136904331476
+    },
+    {
+      "date": "2026-09-11",
+      "ihsg": 6541.377,
+      "market_cap": 11442963914395062
+    },
+    {
+      "date": "2026-09-14",
+      "ihsg": 6534.693,
+      "market_cap": 11368110758085182
+    },
+    {
+      "date": "2026-09-15",
+      "ihsg": 6461.153,
+      "market_cap": 11257912210981978
+    },
+    {
+      "date": "2026-09-16",
+      "ihsg": 6436.853,
+      "market_cap": 11225219420982876
+    },
+    {
+      "date": "2026-09-17",
+      "ihsg": 6462.431,
+      "market_cap": 11270346560839989
+    },
+    {
+      "date": "2026-09-18",
+      "ihsg": 6441.159,
+      "market_cap": 11262605698050558
+    },
+    {
+      "date": "2026-09-21",
+      "ihsg": 6384.726,
+      "market_cap": 11161910095429389
+    },
+    {
+      "date": "2026-09-22",
+      "ihsg": 6277.044,
+      "market_cap": 10971287923179805
+    },
+    {
+      "date": "2026-09-23",
+      "ihsg": 6374.912,
+      "market_cap": 11141915820582293
+    },
+    {
+      "date": "2026-09-24",
+      "ihsg": 6298.607,
+      "market_cap": 11021365748586840
+    },
+    {
+      "date": "2026-09-25",
+      "ihsg": 6241.892,
+      "market_cap": 10902018198054911
+    },
+    {
+      "date": "2026-09-28",
+      "ihsg": 6147.859,
+      "market_cap": 10755457591436344
+    },
+    {
+      "date": "2026-09-29",
+      "ihsg": 6121.7,
+      "market_cap": 10754858845786069
+    },
+    {
+      "date": "2026-09-30",
+      "ihsg": 6071.138,
+      "market_cap": 10691719699169471
+    }
+  ],
+  "relevant_news": [
+    {
+      "title": "MNC Sekuritas forecasts IHSG rise and recommends top-performing stocks on 24 Sep 2026",
+      "timestamp": "2026-09-24T05:40:00",
+      "source": "https://market.bisnis.com/read/20260924/7/2006644/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-kamis-24-september-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors favor PT Bumi Resources Minerals Tbk (BRMS), PT Merdeka Gold Resources Tbk (EMAS) and PT Adaro Andalan Indonesia Tbk (AADI); Top 10 Net‑Buy Stocks of the Week",
+      "timestamp": "2026-09-19T07:17:00",
+      "source": "https://market.bisnis.com/read/20260919/7/2005456/saham-brms-emas-aadi-jadi-favorit-investor-asing-simak-top-10-saham-net-buy-asing-sepekan",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Oil Price Upside Threatens to Boost MEDC, ELSA, PGAS and TPIA Stock Prospects",
+      "timestamp": "2026-09-06T14:11:00",
+      "source": "https://investasi.kontan.co.id/news/harga-minyak-terancam-naik-ini-prospek-saham-medc-elsa-pgas-dan-tpia",
+      "tags": [
+        "Commodities",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Global Economy",
+        "Production & Operations",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PGAS Loses Partial Arbitration Award, Ordered to Pay 9 LNG Cargoes to Gunvor",
+      "timestamp": "2026-09-02T08:30:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/120211/kalah-arbitrase-kompensasi-awal-pgas-ke-gunvor-9-kargo-lng",
+      "tags": [
+        "Commodities",
+        "Risk & Compliance",
+        "Market Sentiment",
+        "Financial Metrics",
+        "Partnerships & Agreements",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PGAS Ordered to Pay Compensation to Gunvor Singapore After LCIA Arbitration Rejects Force Majeure Claim",
+      "timestamp": "2026-09-02T06:39:00",
+      "source": "https://emitennews.com/news/pgas-beber-latar-pembayaran-kompensasi-gunvor",
+      "tags": [
+        "Partnerships & Agreements",
+        "Commodities",
+        "Export",
+        "Risk & Compliance",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Perusahaan Gas Negara Tbk ordered to pay compensation to Gunvor Singapore after partial arbitration award",
+      "timestamp": "2026-08-28T09:34:00",
+      "source": "https://investasi.kontan.co.id/news/pgn-pgas-diminta-bayar-kompensasi-kepada-gunvor-ini-penyebabnya",
+      "tags": [
+        "Risk & Compliance",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PGAS Ordered to Pay Compensation to Gunvor in LNG Arbitration Dispute",
+      "timestamp": "2026-08-28T07:00:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/119740/pgas-mesti-bayar-kompensasi-ke-gunvor-di-sengketa-lng",
+      "tags": [
+        "Risk & Compliance",
+        "Commodities",
+        "Financial Metrics",
+        "Capital & Funding",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG predicted to trade sideways; MNC recommends ANTM, PGAS, PTBA, and TINS for Wednesday, 26 August 2026",
+      "timestamp": "2026-08-24T19:39:41",
+      "source": "https://investor.id/market/451471/prediksi-ihsg-dan-rekomendasi-saham-rabu-26-agustus-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Currency & FX"
+      ]
+    },
+    {
+      "title": "IHSG projected to strengthen at the start of the week",
+      "timestamp": "2026-08-24T07:05:09",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260824062110-92-1395649/ihsg-diproyeksi-bertenaga-di-awal-pekan",
+      "tags": [
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "FTSE Russell’s September 2026 review reclassifies dozens of Indonesian stocks across Mid, Small and Micro Cap categories",
+      "timestamp": "2026-08-22T06:22:00",
+      "source": "https://money.kompas.com/read/2026/08/22/062200226/ftse-russell-umumkan-review-september-2026-puluhan-saham-indonesia-berubah",
+      "tags": [
+        "Global Index",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "President Prabowo targets Rp200 trillion BUMN dividend by 2026 as state‑owned firms post strong 2025 profits",
+      "timestamp": "2026-08-19T16:45:00",
+      "source": "https://market.bisnis.com/read/20260819/192/1997466/intip-kinerja-keuangan-bumn-saat-prabowo-bidik-target-dividen-rp200-triliun",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Government Policy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "ENRG reports 27% profit rise to US$45.23 million, driven by sales to PLN and Pertamina",
+      "timestamp": "2026-08-18T09:45:00",
+      "source": "https://www.idnfinancials.com/id/news/67548/laba-enrg-melesat-27-ditopang-penjualan-ke-pln-dan-pertamina",
+      "tags": [
+        "Financial Metrics",
+        "Market Sentiment",
+        "Export",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Energi Mega Persada posts net profit of Rp807.7 billion in the first half of 2026",
+      "timestamp": "2026-08-18T09:08:00",
+      "source": "https://market.bisnis.com/read/20260818/192/1997027/energi-mega-persada-enrg-cetak-laba-bersih-rp807-miliar-semester-i2026",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Business Expansion",
+        "Production & Operations",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Summary of Today's Stock Recommendations, 18 August 2026",
+      "timestamp": "2026-08-18T08:55:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/118637/rangkuman-rekomendasi-saham-hari-ini-18-agustus-2026",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "IHSG Likely to Brighten After Long Holiday as Analysts Forecast Upside and Recommend Select Stocks",
+      "timestamp": "2026-08-18T07:01:00",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260818062643-92-1393391/ihsg-berpeluang-cerah-usai-libur-panjang",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors sell net Rp1.58 trillion of Indonesian stocks, top 10 net‑sell losers listed",
+      "timestamp": "2026-08-18T07:00:57",
+      "source": "https://www.cnbcindonesia.com/market/20260817221515-17-760118/asing-lepas-rp158-triliun-saham-ri-ini-daftarnya",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas projects IHSG to rise toward 6,544 and highlights gains in AADI, ANTM, PGAS, and VKTR",
+      "timestamp": "2026-08-17T13:58:00",
+      "source": "https://market.bisnis.com/read/20260817/189/1996883/ihsg-berpeluang-menguat-ke-6544-cek-saham-aadi-antm-hingga-vktr",
+      "tags": [
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "RAPBN 2027’s expansive budget could lift a range of Indonesian stocks, according to RHB Sekuritas research",
+      "timestamp": "2026-08-14T19:20:00",
+      "source": "https://market.bisnis.com/read/20260814/7/1996485/rapbn-2027-ekspansif-ini-deretan-saham-yang-berpotensi-ketiban-berkah",
+      "tags": [
+        "Government Policy",
+        "Commodities",
+        "Export",
+        "Dividend Announcement",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "President Prabowo projects Indonesia’s state‑owned enterprises to pay Rp200 trillion in dividends by 2026 and highlights IDX High Dividend 20 BUMN stocks",
+      "timestamp": "2026-08-14T11:48:00",
+      "source": "https://market.bisnis.com/read/20260814/7/1996285/dividen-bumn-diproyeksi-prabowo-rp200-triliun-cek-daftar-emiten-bumn-paling-royal",
+      "tags": [
+        "Dividend Announcement",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net‑sell PT Bank Mandiri Tbk, PT Telkom Indonesia Tbk and other stocks as the IHSG rose 1.69%",
+      "timestamp": "2026-08-13T09:01:00",
+      "source": "https://investasi.kontan.co.id/news/bmri-tlkm-teratas-intip-saham-yang-banyak-dijual-asing-saat-ihsg-melonjak-kemarin",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign investors net sell BMRI, TLKM, MEDC and PT Perusahaan Gas Negara Tbk amid IHSG gain",
+      "timestamp": "2026-08-13T07:56:17",
+      "source": "https://investor.id/market/450163/asing-beranjak-tinggalkan-sahamsaham-ini",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Performance Highlights of BUMN Energy Issuers TINS, PGEO, ELSA, PTBA, and PGAS for Q2 and H1 2026",
+      "timestamp": "2026-08-07T06:05:00",
+      "source": "https://emitennews.com/news/adu-gacor-kinerja-emiten-bumn-energi-tins-pgeo-elsa-ptba-pgas",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BUMN stocks remain undervalued despite solid first‑half 2026 earnings, highlighting attractive buying opportunities.",
+      "timestamp": "2026-08-07T05:00:00",
+      "source": "https://investasi.kontan.co.id/news/harga-saham-bumn-masih-tertekan-meskipun-laporan-kinerja-bagus-cek-yang-layak-beli",
+      "tags": [
+        "Undervalued",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BUMN issuers' first‑half 2026 results show limited impact from Danantara, with mixed performance across sectors",
+      "timestamp": "2026-08-06T18:21:00",
+      "source": "https://investasi.kontan.co.id/news/kinerja-emiten-bumn-belum-terdorong-peran-danantara-simak-prospeknya",
+      "tags": [
+        "Financial Metrics",
+        "Asset Management",
+        "Analyst Ratings",
+        "Risk & Compliance",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Perusahaan Gas Negara’s Limited Gas Delivery Poses Risk to Indonesia’s Rp 10 Trillion Ceramic Industry Expansion",
+      "timestamp": "2026-08-06T15:43:00",
+      "source": "https://money.kompas.com/read/2026/08/06/154346326/industri-keramik-siapkan-investasi-rp-10-triliun-terkendala-pasokan-gas-pgn",
+      "tags": [
+        "Business Expansion",
+        "Risk & Compliance",
+        "Government Policy",
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Technical buy recommendations for PT Bumi Resources Tbk, PT Pakuwon Jati Tbk, and PT Perusahaan Gas Negara Tbk for Thursday trading (6 August 2026)",
+      "timestamp": "2026-08-05T19:29:00",
+      "source": "https://investasi.kontan.co.id/news/cermati-rekomendasi-teknikal-bumi-pwon-pgas-untuk-perdagangan-kamis-68",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Analysts project strong upside for Indonesia’s red‑plate (BUMN) stocks in the second half of 2026 following the IDX BUMN 20 rebalancing",
+      "timestamp": "2026-08-04T08:55:00",
+      "source": "https://market.bisnis.com/read/20260804/192/1993383/prospek-cerah-saham-pelat-merah-di-sisa-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT United Tractors Tbk records Rp2.7 trillion impairment on geothermal investment in PT Supreme Energy Rantau Dadap",
+      "timestamp": "2026-08-03T11:40:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/117046/untr-catat-impairtment-rp2-7-t-di-proyek-geothermal",
+      "tags": [
+        "Financial Metrics",
+        "Ownership",
+        "Subsidiaries",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG projected to strengthen in early August trading",
+      "timestamp": "2026-08-03T07:09:51",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260803063055-92-1387822/ihsg-diproyeksi-ceria-awali-pekan-pertama-agustus",
+      "tags": [
+        "Market Sentiment",
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Foreign investors net sold Rp 250.53 billion over the weekend, with PT MNC Digital Entertainment Tbk leading the top‑10 most‑sold stocks",
+      "timestamp": "2026-07-31T21:21:00",
+      "source": "https://investasi.kontan.co.id/news/asing-catat-net-sell-rp-250-miliar-di-akhir-pekan-cek-saham-yang-banyak-diborong",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG diperkirakan uji level 6.000; Phintraco rekomendasikan enam saham",
+      "timestamp": "2026-07-30T06:36:47",
+      "source": "https://investor.id/market/448389/ihsg-bersiap-hadapi-ujian-6-saham-jadi-sorotan",
+      "tags": [
+        "Analyst Ratings",
+        "Currency & FX"
+      ]
+    },
+    {
+      "title": "Foreign investors' net selling pressure hits leading Indonesian stocks, with major outflows in BBRI, BMRI, TPIA, BUMI and PGAS",
+      "timestamp": "2026-07-29T06:47:09",
+      "source": "https://investor.id/market/448245/tekanan-jual-asing-hantam-sahamsaham-unggulan",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Phintraco Sekuritas forecasts IHSG to consolidate between 6,080‑6,250 and recommends PGAS, INKP, TLKM, MDKA, and ASII for Tuesday trading",
+      "timestamp": "2026-07-28T06:45:07",
+      "source": "https://investor.id/market/448090/prediksi-ihsg-konsolidasi-berlanjut-di-tengah-sentimen-bi-5-saham-siap-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "KB Valbury initiates coverage of PT Perusahaan Gas Negara Tbk with buy rating and Rp 2,000 target",
+      "timestamp": "2026-07-27T19:20:36",
+      "source": "https://investor.id/market/448052/pipa-cuan-saham-pgas-belum-kering-siapsiap-mengalir-deras",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Risk & Compliance",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Bisnis-27 Index Closes 0.48% Lower Following the Resignation of Bank Indonesia Governor Perry Warjiyo",
+      "timestamp": "2026-07-27T16:20:00",
+      "source": "https://market.bisnis.com/read/20260727/7/1991405/indeks-bisnis-27-ditutup-melemah-048-usai-gubernur-bi-mundur",
+      "tags": [
+        "Market Sentiment",
+        "Central Bank",
+        "Executive Changes",
+        "Global Economy",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG Expected to Continue Rising with Six Recommended Stocks Highlighted",
+      "timestamp": "2026-07-22T07:53:03",
+      "source": "https://investor.id/market/447415/ihsg-bakal-lanjut-nanjak-6-saham-jagoan-cuan",
+      "tags": [
+        "Market Sentiment",
+        "Central Bank",
+        "Currency & FX",
+        "Commodities"
+      ]
+    },
+    {
+      "title": "Analysts view Danantara‑managed BUMN stocks as attractive despite Moody’s scrutiny",
+      "timestamp": "2026-07-21T21:37:00",
+      "source": "https://investasi.kontan.co.id/news/saham-bumn-danantara-masih-menarik-di-tengah-sorotan-moodys-ini-pilihan-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Hydrogen Business Expansion Viewed as Positive Catalyst for PT Perusahaan Gas Negara Tbk",
+      "timestamp": "2026-07-21T15:22:00",
+      "source": "https://investasi.kontan.co.id/news/ekspansi-bisnis-hidrogen-jadi-katalis-positif-bagi-perusahaan-gas-negara-pgas",
+      "tags": [
+        "Business Expansion",
+        "Analyst Ratings",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Crude Oil Prices Rise, Energy Stocks Soar",
+      "timestamp": "2026-07-20T17:38:17",
+      "source": "https://www.cnbcindonesia.com/market/20260720172045-17-752326/harga-minyak-mentah-naik-saham-emiten-energi-ikut-melambung",
+      "tags": [
+        "Commodities",
+        "Market Sentiment",
+        "Global Economy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Eri Surya Kelana Buys Shares of Perusahaan Gas Negara",
+      "timestamp": "2026-07-16T14:09:06",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-16072026-5594-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "LQ45 stocks on 14 July 2026 show lowest and highest PERs, with Barito Pacific and United Tractors highlighted",
+      "timestamp": "2026-07-15T05:18:00",
+      "source": "https://investasi.kontan.co.id/news/daftar-saham-per-terendah-tertinggi-lq45-14-juli-2026-brpt-dan-untr-jadi-sorotan",
+      "tags": [
+        "Foreign Investment",
+        "Financial Metrics",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Government requests higher coal deliveries to PLN, prompting analysts to evaluate prospects for PT Bukit Asam, PT Indika Energy, PT Adaro Andalan Indonesia, PT Bumi Resources, and PT Indo Tambangraya Megah",
+      "timestamp": "2026-07-14T18:34:00",
+      "source": "https://investasi.kontan.co.id/news/pemerintah-minta-pasokan-batubara-pln-ditambah-begini-prospek-emiten-sektor-batubara",
+      "tags": [
+        "Government Policy",
+        "Analyst Ratings",
+        "Commodities",
+        "Export",
+        "Production & Operations",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Three directors of PT Perusahaan Gas Negara Tbk buy 724,000 shares as stock price declines",
+      "timestamp": "2026-07-13T08:16:00",
+      "source": "https://investasi.kontan.co.id/news/harga-melorot-tiga-direktur-borong-saham-pgas-per-pbv-menarik-dicermati",
+      "tags": [
+        "Ownership",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PGAS CEO Arief Kurnia Risdianto purchases 679,000 shares for nearly Rp1 billion",
+      "timestamp": "2026-07-13T07:50:00",
+      "source": "https://www.idnfinancials.com/id/news/65971/dirut-pgas-arief-kurnia-risdianto-borong-saham-hampir-rp1-miliar",
+      "tags": [
+        "Insider Trading",
+        "Ownership",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts project early‑week IHSG volatility and recommend buying ADRO, PGEO, PGAS and TINS",
+      "timestamp": "2026-07-13T05:46:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diproyeksi-fluktuatif-di-awal-pekan-simak-saham-rekomendasi-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Arief Kurnia Risdianto Buy Shares of Perusahaan Gas Negara",
+      "timestamp": "2026-07-12T17:56:36",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12072026-0811-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "Analysts project a volatile IHSG range and recommend buying GULA, AMRT, ADRO, PGEO, PGAS, and TINS for Monday trade (13 July)",
+      "timestamp": "2026-07-12T15:14:00",
+      "source": "https://investasi.kontan.co.id/news/proyeksi-ihsg-dan-rekomendasi-saham-untuk-perdagangan-senin-137",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG outlook and stock recommendations for Monday (13 July)",
+      "timestamp": "2026-07-12T05:47:00",
+      "source": "https://investasi.kontan.co.id/news/simak-prediksi-ihsg-dan-rekomendasi-saham-untuk-senin-137",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Currency & FX",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Mirza Mahendra St Mt buys Shares of Perusahaan Gas Negara",
+      "timestamp": "2026-07-10T22:14:27",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10072026-7135-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "PLN signs sponsor and power purchase agreements for 30 MW Bali waste‑to‑energy plant",
+      "timestamp": "2026-07-10T20:09:00",
+      "source": "https://money.kompas.com/read/2026/07/10/200926426/pln-dukung-proyek-raksasa-psel-balisulap-1650-ton-sampah-jadi-setrum-30-mw",
+      "tags": [
+        "Partnerships & Agreements",
+        "Government Policy",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Catur Dermawan Buys Shares of Perusahaan Gas Negara",
+      "timestamp": "2026-07-10T19:55:37",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10072026-4660-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "IHSG rises 0.20% on Friday; weekly movement review and stock recommendations",
+      "timestamp": "2026-07-10T18:38:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-naik-020-pada-jumat-107-simak-review-pergerakannya-sepekan",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Pilarmas Investindo Sekuritas recommends PT Bank Tabungan Negara Tbk and PT Perusahaan Gas Negara Tbk for July 10 trading with target prices",
+      "timestamp": "2026-07-10T08:17:45",
+      "source": "https://investor.id/market/445964/saham-pilihan-untuk-trading-10-juli-dan-target-harganya",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Direction Today and Market Stock Picks",
+      "timestamp": "2026-07-09T09:40:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/114419/simak-arah-ihsg-hari-ini-dan-saham-pilihan-pasar",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "IHSG May Continue Thursday Correction; focus on AKRA, ELSA, and PGAS stocks",
+      "timestamp": "2026-07-09T06:32:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-berpotensi-lanjut-koreksi-kamis-97-cermati-saham-akra-elsa-dan-pgas",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "LQ45 stocks with the lowest and highest PER on 8 July 2026 saw most shares close lower",
+      "timestamp": "2026-07-09T05:58:00",
+      "source": "https://investasi.kontan.co.id/news/daftar-saham-per-terendah-tertinggi-lq45-8-juli-2026-mayoritas-kompak-merah",
+      "tags": [
+        "Financial Metrics",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG drops to 5,936 as 386 stocks decline, analysts forecast further moves and recommend select shares",
+      "timestamp": "2026-07-08T09:57:46",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260708092439-92-1378203/ihsg-merosot-ke-level-5936-ada-386-saham-merah-pagi-ini",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "IHSG opens higher in green zone, mirroring gains across Asian markets",
+      "timestamp": "2026-07-06T09:30:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/114017/ihsg-awali-hari-di-zona-hijau-searah-dengan-bursa-asia",
+      "tags": [
+        "Bullish",
+        "Market Sentiment",
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Stock Recommendation Summary for 6 July 2026",
+      "timestamp": "2026-07-06T08:25:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/114005/rangkuman-rekomendasi-saham-hari-ini-6-juli-2026",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "PGAS and ANTM drag the IHSG, preventing a green‑zone close",
+      "timestamp": "2026-07-04T19:00:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/113938/pgas-antm-jegal-ihsg-hingga-gagal-finish-di-zona-hijau",
+      "tags": [
+        "Market Sentiment",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Analyst recommends buying PT Perusahaan Gas Negara Tbk after non‑HGBT LNG price drops to US$13 per MMBTU",
+      "timestamp": "2026-07-03T06:13:00",
+      "source": "https://investasi.kontan.co.id/news/simak-rekomendasi-saham-dan-prospek-pgn-pgas-setelah-harga-lng-non-hgbt-turun",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Government Policy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia lowers non‑HGBT LNG price to $13/MMBtu, affecting PT Perusahaan Gas Negara Tbk",
+      "timestamp": "2026-07-02T17:33:00",
+      "source": "https://investasi.kontan.co.id/news/harga-lng-non-hgbt-turun-begini-efeknya-terhadap-pgn-pgas",
+      "tags": [
+        "Government Policy",
+        "Commodities",
+        "Ministry",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Cermati recommends today's selected stocks (2/7) as the IDX may weaken",
+      "timestamp": "2026-07-02T05:51:00",
+      "source": "https://investasi.kontan.co.id/news/cermati-rekomendasi-saham-pilihan-hari-ini-27-ihsg-berpotensi-kembali-melemah",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Foreign investors net sold Rp 577.79 billion on Wednesday, with PT Bank Rakyat Indonesia Tbk leading the list",
+      "timestamp": "2026-07-02T00:25:00",
+      "source": "https://investasi.kontan.co.id/news/asing-lanjut-net-sell-rp-577-miliar-cek-saham-yang-banyak-dijual-asing-rabu-27",
+      "tags": [
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas recommends ANTM, BIPI, BRPT, and PGAS for Thursday trading as IHSG is expected to consolidate",
+      "timestamp": "2026-07-01T18:04:24",
+      "source": "https://investor.id/market/444895/prediksi-ihsg-dan-rekomendasi-saham-kamis-2-juli-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Inflation",
+        "Currency & FX"
+      ]
+    },
+    {
+      "title": "LNG price cut to $13 per MMBTU triggers 4.2% drop in PGAS shares",
+      "timestamp": "2026-07-01T07:50:00",
+      "source": "https://emitennews.com/news/pangkas-harga-lng-saham-pgas-ambruk",
+      "tags": [
+        "Commodities",
+        "Market Sentiment",
+        "Government Policy",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign investors dump PT Bank Central Asia Tbk while buying PT Dian Swastatika Sentosa Tbk as IHSG falls 1.28%",
+      "timestamp": "2026-06-29T19:10:00",
+      "source": "https://money.kompas.com/read/2026/06/29/191045026/ihsg-anjlok-128-persen-di-awal-pekan-investor-asing-jual-bersih-rp854-miliar",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PGN to Commercialize Stranded Gas from Sengeti Field, Adding Up to 5 MMSCFD by Q4 2028",
+      "timestamp": "2026-06-22T16:29:00",
+      "source": "https://money.kompas.com/read/2026/06/22/162918126/ubah-stranded-gas-jadi-energi-bernilai-pgn-amankan-pasokan-baru-dari-lapangan",
+      "tags": [
+        "Business Expansion",
+        "Commodities",
+        "Production & Operations",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Catur Dermawan Buy Shares of Perusahaan Gas Negara",
+      "timestamp": "2026-06-12T16:13:05",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12062026-0195-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "Analysts flag AADI and ITMG as top energy picks ahead of limited IHSG upside on Friday",
+      "timestamp": "2026-06-11T19:58:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diproyeksi-menguat-terbatas-cermati-saham-rekomendasi-analis-jumat-126",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas recommends MEDC, PGAS, SMDR, and VKTR as IHSG poised to test higher levels on June 12, 2026",
+      "timestamp": "2026-06-11T18:18:01",
+      "source": "https://investor.id/stock/442402/prediksi-ihsg-dan-rekomendasi-saham-jumat-12-juni-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    }
+  ],
+  "corporate_events": [
+    {
+      "date": "2026-05-22",
+      "type": "RUPS",
+      "detail": "Waktu: 14:00:00 · Lokasi: Auditorium Graha Pgas Lantai 2, Jalan K. H. Zainularifin Nomor 20, Krukut, Tamansari, Kotaadm. Jakarta Barat · Agenda #1: Shareholders approved the 2025 Annual Report and Consolidated Financial Statements, granting full discharge of liability to the Board of Directors and Commissioners. The financial reports received unqualified opinions from auditors Purwanto, Susanti, and Surja.\nAgenda #2: The meeting approved the allocation of USD 215,364,799 in net profit, distributing 80% as cash dividends and 20% as retained earnings. The Board of Directors is authorized to manage the dividend schedule, currency conversion, and tax deductions.\nAgenda #3: Authority was granted to the Majority Series B Shareholder and the Board of Commissioners to set salaries, honorariums, facilities, and performance remuneration for the Board of Directors and Commissioners for FY 2025 and 2026.\nAgenda #4: The Board of Commissioners was authorized, with prior approval from the Majority Series B Shareholder, to appoint a Public Accounting Firm for the 2026 financial audits and determine service fees.\nAgenda #5: The meeting delegated authority to the Board of Commissioners to approve the 2027 Annual Work Plan and Budget (RKAP) and its amendments. This process requires approval from the Majority Series B Shareholder and coordination with the Series A Dwiwarna Shareholder.\nAgenda #6: Shareholders approved amendments to Article 3 of the Articles of Association to align the company's purpose and business activities with 2025 KBLI regulations. The Board of Directors was granted authority to execute all necessary legal and administrative actions related to these changes.\nAgenda #7: The meeting approved the addition of \"Industri Gas Industri\" (KBLI 20112) to the business activities of subsidiary PT Pertamina Gas to comply with OJK regulations. This involves an amendment to Article 3 of PT Pertamina Gas's Articles of Association.\nAgenda #8: Shareholders approved a special assignment for the company to manage the State Budget-funded (APBN) Natural Gas Network. The assignment includes provisions for cost reimbursement and a reasonable profit margin.\nAgenda #9: This agenda item regarding the change in the composition of the company's management was cancelled, and no resolution was adopted."
+    }
+  ],
+  "context_period": {
+    "start": "2026-04-01",
+    "end": "2026-09-30"
+  },
+  "source_availability": {
+    "company_fundamentals": true,
+    "corporate_events": true,
+    "news": true,
+    "peer_comparison": true,
+    "market_context": true,
+    "sector_market_series": false
+  },
+  "news_archive": {
+    "pages": 3,
+    "rows": 71,
+    "pagination_exhausted": true,
+    "totals_seen": [
+      71
+    ]
+  }
 }

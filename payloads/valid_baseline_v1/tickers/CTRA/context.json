@@ -3,8 +3,8 @@
   "as_of": "2026-09-30",
   "identity": {
     "symbol": "CTRA",
-    "company_name": null,
-    "peer_group": null
+    "company_name": "Ciputra Development Tbk",
+    "peer_group": "Properties & Real Estate"
   },
   "current": {
     "scope": "NO_CONTEXT",
@@ -20,5 +20,1425 @@
   "daily_market": {},
   "notes": [
     "Dataset scope: 28 reviewed stocks. No full-market or peer-context score is computed."
-  ]
+  ],
+  "company_snapshot": {
+    "price_date": "2026-10-07",
+    "captured_at": "2026-10-08",
+    "sector": "Properties & Real Estate",
+    "industry": "Real Estate Management & Development",
+    "website": "www.ciputradevelopment.com",
+    "market_cap": 10101953913975,
+    "annual_year": 2025,
+    "valuation_year": 2026,
+    "metrics": [
+      {
+        "label": "Pendapatan",
+        "value": "Rp 12,62 T"
+      },
+      {
+        "label": "Laba bersih",
+        "value": "Rp 2,66 T"
+      },
+      {
+        "label": "Total aset",
+        "value": "Rp 47,99 T"
+      },
+      {
+        "label": "Ekuitas",
+        "value": "Rp 26,92 T"
+      },
+      {
+        "label": "EPS",
+        "value": "Rp 143,67"
+      },
+      {
+        "label": "P/E TTM",
+        "value": "3,81×"
+      },
+      {
+        "label": "P/B",
+        "value": "0,41×"
+      }
+    ]
+  },
+  "fundamental_peers": [
+    {
+      "symbol": "CTRA",
+      "name": "Ciputra Development Tbk",
+      "year": 2025,
+      "market_cap": 10009275437700,
+      "pe": 3.7723575239106,
+      "pb": 0.408566702125966,
+      "revenue": 12616695000000,
+      "in_universe": true
+    },
+    {
+      "symbol": "MPRO",
+      "name": "PT Maha Properti Indonesia Tbk",
+      "year": 2025,
+      "market_cap": 119310000000000,
+      "pe": -2071.20044475866,
+      "pb": 151.270965951752,
+      "revenue": 3553426000,
+      "in_universe": false
+    },
+    {
+      "symbol": "PANI",
+      "name": "PT Pantai Indah Kapuk Dua Tbk.",
+      "year": 2025,
+      "market_cap": 86036345396540,
+      "pe": 34.0027858438026,
+      "pb": 2.95338557839456,
+      "revenue": 4316006452000,
+      "in_universe": false
+    },
+    {
+      "symbol": "CBDK",
+      "name": "PT Bangun Kosambi Sukses Tbk",
+      "year": 2025,
+      "market_cap": 20011374085000,
+      "pe": 7.77981647781275,
+      "pb": 1.89391866066375,
+      "revenue": 2503637505000,
+      "in_universe": false
+    },
+    {
+      "symbol": "MKPI",
+      "name": "Metropolitan Kentjana Tbk",
+      "year": 2025,
+      "market_cap": 19888369150000,
+      "pe": 16.0852604358802,
+      "pb": 2.66738745406331,
+      "revenue": 2603313036403,
+      "in_universe": false
+    },
+    {
+      "symbol": "JRPT",
+      "name": "Jaya Real Property Tbk",
+      "year": 2025,
+      "market_cap": 14847326965000,
+      "pe": 10.498828170394,
+      "pb": 1.35542242659462,
+      "revenue": 3275283177000,
+      "in_universe": false
+    },
+    {
+      "symbol": "PWON",
+      "name": "Pakuwon Jati Tbk",
+      "year": 2025,
+      "market_cap": 12810454238400,
+      "pe": 5.77992783697884,
+      "pb": 0.56078227996626,
+      "revenue": 7111105136000,
+      "in_universe": false
+    },
+    {
+      "symbol": "BSDE",
+      "name": "PT Bumi Serpong Damai Tbk",
+      "year": 2025,
+      "market_cap": 11538394367540,
+      "pe": 5.35229434797097,
+      "pb": 0.257442632484311,
+      "revenue": 12788452336734,
+      "in_universe": true
+    },
+    {
+      "symbol": "BKSL",
+      "name": "Sentul City Tbk",
+      "year": 2025,
+      "market_cap": 9894825259595,
+      "pe": 10.9579648562236,
+      "pb": 0.645522150510861,
+      "revenue": 2757463756020,
+      "in_universe": false
+    },
+    {
+      "symbol": "RISE",
+      "name": "PT Jaya Sukses Makmur Sentosa Tbk",
+      "year": 2025,
+      "market_cap": 9719159994000,
+      "pe": 59.027492035824,
+      "pb": 3.47377408559627,
+      "revenue": 410719479745,
+      "in_universe": false
+    }
+  ],
+  "market_history": [
+    {
+      "date": "2026-04-01",
+      "ihsg": 7184.438,
+      "market_cap": 12646140309231200
+    },
+    {
+      "date": "2026-04-02",
+      "ihsg": 7026.782,
+      "market_cap": 12301402169484936
+    },
+    {
+      "date": "2026-04-06",
+      "ihsg": 6989.426,
+      "market_cap": 12181292965738515
+    },
+    {
+      "date": "2026-04-07",
+      "ihsg": 6971.027,
+      "market_cap": 12220087895953627
+    },
+    {
+      "date": "2026-04-08",
+      "ihsg": 7279.209,
+      "market_cap": 12745135690725105
+    },
+    {
+      "date": "2026-04-09",
+      "ihsg": 7307.589,
+      "market_cap": 12927661360702306
+    },
+    {
+      "date": "2026-04-10",
+      "ihsg": 7458.496,
+      "market_cap": 13183485554446575
+    },
+    {
+      "date": "2026-04-13",
+      "ihsg": 7500.187,
+      "market_cap": 13334711369769658
+    },
+    {
+      "date": "2026-04-14",
+      "ihsg": 7675.951,
+      "market_cap": 13680203483861089
+    },
+    {
+      "date": "2026-04-15",
+      "ihsg": 7623.586,
+      "market_cap": 13577551326427693
+    },
+    {
+      "date": "2026-04-16",
+      "ihsg": 7621.382,
+      "market_cap": 13580909513734445
+    },
+    {
+      "date": "2026-04-17",
+      "ihsg": 7634.004,
+      "market_cap": 13631805736754862
+    },
+    {
+      "date": "2026-04-20",
+      "ihsg": 7594.111,
+      "market_cap": 13530051609880990
+    },
+    {
+      "date": "2026-04-21",
+      "ihsg": 7559.38,
+      "market_cap": 13439346111420433
+    },
+    {
+      "date": "2026-04-22",
+      "ihsg": 7541.612,
+      "market_cap": 13331962629649015
+    },
+    {
+      "date": "2026-04-23",
+      "ihsg": 7378.606,
+      "market_cap": 13176851273619842
+    },
+    {
+      "date": "2026-04-24",
+      "ihsg": 7129.49,
+      "market_cap": 12732776963937495
+    },
+    {
+      "date": "2026-04-27",
+      "ihsg": 7106.52,
+      "market_cap": 12687518028997883
+    },
+    {
+      "date": "2026-04-28",
+      "ihsg": 7072.392,
+      "market_cap": 12590034125678447
+    },
+    {
+      "date": "2026-04-29",
+      "ihsg": 7101.226,
+      "market_cap": 12635384034178860
+    },
+    {
+      "date": "2026-04-30",
+      "ihsg": 6956.804,
+      "market_cap": 12378413759882228
+    },
+    {
+      "date": "2026-05-04",
+      "ihsg": 6971.953,
+      "market_cap": 12411009903513114
+    },
+    {
+      "date": "2026-05-05",
+      "ihsg": 7057.106,
+      "market_cap": 12626309574250122
+    },
+    {
+      "date": "2026-05-06",
+      "ihsg": 7092.467,
+      "market_cap": 12699830398460331
+    },
+    {
+      "date": "2026-05-07",
+      "ihsg": 7174.321,
+      "market_cap": 12778962713690869
+    },
+    {
+      "date": "2026-05-08",
+      "ihsg": 6969.396,
+      "market_cap": 12402407487340402
+    },
+    {
+      "date": "2026-05-11",
+      "ihsg": 6905.62,
+      "market_cap": 12280030079664830
+    },
+    {
+      "date": "2026-05-12",
+      "ihsg": 6858.899,
+      "market_cap": 12142773427321380
+    },
+    {
+      "date": "2026-05-13",
+      "ihsg": 6723.32,
+      "market_cap": 11821690407165346
+    },
+    {
+      "date": "2026-05-18",
+      "ihsg": 6599.24,
+      "market_cap": 11535132183193835
+    },
+    {
+      "date": "2026-05-19",
+      "ihsg": 6370.679,
+      "market_cap": 11105372542285443
+    },
+    {
+      "date": "2026-05-20",
+      "ihsg": 6318.5,
+      "market_cap": 10959980491971602
+    },
+    {
+      "date": "2026-05-21",
+      "ihsg": 6094.941,
+      "market_cap": 10549507904767653
+    },
+    {
+      "date": "2026-05-22",
+      "ihsg": 6162.045,
+      "market_cap": 10631421768765943
+    },
+    {
+      "date": "2026-05-25",
+      "ihsg": 6206.349,
+      "market_cap": 10692705367587005
+    },
+    {
+      "date": "2026-05-26",
+      "ihsg": 6130.19,
+      "market_cap": 10613054794742598
+    },
+    {
+      "date": "2026-05-29",
+      "ihsg": 6127.381,
+      "market_cap": 10725485605975573
+    },
+    {
+      "date": "2026-06-02",
+      "ihsg": 6195.427,
+      "market_cap": 10891278361519046
+    },
+    {
+      "date": "2026-06-03",
+      "ihsg": 5941.066,
+      "market_cap": 10451829355656557
+    },
+    {
+      "date": "2026-06-04",
+      "ihsg": 5839.785,
+      "market_cap": 10259085293637228
+    },
+    {
+      "date": "2026-06-05",
+      "ihsg": 5594.765,
+      "market_cap": 9803592659706909
+    },
+    {
+      "date": "2026-06-08",
+      "ihsg": 5342.137,
+      "market_cap": 9414771844192581
+    },
+    {
+      "date": "2026-06-09",
+      "ihsg": 5746.648,
+      "market_cap": 10095511071726246
+    },
+    {
+      "date": "2026-06-10",
+      "ihsg": 5902.376,
+      "market_cap": 10341178905408617
+    },
+    {
+      "date": "2026-06-11",
+      "ihsg": 5886.032,
+      "market_cap": 10287950241660193
+    },
+    {
+      "date": "2026-06-12",
+      "ihsg": 6007.656,
+      "market_cap": 10520825968837381
+    },
+    {
+      "date": "2026-06-15",
+      "ihsg": 6254.966,
+      "market_cap": 10899408952482727
+    },
+    {
+      "date": "2026-06-17",
+      "ihsg": 6220.74,
+      "market_cap": 10776148487729844
+    },
+    {
+      "date": "2026-06-18",
+      "ihsg": 6172.34,
+      "market_cap": 10736980009961606
+    },
+    {
+      "date": "2026-06-19",
+      "ihsg": 6177.139,
+      "market_cap": 10784594953877444
+    },
+    {
+      "date": "2026-06-22",
+      "ihsg": 6116.69,
+      "market_cap": 10708711379319414
+    },
+    {
+      "date": "2026-06-23",
+      "ihsg": 6101.333,
+      "market_cap": 10685047810158781
+    },
+    {
+      "date": "2026-06-24",
+      "ihsg": 5883.881,
+      "market_cap": 10312029789078805
+    },
+    {
+      "date": "2026-06-25",
+      "ihsg": 5999.038,
+      "market_cap": 10515718128770631
+    },
+    {
+      "date": "2026-06-26",
+      "ihsg": 5896.134,
+      "market_cap": 10298280398969010
+    },
+    {
+      "date": "2026-06-29",
+      "ihsg": 5820.79,
+      "market_cap": 10179250800138493
+    },
+    {
+      "date": "2026-06-30",
+      "ihsg": 5643.194,
+      "market_cap": 9894028079914985
+    },
+    {
+      "date": "2026-07-01",
+      "ihsg": 5695.116,
+      "market_cap": 10007947906561450
+    },
+    {
+      "date": "2026-07-02",
+      "ihsg": 5744.556,
+      "market_cap": 10060923668899571
+    },
+    {
+      "date": "2026-07-03",
+      "ihsg": 5875.78,
+      "market_cap": 10283558418117973
+    },
+    {
+      "date": "2026-07-06",
+      "ihsg": 5916.07,
+      "market_cap": 10352610980350056
+    },
+    {
+      "date": "2026-07-07",
+      "ihsg": 5986.497,
+      "market_cap": 10462196902308353
+    },
+    {
+      "date": "2026-07-08",
+      "ihsg": 5873.372,
+      "market_cap": 10272894518876036
+    },
+    {
+      "date": "2026-07-09",
+      "ihsg": 5912.442,
+      "market_cap": 10324456194315119
+    },
+    {
+      "date": "2026-07-10",
+      "ihsg": 5924.36,
+      "market_cap": 10336481815483724
+    },
+    {
+      "date": "2026-07-13",
+      "ihsg": 6037.842,
+      "market_cap": 10506156813352519
+    },
+    {
+      "date": "2026-07-14",
+      "ihsg": 6039.521,
+      "market_cap": 10524135196509080
+    },
+    {
+      "date": "2026-07-15",
+      "ihsg": 6041.972,
+      "market_cap": 10548175926837826
+    },
+    {
+      "date": "2026-07-16",
+      "ihsg": 6108.209,
+      "market_cap": 10655671296610599
+    },
+    {
+      "date": "2026-07-17",
+      "ihsg": 6175.535,
+      "market_cap": 10745282583293599
+    },
+    {
+      "date": "2026-07-20",
+      "ihsg": 6231.78,
+      "market_cap": 10832728685598542
+    },
+    {
+      "date": "2026-07-21",
+      "ihsg": 6340.02,
+      "market_cap": 11041209401983643
+    },
+    {
+      "date": "2026-07-22",
+      "ihsg": 6334.476,
+      "market_cap": 11064991318794462
+    },
+    {
+      "date": "2026-07-23",
+      "ihsg": 6315.311,
+      "market_cap": 11058096720739904
+    },
+    {
+      "date": "2026-07-24",
+      "ihsg": 6196.43,
+      "market_cap": 10866941513180025
+    },
+    {
+      "date": "2026-07-27",
+      "ihsg": 6185.783,
+      "market_cap": 10846820086978302
+    },
+    {
+      "date": "2026-07-28",
+      "ihsg": 6130.588,
+      "market_cap": 10748777396682842
+    },
+    {
+      "date": "2026-07-29",
+      "ihsg": 6091.386,
+      "market_cap": 10671925079765237
+    },
+    {
+      "date": "2026-07-30",
+      "ihsg": 6186.363,
+      "market_cap": 10808753111947654
+    },
+    {
+      "date": "2026-07-31",
+      "ihsg": 6236.126,
+      "market_cap": 10919632662108419
+    },
+    {
+      "date": "2026-08-03",
+      "ihsg": 6234.497,
+      "market_cap": 10891533376788029
+    },
+    {
+      "date": "2026-08-04",
+      "ihsg": 6319.613,
+      "market_cap": 11026919553266172
+    },
+    {
+      "date": "2026-08-05",
+      "ihsg": 6351.139,
+      "market_cap": 11081557528513146
+    },
+    {
+      "date": "2026-08-06",
+      "ihsg": 6343.711,
+      "market_cap": 11091230654708629
+    },
+    {
+      "date": "2026-08-07",
+      "ihsg": 6409.654,
+      "market_cap": 11208370900071437
+    },
+    {
+      "date": "2026-08-10",
+      "ihsg": 6365.374,
+      "market_cap": 11127673938712190
+    },
+    {
+      "date": "2026-08-11",
+      "ihsg": 6267.88,
+      "market_cap": 10951983899532200
+    },
+    {
+      "date": "2026-08-12",
+      "ihsg": 6373.849,
+      "market_cap": 11170270993004848
+    },
+    {
+      "date": "2026-08-13",
+      "ihsg": 6301.765,
+      "market_cap": 11047038481790783
+    },
+    {
+      "date": "2026-08-14",
+      "ihsg": 6401.888,
+      "market_cap": 11239913404397486
+    },
+    {
+      "date": "2026-08-18",
+      "ihsg": 6449.83,
+      "market_cap": 11344776423883178
+    },
+    {
+      "date": "2026-08-19",
+      "ihsg": 6394.125,
+      "market_cap": 11242710814171051
+    },
+    {
+      "date": "2026-08-20",
+      "ihsg": 6501.585,
+      "market_cap": 11417105165375641
+    },
+    {
+      "date": "2026-08-21",
+      "ihsg": 6525.69,
+      "market_cap": 11445451211005613
+    },
+    {
+      "date": "2026-08-24",
+      "ihsg": 6501.667,
+      "market_cap": 11400829359169202
+    },
+    {
+      "date": "2026-08-26",
+      "ihsg": 6405.685,
+      "market_cap": 11226539253653372
+    },
+    {
+      "date": "2026-08-27",
+      "ihsg": 6521.75,
+      "market_cap": 11444254799160097
+    },
+    {
+      "date": "2026-08-28",
+      "ihsg": 6518.121,
+      "market_cap": 11427514258790209
+    },
+    {
+      "date": "2026-08-31",
+      "ihsg": 6525.478,
+      "market_cap": 11420266337232824
+    },
+    {
+      "date": "2026-09-01",
+      "ihsg": 6599.943,
+      "market_cap": 11528076154461080
+    },
+    {
+      "date": "2026-09-02",
+      "ihsg": 6595.776,
+      "market_cap": 11521577604064942
+    },
+    {
+      "date": "2026-09-03",
+      "ihsg": 6667.891,
+      "market_cap": 11637538684241799
+    },
+    {
+      "date": "2026-09-04",
+      "ihsg": 6636.475,
+      "market_cap": 11595660058206448
+    },
+    {
+      "date": "2026-09-07",
+      "ihsg": 6619.673,
+      "market_cap": 11571807924987264
+    },
+    {
+      "date": "2026-09-08",
+      "ihsg": 6686.442,
+      "market_cap": 11668902562815871
+    },
+    {
+      "date": "2026-09-09",
+      "ihsg": 6678.201,
+      "market_cap": 11671538636715858
+    },
+    {
+      "date": "2026-09-10",
+      "ihsg": 6589.338,
+      "market_cap": 11526136904331476
+    },
+    {
+      "date": "2026-09-11",
+      "ihsg": 6541.377,
+      "market_cap": 11442963914395062
+    },
+    {
+      "date": "2026-09-14",
+      "ihsg": 6534.693,
+      "market_cap": 11368110758085182
+    },
+    {
+      "date": "2026-09-15",
+      "ihsg": 6461.153,
+      "market_cap": 11257912210981978
+    },
+    {
+      "date": "2026-09-16",
+      "ihsg": 6436.853,
+      "market_cap": 11225219420982876
+    },
+    {
+      "date": "2026-09-17",
+      "ihsg": 6462.431,
+      "market_cap": 11270346560839989
+    },
+    {
+      "date": "2026-09-18",
+      "ihsg": 6441.159,
+      "market_cap": 11262605698050558
+    },
+    {
+      "date": "2026-09-21",
+      "ihsg": 6384.726,
+      "market_cap": 11161910095429389
+    },
+    {
+      "date": "2026-09-22",
+      "ihsg": 6277.044,
+      "market_cap": 10971287923179805
+    },
+    {
+      "date": "2026-09-23",
+      "ihsg": 6374.912,
+      "market_cap": 11141915820582293
+    },
+    {
+      "date": "2026-09-24",
+      "ihsg": 6298.607,
+      "market_cap": 11021365748586840
+    },
+    {
+      "date": "2026-09-25",
+      "ihsg": 6241.892,
+      "market_cap": 10902018198054911
+    },
+    {
+      "date": "2026-09-28",
+      "ihsg": 6147.859,
+      "market_cap": 10755457591436344
+    },
+    {
+      "date": "2026-09-29",
+      "ihsg": 6121.7,
+      "market_cap": 10754858845786069
+    },
+    {
+      "date": "2026-09-30",
+      "ihsg": 6071.138,
+      "market_cap": 10691719699169471
+    }
+  ],
+  "relevant_news": [
+    {
+      "title": "Agrarian Reform Bill Passed, Astra Agro Lestari (AALI) and Triputra Agro Persada (TAPG) Face Land Ownership Restriction Risks",
+      "timestamp": "2026-09-25T08:52:00",
+      "source": "https://investasi.kontan.co.id/news/ruu-reforma-agraria-disahkan-aali-hingga-tapg-hadapi-risiko-pembatasan-lahan",
+      "tags": [
+        "Government Policy",
+        "Risk & Compliance",
+        "Politics & Regulation",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Agrarian Reform Law Enacted Raises Questions on Property Developers' Large Land Banks",
+      "timestamp": "2026-09-25T05:45:00",
+      "source": "https://investasi.kontan.co.id/news/uu-reforma-agraria-disahkan-bagaimana-nasib-emiten-properti-dengan-land-bank-jumbo",
+      "tags": [
+        "Government Policy",
+        "Politics & Regulation",
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Risk & Compliance",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Agrarian Reform Law Enacted Raises Concerns Over Property Developers' Land Banks",
+      "timestamp": "2026-09-24T19:49:00",
+      "source": "https://investasi.kontan.co.id/news/uu-reforma-agraria-disahkan-land-bank-emiten-properti-terancam",
+      "tags": [
+        "Government Policy",
+        "Politics & Regulation",
+        "Analyst Ratings",
+        "Risk & Compliance",
+        "Joint Operation",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Review of Property Developers' Performance Following Indonesia’s Agrarian Reform Law",
+      "timestamp": "2026-09-24T19:28:00",
+      "source": "https://investasi.kontan.co.id/news/menilik-kinerja-emiten-properti-pasca-pengesahan-uu-reformasi-agraria",
+      "tags": [
+        "Government Policy",
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG September 2026 Outlook Highlights Potential Volatility Amid Global Risks",
+      "timestamp": "2026-08-31T09:54:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-september-2026-berpotensi-volatil-investor-perlu-cermati-risiko-global",
+      "tags": [
+        "Market Sentiment",
+        "Global Economy",
+        "Commodities",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Summary of stock recommendations for 31 August 2026",
+      "timestamp": "2026-08-31T08:57:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/119947/rangkuman-rekomendasi-saham-hari-ini-31-agustus-2026",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Analyst Recommendations and Outlook for Indonesian Property Developers Amid Persistently High Interest Rates",
+      "timestamp": "2026-08-31T06:45:00",
+      "source": "https://investasi.kontan.co.id/news/intip-rekomendasi-saham-dan-prospek-kinerja-emiten-properti-di-era-suku-bunga-tinggi",
+      "tags": [
+        "Analyst Ratings",
+        "Interest Rate",
+        "Global Economy",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG September 2026 Outlook Highlights Potential Weakness and Lists Recommended Stocks",
+      "timestamp": "2026-08-30T14:53:00",
+      "source": "https://investasi.kontan.co.id/news/pergerakan-ihsg-di-september-2026-berpotensi-loyo-cek-rekomendasi-saham-pilihannya",
+      "tags": [
+        "Market Sentiment",
+        "Global Economy",
+        "Analyst Ratings",
+        "Interest Rate"
+      ]
+    },
+    {
+      "title": "Property Developers’ Stocks Remain Under Pressure Amid High Interest‑Rate Environment",
+      "timestamp": "2026-08-30T14:23:00",
+      "source": "https://investasi.kontan.co.id/news/kinerja-emiten-properti-masih-tertekan-di-era-suku-bunga-tinggi",
+      "tags": [
+        "Interest Rate",
+        "Analyst Ratings",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Ciputra Development Tbk faces continued property‑sector pressure with earnings forecast down through 2026 and target price revisions",
+      "timestamp": "2026-08-27T17:34:00",
+      "source": "https://investasi.kontan.co.id/news/bisnis-properti-tertekan-simak-prospek-saham-ciputra-ctra-hingga-akhir-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Indo Premier Sekuritas projects modest sector outlook and names PT Pakuwon Jati Tbk as top property pick",
+      "timestamp": "2026-08-26T09:17:00",
+      "source": "https://market.bisnis.com/read/20260826/192/1998864/daya-beli-kelas-menengah-tertekan-cek-saham-properti-pilihan",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Bangun Kosambi Sukses Tbk to conduct Rp 250 billion share buyback; analysts project outlook and recommend PT Pantai Indah Kapuk Dua Tbk",
+      "timestamp": "2026-08-20T18:44:00",
+      "source": "https://investasi.kontan.co.id/news/cbdk-buyback-saham-rp-250-miliar-simak-prospek-dan-rekomendasi-analis",
+      "tags": [
+        "Stock Buyback",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BSDE, PWON, and SMRA post Q2 2026 profits below consensus as sector earnings pressure persists",
+      "timestamp": "2026-08-12T15:10:00",
+      "source": "https://investasi.kontan.co.id/news/laba-pengembang-properti-tertekan-bsde-pwon-smra-meleset-dari-ekspektasi",
+      "tags": [
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Check Stock Recommendations as the Jakarta Composite Index Weakens",
+      "timestamp": "2026-08-07T08:46:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8607969/cek-rekomendasi-saham-saat-ihsg-melemah",
+      "tags": [
+        "Market Sentiment",
+        "Foreign Investment",
+        "Commodities",
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Property Emitters Show Sluggish Semester I 2026 Results as Analysts Recommend Select Stocks for Semester II 2026",
+      "timestamp": "2026-08-05T17:20:00",
+      "source": "https://investasi.kontan.co.id/news/kinerja-emiten-properti-lesu-analis-ungkap-saham-pilihan-semester-ii-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Weak consumer purchasing power leaves Indonesian property issuers with sluggish H1 2026 performance",
+      "timestamp": "2026-08-05T14:25:00",
+      "source": "https://investasi.kontan.co.id/news/daya-beli-masyarakat-lemah-kinerja-emiten-properti-lesu-sepanjang-semester-i-2026",
+      "tags": [
+        "Financial Metrics",
+        "Interest Rate",
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG Enters Recovery Phase, Analyst Says Early Stage",
+      "timestamp": "2026-08-05T10:33:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-masuk-fase-pemulihan-analis-masih-tahap-awal",
+      "tags": [
+        "Market Sentiment",
+        "Currency & FX",
+        "Foreign Investment",
+        "Government Policy"
+      ]
+    },
+    {
+      "title": "PT Ciputra Development Tbk reports 11% drop in net profit and 11.7% decline in revenue for H1 2026",
+      "timestamp": "2026-08-04T16:47:00",
+      "source": "https://investasi.kontan.co.id/news/pendapatan-ciputra-development-ctra-tergerus-laba-ikut-turun-11-di-semester-i",
+      "tags": [
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "BRI Danareksa Sekuritas ranks 14 Indonesian property issuers for Semester I‑2026, highlighting PT Pantai Indah Kapuk Dua Tbk and PT Bangun Kosambi Sukses Tbk as top profit growers",
+      "timestamp": "2026-08-04T16:38:00",
+      "source": "https://emitennews.com/news/adu-lapkeu-14-emiten-properti-semester-i-2026-siapa-paling-moncer",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Pantai Indah Kapuk Dua posts 77.6% revenue growth and 483.8% net profit surge in H1 2026",
+      "timestamp": "2026-08-04T15:04:19",
+      "source": "https://investor.id/market/449055/pantai-indah-kapuk-dua-disorot-ada-apa-sektor-properti",
+      "tags": [
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Ciputra Development Tbk reports 11.2% drop in net profit to Rp1.10 trillion in H1 2026",
+      "timestamp": "2026-08-03T09:29:00",
+      "source": "https://market.bisnis.com/read/20260803/192/1993075/laba-bersih-ciputra-ctra-turun-112-jadi-rp110-triliun-semester-i2026",
+      "tags": [
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Marketing Sales Drop Leads to Mixed Outlook for Ciputra Development (CTRA) in H2 2026",
+      "timestamp": "2026-07-27T02:15:00",
+      "source": "https://market.bisnis.com/read/20260727/189/1991150/marketing-sales-turun-begini-prospek-saham-ciputra-ctra-semester-ii2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Recurring Income Assets Support Property Issuers, Stock Recommendations Highlighted",
+      "timestamp": "2026-07-26T18:22:00",
+      "source": "https://investasi.kontan.co.id/news/aset-recurring-income-jadi-penopang-emiten-properti-ini-rekomendasi-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Interest Rate",
+        "Subsidies & Incentives",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BI Rate Remains at 5.75% – Stock Moves Across Banking, Property and Automotive Sectors",
+      "timestamp": "2026-07-22T15:07:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/115902/bi-rate-tetap-5-75-cek-gerak-saham-bank-sampai-otomotif",
+      "tags": [
+        "Central Bank",
+        "Interest Rate",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Select stocks likely to benefit if Bank Indonesia raises its policy rate to 6%",
+      "timestamp": "2026-07-22T13:03:00",
+      "source": "https://market.bisnis.com/read/20260722/189/1990066/pilah-pilih-saham-potensial-cuan-saat-bi-diramal-naikkan-suku-bunga-ke-6",
+      "tags": [
+        "Central Bank",
+        "Interest Rate",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Ciputra Development posts Rp 4.7 trillion H1 2026 pre‑sales; Maybank Sekuritas maintains buy with lower target price",
+      "timestamp": "2026-07-21T13:55:00",
+      "source": "https://investasi.kontan.co.id/news/ciputra-ctra-raih-marketing-sales-rp-47-triliun-di-semester-i-ini-rekomendasinya",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Maybank Securities says Indonesian property stocks lag but fundamentals stay strong, recommends buying PT Bumi Serpong Damai Tbk, PT Ciputra Development Tbk, PT Pakuwon Jati Tbk and PT Summarecon Agung Tbk",
+      "timestamp": "2026-07-16T16:40:00",
+      "source": "https://investasi.kontan.co.id/news/kinerja-saham-lesu-fundamental-emiten-properti-dinilai-masih-kokoh",
+      "tags": [
+        "Analyst Ratings",
+        "Joint Operation",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "High Interest Rates Pressure Indonesian Property Stocks, Analysts Recommend Select Shares",
+      "timestamp": "2026-07-16T07:21:00",
+      "source": "https://investasi.kontan.co.id/news/suku-bunga-tinggi-tekan-saham-properti-cermati-saham-rekomendasi-analis",
+      "tags": [
+        "Interest Rate",
+        "Analyst Ratings",
+        "Housing Loan",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Popular news roundup covering MKPI’s dividend payout, GOTO’s stock negotiation trade, SURGE’s broadband launch, and CTRA’s sales figures",
+      "timestamp": "2026-07-16T04:43:27",
+      "source": "https://investor.id/market/446694/berita-populer-dividen-besar-mkpi-cair-hingga-transaksi-saham-goto-gojek-goto",
+      "tags": [
+        "Dividend Announcement",
+        "Product Launch",
+        "Financial Metrics",
+        "Award",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Property stocks remain sluggish with outlook through year‑end 2026",
+      "timestamp": "2026-07-15T19:56:00",
+      "source": "https://investasi.kontan.co.id/news/saham-emiten-properti-lesu-begini-prospeknya-hingga-akhir-tahun",
+      "tags": [
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Interest Rate",
+        "Currency & FX",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Morgan Stanley raises its stake in PT Ciputra Development Tbk to 18.4% by acquiring about 3 billion shares",
+      "timestamp": "2026-07-08T14:58:00",
+      "source": "https://investasi.kontan.co.id/news/meski-terancam-ke-frontier-market-investor-asing-borong-3-miliar-saham-properti-ini",
+      "tags": [
+        "Ownership",
+        "Foreign Investment",
+        "Dividend Announcement",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Morgan Stanley boosts stake in PT Ciputra Development Tbk to 18.4% with purchase at Rp560 per share",
+      "timestamp": "2026-07-07T21:33:59",
+      "source": "https://www.cnbcindonesia.com/market/20260707164934-17-748878/morgan-stanley-borong-saham-emiten-ciputra--ctra--di-harga-rp560",
+      "tags": [
+        "Ownership",
+        "Institutional Investor",
+        "Mergers & Acquisitions",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Morgan Stanley raises stake in PT Ciputra Development Tbk to 18.4%",
+      "timestamp": "2026-07-07T15:14:00",
+      "source": "https://market.bisnis.com/read/20260707/7/1986243/morgan-stanley-borong-saham-ciputra-ctra-total-kepemilikan-184",
+      "tags": [
+        "Ownership",
+        "Institutional Investor",
+        "OJK",
+        "Foreign Investment",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Ciputra Development Insider Morgan Stanley And Co International Plc Reports Shareholding Change",
+      "timestamp": "2026-07-07T12:22:37",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07072026-8722-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "Director Artadinata Djangkar buys 3 million PT Ciputra Development Tbk shares at Rp573 each",
+      "timestamp": "2026-07-06T21:00:00",
+      "source": "https://www.idnfinancials.com/id/news/65693/menjabat-sejak-2017-direktur-ciputra-ini-perdana-borong-3-juta-saham",
+      "tags": [
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Ir Artadinata Djangkar Buys Shares of Ciputra Development",
+      "timestamp": "2026-07-06T17:12:32",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06072026-0205-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "Ten Indonesian stocks, including PT Indofood Sukses Makmur Tbk and PT Ciputra Development Tbk, enter cum-dividend date on 6 July 2026",
+      "timestamp": "2026-07-06T08:08:00",
+      "source": "https://market.bisnis.com/read/20260706/7/1985728/catat-10-saham-cum-dividen-hari-ini-ada-indofood-indf-hingga-ciputra-ctra",
+      "tags": [
+        "Dividend Announcement",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "School‑holiday momentum lifts hotel and tourism issuers, recommending BUVA as a buy",
+      "timestamp": "2026-07-05T18:25:00",
+      "source": "https://investasi.kontan.co.id/news/emiten-hotel-pariwisata-tersengat-momentum-libur-sekolah-ini-rekomendasi-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Interest Rate",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Ciputra Development targets Rp 9.5 trillion marketing sales for 2026",
+      "timestamp": "2026-07-05T11:03:00",
+      "source": "https://investasi.kontan.co.id/news/strategi-ciputra-development-ctra-bidik-marketing-sales-rp-95-triliun-di-2026",
+      "tags": [
+        "Business Expansion",
+        "Financial Metrics",
+        "Diversification",
+        "Government Policy",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Upcoming dividend cum dates on July 6‑7 2026 include Indofood Sukses Makmur, Indofood CBP Sukses Makmur, Sampoerna Agro, and Ciputra Development",
+      "timestamp": "2026-07-05T09:26:41",
+      "source": "https://investor.id/market/445279/cum-date-dividen-marak-ada-namanama-besar",
+      "tags": [
+        "Dividend Announcement"
+      ]
+    },
+    {
+      "title": "Ciputra Development's (CTRA) strategy amid a sluggish property market",
+      "timestamp": "2026-07-03T16:37:00",
+      "source": "https://investasi.kontan.co.id/news/strategi-ciputra-development-ctra-di-tengah-lesunya-pasar-properti",
+      "tags": [
+        "Interest Rate",
+        "Currency & FX",
+        "Mortgage",
+        "Subsidies & Incentives",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG drops 1.28% to 5,820.79 amid foreign outflows and mixed corporate updates",
+      "timestamp": "2026-06-30T08:48:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8553171/ihsg-turun-ke-level-5-800-simak-rekomendasi-saham-hari-ini",
+      "tags": [
+        "Foreign Investment",
+        "Dividend Announcement",
+        "Business Expansion",
+        "Asset Purchase",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Ciputra Development Tbk projects 10% drop in revenue and net profit for 2026",
+      "timestamp": "2026-06-29T13:48:00",
+      "source": "https://market.bisnis.com/read/20260629/192/1984067/ciputra-ctra-proyeksikan-pendapatan-laba-turun-10-pada-2026-ini-alasannya",
+      "tags": [
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Ciputra Development Tbk announces cash dividend of Rp36 per share",
+      "timestamp": "2026-06-29T05:00:00",
+      "source": "https://investasi.kontan.co.id/news/harga-saham-turun-31-ctra-bagikan-dividen-dengan-yield-tembus-637",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Ciputra Development Tbk declares cash dividend of Rp36 per share",
+      "timestamp": "2026-06-28T17:00:00",
+      "source": "https://emitennews.com/news/ciputra-ctra-tebar-dividen-rp667m-setara-rp36saham-cek-jadwalnya",
+      "tags": [
+        "Dividend Announcement",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Ciputra Development projects 10% drop in 2026 net profit amid market headwinds",
+      "timestamp": "2026-06-28T13:00:00",
+      "source": "https://investasi.kontan.co.id/news/simak-proyeksi-ciputra-development-ctra-yang-hadapi-tantangan-pada-tahun-2026",
+      "tags": [
+        "Financial Metrics",
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Interest Rate",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Ciputra Development Tbk targets Rp9.5 trillion marketing sales in 2026",
+      "timestamp": "2026-06-28T04:50:00",
+      "source": "https://market.bisnis.com/read/20260628/192/1983797/ciputra-ctra-bidik-marketing-sales-rp95-triliun-pada-2026",
+      "tags": [
+        "Business Expansion",
+        "Dividend Announcement",
+        "Annual Report",
+        "Shareholders General Meeting",
+        "Government Policy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Ciputra Development Tbk projects 10% profit and revenue decline for 2026 while allocating Rp1 trillion capex",
+      "timestamp": "2026-06-27T13:00:00",
+      "source": "https://www.idnfinancials.com/id/news/65276/ctra-proyeksikan-laba-turun-10-pada-2026-mengapa",
+      "tags": [
+        "Financial Metrics",
+        "Capital & Funding",
+        "Business Expansion",
+        "Subsidies & Incentives",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Ciputra Development Tbk gives Rp667 billion dividend",
+      "timestamp": "2026-06-27T05:05:00",
+      "source": "https://market.bisnis.com/read/20260627/192/1983636/ciputra-ctra-tebar-dividen-rp667-miliar-usai-raup-laba-rp27-triliun",
+      "tags": [
+        "Dividend Announcement",
+        "Annual Report",
+        "Subsidies & Incentives",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Ciputra Development faces 2026 pressure, stock down 31.9% YTD",
+      "timestamp": "2026-06-26T19:00:00",
+      "source": "https://investasi.kontan.co.id/news/ciputra-development-ctra-hadapi-tekanan-di-tahun-2026-simak-prospek-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Interest Rate",
+        "Currency & FX",
+        "Financial Metrics",
+        "Business Expansion",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Ciputra Development Tbk reports Rp 4 trillion of assets eligible for the 2026 PPN DTP incentive",
+      "timestamp": "2026-06-26T18:06:00",
+      "source": "https://investasi.kontan.co.id/news/ciputra-development-ctra-punya-stok-untuk-ppn-dtp-rp-4-triliun-pada-2026",
+      "tags": [
+        "Government Policy",
+        "Subsidies & Incentives",
+        "Financial Metrics",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Ciputra Development Tbk gives Rp667 billion cash dividend, 6.3% yield",
+      "timestamp": "2026-06-26T18:00:00",
+      "source": "https://www.idnfinancials.com/id/news/65270/ctra-bagikan-dividen-rp667-miliar-tahun-buku-2025-yield-capai-6-3",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Ciputra Development Tbk projects net profit to decline 10% in 2026",
+      "timestamp": "2026-06-26T17:08:00",
+      "source": "https://investasi.kontan.co.id/news/ciputra-development-ctra-proyeksikan-laba-turun-10-pada-2026",
+      "tags": [
+        "Financial Metrics",
+        "Business Expansion",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Ciputra Development Tbk declares Rp 667 billion cash dividend",
+      "timestamp": "2026-06-26T16:39:00",
+      "source": "https://investasi.kontan.co.id/news/ciputra-development-ctra-tebar-dividen-rp-667-miliar-potensi-yield-capai-637",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Business Expansion",
+        "Annual Report",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Ciputra Development shares surge 8.4% as government approves 40‑year KPR tenor",
+      "timestamp": "2026-06-25T17:10:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/113051/cicilan-kpr-sampai-40-tahun-diketok-saham-properti-bergairah",
+      "tags": [
+        "Government Policy",
+        "Mortgage",
+        "Subsidies & Incentives",
+        "Housing Loan",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Ciputra Development Tbk Q1 2026 Earnings Drop Amid High Interest Rates, Analysts Maintain Buy Recommendations",
+      "timestamp": "2026-06-23T19:49:00",
+      "source": "https://investasi.kontan.co.id/news/tren-suku-bunga-tinggi-simak-rekomendasi-saham-ciputra-development-ctra",
+      "tags": [
+        "Interest Rate",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Technical buy recommendations issued for PT Ciputra Development Tbk, PT Astra International Tbk, and PT Bank Rakyat Indonesia Tbk",
+      "timestamp": "2026-06-23T04:50:00",
+      "source": "https://investasi.kontan.co.id/news/simak-rekomendasi-saham-teknikal-ctra-asii-dan-bbri-untuk-hari-ini-236",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Property Emiten Stocks Face Steep Declines in 2026 Amid High Interest Rates",
+      "timestamp": "2026-06-20T07:20:00",
+      "source": "https://investasi.kontan.co.id/news/intip-rekomendasi-saham-emiten-properti-di-era-suku-bunga-tinggi",
+      "tags": [
+        "Interest Rate",
+        "Currency & FX",
+        "Analyst Ratings",
+        "Government Policy",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Indonesian Property Stocks Slump in 2026 Amid High Interest Rates, Analysts Spot Limited Opportunities",
+      "timestamp": "2026-06-18T19:29:00",
+      "source": "https://investasi.kontan.co.id/news/era-suku-bunga-tinggi-saham-properti-masih-menarik",
+      "tags": [
+        "Interest Rate",
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Currency & FX",
+        "Bearish"
+      ]
+    }
+  ],
+  "corporate_events": [
+    {
+      "date": "2026-07-07",
+      "type": "Dividen",
+      "detail": "Dividen per saham Rp 36,00 · Pembayaran: 2026-07-24"
+    },
+    {
+      "date": "2026-06-26",
+      "type": "RUPS",
+      "detail": "Waktu: 09:50:00 · Lokasi: Ciputra Artpreneur Gallery, Lotte Shopping Avenue LT. 11, Ciputra World 1 Jakarta, JL. Prof. Dr. Satrio Kav. 3-5, Karet Kuningan, Jakarta Selatan 12940 Kota Adm. Jakarta Selatan Dki. Jakarta · Agenda #1: Approval of Annual Report and Financial Statements. The shareholders approved the annual report including the supervisory report and ratified the consolidated financial statements for the fiscal year ending 31 December 2025, granting full discharge (acquit et decharge) to directors and commissioners, with a quorum of 79.73% and 99.35% voting in favor.\nAgenda #2: Approval of Use of Net Profit and Cash Dividend. The shareholders approved allocating the FY2025 net profit of Rp2.663 trillion to reserves (Rp1 billion), retained earnings (Rp1.9948 trillion), and a cash dividend of Rp36 per share totaling Rp667.285 billion, payable on 24 July 2026, with 99.543% in favor.\nAgenda #3: Approval of Appointment of Public Accounting Firm. The shareholders approved the appointment of Liana Ramon Xenia & Rekan (LRX) to audit the consolidated financial statements for the fiscal year ending 31 December 2026, and authorized the Board of Commissioners to set the audit fee and appoint a replacement firm if necessary, with 99.559% in favor.\nAgenda #4: Determination of Remuneration for Directors and Commissioners for Fiscal Year 2026. The shareholders approved a 5% increase in remuneration for the Board of Commissioners relative to 2025 and granted full authority to the Board of Commissioners to set director remuneration for fiscal year 2026, with 92.189% in favor.\nAgenda #5: Approval of Amendment to Article 3 of the Articles of Association. The shareholders approved changes to align business scope with the 2025 Indonesian Business Field Classification (KBLI 2025) per BPS Regulation No. 7 of 2025, and authorized the Board of Directors to execute administrative actions, with 99.559% in favor."
+    }
+  ],
+  "context_period": {
+    "start": "2026-04-01",
+    "end": "2026-09-30"
+  },
+  "source_availability": {
+    "company_fundamentals": true,
+    "corporate_events": true,
+    "news": true,
+    "peer_comparison": true,
+    "market_context": true,
+    "sector_market_series": false
+  },
+  "news_archive": {
+    "pages": 2,
+    "rows": 59,
+    "pagination_exhausted": true,
+    "totals_seen": [
+      59
+    ]
+  }
 }

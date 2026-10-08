@@ -3,8 +3,8 @@
   "as_of": "2026-09-30",
   "identity": {
     "symbol": "AMMN",
-    "company_name": null,
-    "peer_group": null
+    "company_name": "PT Amman Mineral Internasional Tbk.",
+    "peer_group": "Basic Materials"
   },
   "current": {
     "scope": "NO_CONTEXT",
@@ -20,5 +20,2644 @@
   "daily_market": {},
   "notes": [
     "Dataset scope: 28 reviewed stocks. No full-market or peer-context score is computed."
-  ]
+  ],
+  "company_snapshot": {
+    "price_date": "2026-10-07",
+    "captured_at": "2026-10-08",
+    "sector": "Basic Materials",
+    "industry": "Metals & Minerals",
+    "website": "www.amman.co.id",
+    "market_cap": 328507525981680,
+    "annual_year": 2025,
+    "valuation_year": 2026,
+    "metrics": [
+      {
+        "label": "Pendapatan",
+        "value": "Rp 30,90 T"
+      },
+      {
+        "label": "Laba bersih",
+        "value": "Rp 4,17 T"
+      },
+      {
+        "label": "Total aset",
+        "value": "Rp 232,15 T"
+      },
+      {
+        "label": "Ekuitas",
+        "value": "Rp 90,90 T"
+      },
+      {
+        "label": "EPS",
+        "value": "Rp 57,46"
+      },
+      {
+        "label": "P/E TTM",
+        "value": "35,63×"
+      },
+      {
+        "label": "P/B",
+        "value": "3,52×"
+      }
+    ]
+  },
+  "fundamental_peers": [
+    {
+      "symbol": "AMMN",
+      "name": "PT Amman Mineral Internasional Tbk.",
+      "year": 2025,
+      "market_cap": 326331979452000,
+      "pe": 35.3948146888965,
+      "pb": 3.49937673204022,
+      "revenue": 30904224855660,
+      "in_universe": true
+    },
+    {
+      "symbol": "TBMS",
+      "name": "Tembaga Mulia Semanan Tbk",
+      "year": 2025,
+      "market_cap": 881616000000,
+      "pe": 12.2565186405247,
+      "pb": 0.639587252269259,
+      "revenue": 15409461584632,
+      "in_universe": false
+    },
+    {
+      "symbol": "EMAS",
+      "name": "PT Merdeka Gold Resources Tbk",
+      "year": 2025,
+      "market_cap": 113431518662000,
+      "pe": -330.037171244809,
+      "pb": 17.5292801315661,
+      "revenue": 2208610207,
+      "in_universe": false
+    },
+    {
+      "symbol": "BRMS",
+      "name": "Bumi Resources Minerals Tbk",
+      "year": 2025,
+      "market_cap": 85779344404490,
+      "pe": 128.681108271325,
+      "pb": 3.80749435448613,
+      "revenue": 4173309138074,
+      "in_universe": true
+    },
+    {
+      "symbol": "ANTM",
+      "name": "Aneka Tambang Tbk.",
+      "year": 2025,
+      "market_cap": 78099985356250,
+      "pe": 8.77424408988265,
+      "pb": 2.09551817294205,
+      "revenue": 84642439000000,
+      "in_universe": true
+    },
+    {
+      "symbol": "MDKA",
+      "name": "PT Merdeka Copper Gold Tbk",
+      "year": 2025,
+      "market_cap": 72684761799870,
+      "pe": 8730.14741065861,
+      "pb": 5.01954454106336,
+      "revenue": 31711634163195,
+      "in_universe": true
+    },
+    {
+      "symbol": "NCKL",
+      "name": "PT Trimegah Bangun Persada Tbk",
+      "year": 2025,
+      "market_cap": 54895782000000,
+      "pe": 5.14801415334402,
+      "pb": 1.25126094740861,
+      "revenue": 29632799000000,
+      "in_universe": true
+    },
+    {
+      "symbol": "MBMA",
+      "name": "PT Merdeka Battery Materials Tbk",
+      "year": 2025,
+      "market_cap": 53133746590800,
+      "pe": 50.3527116240155,
+      "pb": 1.92970800646396,
+      "revenue": 24008773360660,
+      "in_universe": false
+    },
+    {
+      "symbol": "INCO",
+      "name": "Vale Indonesia Tbk",
+      "year": 2025,
+      "market_cap": 45531869186880,
+      "pe": 17.0090573804861,
+      "pb": 0.898449062355063,
+      "revenue": 16572359009700,
+      "in_universe": true
+    },
+    {
+      "symbol": "TINS",
+      "name": "PT Timah Tbk",
+      "year": 2025,
+      "market_cap": 34781008630180,
+      "pe": 9.32906661081727,
+      "pb": 3.29764577202305,
+      "revenue": 11552733000000,
+      "in_universe": true
+    }
+  ],
+  "market_history": [
+    {
+      "date": "2026-04-01",
+      "ihsg": 7184.438,
+      "market_cap": 12646140309231200
+    },
+    {
+      "date": "2026-04-02",
+      "ihsg": 7026.782,
+      "market_cap": 12301402169484936
+    },
+    {
+      "date": "2026-04-06",
+      "ihsg": 6989.426,
+      "market_cap": 12181292965738515
+    },
+    {
+      "date": "2026-04-07",
+      "ihsg": 6971.027,
+      "market_cap": 12220087895953627
+    },
+    {
+      "date": "2026-04-08",
+      "ihsg": 7279.209,
+      "market_cap": 12745135690725105
+    },
+    {
+      "date": "2026-04-09",
+      "ihsg": 7307.589,
+      "market_cap": 12927661360702306
+    },
+    {
+      "date": "2026-04-10",
+      "ihsg": 7458.496,
+      "market_cap": 13183485554446575
+    },
+    {
+      "date": "2026-04-13",
+      "ihsg": 7500.187,
+      "market_cap": 13334711369769658
+    },
+    {
+      "date": "2026-04-14",
+      "ihsg": 7675.951,
+      "market_cap": 13680203483861089
+    },
+    {
+      "date": "2026-04-15",
+      "ihsg": 7623.586,
+      "market_cap": 13577551326427693
+    },
+    {
+      "date": "2026-04-16",
+      "ihsg": 7621.382,
+      "market_cap": 13580909513734445
+    },
+    {
+      "date": "2026-04-17",
+      "ihsg": 7634.004,
+      "market_cap": 13631805736754862
+    },
+    {
+      "date": "2026-04-20",
+      "ihsg": 7594.111,
+      "market_cap": 13530051609880990
+    },
+    {
+      "date": "2026-04-21",
+      "ihsg": 7559.38,
+      "market_cap": 13439346111420433
+    },
+    {
+      "date": "2026-04-22",
+      "ihsg": 7541.612,
+      "market_cap": 13331962629649015
+    },
+    {
+      "date": "2026-04-23",
+      "ihsg": 7378.606,
+      "market_cap": 13176851273619842
+    },
+    {
+      "date": "2026-04-24",
+      "ihsg": 7129.49,
+      "market_cap": 12732776963937495
+    },
+    {
+      "date": "2026-04-27",
+      "ihsg": 7106.52,
+      "market_cap": 12687518028997883
+    },
+    {
+      "date": "2026-04-28",
+      "ihsg": 7072.392,
+      "market_cap": 12590034125678447
+    },
+    {
+      "date": "2026-04-29",
+      "ihsg": 7101.226,
+      "market_cap": 12635384034178860
+    },
+    {
+      "date": "2026-04-30",
+      "ihsg": 6956.804,
+      "market_cap": 12378413759882228
+    },
+    {
+      "date": "2026-05-04",
+      "ihsg": 6971.953,
+      "market_cap": 12411009903513114
+    },
+    {
+      "date": "2026-05-05",
+      "ihsg": 7057.106,
+      "market_cap": 12626309574250122
+    },
+    {
+      "date": "2026-05-06",
+      "ihsg": 7092.467,
+      "market_cap": 12699830398460331
+    },
+    {
+      "date": "2026-05-07",
+      "ihsg": 7174.321,
+      "market_cap": 12778962713690869
+    },
+    {
+      "date": "2026-05-08",
+      "ihsg": 6969.396,
+      "market_cap": 12402407487340402
+    },
+    {
+      "date": "2026-05-11",
+      "ihsg": 6905.62,
+      "market_cap": 12280030079664830
+    },
+    {
+      "date": "2026-05-12",
+      "ihsg": 6858.899,
+      "market_cap": 12142773427321380
+    },
+    {
+      "date": "2026-05-13",
+      "ihsg": 6723.32,
+      "market_cap": 11821690407165346
+    },
+    {
+      "date": "2026-05-18",
+      "ihsg": 6599.24,
+      "market_cap": 11535132183193835
+    },
+    {
+      "date": "2026-05-19",
+      "ihsg": 6370.679,
+      "market_cap": 11105372542285443
+    },
+    {
+      "date": "2026-05-20",
+      "ihsg": 6318.5,
+      "market_cap": 10959980491971602
+    },
+    {
+      "date": "2026-05-21",
+      "ihsg": 6094.941,
+      "market_cap": 10549507904767653
+    },
+    {
+      "date": "2026-05-22",
+      "ihsg": 6162.045,
+      "market_cap": 10631421768765943
+    },
+    {
+      "date": "2026-05-25",
+      "ihsg": 6206.349,
+      "market_cap": 10692705367587005
+    },
+    {
+      "date": "2026-05-26",
+      "ihsg": 6130.19,
+      "market_cap": 10613054794742598
+    },
+    {
+      "date": "2026-05-29",
+      "ihsg": 6127.381,
+      "market_cap": 10725485605975573
+    },
+    {
+      "date": "2026-06-02",
+      "ihsg": 6195.427,
+      "market_cap": 10891278361519046
+    },
+    {
+      "date": "2026-06-03",
+      "ihsg": 5941.066,
+      "market_cap": 10451829355656557
+    },
+    {
+      "date": "2026-06-04",
+      "ihsg": 5839.785,
+      "market_cap": 10259085293637228
+    },
+    {
+      "date": "2026-06-05",
+      "ihsg": 5594.765,
+      "market_cap": 9803592659706909
+    },
+    {
+      "date": "2026-06-08",
+      "ihsg": 5342.137,
+      "market_cap": 9414771844192581
+    },
+    {
+      "date": "2026-06-09",
+      "ihsg": 5746.648,
+      "market_cap": 10095511071726246
+    },
+    {
+      "date": "2026-06-10",
+      "ihsg": 5902.376,
+      "market_cap": 10341178905408617
+    },
+    {
+      "date": "2026-06-11",
+      "ihsg": 5886.032,
+      "market_cap": 10287950241660193
+    },
+    {
+      "date": "2026-06-12",
+      "ihsg": 6007.656,
+      "market_cap": 10520825968837381
+    },
+    {
+      "date": "2026-06-15",
+      "ihsg": 6254.966,
+      "market_cap": 10899408952482727
+    },
+    {
+      "date": "2026-06-17",
+      "ihsg": 6220.74,
+      "market_cap": 10776148487729844
+    },
+    {
+      "date": "2026-06-18",
+      "ihsg": 6172.34,
+      "market_cap": 10736980009961606
+    },
+    {
+      "date": "2026-06-19",
+      "ihsg": 6177.139,
+      "market_cap": 10784594953877444
+    },
+    {
+      "date": "2026-06-22",
+      "ihsg": 6116.69,
+      "market_cap": 10708711379319414
+    },
+    {
+      "date": "2026-06-23",
+      "ihsg": 6101.333,
+      "market_cap": 10685047810158781
+    },
+    {
+      "date": "2026-06-24",
+      "ihsg": 5883.881,
+      "market_cap": 10312029789078805
+    },
+    {
+      "date": "2026-06-25",
+      "ihsg": 5999.038,
+      "market_cap": 10515718128770631
+    },
+    {
+      "date": "2026-06-26",
+      "ihsg": 5896.134,
+      "market_cap": 10298280398969010
+    },
+    {
+      "date": "2026-06-29",
+      "ihsg": 5820.79,
+      "market_cap": 10179250800138493
+    },
+    {
+      "date": "2026-06-30",
+      "ihsg": 5643.194,
+      "market_cap": 9894028079914985
+    },
+    {
+      "date": "2026-07-01",
+      "ihsg": 5695.116,
+      "market_cap": 10007947906561450
+    },
+    {
+      "date": "2026-07-02",
+      "ihsg": 5744.556,
+      "market_cap": 10060923668899571
+    },
+    {
+      "date": "2026-07-03",
+      "ihsg": 5875.78,
+      "market_cap": 10283558418117973
+    },
+    {
+      "date": "2026-07-06",
+      "ihsg": 5916.07,
+      "market_cap": 10352610980350056
+    },
+    {
+      "date": "2026-07-07",
+      "ihsg": 5986.497,
+      "market_cap": 10462196902308353
+    },
+    {
+      "date": "2026-07-08",
+      "ihsg": 5873.372,
+      "market_cap": 10272894518876036
+    },
+    {
+      "date": "2026-07-09",
+      "ihsg": 5912.442,
+      "market_cap": 10324456194315119
+    },
+    {
+      "date": "2026-07-10",
+      "ihsg": 5924.36,
+      "market_cap": 10336481815483724
+    },
+    {
+      "date": "2026-07-13",
+      "ihsg": 6037.842,
+      "market_cap": 10506156813352519
+    },
+    {
+      "date": "2026-07-14",
+      "ihsg": 6039.521,
+      "market_cap": 10524135196509080
+    },
+    {
+      "date": "2026-07-15",
+      "ihsg": 6041.972,
+      "market_cap": 10548175926837826
+    },
+    {
+      "date": "2026-07-16",
+      "ihsg": 6108.209,
+      "market_cap": 10655671296610599
+    },
+    {
+      "date": "2026-07-17",
+      "ihsg": 6175.535,
+      "market_cap": 10745282583293599
+    },
+    {
+      "date": "2026-07-20",
+      "ihsg": 6231.78,
+      "market_cap": 10832728685598542
+    },
+    {
+      "date": "2026-07-21",
+      "ihsg": 6340.02,
+      "market_cap": 11041209401983643
+    },
+    {
+      "date": "2026-07-22",
+      "ihsg": 6334.476,
+      "market_cap": 11064991318794462
+    },
+    {
+      "date": "2026-07-23",
+      "ihsg": 6315.311,
+      "market_cap": 11058096720739904
+    },
+    {
+      "date": "2026-07-24",
+      "ihsg": 6196.43,
+      "market_cap": 10866941513180025
+    },
+    {
+      "date": "2026-07-27",
+      "ihsg": 6185.783,
+      "market_cap": 10846820086978302
+    },
+    {
+      "date": "2026-07-28",
+      "ihsg": 6130.588,
+      "market_cap": 10748777396682842
+    },
+    {
+      "date": "2026-07-29",
+      "ihsg": 6091.386,
+      "market_cap": 10671925079765237
+    },
+    {
+      "date": "2026-07-30",
+      "ihsg": 6186.363,
+      "market_cap": 10808753111947654
+    },
+    {
+      "date": "2026-07-31",
+      "ihsg": 6236.126,
+      "market_cap": 10919632662108419
+    },
+    {
+      "date": "2026-08-03",
+      "ihsg": 6234.497,
+      "market_cap": 10891533376788029
+    },
+    {
+      "date": "2026-08-04",
+      "ihsg": 6319.613,
+      "market_cap": 11026919553266172
+    },
+    {
+      "date": "2026-08-05",
+      "ihsg": 6351.139,
+      "market_cap": 11081557528513146
+    },
+    {
+      "date": "2026-08-06",
+      "ihsg": 6343.711,
+      "market_cap": 11091230654708629
+    },
+    {
+      "date": "2026-08-07",
+      "ihsg": 6409.654,
+      "market_cap": 11208370900071437
+    },
+    {
+      "date": "2026-08-10",
+      "ihsg": 6365.374,
+      "market_cap": 11127673938712190
+    },
+    {
+      "date": "2026-08-11",
+      "ihsg": 6267.88,
+      "market_cap": 10951983899532200
+    },
+    {
+      "date": "2026-08-12",
+      "ihsg": 6373.849,
+      "market_cap": 11170270993004848
+    },
+    {
+      "date": "2026-08-13",
+      "ihsg": 6301.765,
+      "market_cap": 11047038481790783
+    },
+    {
+      "date": "2026-08-14",
+      "ihsg": 6401.888,
+      "market_cap": 11239913404397486
+    },
+    {
+      "date": "2026-08-18",
+      "ihsg": 6449.83,
+      "market_cap": 11344776423883178
+    },
+    {
+      "date": "2026-08-19",
+      "ihsg": 6394.125,
+      "market_cap": 11242710814171051
+    },
+    {
+      "date": "2026-08-20",
+      "ihsg": 6501.585,
+      "market_cap": 11417105165375641
+    },
+    {
+      "date": "2026-08-21",
+      "ihsg": 6525.69,
+      "market_cap": 11445451211005613
+    },
+    {
+      "date": "2026-08-24",
+      "ihsg": 6501.667,
+      "market_cap": 11400829359169202
+    },
+    {
+      "date": "2026-08-26",
+      "ihsg": 6405.685,
+      "market_cap": 11226539253653372
+    },
+    {
+      "date": "2026-08-27",
+      "ihsg": 6521.75,
+      "market_cap": 11444254799160097
+    },
+    {
+      "date": "2026-08-28",
+      "ihsg": 6518.121,
+      "market_cap": 11427514258790209
+    },
+    {
+      "date": "2026-08-31",
+      "ihsg": 6525.478,
+      "market_cap": 11420266337232824
+    },
+    {
+      "date": "2026-09-01",
+      "ihsg": 6599.943,
+      "market_cap": 11528076154461080
+    },
+    {
+      "date": "2026-09-02",
+      "ihsg": 6595.776,
+      "market_cap": 11521577604064942
+    },
+    {
+      "date": "2026-09-03",
+      "ihsg": 6667.891,
+      "market_cap": 11637538684241799
+    },
+    {
+      "date": "2026-09-04",
+      "ihsg": 6636.475,
+      "market_cap": 11595660058206448
+    },
+    {
+      "date": "2026-09-07",
+      "ihsg": 6619.673,
+      "market_cap": 11571807924987264
+    },
+    {
+      "date": "2026-09-08",
+      "ihsg": 6686.442,
+      "market_cap": 11668902562815871
+    },
+    {
+      "date": "2026-09-09",
+      "ihsg": 6678.201,
+      "market_cap": 11671538636715858
+    },
+    {
+      "date": "2026-09-10",
+      "ihsg": 6589.338,
+      "market_cap": 11526136904331476
+    },
+    {
+      "date": "2026-09-11",
+      "ihsg": 6541.377,
+      "market_cap": 11442963914395062
+    },
+    {
+      "date": "2026-09-14",
+      "ihsg": 6534.693,
+      "market_cap": 11368110758085182
+    },
+    {
+      "date": "2026-09-15",
+      "ihsg": 6461.153,
+      "market_cap": 11257912210981978
+    },
+    {
+      "date": "2026-09-16",
+      "ihsg": 6436.853,
+      "market_cap": 11225219420982876
+    },
+    {
+      "date": "2026-09-17",
+      "ihsg": 6462.431,
+      "market_cap": 11270346560839989
+    },
+    {
+      "date": "2026-09-18",
+      "ihsg": 6441.159,
+      "market_cap": 11262605698050558
+    },
+    {
+      "date": "2026-09-21",
+      "ihsg": 6384.726,
+      "market_cap": 11161910095429389
+    },
+    {
+      "date": "2026-09-22",
+      "ihsg": 6277.044,
+      "market_cap": 10971287923179805
+    },
+    {
+      "date": "2026-09-23",
+      "ihsg": 6374.912,
+      "market_cap": 11141915820582293
+    },
+    {
+      "date": "2026-09-24",
+      "ihsg": 6298.607,
+      "market_cap": 11021365748586840
+    },
+    {
+      "date": "2026-09-25",
+      "ihsg": 6241.892,
+      "market_cap": 10902018198054911
+    },
+    {
+      "date": "2026-09-28",
+      "ihsg": 6147.859,
+      "market_cap": 10755457591436344
+    },
+    {
+      "date": "2026-09-29",
+      "ihsg": 6121.7,
+      "market_cap": 10754858845786069
+    },
+    {
+      "date": "2026-09-30",
+      "ihsg": 6071.138,
+      "market_cap": 10691719699169471
+    }
+  ],
+  "relevant_news": [
+    {
+      "title": "Amman Mineral (AMMN) Projects 2026 Revenue of US$4.1 Billion, with Shares Forecast to Surge Up to 55%",
+      "timestamp": "2026-09-29T13:32:00",
+      "source": "https://investor.id/market/455937/amman-mineral-ammn-mengebor-cuan-baru-sahamnya-bisa-melonjak-55",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Commodities",
+        "Artificial Intelligence",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Plunges 1.51% and Rupiah Nears Rp18,000/US$ as Fed Rate Hike and BEI Rule Changes Weigh on Markets",
+      "timestamp": "2026-09-28T17:17:19",
+      "source": "https://www.cnbcindonesia.com/market/20260928161806-17-771517/ihsg-anjlok-1-dan-dolar-as-nyaris-rp-18000-ini-penyebabnya",
+      "tags": [
+        "Interest Rate",
+        "Currency & FX",
+        "Central Bank",
+        "Politics & Regulation",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Amman Mineral Internasional Tbk (AMMN) profit surges 111% and UOB KayHian sets target price Rp7,000",
+      "timestamp": "2026-09-27T18:19:00",
+      "source": "https://investasi.kontan.co.id/news/laba-amman-mineral-ammn-melonjak-111-uob-kayhian-pasang-target-di-rp-7000",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net sold Rp 4.39 trillion this week, with banks leading the top‑selling stocks",
+      "timestamp": "2026-09-26T22:30:00",
+      "source": "https://investasi.kontan.co.id/news/asing-net-sell-rp-439-triliun-cek-saham-yang-banyak-dijual-asing-sepekan-ini",
+      "tags": [
+        "Bearish",
+        "Foreign Investment",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "PT Amman Mineral Internasional Tbk (AMMN) posts 1,000% revenue jump in H1 2026, Mandiri Sekuritas maintains buy rating with Rp 7,100 target",
+      "timestamp": "2026-09-25T10:13:00",
+      "source": "https://investor.id/market/455474/omzet-emiten-terbang-1000-sahamnya-diramal-naik-segini",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Capital & Funding",
+        "Commodities",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net sold a record Rp 1.49 trillion as the IHSG fell, with PT Bank Mandiri Tbk (BMRI) topping the list of heavily shorted stocks.",
+      "timestamp": "2026-09-24T21:44:00",
+      "source": "https://investasi.kontan.co.id/news/asing-net-sell-jumbo-rp-149-triliun-saat-ihsg-ambruk-cek-saham-yagn-banyak-dilego",
+      "tags": [
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG rises 1.56% to 6,374.91 as foreign investors net buy ten leading stocks",
+      "timestamp": "2026-09-24T08:01:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-melesat-156-ke-6374-cermati-saham-yang-banyak-diborong-asing-kemarin",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors heavily bought ten stocks as the IHSG fell 1.68% to 6,277 on Tuesday (22/9)",
+      "timestamp": "2026-09-23T05:00:00",
+      "source": "https://investasi.kontan.co.id/news/saham-saham-ini-banyak-ditadah-asing-saat-ihsg-ambruk-168-ke-6277-selasa-229",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG drops over 1% as PT Bank Rakyat Indonesia (Persero) Tbk (BBRI) drags the index",
+      "timestamp": "2026-09-22T10:54:06",
+      "source": "https://www.cnbcindonesia.com/market/20260922104651-17-769794/tiba-tiba-ihsg-turun-1-lebih-ini-penyebabnya",
+      "tags": [
+        "Central Bank",
+        "Global Economy",
+        "Interest Rate",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Amman Mineral International Tbk (AMMN) reports first‑half 2026 net profit of US$497.92 million, reversing a US$148.72 million loss from the same period a year earlier.",
+      "timestamp": "2026-09-22T07:36:00",
+      "source": "https://investasi.kontan.co.id/news/ammn-ubah-rugi-jadi-laba-berkat-peningkatan-produksi",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Production & Operations",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Amman Mineral Internasional Tbk (AMMN) raises 2026 gold production target to 775,000 ounces",
+      "timestamp": "2026-09-21T20:21:00",
+      "source": "https://market.bisnis.com/read/20260921/192/2005967/amman-ammn-kerek-target-produksi-emas-2026-jadi-775000-ons",
+      "tags": [
+        "Commodities",
+        "Business Expansion",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Amman Mineral Internasional Tbk (AMMN) reports US$498 million net profit in the first half of 2026, boosted by higher gold grades and increased production targets",
+      "timestamp": "2026-09-21T19:31:00",
+      "source": "https://investasi.kontan.co.id/news/kinerja-amman-ammn-melesat-sepanjang-semester-i-2026-ini-pendorongnya",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Production & Operations",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Amman Mineral Internasional Tbk (AMMN) reports sales rise to US$ 20.05 billion (up 1.0024%) and net profit of US$ 497.92 million for the first half of 2026",
+      "timestamp": "2026-09-21T15:51:00",
+      "source": "https://investasi.kontan.co.id/news/penjualan-amman-ammn-melesat-10024-laba-bersih-capai-us-497-juta",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Export",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "AMMN reports 435% profit surge and outlines Elang project to replace Batu Hijau",
+      "timestamp": "2026-09-21T14:50:00",
+      "source": "https://www.idnfinancials.com/id/news/69169/laba-ammn-melonjak-435-siapkan-elang-untuk-gantikan-batu-hijau",
+      "tags": [
+        "Financial Metrics",
+        "Business Expansion",
+        "Production & Operations",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Amman Mineral Internasional Tbk (AMMN) reports H1 2026 net profit of USD504 million and a 13% reduction in net debt.",
+      "timestamp": "2026-09-21T14:35:00",
+      "source": "https://emitennews.com/news/ammn-karungkan-laba-usd504-juta-h1-2026-utang-bersih-drop-13-persen",
+      "tags": [
+        "Financial Metrics",
+        "Export",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Amman Mineral Internasional Tbk (AMMN) net profit reaches Rp8.89 trillion in H1 2026, supported by gold sales",
+      "timestamp": "2026-09-21T14:06:00",
+      "source": "https://market.bisnis.com/read/20260921/192/2005821/laba-amman-ammn-tembus-rp889-triliun-semester-i2026-ditopang-penjualan-emas",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Export",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Amman Mineral Internasional Tbk (AMMN) reports net profit of Rp8.89 trillion for the first half of 2026",
+      "timestamp": "2026-09-21T13:17:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/122203/ammn-cetak-laba-bersih-rp8-89-triliun-semester-i-2026",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors favor PT Bumi Resources Minerals Tbk (BRMS), PT Merdeka Gold Resources Tbk (EMAS) and PT Adaro Andalan Indonesia Tbk (AADI); Top 10 Net‑Buy Stocks of the Week",
+      "timestamp": "2026-09-19T07:17:00",
+      "source": "https://market.bisnis.com/read/20260919/7/2005456/saham-brms-emas-aadi-jadi-favorit-investor-asing-simak-top-10-saham-net-buy-asing-sepekan",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign outflow hits Rp1.79 trillion, with BBCA and BMRI leading net sells",
+      "timestamp": "2026-09-18T20:20:00",
+      "source": "https://www.idnfinancials.com/id/news/69078/outflow-asing-capai-rp1-79-triliun-bbca-dan-bmri-top-net-sell",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Capital & Funding",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "VanEck GDX Index Review May Generate $43 million Inflow to AMMN, $37 million to BRMS, and $3 million to ARCI",
+      "timestamp": "2026-09-14T09:55:00",
+      "source": "https://market.bisnis.com/read/20260914/192/2003867/peluang-dana-asing-masuk-ammn-brms-dan-arci-dari-evaluasi-indeks-emas-gdx",
+      "tags": [
+        "Foreign Investment",
+        "Asset Management",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Opens Weaker at Start of Week, Pressured by Global Sentiment",
+      "timestamp": "2026-09-14T09:33:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/121427/ihsg-dibuka-melemah-di-awal-pekan-tertekan-sentimen-global",
+      "tags": [
+        "Market Sentiment",
+        "Commodities",
+        "Interest Rate",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Gold stocks under pressure ahead of VanEck benchmark index rebalancing",
+      "timestamp": "2026-09-10T15:30:00",
+      "source": "https://www.idnfinancials.com/id/news/68652/saham-saham-emas-tertekan-jelang-rebalancing-indeks-acuan-vaneck",
+      "tags": [
+        "Global Index",
+        "Commodities",
+        "Market Sentiment",
+        "Foreign Investment",
+        "Asset Management",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Medco Energi Internasional Tbk sets 2026 oil and gas production target of 165‑170k BoEPD and plans USD415 million capex",
+      "timestamp": "2026-09-09T13:18:00",
+      "source": "https://emitennews.com/news/medc-bidik-target-produksi-migas-segini-siapkan-capex-usd415-juta",
+      "tags": [
+        "Capital & Funding",
+        "Commodities",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "UBS Sekuritas Buys Nearly Rp100 Billion of PT Amman Mineral Internasional Shares Amid Copper Price Rally",
+      "timestamp": "2026-09-09T09:17:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/120995/terdorong-reli-harga-tembaga-saham-ammn-diborong-banyak-broker",
+      "tags": [
+        "Commodities",
+        "Institutional Investor",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "AMMN and MDKA Shares Rise as Copper Prices Hit Record",
+      "timestamp": "2026-09-09T08:30:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/120980/saham-ammn-mdka-menguat-harga-tembaga-cetak-rekor",
+      "tags": [
+        "Commodities",
+        "Capital & Funding",
+        "Government Policy",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors show early signs of tactical re-entry into Indonesian equities, with analysts highlighting big banks and select sectors.",
+      "timestamp": "2026-09-07T15:43:00",
+      "source": "https://investasi.kontan.co.id/news/asing-mulai-re-entry-ke-pasar-saham-intip-rekomendasi-saham-yang-menarik-dicermati",
+      "tags": [
+        "Foreign Investment",
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Currency & FX",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors heavily buy big bank stocks PT Bank Rakyat Indonesia Tbk, PT Bank Central Asia Tbk and PT Bank Mandiri Tbk in the past week.",
+      "timestamp": "2026-09-07T07:23:00",
+      "source": "https://investasi.kontan.co.id/news/asing-ramai-borong-saham-big-banks-bbri-bbca-dan-bmri-sepekan-terakhir",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG outlook driven by Fed rate expectations and technical breakout targeting 6,724, with BRI Danareksa recommending BBCA, LSIP, and ARCI.",
+      "timestamp": "2026-09-04T07:07:00",
+      "source": "https://market.bisnis.com/read/20260904/189/2001283/ihsg-dipengaruhi-ekspektasi-the-fed-peluang-ke-6724",
+      "tags": [
+        "Interest Rate",
+        "Central Bank",
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Breaks 6,650, BRI Danareksa Sekuritas Recommends Three Stocks to Buy",
+      "timestamp": "2026-09-04T06:35:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-tembus-6650-bri-danareksa-rekomendasikan-3-saham-untuk-dibeli",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Stock Recommendations and IHSG Movement for Friday, September 4, 2026",
+      "timestamp": "2026-09-04T05:00:00",
+      "source": "https://market.bisnis.com/read/20260904/7/2001273/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-jumat-4-september-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Inflation",
+        "Interest Rate",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Mandiri Sekuritas projects Indonesia's IHSG could reach 7,470 by end‑2026, citing four catalysts",
+      "timestamp": "2026-09-03T18:40:00",
+      "source": "https://market.bisnis.com/read/20260903/7/2001179/mandiri-sekuritas-buka-peluang-ihsg-tembus-7470-akhir-2026-ini-katalisnya",
+      "tags": [
+        "Government Policy",
+        "Capital & Funding",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "List of LQ45 stocks with lowest and highest PER on 2 September 2026, highlighting DEWA and AADI",
+      "timestamp": "2026-09-03T06:33:00",
+      "source": "https://investasi.kontan.co.id/news/daftar-saham-per-terendah-tertinggi-lq45-2-september-2026-dewa-dan-aadi-disorot",
+      "tags": [
+        "Financial Metrics",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Merdeka Gold Resources Tbk could join the Global Gold Miners Index while PT J Resources Asia Pasifik Tbk faces possible removal from the Global Junior Gold Miners Index",
+      "timestamp": "2026-08-31T17:25:39",
+      "source": "https://investor.id/market/452290/emas-berpeluang-masuk-gdx-psab-terancam-keluar-gdxj",
+      "tags": [
+        "Global Index",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net‑sell TPIA, ISAT, AMMN, PT Bank Negara Indonesia (Persero) Tbk and PT Bank Rakyat Indonesia (Persero) Tbk as the IHSG drops 95.9 points",
+      "timestamp": "2026-08-27T07:59:26",
+      "source": "https://investor.id/market/451775/asing-lepas-sejumlah-saham-ini",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Demonstrations Prompt Analysts to Project a Weakening IHSG Amid Big‑Cap Selling Pressure",
+      "timestamp": "2026-08-27T06:30:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/119595/ada-aksi-demonstrasi-begini-arah-gerak-ihsg",
+      "tags": [
+        "Market Sentiment",
+        "Government Policy",
+        "Currency & FX",
+        "Politics & Regulation",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Upcoming MSCI Index Rebalancing Ahead of Week, Projected Direction for Indonesia's IHSG",
+      "timestamp": "2026-08-26T17:44:00",
+      "source": "https://investasi.kontan.co.id/news/ada-rebalancing-indeks-msci-pekan-depan-begini-proyeksi-arah-ihsg",
+      "tags": [
+        "Global Index",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Analysts predict ANTM, HRTA, BRMS and other gold issuers will benefit from the newly launched Indonesia Bullion Market Association",
+      "timestamp": "2026-08-24T05:43:00",
+      "source": "https://investasi.kontan.co.id/news/emiten-emas-ini-diprediksi-diuntungkan-dengan-hadirnya-asosiasi-pasar-bullion",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia Bullion Market Association launches, opening issuance opportunities for gold stocks including PT Hartadinata Abadi Tbk",
+      "timestamp": "2026-08-23T11:03:00",
+      "source": "https://investasi.kontan.co.id/news/ibma-meluncur-saham-emas-hrta-hingga-antm-berpeluang-jadi-emiten-penaguk-cuan",
+      "tags": [
+        "Business Expansion",
+        "Commodities",
+        "Capital & Funding",
+        "Partnerships & Agreements",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Mega Capital Sekuritas recommends AMMN, BUMI and UNVR in today's stock picks",
+      "timestamp": "2026-08-21T08:51:32",
+      "source": "https://www.cnbcindonesia.com/market/20260821081805-17-761142/rekomendasi-saham-hari-ini-ammn-bumi-hingga-unvr",
+      "tags": [
+        "Analyst Ratings",
+        "Stock Buyback",
+        "Dividend Announcement",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG strengthens toward 6,500, with large‑cap gains and BBCA interim dividend announcement",
+      "timestamp": "2026-08-21T08:34:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8628013/ihsg-menguat-ke-6-500-simak-rekomendasi-saham-hari-ini",
+      "tags": [
+        "Dividend Announcement",
+        "Stock Buyback",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors top up ten Indonesian stocks amid IHSG jump, with AMMN and BBRI leading net purchases",
+      "timestamp": "2026-08-21T08:20:00",
+      "source": "https://money.kompas.com/read/2026/08/21/082000026/10-saham-yang-diborong-asing-saat-ihsg-melonjak-ada-ammn-dan-bbri",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors record net purchases in Indonesian stocks, with AMMN, BBRI and ANTM among the top net‑buy entries",
+      "timestamp": "2026-08-21T07:02:41",
+      "source": "https://investor.id/market/451081/sahamsaham-masuk-daftarbeli-asing",
+      "tags": [
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net buy Rp 292.17 bn triggers 1.95% rise in PT Bank Rakyat Indonesia Tbk",
+      "timestamp": "2026-08-21T06:02:41",
+      "source": "https://investor.id/market/451078/saham-bank-rakyat-indonesia-bbri-mendadak-belok-arah",
+      "tags": [
+        "Foreign Investment",
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors’ top net‑buy stocks as the IHSG jumped 1.68% to 6,501 on 20 August",
+      "timestamp": "2026-08-20T22:16:00",
+      "source": "https://investasi.kontan.co.id/news/cek-saham-yang-banyak-diborong-asing-saat-ihsg-melesat-168-ke-6501-rabu-208",
+      "tags": [
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG projected to strengthen on Friday (20/8) with BBCA, BBRI, BYAN, AMMN, BRMS, SRTG and SCMA highlighted as picks",
+      "timestamp": "2026-08-20T18:32:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diproyeksikan-menguat-di-perdagangan-jumat-208-ini-saham-pilihannya",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG jumps 1.68% breaking the psychological 6,500 level",
+      "timestamp": "2026-08-20T17:34:35",
+      "source": "https://www.cnbcindonesia.com/market/20260820161623-17-761031/ihsg-lompat-168-tembus-level-psikologis-6500-otw-reli-panjang",
+      "tags": [
+        "Commodities",
+        "Currency & FX",
+        "Interest Rate",
+        "Global Economy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Amman Mineral Internasional Tbk shares surge 7.73% as investors await Q1 2026 financial report",
+      "timestamp": "2026-08-20T13:09:22",
+      "source": "https://investor.id/market/451004/nasib-laporan-keuangan-amman-mineral-ammn",
+      "tags": [
+        "Market Sentiment",
+        "Financial Metrics",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG opens higher at 6,447 as AMMN, ANTM and gold rise into the green zone",
+      "timestamp": "2026-08-20T09:13:00",
+      "source": "https://market.bisnis.com/read/20260820/7/1997653/ihsg-dibuka-menguat-ke-6447-saham-ammn-antm-hingga-emas-naik-ke-zona-hijau",
+      "tags": [
+        "Central Bank",
+        "Interest Rate",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "After Two Days of Gains, PT Bayan Resources Tbk’s Sell‑off Drives IHSG Down Over 1%",
+      "timestamp": "2026-08-19T10:11:48",
+      "source": "https://www.cnbcindonesia.com/market/20260819091402-17-760500/setelah-dua-hari-hijau-ini-penyebab-ihsg-turun-1",
+      "tags": [
+        "Market Sentiment",
+        "Central Bank",
+        "Mergers & Acquisitions",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign investors sell Rp 2.5 trillion of stocks as investors await three IHSG catalysts this week",
+      "timestamp": "2026-08-18T05:59:00",
+      "source": "https://money.kompas.com/read/2026/08/18/055901626/usai-asing-jual-saham-rp-25-triliun-investor-menanti-3-katalis-ihsg-pekan-ini",
+      "tags": [
+        "Foreign Investment",
+        "Central Bank",
+        "Market Sentiment",
+        "Global Economy",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Basic Materials Stocks Grow Significantly Over the Past Month, Prospects for ANTM, BRMS, MDKA, AMMN and TPIA",
+      "timestamp": "2026-08-17T12:50:00",
+      "source": "https://investasi.kontan.co.id/news/saham-emiten-bahan-baku-tumbuh-signifikan-dalam-sebulan-terakhir-simak-prospeknya",
+      "tags": [
+        "Commodities",
+        "Analyst Ratings",
+        "Risk & Compliance",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "DBS projects 221% net profit growth for PT Merdeka Copper Gold Tbk by 2027",
+      "timestamp": "2026-08-14T14:43:11",
+      "source": "https://investor.id/market/450395/saham-tambang-pilihan-asing-ledakan-cuan-50",
+      "tags": [
+        "Commodities",
+        "Financial Metrics",
+        "Production & Operations",
+        "Global Economy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Remains Volatile, Highlighting Stocks Worth Watching",
+      "timestamp": "2026-08-14T08:54:34",
+      "source": "https://www.cnbcindonesia.com/market/20260814081440-17-759175/ihsg-masih-volatil-deretan-saham-ini-menarik-buat-dilirik",
+      "tags": [
+        "Market Sentiment",
+        "Mergers & Acquisitions",
+        "Foreign Investment"
+      ]
+    },
+    {
+      "title": "Rising Gold Prices Boost Prospects for ANTM, BRMS, MDKA and EMAS Shares",
+      "timestamp": "2026-08-11T17:36:00",
+      "source": "https://investasi.kontan.co.id/news/harga-emas-kembali-melejit-prospek-saham-antm-brms-mdka-hingga-emas-ikut-terangkat",
+      "tags": [
+        "Commodities",
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net bought Rp 1.24 trillion over the weekend, with ten Indonesian stocks leading the inflows.",
+      "timestamp": "2026-08-07T22:47:00",
+      "source": "https://investasi.kontan.co.id/news/asing-net-buy-jumbo-rp-124-triliun-cek-saham-yang-banyak-diborong-di-akhir-pekan",
+      "tags": [
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "World copper prices hit a record above $6.7 per pound, with PT Amman Mineral Internasional Tbk (AMMN) seen as the biggest beneficiary.",
+      "timestamp": "2026-08-07T16:36:00",
+      "source": "https://money.kompas.com/read/2026/08/07/163600526/harga-tembaga-dunia-cetak-rekor-saham-ammn-diprediksi-paling-diuntungkan",
+      "tags": [
+        "Commodities",
+        "Export",
+        "Global Economy",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Session I: IHSG rises 0.69% on stronger‑than‑expected Q2 GDP",
+      "timestamp": "2026-08-05T13:09:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/117370/ihsg-menguat-efek-data-ekonomi-ri-yang-lampaui-ekspektasi",
+      "tags": [
+        "Market Sentiment",
+        "Global Economy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia's IHSG rises as five stocks—including EMDE, AMMN, BRMS, HMSP, and SCMA—surge",
+      "timestamp": "2026-08-05T08:41:27",
+      "source": "https://investor.id/market/449159/ihsg-naik-5-saham-melesat",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "IHSG closes lower as analysts cite macro data and recommend AMMN, ARCI, HRUM, TINS, EMTK, and JELI for Tuesday",
+      "timestamp": "2026-08-03T18:59:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-ditutup-melemah-analis-ungkap-penyebab-dan-saham-pilihan-besok-selasa-48",
+      "tags": [
+        "Analyst Ratings",
+        "Inflation",
+        "Global Economy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Stagnates at 6,234.29 in Early Trading",
+      "timestamp": "2026-08-03T13:04:37",
+      "source": "https://www.cnbcindonesia.com/market/20260803121623-17-756035/ihsg-sesi-pertama-stagnan-di-level-6234",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "CGS International forecasts IHSG near 6,300, recommends AMMN, BRPT, ASII, INCO, BRIS and TINS",
+      "timestamp": "2026-08-03T09:06:55",
+      "source": "https://investor.id/market/448854/ihsg-bersiap-menuju-6300-6-saham-potensial-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Edges Higher, Review Today's Stock Recommendations",
+      "timestamp": "2026-08-03T08:46:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8601639/ihsg-menguat-tipis-cek-rekomendasi-saham-hari-ini",
+      "tags": [
+        "Stock Buyback",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors' top ten net‑sell stocks in Indonesia during the last week of July 2026",
+      "timestamp": "2026-08-03T00:25:00",
+      "source": "https://investasi.kontan.co.id/news/cermati-saham-net-sell-terbesar-asing-di-pekan-terakhir-bulan-juli-2026",
+      "tags": [
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign investors net sold Rp 250.53 billion over the weekend, with PT MNC Digital Entertainment Tbk leading the top‑10 most‑sold stocks",
+      "timestamp": "2026-07-31T21:21:00",
+      "source": "https://investasi.kontan.co.id/news/asing-catat-net-sell-rp-250-miliar-di-akhir-pekan-cek-saham-yang-banyak-diborong",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Financial Reports as Fuel for Mining Stocks: Which Are Most Attractive?",
+      "timestamp": "2026-07-31T15:11:55",
+      "source": "https://www.cnbcindonesia.com/market/20260731134624-17-755471/laporan-keuangan-jadi-bahan-bakar-saham-tambang-siapa-paling-menarik",
+      "tags": [
+        "Annual Report",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign Selling Wave Still Hits PT Bank Rakyat Indonesia (Persero) Tbk, TPIA, EMAS and AMMN",
+      "timestamp": "2026-07-31T05:00:46",
+      "source": "https://investor.id/market/448540/gelombang-jual-asing-masih-hantam-sahamsaham-ini",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Rebound signals for ANTM and INCO stocks ahead of first‑half 2026 earnings for state‑owned mining firms",
+      "timestamp": "2026-07-30T21:54:00",
+      "source": "https://market.bisnis.com/read/20260730/189/1992475/sinyal-rebound-antm-inco-jelang-lapkeu-semester-i2026-tambang-bumn",
+      "tags": [
+        "Market Sentiment",
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG diperkirakan uji level 6.000; Phintraco rekomendasikan enam saham",
+      "timestamp": "2026-07-30T06:36:47",
+      "source": "https://investor.id/market/448389/ihsg-bersiap-hadapi-ujian-6-saham-jadi-sorotan",
+      "tags": [
+        "Analyst Ratings",
+        "Currency & FX"
+      ]
+    },
+    {
+      "title": "BRI Danareksa Sekuritas names six top commodity stocks and sets target prices",
+      "timestamp": "2026-07-28T11:52:19",
+      "source": "https://investor.id/market/448140/pilihan-teratas-saham-komoditas-ada-yang-diramal-ke-rp-34000",
+      "tags": [
+        "Commodities",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BEI announces KOMPAS100 index rebalancing, removing BREN, HMSP and six others while adding BNBR, COIN and seven new constituents",
+      "timestamp": "2026-07-28T05:00:00",
+      "source": "https://investasi.kontan.co.id/news/resmi-bei-rombak-indeks-kompas100-bren-hingga-hmsp-keluar-bnbr-dan-coin-masuk",
+      "tags": [
+        "Global Index"
+      ]
+    },
+    {
+      "title": "Kompas100 Index Outperforms IHSG Over the Past Month, Analysts Recommend Several Stocks",
+      "timestamp": "2026-07-26T17:41:00",
+      "source": "https://investasi.kontan.co.id/news/indeks-kompas100-ungguli-ihsg-sebulan-terakhir-cek-rekomendasi-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Amman Mineral Internasional Tbk completes 900,000‑ton copper smelter",
+      "timestamp": "2026-07-25T05:42:09",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260724172225-85-1384609/smelter-tembaga-amman-rampung-kapasitas-900-ribu-mt-per-tahun",
+      "tags": [
+        "Production & Operations",
+        "Business Expansion",
+        "Commodities",
+        "Partnerships & Agreements",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG closes down 1.88% to 6,196 amid heavy foreign selling of major banks and other large‑cap stocks",
+      "timestamp": "2026-07-24T16:52:35",
+      "source": "https://www.cnbcindonesia.com/market/20260724160943-17-753660/ihsg-ditutup-terkoreksi-188-ke-level-6196",
+      "tags": [
+        "Foreign Investment",
+        "Commodities",
+        "Government Policy",
+        "Global Economy",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign investors net sell Rp759.46 billion in Session I, led by BMRI and BUMI",
+      "timestamp": "2026-07-24T13:34:16",
+      "source": "https://www.cnbcindonesia.com/market/20260724132831-17-753577/asing-net-sell-rp75946-miliar-di-sesi-i-ini-daftar-sahamnya",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG drops 1.75% in early session under heavy sell‑off pressure",
+      "timestamp": "2026-07-24T12:55:16",
+      "source": "https://www.cnbcindonesia.com/market/20260724121852-17-753552/tertekan-aksi-jual-ihsg-sesi-i-terkoreksi-175-ke-level-6024",
+      "tags": [
+        "Market Sentiment",
+        "Foreign Investment",
+        "Global Economy",
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Today's Stock Recommendations as the IHSG Slightly Weakens",
+      "timestamp": "2026-07-24T08:39:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8587924/rekomendasi-saham-hari-ini-saat-ihsg-melemah-tipis",
+      "tags": [
+        "Analyst Ratings",
+        "Dividend Announcement",
+        "Business Expansion",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG breaks 6,400 as commodity, technology and banking stocks lift the index",
+      "timestamp": "2026-07-23T10:02:42",
+      "source": "https://www.cnbcindonesia.com/market/20260723095523-17-753168/breakout-6400-ini-penyebab-ihsg-melesat-1",
+      "tags": [
+        "Commodities",
+        "Central Bank",
+        "Interest Rate",
+        "Foreign Investment"
+      ]
+    },
+    {
+      "title": "Commissioner Alexander Ramlie purchases additional AMMN shares worth Rp18.16 billion",
+      "timestamp": "2026-07-23T09:55:42",
+      "source": "https://www.cnbcindonesia.com/market/20260723081907-17-753118/alexander-ramlie-borong-saham-ammn-rp-1816-miliar",
+      "tags": [
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG slips 0.09% to 6,334.48; today’s stock picks feature BREN, CASA, VKTR and SINI’s major coal acquisition",
+      "timestamp": "2026-07-23T09:01:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8586299/ihsg-melemah-tipis-simak-rekomendasi-saham-hari-ini",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Foreign Investment",
+        "Rights Issue",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Stock Recommendations and IHSG Movement for 23 July 2026",
+      "timestamp": "2026-07-23T08:30:00",
+      "source": "https://market.bisnis.com/read/20260723/7/1990303/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-23-juli-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Commissioner Alexander Ramlie purchases 1.48 million shares of PT Amman Mineral Internasional Tbk, while the stock falls 3.3%",
+      "timestamp": "2026-07-23T05:00:00",
+      "source": "https://investasi.kontan.co.id/news/komisaris-borong-jutaan-saham-tambang-emas-tren-kenaikan-harga-malah-terhenti",
+      "tags": [
+        "Ownership",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Foreign investors dump five Indonesian stocks, with DSSA topping net sell on July 22, 2026",
+      "timestamp": "2026-07-22T20:50:11",
+      "source": "https://investor.id/market/447525/5-saham-diterpa-gelombang-besar-aksi-jual-asing",
+      "tags": [
+        "Foreign Investment",
+        "Analyst Ratings",
+        "Joint Venture",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Commissioner Alexander Ramlie purchases PT Amman Mineral Internasional Tbk shares worth Rp18.16 billion",
+      "timestamp": "2026-07-22T16:33:00",
+      "source": "https://www.idnfinancials.com/id/news/66414/harga-kembali-ke-rp4-000-alexander-ramlie-borong-ammn-rp18-16-miliar",
+      "tags": [
+        "Insider Trading",
+        "Ownership",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Commissioner Alexander Ramlie purchases 1.48 million shares of PT Amman Mineral Internasional Tbk",
+      "timestamp": "2026-07-22T14:47:00",
+      "source": "https://money.kompas.com/read/2026/07/22/144737426/komisaris-borong-saham-ammn-147-juta-lembar-saat-harga-bergejolak",
+      "tags": [
+        "Insider Trading",
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Commissioner Alexander Ramlie purchases additional 1.48 million PT Amman Mineral Internasional Tbk shares for about Rp5.9 billion, raising his stake to 0.26%",
+      "timestamp": "2026-07-22T14:42:00",
+      "source": "https://market.bisnis.com/read/20260722/7/1990114/alexander-ramlie-borong-lagi-147-juta-saham-amman-mineral-ammn",
+      "tags": [
+        "Insider Trading",
+        "Ownership",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Alexander Ramlie Buy Shares of Amman Mineral Internasional",
+      "timestamp": "2026-07-22T13:55:41",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22072026-5149-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "Five Stock Recommendations as the IDX Composite Index Strengthens for Nine Consecutive Days",
+      "timestamp": "2026-07-22T08:55:49",
+      "source": "https://www.cnbcindonesia.com/market/20260722082756-17-752778/intip-5-rekomendasi-saham-kala-ihsg-menguat-9-hari-beruntun",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Rights Issue",
+        "Capital & Funding",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG Likely to Rally Again, with AMMN, CUAN, and DEWA Driving Gains",
+      "timestamp": "2026-07-22T07:53:03",
+      "source": "https://investor.id/market/447413/ihsg-bakal-reli-lagi-3-saham-jadi-andalan-cuan",
+      "tags": [
+        "Market Sentiment",
+        "Central Bank",
+        "Commodities",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Outlook and Stock Recommendations for Wednesday, 22 July 2026",
+      "timestamp": "2026-07-22T05:00:00",
+      "source": "https://investasi.kontan.co.id/news/prediksi-ihsg-dan-rekomendasi-saham-untuk-hari-ini-rabu-227",
+      "tags": [
+        "Analyst Ratings",
+        "Central Bank",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG projected to strengthen on Wednesday (22/7) as investors watch Bank Indonesia rate decision and profit‑taking",
+      "timestamp": "2026-07-21T20:59:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diproyeksi-menguat-rabu-227-investor-waspadai-hasil-rdg-bi-dan-profit-taking",
+      "tags": [
+        "Central Bank",
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Indonesia's IHSG closes up 1.74% as foreign investors accumulate shares in PT Dian Swastatika Sentosa Tbk, PT Aneka Tambang Tbk, and PT Bank Mandiri Tbk",
+      "timestamp": "2026-07-21T18:54:00",
+      "source": "https://money.kompas.com/read/2026/07/21/185413426/ihsg-ditutup-melonjak-174-persen-asing-akumulasi-saham-dssa-antm-hingga-bmri",
+      "tags": [
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Predicted to Strengthen Moderately; Analysts Recommend AMMN, BIPI, and BULL for Retail Investors",
+      "timestamp": "2026-07-21T06:12:00",
+      "source": "https://money.kompas.com/read/2026/07/21/061217726/ihsg-diprediksi-menguat-saham-ammn-antm-bbca-hingga-adro-perlu-dicermati-ritel",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Interest Rate",
+        "Domestic Investor",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts project limited upside for the IHSG on Tuesday and highlight recommended stocks PT Amman Mineral Internasional Tbk, PT Astrindo Nusantara Infrastruktur Tbk, and PT Buana Lintas Lautan Tbk",
+      "timestamp": "2026-07-20T17:29:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-berpeluang-menguat-terbatas-pada-selasa-217-cek-rekomendasi-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Currency & FX",
+        "Central Bank",
+        "Market Sentiment",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Alexander Ramlie Buy Shares of Amman Mineral Internasional",
+      "timestamp": "2026-07-20T14:54:50",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20072026-4954-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "PT Medco Energi Internasional Tbk projected to generate US$2.67 bn in 2026 and US$2.97 bn in 2027 with rising net profit",
+      "timestamp": "2026-07-20T13:33:49",
+      "source": "https://investor.id/market/447162/keran-cuan-medc-kian-terbuka",
+      "tags": [
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Business Expansion",
+        "Production & Operations",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "High copper prices offer PT Amman Mineral Internasional Tbk and PT Merdeka Copper Gold Tbk upside potential",
+      "timestamp": "2026-07-19T16:05:00",
+      "source": "https://investasi.kontan.co.id/news/harga-komoditas-masih-tinggi-emiten-tembaga-berpeluang-raih-kinerja-positif",
+      "tags": [
+        "Commodities",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "UBS Sekuritas dominates buying and selling activity among blue‑chip stocks on 17 July 2026",
+      "timestamp": "2026-07-18T06:44:00",
+      "source": "https://investasi.kontan.co.id/news/daftar-broker-pembeli-penjual-blue-chip-17-juli-2026-ubs-sekuritas-disorot",
+      "tags": [
+        "Foreign Investment"
+      ]
+    },
+    {
+      "title": "IHSG projected to gain modestly on Friday, led by BMRI, BBRI, AMMN and ASII",
+      "timestamp": "2026-07-16T18:21:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diproyeksikan-menguat-terbatas-pada-perdagangan-jumat-177",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Currency & FX",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Amman Mineral Internasional (AMMN) Issues Clarification Denying IPO and Hong Kong Dual‑Listing Rumors",
+      "timestamp": "2026-07-16T17:21:00",
+      "source": "https://market.bisnis.com/read/20260716/192/1988672/bos-amman-ammn-klarifikasi-soal-rumor-ipo-dual-listing-di-hong-kong",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Look at 5 Stock Recommendations with Profit Potential Today",
+      "timestamp": "2026-07-16T09:45:49",
+      "source": "https://www.cnbcindonesia.com/market/20260716082643-17-751179/intip-5-rekomendasi-saham-yang-potensi-kasih-cuan-hari-ini",
+      "tags": [
+        "Analyst Ratings",
+        "Stock Split",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG opens stronger to 6,058 as BMRI, BBNI and BBRI stocks move together upward",
+      "timestamp": "2026-07-16T09:19:00",
+      "source": "https://market.bisnis.com/read/20260716/7/1988501/ihsg-dibuka-menguat-ke-6058-saham-bmri-bbni-hingga-bbri-kompak-melaju",
+      "tags": [
+        "Market Sentiment",
+        "Global Economy",
+        "Foreign Investment"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas maintains BUY on PT Medco Energi Internasional Tbk (MEDC) with target price Rp 1,700",
+      "timestamp": "2026-07-15T13:34:00",
+      "source": "https://investasi.kontan.co.id/news/produksi-migas-melonjak-saham-medco-medc-ditargetkan-di-harga-rp-1700",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors sell heavily in Barito Group, with PT Barito Pacific Tbk and PT Rukun Raharja Tbk ranking among the largest net sellers",
+      "timestamp": "2026-07-15T08:35:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/115050/asing-lepas-grup-barito-brpt-raja-masuk-daftar-net-sell-terbesar",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "LQ45 stocks on 14 July 2026 show lowest and highest PERs, with Barito Pacific and United Tractors highlighted",
+      "timestamp": "2026-07-15T05:18:00",
+      "source": "https://investasi.kontan.co.id/news/daftar-saham-per-terendah-tertinggi-lq45-14-juli-2026-brpt-dan-untr-jadi-sorotan",
+      "tags": [
+        "Foreign Investment",
+        "Financial Metrics",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "IHSG rebounds 1.9% as BMRI, BBRI and AMMN lead gains, with stock picks Archi Indonesia and RMK Energy highlighted",
+      "timestamp": "2026-07-14T09:45:28",
+      "source": "https://www.cnbcindonesia.com/market/20260714082248-17-750573/ihsg-rebound-cek-rekomendasi-saham-yang-patut-dilirik-hari-ini",
+      "tags": [
+        "Stock Split",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Rising production costs test profit resilience of PT Aneka Tambang Tbk, PT Timah Tbk, and PT Vale Indonesia Tbk",
+      "timestamp": "2026-07-14T07:30:00",
+      "source": "https://market.bisnis.com/read/20260714/192/1987831/beban-produksi-membengkak-cek-daya-tahan-laba-saham-antm-tins-dan-inco",
+      "tags": [
+        "Production & Operations",
+        "Financial Metrics",
+        "Commodities",
+        "Analyst Ratings",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "RANS Entertainment Indonesia shares plunge 10.5% as Indonesia Composite Index climbs above 6,000",
+      "timestamp": "2026-07-13T17:03:00",
+      "source": "https://emitennews.com/news/harga-saham-rans-anjlok-drastis-saat-ihsg-melesat-balik-ke-level-6000",
+      "tags": [
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Amman Mineral (AMMN) Considers Secondary Listing on Hong Kong Stock Exchange",
+      "timestamp": "2026-07-13T10:38:00",
+      "source": "https://investasi.kontan.co.id/news/amman-mineral-ammn-dikabarkan-jajaki-rencana-listing-saham-di-bursa-hong-kong",
+      "tags": [
+        "Capital & Funding",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Amman Mineral Internasional Considers Dual Listing on Hong Kong Stock Exchange",
+      "timestamp": "2026-07-13T10:30:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/114782/amman-ammn-dikabarkan-jajaki-dual-listing-di-bursa-hong-kong",
+      "tags": [
+        "Capital & Funding",
+        "Foreign Investment",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts see bright outlook for Indonesian metal‑mining stocks and recommend buys for PT Amman Mineral Internasional Tbk, PT Timah Tbk, PT Vale Indonesia Tbk and PT Aneka Tambang Tbk",
+      "timestamp": "2026-07-12T17:11:00",
+      "source": "https://investasi.kontan.co.id/news/prospek-saham-tambang-logam-masih-cerah-ini-rekomendasi-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Partnerships & Agreements",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Cost pressures expected to ease in H2 2026, keeping ANTM, INCO, AMMN and TINS stocks prospective",
+      "timestamp": "2026-07-12T16:06:00",
+      "source": "https://investasi.kontan.co.id/news/beban-biaya-berpotensi-menyusut-saham-antm-inco-ammn-dan-tins-masih-prospektif",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Financial Metrics",
+        "Currency & FX",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors record net sells of Rp 421.5 billion on Friday, led by PT Bank Central Asia Tbk and PT Bank Rakyat Indonesia Tbk",
+      "timestamp": "2026-07-10T20:34:00",
+      "source": "https://investasi.kontan.co.id/news/bbca-dan-bbri-tertatas-cermati-saham-net-sell-terbesar-asing-jumat-106",
+      "tags": [
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Today's Stock Recommendations: Two Bakrie Issuers Enter Radar",
+      "timestamp": "2026-07-10T09:20:05",
+      "source": "https://www.cnbcindonesia.com/market/20260710081956-17-749658/rekomendasi-saham-hari-ini-dua-emiten-bakrie-masuk-radar",
+      "tags": [
+        "Analyst Ratings",
+        "Capital & Funding",
+        "Business Expansion",
+        "Subsidiaries",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "List of LQ45 stocks with the lowest and highest PER on 9 July 2026, highlighting strong gains in DEWA and BRPT",
+      "timestamp": "2026-07-10T06:25:00",
+      "source": "https://investasi.kontan.co.id/news/daftar-saham-per-terendah-tertinggi-lq45-9-juli-2026-dewa-dan-brpt-jadi-sorotan",
+      "tags": [
+        "Financial Metrics",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Closes Higher 0.67% Returning to Around 5,900 Level",
+      "timestamp": "2026-07-09T17:31:04",
+      "source": "https://www.cnbcindonesia.com/market/20260709161957-17-749536/ihsg-ditutup-menguat-067-balik-ke-level-5900",
+      "tags": [
+        "Market Sentiment",
+        "Global Economy",
+        "Commodities"
+      ]
+    },
+    {
+      "title": "Anthony Robert Mathias Buys Shares of Amman Mineral Internasional",
+      "timestamp": "2026-07-09T10:51:24",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09072026-2276-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "Today's Stock Recommendations: Review of KRAS, NTBK and Key IHSG Movers",
+      "timestamp": "2026-07-09T09:20:09",
+      "source": "https://www.cnbcindonesia.com/market/20260709081936-17-749344/rekomendasi-saham-hari-ini-cek-pgas-hingga-bssr",
+      "tags": [
+        "Rights Issue",
+        "Foreign Investment",
+        "Global Index",
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "S&P Dow Jones Indices signals possible reclassification of Indonesia to frontier market, prompting potential $150‑200 million outflow from Bursa Efek Indonesia",
+      "timestamp": "2026-07-09T07:00:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/114398/alasan-s-p-dow-jones-buka-opsi-geser-indonesia-ke-frontier-market",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Directors of PT Amman Mineral Internasional Tbk collectively purchase over 5 million shares as the stock falls, analysts view it as a positive signal",
+      "timestamp": "2026-07-08T21:48:00",
+      "source": "https://money.kompas.com/read/2026/07/08/214854426/direksi-borong-saham-ammn-saat-turun-ini-kata-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Ownership",
+        "OJK",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Amman Mineral Internasional Tbk targets 579,000 oz gold production by 2026, prompting 90% stock price upside expectation",
+      "timestamp": "2026-07-08T19:48:59",
+      "source": "https://investor.id/market/445772/pemain-emas-terbesar-bei-produksi-579-ribu-oz-saham-diramal-meledak-90",
+      "tags": [
+        "Business Expansion",
+        "Analyst Ratings",
+        "Commodities",
+        "Export",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Directors of PT Amman Mineral Internasional Tbk collectively purchase about Rp 17 billion of shares",
+      "timestamp": "2026-07-08T17:24:40",
+      "source": "https://investor.id/market/445752/direksi-ammn-kompak-borong-saham-hingga-rp-17-miliar",
+      "tags": [
+        "Insider Trading",
+        "Ownership",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Directors of PT Amman Mineral Internasional Tbk purchase roughly Rp17 billion of shares as stock falls",
+      "timestamp": "2026-07-08T16:16:00",
+      "source": "https://emitennews.com/news/direksi-ammn-serok-saham-rp17-miliar-saat-harga-anjlok-ada-apa",
+      "tags": [
+        "Ownership",
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Three AMMN directors purchase roughly 2.1 million shares as stock trades below Rp4,000",
+      "timestamp": "2026-07-08T14:30:00",
+      "source": "https://www.idnfinancials.com/id/news/65785/harga-masih-di-bawah-rp4-000-tiga-direktur-ammn-borong-saham",
+      "tags": [
+        "Insider Trading",
+        "Ownership",
+        "Executive Changes",
+        "Financial Metrics",
+        "Capital & Funding",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Lal Naveen Chandra Buy Shares of Amman Mineral Internasional",
+      "timestamp": "2026-07-08T11:50:00",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08072026-8986-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "Maybank Sekuritas highlights PT Barito Pacific Tbk as the sole Prajogo group stock in MSCI Global Standard, suggesting a 1.825–2.550 price range",
+      "timestamp": "2026-07-08T10:51:46",
+      "source": "https://investor.id/market/445692/bisikan-saham-prajogo",
+      "tags": [
+        "Global Index",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia's IHSG falls over 1% as S&P places the market on 2027 Watchlist",
+      "timestamp": "2026-07-08T09:57:43",
+      "source": "https://www.cnbcindonesia.com/market/20260708093422-17-749044/breaking-ihsg-anjlok-1-lebih-usai-dapat-peringatan-sp",
+      "tags": [
+        "Global Index",
+        "Market Sentiment",
+        "Foreign Investment"
+      ]
+    },
+    {
+      "title": "Anthony Robert Mathias Buys Shares of Amman Mineral Internasional",
+      "timestamp": "2026-07-08T09:40:08",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08072026-0967-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "IHSG slides to 5,934 as S&P Dow Jones Indices watchlist pressures market",
+      "timestamp": "2026-07-08T09:32:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-turun-ke-level-5934-di-awal-sesi-rabu-87-watchlist-sp-dji-membebani-pasar",
+      "tags": [
+        "Global Index",
+        "Market Sentiment",
+        "Politics & Regulation"
+      ]
+    },
+    {
+      "title": "Popular financial news roundup highlights DEWA contract boost, tax shortfall concerns, and commodity stock re‑rating",
+      "timestamp": "2026-07-08T04:54:20",
+      "source": "https://investor.id/market/445647/berita-populer-saham-bakrie-dewa-bakal-meroket-hingga-purbaya-soal-shortfall-pajak",
+      "tags": [
+        "Business Expansion",
+        "Government Policy",
+        "Commodities",
+        "Mergers & Acquisitions",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Reasons for the IHSG Closing Up 1.19% Today",
+      "timestamp": "2026-07-07T16:41:52",
+      "source": "https://www.cnbcindonesia.com/market/20260707160842-17-748866/penyebab-ihsg-ditutup-naik-119-hari-ini",
+      "tags": [
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Directors of PT Amman Mineral Internasional Tbk acquire 3.86 million shares in July 2026",
+      "timestamp": "2026-07-07T15:33:39",
+      "source": "https://investor.id/market/445587/direksi-amman-mineral-borong-saham-ammn",
+      "tags": [
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Potential profit is greatest in Bumi Resources shares, followed by Amman Mineral Internasional, Antam and Timah",
+      "timestamp": "2026-07-07T13:33:32",
+      "source": "https://investor.id/market/445556/potensi-cuan-terbesar-di-saham-bumi-diikuti-ammn-antm-tins",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Government Policy",
+        "Export",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Aditya Sasmito Buys Shares of Amman Mineral Internasional",
+      "timestamp": "2026-07-06T14:16:38",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06072026-7352-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "IHSG opens higher in green zone, mirroring gains across Asian markets",
+      "timestamp": "2026-07-06T09:30:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/114017/ihsg-awali-hari-di-zona-hijau-searah-dengan-bursa-asia",
+      "tags": [
+        "Bullish",
+        "Market Sentiment",
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "SINI launches Rp3.61 trillion rights issue while NCKL declares Rp2.69 trillion dividend",
+      "timestamp": "2026-07-06T08:27:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8561367/sini-rights-issue-rp-3-61-triliun-nckl-tebar-dividen-rp-2-69-triliun",
+      "tags": [
+        "Rights Issue",
+        "Dividend Announcement",
+        "Mergers & Acquisitions",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Stock Recommendation Summary for 6 July 2026",
+      "timestamp": "2026-07-06T08:25:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/114005/rangkuman-rekomendasi-saham-hari-ini-6-juli-2026",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "BRI Danareksa Sekuritas recommends BUMI, PADI, and AMMN as IHSG rally continues",
+      "timestamp": "2026-07-06T07:48:26",
+      "source": "https://investor.id/market/445364/ihsg-bakal-lanjut-reli-3-saham-siap-jadi-mesin-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG projected to extend gains on Monday, with buy recommendations for BUMI, PADI and AMMN",
+      "timestamp": "2026-07-06T06:37:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-berpeluang-lanjut-penguatan-senin-67-saham-cermati-bumi-padi-ammn",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Weekly Top 10 IHSG Supporting Stocks: AMMN, DCII and BREN Lead",
+      "timestamp": "2026-07-05T08:06:00",
+      "source": "https://market.bisnis.com/read/20260705/7/1985593/10-saham-penopang-ihsg-sepekan-ammn-dcii-hingga-bren-pimpin-top-leaders",
+      "tags": [
+        "Foreign Investment"
+      ]
+    },
+    {
+      "title": "PGAS and ANTM drag the IHSG, preventing a green‑zone close",
+      "timestamp": "2026-07-04T19:00:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/113938/pgas-antm-jegal-ihsg-hingga-gagal-finish-di-zona-hijau",
+      "tags": [
+        "Market Sentiment",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Potential downgrade of Indonesia’s market to Frontier status carries a 27% probability in November 2026",
+      "timestamp": "2026-07-03T21:05:00",
+      "source": "https://investasi.kontan.co.id/news/peluang-bursa-indonesia-turun-ke-frontier-market-sebesar-27-pada-november-2026",
+      "tags": [
+        "Global Index",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Indonesia Composite Index Races Ahead in Session 1, Majority of Stocks Green",
+      "timestamp": "2026-07-03T12:50:23",
+      "source": "https://www.cnbcindonesia.com/market/20260703113740-17-747786/ihsg-melaju-kencang-sesi-1-hari-ini-mayoritas-saham-hijau",
+      "tags": [
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "AMMN Director Anthony Mathias Purchases 1.41 Million Shares for Rp4.53 Billion",
+      "timestamp": "2026-07-03T12:15:00",
+      "source": "https://www.idnfinancials.com/id/news/65572/direktur-baru-ammn-anthony-mathias-perdana-borong-1-4-juta-saham",
+      "tags": [
+        "Executive Changes",
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Anthony Robert Mathias Buys Shares of Amman Mineral Internasional",
+      "timestamp": "2026-07-03T11:03:13",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-03072026-2091-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "IHSG jumps over 2% as major banks and state‑owned firms drive the rally",
+      "timestamp": "2026-07-03T10:21:21",
+      "source": "https://www.cnbcindonesia.com/market/20260703093257-17-747737/ini-penyebab-ihsg-tiba-tiba-lompat-2-lebih",
+      "tags": [
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Foreign investors net buy Rp 59.41 bn in PT Dian Swastatika Sentosa Tbk as stock jumps 3.14% to Rp 820",
+      "timestamp": "2026-07-02T08:30:36",
+      "source": "https://investor.id/market/444951/saham-dssa-paling-menggiurkan",
+      "tags": [
+        "Foreign Investment",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "President Director of PT Amman Mineral Internasional Tbk purchases 1.6 million shares at Rp3,105 each",
+      "timestamp": "2026-07-01T16:25:00",
+      "source": "https://www.idnfinancials.com/id/news/65468/harga-kembali-ke-level-rp3-000-presdir-ammn-borong-1-6-juta-lembar",
+      "tags": [
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BRI Danareksa Sekuritas upgrades AMMN to Buy, forecasts $4 bn revenue in 2026 from downstream expansion",
+      "timestamp": "2026-07-01T15:47:00",
+      "source": "https://market.bisnis.com/read/20260701/189/1984791/strategi-hilirisasi-ammn-potensi-perkuat-pendapatan-jangka-panjang",
+      "tags": [
+        "Analyst Ratings",
+        "Business Expansion",
+        "Financial Metrics",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BRI Danareksa forecasts AMMN’s 2026 profit to double and recommends a Buy at a Rp6,000 target",
+      "timestamp": "2026-07-01T15:47:00",
+      "source": "https://money.kompas.com/read/2026/07/01/154726726/laba-diproyeksi-naik-2-kali-lipat-simak-rekomendasi-saham-ammn",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Commodities",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Daily stock recommendations and IHSG decline on July 1 2026 highlight losses in major Indonesian caps",
+      "timestamp": "2026-07-01T14:48:00",
+      "source": "https://market.bisnis.com/read/20260701/7/1984564/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-rabu-1-juli-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Arief Widyawan Sidarto Buys Shares of Amman Mineral Internasional",
+      "timestamp": "2026-07-01T09:59:57",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-01072026-8675-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "Foreign investors sell Rp 60.2 trillion of Indonesian stocks in H1 2026, with PT Bank Central Asia Tbk leading the declines",
+      "timestamp": "2026-06-30T21:03:00",
+      "source": "https://investasi.kontan.co.id/news/asing-net-sell-rp-602-triliun-sejak-awal-2026-cermati-saham-yang-banyak-dijual",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG falls 2.42% in Session I as PT Barito Pacific Tbk leads Barito Group stock decline",
+      "timestamp": "2026-06-30T13:19:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/113475/ihsg-merosot-2-4-saham-prajogo-pangestu-jadi-pemberat",
+      "tags": [
+        "Market Sentiment",
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Amman Mineral (AMMN) projects 117% revenue surge and 97% EBITDA rise in 2026 as new smelter and processing capacity come online",
+      "timestamp": "2026-06-29T14:56:48",
+      "source": "https://investor.id/market/444544/amman-mineral-ammn-masuki-babak-baru-bersiap-lonjakan",
+      "tags": [
+        "Business Expansion",
+        "Production & Operations",
+        "Financial Metrics",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia Composite Index Falls 1.72% to 5,896 as Foreign Investors Net Sell Rp 302 Billion",
+      "timestamp": "2026-06-26T21:30:00",
+      "source": "https://money.kompas.com/read/2026/06/26/213000626/ihsg-anjlok-1-72-persen-ke-level-5.896-asing-net-sell-rp-302-miliar",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Amman Mineral Internasional Tbk reports 859.61 ha land reclamation and expanded climate initiatives by 2025",
+      "timestamp": "2026-06-26T20:21:00",
+      "source": "https://money.kompas.com/read/2026/06/26/202108526/amman-mineral-perkuat-aksi-iklim-reklamasi-lahan-capai-85961-hektare-hingga",
+      "tags": [
+        "ESG"
+      ]
+    },
+    {
+      "title": "UOB Kay Hian sees crisis‑level IHSG valuation as buying opportunity and recommends selective accumulation of Indonesian stocks",
+      "timestamp": "2026-06-26T14:32:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-anjlok-ke-valuasi-krisis-ini-saham-yang-direkomendasikan-bisa-diakumulasi",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG falls 3.56% after MSCI review, led by sharp drops in PT Bumi Resources Tbk, PT Darma Henwa Tbk and PT Petrindo Jaya Kreasi Tbk",
+      "timestamp": "2026-06-25T09:20:00",
+      "source": "https://market.bisnis.com/read/20260625/189/1983194/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-kamis-25-juni-2026",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Government Policy",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign investors sell over Rp 70 trillion of Indonesian equities in 2026, with Bank Rakyat Indonesia hit hardest",
+      "timestamp": "2026-06-24T21:14:00",
+      "source": "https://jakartaglobe.id/business/foreign-outflows-from-indonesian-equities-top-rp-70-trillion-this-year",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "UOB Kay Hian finds mining stocks attractive as PT Danantara Sumberdaya Indonesia’s export oversight gains clarity",
+      "timestamp": "2026-06-24T11:10:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/112845/arah-saham-tambang-usai-pengawasan-danantara-makin-terang",
+      "tags": [
+        "Export",
+        "Commodities",
+        "Analyst Ratings",
+        "Government Policy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Amman Mineral Internasional Tbk projected to deliver strong 2026 performance",
+      "timestamp": "2026-06-23T19:34:00",
+      "source": "https://investasi.kontan.co.id/news/kinerja-amman-mineral-ammn-diprediksi-positif-cermati-rekomendasi-sahamnya",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Production & Operations",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MSCI Annual Market Classification Review Set to Impact Numerous Indonesian Stocks",
+      "timestamp": "2026-06-23T17:21:00",
+      "source": "https://money.kompas.com/read/2026/06/23/172138226/investor-wajib-tahu-saham-yang-paling-sensitif-review-msci",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Amman Mineral Internasional Tbk highlighted as top mining stock with potential 127% return",
+      "timestamp": "2026-06-23T16:32:02",
+      "source": "https://investor.id/market/443798/saham-tambang-paling-jos-pegang-lama-bisa-cuan-127-antm-lewat-",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Government Policy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net sold Rp 1.11 trillion, with PT Bank Rakyat Indonesia Tbk leading the top‑10 net‑sell stocks",
+      "timestamp": "2026-06-22T22:40:00",
+      "source": "https://investasi.kontan.co.id/news/asing-net-sell-rp-11-triliun-cermati-saham-yang-banyak-dijual-asing-di-awal-pekan",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Bumi Resources Tbk (BUMI) sees 7% weekly gain despite Rp 553.3 bn foreign net sell",
+      "timestamp": "2026-06-21T16:25:54",
+      "source": "https://investor.id/stock/443501/saham-bumi-digoyang-malah-melejit-bisa-ke-rp-300",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia's IHSG Rises 3.76% in the Week as Investors Focus on MSCI Review",
+      "timestamp": "2026-06-21T05:30:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-menguat-376-dalam-sepekan-investor-fokus-pada-review-msci",
+      "tags": [
+        "Global Index",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Foreign Investors Record Net Sell of Rp 1.4 Trillion Across Four Indonesian Stocks",
+      "timestamp": "2026-06-19T13:18:33",
+      "source": "https://investor.id/stock/443335/asing-banting-keras-4-saham",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "BRI Danareksa Sekuritas recommends MBMA, MDKA, and DEWA as IHSG eyes rebound",
+      "timestamp": "2026-06-19T08:24:43",
+      "source": "https://investor.id/stock/443285/ihsg-berpotensi-rebound-3-saham-calon-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Central Bank",
+        "Foreign Investment",
+        "Currency & FX",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "CGS International Sekuritas Indonesia forecasts IHSG strength and highlights six stock picks",
+      "timestamp": "2026-06-19T08:24:43",
+      "source": "https://investor.id/stock/443287/ihsg-bakal-menguat-cermati-6-saham-potensial-cuan",
+      "tags": [
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net bought AMMN, BMRI and TPIA on June 18, 2026",
+      "timestamp": "2026-06-19T07:24:43",
+      "source": "https://investor.id/stock/443278/sahamsaham-ini-masuk-list-koleksi-asing",
+      "tags": [
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia's IHSG falls to 6,172 as foreign investors sell Rp 893 billion",
+      "timestamp": "2026-06-18T19:09:00",
+      "source": "https://money.kompas.com/read/2026/06/18/190949226/ihsg-turun-ke-6172-asing-kabur-dari-bursa-rp-893-miliar",
+      "tags": [
+        "Foreign Investment"
+      ]
+    },
+    {
+      "title": "Phintraco Sekuritas forecasts volatile IHSG and highlights AMMN among six stocks poised for gains",
+      "timestamp": "2026-06-15T06:28:03",
+      "source": "https://investor.id/stock/442733/ihsg-dibayangi-rentetan-agenda-krusial-tapi-6-saham-siap-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Central Bank",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Potential MSCI re‑entry for Antam, Merdeka Gold Resources and Bumi Resources and outlook for Indonesia’s big‑four banks",
+      "timestamp": "2026-06-15T05:28:03",
+      "source": "https://investor.id/stock/442732/berita-populer-potensi-antm-emas-bumi-masuk-msci-hingga-prospek-bbca-bbri-cs",
+      "tags": [
+        "Global Index",
+        "Market Sentiment",
+        "Stock Buyback",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts recommend ANTM, AMMN, BUMI, TINS and BMRI as attractive stocks amid policy tailwinds",
+      "timestamp": "2026-06-14T16:09:45",
+      "source": "https://investor.id/stock/442705/angin-segar-berhembus-ke-antm-bumi-hingga-bmri",
+      "tags": [
+        "Analyst Ratings",
+        "Government Policy",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Maybank Sekuritas flags ANTM, INCO and AMMN as top mining picks amid cautious global sentiment",
+      "timestamp": "2026-06-13T18:59:00",
+      "source": "https://investasi.kontan.co.id/news/masih-ragu-ke-ri-ini-pemicunya-menurut-maybank-sekuritas-saat-jumpa-investor-global",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Dividend Announcement",
+        "Export",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG rises 2.07% to 6,007.656 as foreign investors pour net Rp 193 billion into BBCA and sell Rp 372 billion of BBRI",
+      "timestamp": "2026-06-12T18:28:00",
+      "source": "https://money.kompas.com/read/2026/06/12/182848726/ihsg-ditutup-menguat-207-persen-di-akhir-pekan-asing-serok-saham-bbca-dssa",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "SDPC invests Rp100 billion, ENRG launches rights issue, IPCC declares dividend",
+      "timestamp": "2026-06-12T08:50:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8528748/sdpc-investasi-rp-100-m-enrg-rights-issue-dan-ipcc-tebar-dividen",
+      "tags": [
+        "Capital & Funding",
+        "Rights Issue",
+        "Dividend Announcement",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Amman Mineral Internasional Tbk projects 2026 revenue of $3.79 billion and net profit of $806 million, marking a turning point",
+      "timestamp": "2026-06-11T14:19:02",
+      "source": "https://investor.id/stock/442347/titik-balik-amman-mineral",
+      "tags": [
+        "Financial Metrics",
+        "Business Expansion",
+        "Export",
+        "Commodities",
+        "Bullish"
+      ]
+    }
+  ],
+  "corporate_events": [
+    {
+      "date": "2026-05-19",
+      "type": "RUPS",
+      "detail": "Waktu: 13:00:00 · Lokasi: Soehanna Hall, THE Energy Building, Scbd, LOT 11A, Jalan Jenderal Sudirman Kav. 52-53, Jakarta Selatan, DKI Jakarta"
+    }
+  ],
+  "context_period": {
+    "start": "2026-04-01",
+    "end": "2026-09-30"
+  },
+  "source_availability": {
+    "company_fundamentals": true,
+    "corporate_events": true,
+    "news": true,
+    "peer_comparison": true,
+    "market_context": true,
+    "sector_market_series": false
+  },
+  "news_archive": {
+    "pages": 6,
+    "rows": 178,
+    "pagination_exhausted": true,
+    "totals_seen": [
+      178
+    ]
+  }
 }

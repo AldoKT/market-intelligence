@@ -3,8 +3,8 @@
   "as_of": "2026-09-30",
   "identity": {
     "symbol": "MIKA",
-    "company_name": null,
-    "peer_group": null
+    "company_name": "PT Mitra Keluarga Karyasehat Tbk",
+    "peer_group": "Healthcare Equipment & Providers"
   },
   "current": {
     "scope": "NO_CONTEXT",
@@ -20,5 +20,1029 @@
   "daily_market": {},
   "notes": [
     "Dataset scope: 28 reviewed stocks. No full-market or peer-context score is computed."
-  ]
+  ],
+  "company_snapshot": {
+    "price_date": "2026-10-07",
+    "captured_at": "2026-10-08",
+    "sector": "Healthcare",
+    "industry": "Healthcare Providers",
+    "website": "http://www.mitrakeluarga.com/",
+    "market_cap": 23642718550000,
+    "annual_year": 2025,
+    "valuation_year": 2026,
+    "metrics": [
+      {
+        "label": "Pendapatan",
+        "value": "Rp 5,37 T"
+      },
+      {
+        "label": "Laba bersih",
+        "value": "Rp 1,36 T"
+      },
+      {
+        "label": "Total aset",
+        "value": "Rp 9,27 T"
+      },
+      {
+        "label": "Ekuitas",
+        "value": "Rp 8,17 T"
+      },
+      {
+        "label": "EPS",
+        "value": "Rp 98,13"
+      },
+      {
+        "label": "P/E TTM",
+        "value": "16,78×"
+      },
+      {
+        "label": "P/B",
+        "value": "3,24×"
+      }
+    ]
+  },
+  "fundamental_peers": [
+    {
+      "symbol": "MIKA",
+      "name": "PT Mitra Keluarga Karyasehat Tbk",
+      "year": 2025,
+      "market_cap": 23712255957500,
+      "pe": 16.8275452006913,
+      "pb": 3.24534302238068,
+      "revenue": 5368322143294,
+      "in_universe": true
+    },
+    {
+      "symbol": "SRAJ",
+      "name": "Sejahteraraya Anugrahjaya Tbk",
+      "year": 2025,
+      "market_cap": 159106479870000,
+      "pe": -420.776034651933,
+      "pb": 146.068547397818,
+      "revenue": 2589440000000,
+      "in_universe": false
+    },
+    {
+      "symbol": "SILO",
+      "name": "PT Siloam International Hospitals Tbk",
+      "year": 2025,
+      "market_cap": 24776668125000,
+      "pe": 20.0373856065642,
+      "pb": 2.40990978887596,
+      "revenue": 12847434000000,
+      "in_universe": false
+    },
+    {
+      "symbol": "CARE",
+      "name": "PT Metro Healthcare Indonesia Tbk",
+      "year": 2025,
+      "market_cap": 12502000000000,
+      "pe": 2083.76155977892,
+      "pb": 4.13377609644587,
+      "revenue": 439751605228,
+      "in_universe": false
+    },
+    {
+      "symbol": "PRAY",
+      "name": "PT Famon Awal Bros Sedaya Tbk",
+      "year": 2025,
+      "market_cap": 10678958059500,
+      "pe": 57.7671888192273,
+      "pb": 3.24441751083933,
+      "revenue": 2436837000000,
+      "in_universe": false
+    },
+    {
+      "symbol": "HEAL",
+      "name": "PT Medikaloka Hermina Tbk",
+      "year": 2025,
+      "market_cap": 9373229500000,
+      "pe": 23.5580492010114,
+      "pb": 1.69969617292122,
+      "revenue": 7133538000000,
+      "in_universe": false
+    },
+    {
+      "symbol": "SAME",
+      "name": "Sarana Meditama Metropolitan Tbk",
+      "year": 2025,
+      "market_cap": 5012072703140,
+      "pe": 229.844759409839,
+      "pb": 1.30997681567699,
+      "revenue": 1861971853309,
+      "in_universe": false
+    },
+    {
+      "symbol": "JECX",
+      "name": "PT Nitrasanata Dharma Tbk",
+      "year": 2025,
+      "market_cap": 4814769004000,
+      "pe": null,
+      "pb": 8.43837674646851,
+      "revenue": 926763000000,
+      "in_universe": false
+    },
+    {
+      "symbol": "PRDA",
+      "name": "PT Prodia Widyahusada Tbk",
+      "year": 2025,
+      "market_cap": 2793750000000,
+      "pe": 13.012888290613,
+      "pb": 1.19416082605367,
+      "revenue": 2281704000000,
+      "in_universe": false
+    },
+    {
+      "symbol": "MTMH",
+      "name": "PT Murni Sadar Tbk",
+      "year": 2025,
+      "market_cap": 2047841680500,
+      "pe": 42.5309951014283,
+      "pb": 1.33675053610334,
+      "revenue": 1357852480869,
+      "in_universe": false
+    }
+  ],
+  "market_history": [
+    {
+      "date": "2026-04-01",
+      "ihsg": 7184.438,
+      "market_cap": 12646140309231200
+    },
+    {
+      "date": "2026-04-02",
+      "ihsg": 7026.782,
+      "market_cap": 12301402169484936
+    },
+    {
+      "date": "2026-04-06",
+      "ihsg": 6989.426,
+      "market_cap": 12181292965738515
+    },
+    {
+      "date": "2026-04-07",
+      "ihsg": 6971.027,
+      "market_cap": 12220087895953627
+    },
+    {
+      "date": "2026-04-08",
+      "ihsg": 7279.209,
+      "market_cap": 12745135690725105
+    },
+    {
+      "date": "2026-04-09",
+      "ihsg": 7307.589,
+      "market_cap": 12927661360702306
+    },
+    {
+      "date": "2026-04-10",
+      "ihsg": 7458.496,
+      "market_cap": 13183485554446575
+    },
+    {
+      "date": "2026-04-13",
+      "ihsg": 7500.187,
+      "market_cap": 13334711369769658
+    },
+    {
+      "date": "2026-04-14",
+      "ihsg": 7675.951,
+      "market_cap": 13680203483861089
+    },
+    {
+      "date": "2026-04-15",
+      "ihsg": 7623.586,
+      "market_cap": 13577551326427693
+    },
+    {
+      "date": "2026-04-16",
+      "ihsg": 7621.382,
+      "market_cap": 13580909513734445
+    },
+    {
+      "date": "2026-04-17",
+      "ihsg": 7634.004,
+      "market_cap": 13631805736754862
+    },
+    {
+      "date": "2026-04-20",
+      "ihsg": 7594.111,
+      "market_cap": 13530051609880990
+    },
+    {
+      "date": "2026-04-21",
+      "ihsg": 7559.38,
+      "market_cap": 13439346111420433
+    },
+    {
+      "date": "2026-04-22",
+      "ihsg": 7541.612,
+      "market_cap": 13331962629649015
+    },
+    {
+      "date": "2026-04-23",
+      "ihsg": 7378.606,
+      "market_cap": 13176851273619842
+    },
+    {
+      "date": "2026-04-24",
+      "ihsg": 7129.49,
+      "market_cap": 12732776963937495
+    },
+    {
+      "date": "2026-04-27",
+      "ihsg": 7106.52,
+      "market_cap": 12687518028997883
+    },
+    {
+      "date": "2026-04-28",
+      "ihsg": 7072.392,
+      "market_cap": 12590034125678447
+    },
+    {
+      "date": "2026-04-29",
+      "ihsg": 7101.226,
+      "market_cap": 12635384034178860
+    },
+    {
+      "date": "2026-04-30",
+      "ihsg": 6956.804,
+      "market_cap": 12378413759882228
+    },
+    {
+      "date": "2026-05-04",
+      "ihsg": 6971.953,
+      "market_cap": 12411009903513114
+    },
+    {
+      "date": "2026-05-05",
+      "ihsg": 7057.106,
+      "market_cap": 12626309574250122
+    },
+    {
+      "date": "2026-05-06",
+      "ihsg": 7092.467,
+      "market_cap": 12699830398460331
+    },
+    {
+      "date": "2026-05-07",
+      "ihsg": 7174.321,
+      "market_cap": 12778962713690869
+    },
+    {
+      "date": "2026-05-08",
+      "ihsg": 6969.396,
+      "market_cap": 12402407487340402
+    },
+    {
+      "date": "2026-05-11",
+      "ihsg": 6905.62,
+      "market_cap": 12280030079664830
+    },
+    {
+      "date": "2026-05-12",
+      "ihsg": 6858.899,
+      "market_cap": 12142773427321380
+    },
+    {
+      "date": "2026-05-13",
+      "ihsg": 6723.32,
+      "market_cap": 11821690407165346
+    },
+    {
+      "date": "2026-05-18",
+      "ihsg": 6599.24,
+      "market_cap": 11535132183193835
+    },
+    {
+      "date": "2026-05-19",
+      "ihsg": 6370.679,
+      "market_cap": 11105372542285443
+    },
+    {
+      "date": "2026-05-20",
+      "ihsg": 6318.5,
+      "market_cap": 10959980491971602
+    },
+    {
+      "date": "2026-05-21",
+      "ihsg": 6094.941,
+      "market_cap": 10549507904767653
+    },
+    {
+      "date": "2026-05-22",
+      "ihsg": 6162.045,
+      "market_cap": 10631421768765943
+    },
+    {
+      "date": "2026-05-25",
+      "ihsg": 6206.349,
+      "market_cap": 10692705367587005
+    },
+    {
+      "date": "2026-05-26",
+      "ihsg": 6130.19,
+      "market_cap": 10613054794742598
+    },
+    {
+      "date": "2026-05-29",
+      "ihsg": 6127.381,
+      "market_cap": 10725485605975573
+    },
+    {
+      "date": "2026-06-02",
+      "ihsg": 6195.427,
+      "market_cap": 10891278361519046
+    },
+    {
+      "date": "2026-06-03",
+      "ihsg": 5941.066,
+      "market_cap": 10451829355656557
+    },
+    {
+      "date": "2026-06-04",
+      "ihsg": 5839.785,
+      "market_cap": 10259085293637228
+    },
+    {
+      "date": "2026-06-05",
+      "ihsg": 5594.765,
+      "market_cap": 9803592659706909
+    },
+    {
+      "date": "2026-06-08",
+      "ihsg": 5342.137,
+      "market_cap": 9414771844192581
+    },
+    {
+      "date": "2026-06-09",
+      "ihsg": 5746.648,
+      "market_cap": 10095511071726246
+    },
+    {
+      "date": "2026-06-10",
+      "ihsg": 5902.376,
+      "market_cap": 10341178905408617
+    },
+    {
+      "date": "2026-06-11",
+      "ihsg": 5886.032,
+      "market_cap": 10287950241660193
+    },
+    {
+      "date": "2026-06-12",
+      "ihsg": 6007.656,
+      "market_cap": 10520825968837381
+    },
+    {
+      "date": "2026-06-15",
+      "ihsg": 6254.966,
+      "market_cap": 10899408952482727
+    },
+    {
+      "date": "2026-06-17",
+      "ihsg": 6220.74,
+      "market_cap": 10776148487729844
+    },
+    {
+      "date": "2026-06-18",
+      "ihsg": 6172.34,
+      "market_cap": 10736980009961606
+    },
+    {
+      "date": "2026-06-19",
+      "ihsg": 6177.139,
+      "market_cap": 10784594953877444
+    },
+    {
+      "date": "2026-06-22",
+      "ihsg": 6116.69,
+      "market_cap": 10708711379319414
+    },
+    {
+      "date": "2026-06-23",
+      "ihsg": 6101.333,
+      "market_cap": 10685047810158781
+    },
+    {
+      "date": "2026-06-24",
+      "ihsg": 5883.881,
+      "market_cap": 10312029789078805
+    },
+    {
+      "date": "2026-06-25",
+      "ihsg": 5999.038,
+      "market_cap": 10515718128770631
+    },
+    {
+      "date": "2026-06-26",
+      "ihsg": 5896.134,
+      "market_cap": 10298280398969010
+    },
+    {
+      "date": "2026-06-29",
+      "ihsg": 5820.79,
+      "market_cap": 10179250800138493
+    },
+    {
+      "date": "2026-06-30",
+      "ihsg": 5643.194,
+      "market_cap": 9894028079914985
+    },
+    {
+      "date": "2026-07-01",
+      "ihsg": 5695.116,
+      "market_cap": 10007947906561450
+    },
+    {
+      "date": "2026-07-02",
+      "ihsg": 5744.556,
+      "market_cap": 10060923668899571
+    },
+    {
+      "date": "2026-07-03",
+      "ihsg": 5875.78,
+      "market_cap": 10283558418117973
+    },
+    {
+      "date": "2026-07-06",
+      "ihsg": 5916.07,
+      "market_cap": 10352610980350056
+    },
+    {
+      "date": "2026-07-07",
+      "ihsg": 5986.497,
+      "market_cap": 10462196902308353
+    },
+    {
+      "date": "2026-07-08",
+      "ihsg": 5873.372,
+      "market_cap": 10272894518876036
+    },
+    {
+      "date": "2026-07-09",
+      "ihsg": 5912.442,
+      "market_cap": 10324456194315119
+    },
+    {
+      "date": "2026-07-10",
+      "ihsg": 5924.36,
+      "market_cap": 10336481815483724
+    },
+    {
+      "date": "2026-07-13",
+      "ihsg": 6037.842,
+      "market_cap": 10506156813352519
+    },
+    {
+      "date": "2026-07-14",
+      "ihsg": 6039.521,
+      "market_cap": 10524135196509080
+    },
+    {
+      "date": "2026-07-15",
+      "ihsg": 6041.972,
+      "market_cap": 10548175926837826
+    },
+    {
+      "date": "2026-07-16",
+      "ihsg": 6108.209,
+      "market_cap": 10655671296610599
+    },
+    {
+      "date": "2026-07-17",
+      "ihsg": 6175.535,
+      "market_cap": 10745282583293599
+    },
+    {
+      "date": "2026-07-20",
+      "ihsg": 6231.78,
+      "market_cap": 10832728685598542
+    },
+    {
+      "date": "2026-07-21",
+      "ihsg": 6340.02,
+      "market_cap": 11041209401983643
+    },
+    {
+      "date": "2026-07-22",
+      "ihsg": 6334.476,
+      "market_cap": 11064991318794462
+    },
+    {
+      "date": "2026-07-23",
+      "ihsg": 6315.311,
+      "market_cap": 11058096720739904
+    },
+    {
+      "date": "2026-07-24",
+      "ihsg": 6196.43,
+      "market_cap": 10866941513180025
+    },
+    {
+      "date": "2026-07-27",
+      "ihsg": 6185.783,
+      "market_cap": 10846820086978302
+    },
+    {
+      "date": "2026-07-28",
+      "ihsg": 6130.588,
+      "market_cap": 10748777396682842
+    },
+    {
+      "date": "2026-07-29",
+      "ihsg": 6091.386,
+      "market_cap": 10671925079765237
+    },
+    {
+      "date": "2026-07-30",
+      "ihsg": 6186.363,
+      "market_cap": 10808753111947654
+    },
+    {
+      "date": "2026-07-31",
+      "ihsg": 6236.126,
+      "market_cap": 10919632662108419
+    },
+    {
+      "date": "2026-08-03",
+      "ihsg": 6234.497,
+      "market_cap": 10891533376788029
+    },
+    {
+      "date": "2026-08-04",
+      "ihsg": 6319.613,
+      "market_cap": 11026919553266172
+    },
+    {
+      "date": "2026-08-05",
+      "ihsg": 6351.139,
+      "market_cap": 11081557528513146
+    },
+    {
+      "date": "2026-08-06",
+      "ihsg": 6343.711,
+      "market_cap": 11091230654708629
+    },
+    {
+      "date": "2026-08-07",
+      "ihsg": 6409.654,
+      "market_cap": 11208370900071437
+    },
+    {
+      "date": "2026-08-10",
+      "ihsg": 6365.374,
+      "market_cap": 11127673938712190
+    },
+    {
+      "date": "2026-08-11",
+      "ihsg": 6267.88,
+      "market_cap": 10951983899532200
+    },
+    {
+      "date": "2026-08-12",
+      "ihsg": 6373.849,
+      "market_cap": 11170270993004848
+    },
+    {
+      "date": "2026-08-13",
+      "ihsg": 6301.765,
+      "market_cap": 11047038481790783
+    },
+    {
+      "date": "2026-08-14",
+      "ihsg": 6401.888,
+      "market_cap": 11239913404397486
+    },
+    {
+      "date": "2026-08-18",
+      "ihsg": 6449.83,
+      "market_cap": 11344776423883178
+    },
+    {
+      "date": "2026-08-19",
+      "ihsg": 6394.125,
+      "market_cap": 11242710814171051
+    },
+    {
+      "date": "2026-08-20",
+      "ihsg": 6501.585,
+      "market_cap": 11417105165375641
+    },
+    {
+      "date": "2026-08-21",
+      "ihsg": 6525.69,
+      "market_cap": 11445451211005613
+    },
+    {
+      "date": "2026-08-24",
+      "ihsg": 6501.667,
+      "market_cap": 11400829359169202
+    },
+    {
+      "date": "2026-08-26",
+      "ihsg": 6405.685,
+      "market_cap": 11226539253653372
+    },
+    {
+      "date": "2026-08-27",
+      "ihsg": 6521.75,
+      "market_cap": 11444254799160097
+    },
+    {
+      "date": "2026-08-28",
+      "ihsg": 6518.121,
+      "market_cap": 11427514258790209
+    },
+    {
+      "date": "2026-08-31",
+      "ihsg": 6525.478,
+      "market_cap": 11420266337232824
+    },
+    {
+      "date": "2026-09-01",
+      "ihsg": 6599.943,
+      "market_cap": 11528076154461080
+    },
+    {
+      "date": "2026-09-02",
+      "ihsg": 6595.776,
+      "market_cap": 11521577604064942
+    },
+    {
+      "date": "2026-09-03",
+      "ihsg": 6667.891,
+      "market_cap": 11637538684241799
+    },
+    {
+      "date": "2026-09-04",
+      "ihsg": 6636.475,
+      "market_cap": 11595660058206448
+    },
+    {
+      "date": "2026-09-07",
+      "ihsg": 6619.673,
+      "market_cap": 11571807924987264
+    },
+    {
+      "date": "2026-09-08",
+      "ihsg": 6686.442,
+      "market_cap": 11668902562815871
+    },
+    {
+      "date": "2026-09-09",
+      "ihsg": 6678.201,
+      "market_cap": 11671538636715858
+    },
+    {
+      "date": "2026-09-10",
+      "ihsg": 6589.338,
+      "market_cap": 11526136904331476
+    },
+    {
+      "date": "2026-09-11",
+      "ihsg": 6541.377,
+      "market_cap": 11442963914395062
+    },
+    {
+      "date": "2026-09-14",
+      "ihsg": 6534.693,
+      "market_cap": 11368110758085182
+    },
+    {
+      "date": "2026-09-15",
+      "ihsg": 6461.153,
+      "market_cap": 11257912210981978
+    },
+    {
+      "date": "2026-09-16",
+      "ihsg": 6436.853,
+      "market_cap": 11225219420982876
+    },
+    {
+      "date": "2026-09-17",
+      "ihsg": 6462.431,
+      "market_cap": 11270346560839989
+    },
+    {
+      "date": "2026-09-18",
+      "ihsg": 6441.159,
+      "market_cap": 11262605698050558
+    },
+    {
+      "date": "2026-09-21",
+      "ihsg": 6384.726,
+      "market_cap": 11161910095429389
+    },
+    {
+      "date": "2026-09-22",
+      "ihsg": 6277.044,
+      "market_cap": 10971287923179805
+    },
+    {
+      "date": "2026-09-23",
+      "ihsg": 6374.912,
+      "market_cap": 11141915820582293
+    },
+    {
+      "date": "2026-09-24",
+      "ihsg": 6298.607,
+      "market_cap": 11021365748586840
+    },
+    {
+      "date": "2026-09-25",
+      "ihsg": 6241.892,
+      "market_cap": 10902018198054911
+    },
+    {
+      "date": "2026-09-28",
+      "ihsg": 6147.859,
+      "market_cap": 10755457591436344
+    },
+    {
+      "date": "2026-09-29",
+      "ihsg": 6121.7,
+      "market_cap": 10754858845786069
+    },
+    {
+      "date": "2026-09-30",
+      "ihsg": 6071.138,
+      "market_cap": 10691719699169471
+    }
+  ],
+  "relevant_news": [
+    {
+      "title": "Stocks to Watch as the Fed Raises Interest Rates",
+      "timestamp": "2026-09-22T07:12:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/122254/saham-saham-ini-menarik-dicermati-kala-the-fed-kerek-suku-bunga",
+      "tags": [
+        "Interest Rate",
+        "Analyst Ratings",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Mitra Keluarga Karyasehat Tbk signals dividend payout remains above 25% minimum, targeting 43-44% of net profit",
+      "timestamp": "2026-09-10T16:58:00",
+      "source": "https://market.bisnis.com/read/20260910/192/2003131/sinyal-dividen-mitra-keluarga-mika-tetap-royal-di-atas-batas-minimum-25",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Mitra Keluarga Karyasehat Tbk reports 8% revenue growth in H1 2026, driven by shift to private patients",
+      "timestamp": "2026-09-10T16:50:00",
+      "source": "https://www.idnfinancials.com/id/news/68654/kurangi-pasien-bpjs-pendapatan-mika-tumbuh-8-ditopang-segmen-ini",
+      "tags": [
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Healthcare Stocks Rally in First Trading Session as Anak Krakatau Eruption Boosts Sector Sentiment, Led by SOHO, KAEF, and KLBF",
+      "timestamp": "2026-09-07T13:25:00",
+      "source": "https://market.bisnis.com/read/20260907/7/2002023/erupsi-gunung-anak-krakatau-emiten-kesehatan-soho-kaef-klbf-cs-kompak-hijau",
+      "tags": [
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Mandiri Sekuritas projects Indonesia's IHSG could reach 7,470 by end‑2026, citing four catalysts",
+      "timestamp": "2026-09-03T18:40:00",
+      "source": "https://market.bisnis.com/read/20260903/7/2001179/mandiri-sekuritas-buka-peluang-ihsg-tembus-7470-akhir-2026-ini-katalisnya",
+      "tags": [
+        "Government Policy",
+        "Capital & Funding",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Opens 0.61% Higher at 6,635 as Brokers Provide Mixed Outlooks and Stock Recommendations",
+      "timestamp": "2026-09-03T09:22:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/120365/ihsg-dibuka-menguat-hingga-tembus-6-635",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Network expansions by PT Siloam International Hospitals Tbk, PT Medikaloka Hermina Tbk, PT Sejahteraraya Anugrahjaya Tbk and PT Bundamedik Tbk set to boost H2-2026 revenue",
+      "timestamp": "2026-09-01T20:51:00",
+      "source": "https://investasi.kontan.co.id/news/ekspansi-jadi-katalis-simak-prospek-kinerja-emiten-rumah-sakit-pada-semester-ii-2026",
+      "tags": [
+        "Business Expansion",
+        "Property Transaction",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "SILO, MIKA and HEAL dominate Indonesia’s private hospital sector in H1 2026, with SILO net profit Rp580.68 bn and MIKA Rp684.05 bn",
+      "timestamp": "2026-08-16T16:45:00",
+      "source": "https://emitennews.com/news/top-3-emiten-rumah-sakit-konglo-juaranya-silo-mika-atau-heal",
+      "tags": [
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "RAPBN 2027’s expansive budget could lift a range of Indonesian stocks, according to RHB Sekuritas research",
+      "timestamp": "2026-08-14T19:20:00",
+      "source": "https://market.bisnis.com/read/20260814/7/1996485/rapbn-2027-ekspansif-ini-deretan-saham-yang-berpotensi-ketiban-berkah",
+      "tags": [
+        "Government Policy",
+        "Commodities",
+        "Export",
+        "Dividend Announcement",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts project continued positive performance for PT Mitra Keluarga Karyasehat Tbk and issue a Buy recommendation with a target price of Rp1,950",
+      "timestamp": "2026-08-12T17:37:00",
+      "source": "https://investasi.kontan.co.id/news/kinerja-mitra-keluarga-mika-positif-simak-rekomendasi-sahamnya-dari-analis-berikut",
+      "tags": [
+        "Analyst Ratings",
+        "Business Expansion",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analyst highlights strong earnings growth for PT Mitra Keluarga Karyasehat Tbk (MIKA) and PT Siloam International Hospitals Tbk (SILO) despite rupiah depreciation",
+      "timestamp": "2026-08-12T10:31:00",
+      "source": "https://market.bisnis.com/read/20260812/189/1995562/analis-jagokan-saham-rumah-sakit-mika-dan-silo-di-tengah-beban-depresiasi-rupiah",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Currency & FX",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Mitra Keluarga Karyasehat Tbk reports net profit of Rp684.05 billion in the first half of 2026",
+      "timestamp": "2026-08-06T11:18:00",
+      "source": "https://market.bisnis.com/read/20260806/192/1994145/laba-mitra-keluarga-mika-tembus-rp68405-miliar-di-semester-i2026",
+      "tags": [
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Maybank Sekuritas Indonesia keeps a positive outlook for the IHSG, targeting 7,500 points and recommending five stocks after S&P maintains Indonesia’s credit outlook as stable",
+      "timestamp": "2026-07-16T12:20:00",
+      "source": "https://investasi.kontan.co.id/news/sp-jaga-outlook-ri-maybank-targetkan-ihsg-di-level-7500-berikut-saham-pilihannya",
+      "tags": [
+        "Analyst Ratings",
+        "Credit",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Hospital issuers' outlook remains positive through 2026, with Kiwoom Sekuritas maintaining a buy recommendation on PT Mitra Keluarga Karyasehat Tbk",
+      "timestamp": "2026-07-05T11:38:00",
+      "source": "https://investasi.kontan.co.id/news/prospek-emiten-rumah-sakit-tetap-cerah-di-2026-cek-saham-rekomendasi-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Business Expansion",
+        "Digital Transformation",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts highlight selective prospects for Indonesian hospital issuers in semester II‑2026, recommending PT Mitra Keluarga Karyasehat Tbk",
+      "timestamp": "2026-07-03T12:13:00",
+      "source": "https://investasi.kontan.co.id/news/prospek-emiten-rumah-sakit-selektif-di-semester-ii-2026-ini-pilihan-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Business Expansion",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Phintraco Sekuritas warns of deeper IHSG slide while highlighting MIKA as a profit opportunity",
+      "timestamp": "2026-06-25T05:41:34",
+      "source": "https://investor.id/market/444023/ihsg-terancam-longsor-lebih-dalam-5-saham-malah-berpeluang-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Mergers & Acquisitions",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MSCI Annual Market Classification Review Set to Impact Numerous Indonesian Stocks",
+      "timestamp": "2026-06-23T17:21:00",
+      "source": "https://money.kompas.com/read/2026/06/23/172138226/investor-wajib-tahu-saham-yang-paling-sensitif-review-msci",
+      "tags": [
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Cum Dividend Stocks on June 18, 2026: PT Daaz Bara Lestari Tbk and PT Tower Bersama Infrastructure Tbk Highlighted",
+      "timestamp": "2026-06-18T09:34:00",
+      "source": "https://emitennews.com/news/saham-emiten-cum-dividen-hari-ini-186-ada-daaz-hingga-tbig",
+      "tags": [
+        "Dividend Announcement",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Sixteen Indonesian stocks enter cum‑dividend date on 18 June 2026, with MTDL offering the highest yield of 5 %",
+      "timestamp": "2026-06-18T07:38:00",
+      "source": "https://investasi.kontan.co.id/news/jangan-terlewatkan-16-emiten-saham-cum-dividen-date-hari-ini-186-yield-ada-5",
+      "tags": [
+        "Dividend Announcement",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Buy Recommendations for Indonesian Hospital Stocks MIKA, HEAL and SILO",
+      "timestamp": "2026-06-14T14:34:00",
+      "source": "https://investasi.kontan.co.id/news/rekomendasi-saham-rumah-senin-156-mika-heal-atau-silo-yang-paling-menarik",
+      "tags": [
+        "Analyst Ratings",
+        "Business Expansion",
+        "Mergers & Acquisitions",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Bahana Sekuritas issues buy recommendations for Mitra Keluarga Karyasehat, Siloam International Hospitals, and Medikaloka Hermina as hospital sector shows steady growth",
+      "timestamp": "2026-06-14T11:29:00",
+      "source": "https://investasi.kontan.co.id/news/emiten-sektor-rumah-sakit-dinilai-tetap-tumbuh-meski-dibayangi-sejumlah-tantangan",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Mitra Keluarga Karyasehat Tbk declares Rp43 per share cash dividend",
+      "timestamp": "2026-06-11T10:43:00",
+      "source": "https://emitennews.com/news/mika-tebar-dividen-rp43-cek-tanggal-cairnya",
+      "tags": [
+        "Dividend Announcement",
+        "Shareholders General Meeting",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    }
+  ],
+  "corporate_events": [
+    {
+      "date": "2026-09-10",
+      "type": "RUPS",
+      "detail": "Waktu: 15:00:00 · Lokasi: IDX Public Expose"
+    },
+    {
+      "date": "2026-06-19",
+      "type": "Dividen",
+      "detail": "Dividen per saham Rp 43,00 · Pembayaran: 2026-07-10"
+    },
+    {
+      "date": "2026-06-09",
+      "type": "RUPS",
+      "detail": "Waktu: 10:30:00 · Lokasi: Mitra Keluarga Kalideres, Auditorium LT. 6. JL. Peta Selatan NO. 1, RW. 11, Kalideres, Kec. Kalideres, Daerah Khusus Ibukota Jakarta 11840 Kota Adm. Jakarta Barat Dki. JAKARTA · Agenda #1: The meeting approved the 2025 Annual Report and Financial Statements and granted full discharge to the Board of Directors and Commissioners for their 2025 management and supervision.\nAgenda #2: Shareholders approved a cash dividend of Rp43.00 per share from the 2025 net profit and allocated Rp13,648,067,094 to the reserve fund.\nAgenda #3: The meeting reappointed the existing Board of Directors and Board of Commissioners, including Rustiyan Oen as President Director, for terms effective until 2029.\nAgenda #4: The 2026 remuneration for the Board of Commissioners was capped at 1% of 2025 net revenue, and the Board was authorized to determine Director salaries.\nAgenda #5: The firm Amir Abadi Jusuf, Aryanto, Mawar dan Rekan and accountant Eishennoraz were appointed to audit the 2026 financial statements.\nAgenda #6: The meeting approved a share buyback plan with a maximum budget of Rp1,000,000,000,000 and authorized the Board of Directors to execute the transfer of shares.\nAgenda #7: Shareholders approved amending Article 3 of the Articles of Association to align business activities with the 2025 Indonesia Standard Industrial Classification (KBLI)."
+    },
+    {
+      "date": "2026-05-21",
+      "type": "RUPS",
+      "detail": "Waktu: 10:00:00"
+    }
+  ],
+  "context_period": {
+    "start": "2026-04-01",
+    "end": "2026-09-30"
+  },
+  "source_availability": {
+    "company_fundamentals": true,
+    "corporate_events": true,
+    "news": true,
+    "peer_comparison": true,
+    "market_context": true,
+    "sector_market_series": false
+  },
+  "news_archive": {
+    "pages": 1,
+    "rows": 22,
+    "pagination_exhausted": true,
+    "totals_seen": [
+      22
+    ]
+  }
 }

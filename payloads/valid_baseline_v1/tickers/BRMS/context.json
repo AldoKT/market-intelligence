@@ -3,8 +3,8 @@
   "as_of": "2026-09-30",
   "identity": {
     "symbol": "BRMS",
-    "company_name": null,
-    "peer_group": null
+    "company_name": "Bumi Resources Minerals Tbk",
+    "peer_group": "Basic Materials"
   },
   "current": {
     "scope": "NO_CONTEXT",
@@ -20,5 +20,1658 @@
   "daily_market": {},
   "notes": [
     "Dataset scope: 28 reviewed stocks. No full-market or peer-context score is computed."
-  ]
+  ],
+  "company_snapshot": {
+    "price_date": "2026-10-07",
+    "captured_at": "2026-10-08",
+    "sector": "Basic Materials",
+    "industry": "Metals & Minerals",
+    "website": "www.bumiresourcesminerals.com",
+    "market_cap": 85779344404490,
+    "annual_year": 2025,
+    "valuation_year": 2026,
+    "metrics": [
+      {
+        "label": "Pendapatan",
+        "value": "Rp 4,17 T"
+      },
+      {
+        "label": "Laba bersih",
+        "value": "Rp 836,99 B"
+      },
+      {
+        "label": "Total aset",
+        "value": "Rp 21,93 T"
+      },
+      {
+        "label": "Ekuitas",
+        "value": "Rp 17,48 T"
+      },
+      {
+        "label": "EPS",
+        "value": "Rp 5,90"
+      },
+      {
+        "label": "P/E TTM",
+        "value": "128,68×"
+      },
+      {
+        "label": "P/B",
+        "value": "3,81×"
+      }
+    ]
+  },
+  "fundamental_peers": [
+    {
+      "symbol": "BRMS",
+      "name": "Bumi Resources Minerals Tbk",
+      "year": 2025,
+      "market_cap": 85779344404490,
+      "pe": 128.681108271325,
+      "pb": 3.80749435448613,
+      "revenue": 4173309138074,
+      "in_universe": true
+    },
+    {
+      "symbol": "ANTM",
+      "name": "Aneka Tambang Tbk.",
+      "year": 2025,
+      "market_cap": 78099985356250,
+      "pe": 8.77424408988265,
+      "pb": 2.09551817294205,
+      "revenue": 84642439000000,
+      "in_universe": true
+    },
+    {
+      "symbol": "NCKL",
+      "name": "PT Trimegah Bangun Persada Tbk",
+      "year": 2025,
+      "market_cap": 54895782000000,
+      "pe": 5.14801415334402,
+      "pb": 1.25126094740861,
+      "revenue": 29632799000000,
+      "in_universe": true
+    },
+    {
+      "symbol": "MBMA",
+      "name": "PT Merdeka Battery Materials Tbk",
+      "year": 2025,
+      "market_cap": 53133746590800,
+      "pe": 50.3527116240155,
+      "pb": 1.92970800646396,
+      "revenue": 24008773360660,
+      "in_universe": false
+    },
+    {
+      "symbol": "INCO",
+      "name": "Vale Indonesia Tbk",
+      "year": 2025,
+      "market_cap": 45531869186880,
+      "pe": 17.0090573804861,
+      "pb": 0.898449062355063,
+      "revenue": 16572359009700,
+      "in_universe": true
+    },
+    {
+      "symbol": "TINS",
+      "name": "PT Timah Tbk",
+      "year": 2025,
+      "market_cap": 34781008630180,
+      "pe": 9.32906661081727,
+      "pb": 3.29764577202305,
+      "revenue": 11552733000000,
+      "in_universe": true
+    },
+    {
+      "symbol": "IFSH",
+      "name": "PT Ifishdeco Tbk",
+      "year": 2025,
+      "market_cap": 4377500000000,
+      "pe": 35.5853512496148,
+      "pb": 5.40778287570013,
+      "revenue": 1000944680453,
+      "in_universe": false
+    },
+    {
+      "symbol": "DAAZ",
+      "name": "PT Daaz Bara Lestari Tbk",
+      "year": 2025,
+      "market_cap": 4233640000000,
+      "pe": 15.502762149675,
+      "pb": 2.52179242541966,
+      "revenue": 13412629633004,
+      "in_universe": false
+    },
+    {
+      "symbol": "NICL",
+      "name": "PT PAM Mineral Tbk",
+      "year": 2025,
+      "market_cap": 4020273774846,
+      "pe": 37.1800481074381,
+      "pb": 4.83645043373912,
+      "revenue": 1473081323094,
+      "in_universe": false
+    },
+    {
+      "symbol": "DKFT",
+      "name": "Central Omega Resources Tbk",
+      "year": 2025,
+      "market_cap": 3749433989000,
+      "pe": 5.59948873740599,
+      "pb": 2.43760361162018,
+      "revenue": 1576178059957,
+      "in_universe": false
+    }
+  ],
+  "market_history": [
+    {
+      "date": "2026-04-01",
+      "ihsg": 7184.438,
+      "market_cap": 12646140309231200
+    },
+    {
+      "date": "2026-04-02",
+      "ihsg": 7026.782,
+      "market_cap": 12301402169484936
+    },
+    {
+      "date": "2026-04-06",
+      "ihsg": 6989.426,
+      "market_cap": 12181292965738515
+    },
+    {
+      "date": "2026-04-07",
+      "ihsg": 6971.027,
+      "market_cap": 12220087895953627
+    },
+    {
+      "date": "2026-04-08",
+      "ihsg": 7279.209,
+      "market_cap": 12745135690725105
+    },
+    {
+      "date": "2026-04-09",
+      "ihsg": 7307.589,
+      "market_cap": 12927661360702306
+    },
+    {
+      "date": "2026-04-10",
+      "ihsg": 7458.496,
+      "market_cap": 13183485554446575
+    },
+    {
+      "date": "2026-04-13",
+      "ihsg": 7500.187,
+      "market_cap": 13334711369769658
+    },
+    {
+      "date": "2026-04-14",
+      "ihsg": 7675.951,
+      "market_cap": 13680203483861089
+    },
+    {
+      "date": "2026-04-15",
+      "ihsg": 7623.586,
+      "market_cap": 13577551326427693
+    },
+    {
+      "date": "2026-04-16",
+      "ihsg": 7621.382,
+      "market_cap": 13580909513734445
+    },
+    {
+      "date": "2026-04-17",
+      "ihsg": 7634.004,
+      "market_cap": 13631805736754862
+    },
+    {
+      "date": "2026-04-20",
+      "ihsg": 7594.111,
+      "market_cap": 13530051609880990
+    },
+    {
+      "date": "2026-04-21",
+      "ihsg": 7559.38,
+      "market_cap": 13439346111420433
+    },
+    {
+      "date": "2026-04-22",
+      "ihsg": 7541.612,
+      "market_cap": 13331962629649015
+    },
+    {
+      "date": "2026-04-23",
+      "ihsg": 7378.606,
+      "market_cap": 13176851273619842
+    },
+    {
+      "date": "2026-04-24",
+      "ihsg": 7129.49,
+      "market_cap": 12732776963937495
+    },
+    {
+      "date": "2026-04-27",
+      "ihsg": 7106.52,
+      "market_cap": 12687518028997883
+    },
+    {
+      "date": "2026-04-28",
+      "ihsg": 7072.392,
+      "market_cap": 12590034125678447
+    },
+    {
+      "date": "2026-04-29",
+      "ihsg": 7101.226,
+      "market_cap": 12635384034178860
+    },
+    {
+      "date": "2026-04-30",
+      "ihsg": 6956.804,
+      "market_cap": 12378413759882228
+    },
+    {
+      "date": "2026-05-04",
+      "ihsg": 6971.953,
+      "market_cap": 12411009903513114
+    },
+    {
+      "date": "2026-05-05",
+      "ihsg": 7057.106,
+      "market_cap": 12626309574250122
+    },
+    {
+      "date": "2026-05-06",
+      "ihsg": 7092.467,
+      "market_cap": 12699830398460331
+    },
+    {
+      "date": "2026-05-07",
+      "ihsg": 7174.321,
+      "market_cap": 12778962713690869
+    },
+    {
+      "date": "2026-05-08",
+      "ihsg": 6969.396,
+      "market_cap": 12402407487340402
+    },
+    {
+      "date": "2026-05-11",
+      "ihsg": 6905.62,
+      "market_cap": 12280030079664830
+    },
+    {
+      "date": "2026-05-12",
+      "ihsg": 6858.899,
+      "market_cap": 12142773427321380
+    },
+    {
+      "date": "2026-05-13",
+      "ihsg": 6723.32,
+      "market_cap": 11821690407165346
+    },
+    {
+      "date": "2026-05-18",
+      "ihsg": 6599.24,
+      "market_cap": 11535132183193835
+    },
+    {
+      "date": "2026-05-19",
+      "ihsg": 6370.679,
+      "market_cap": 11105372542285443
+    },
+    {
+      "date": "2026-05-20",
+      "ihsg": 6318.5,
+      "market_cap": 10959980491971602
+    },
+    {
+      "date": "2026-05-21",
+      "ihsg": 6094.941,
+      "market_cap": 10549507904767653
+    },
+    {
+      "date": "2026-05-22",
+      "ihsg": 6162.045,
+      "market_cap": 10631421768765943
+    },
+    {
+      "date": "2026-05-25",
+      "ihsg": 6206.349,
+      "market_cap": 10692705367587005
+    },
+    {
+      "date": "2026-05-26",
+      "ihsg": 6130.19,
+      "market_cap": 10613054794742598
+    },
+    {
+      "date": "2026-05-29",
+      "ihsg": 6127.381,
+      "market_cap": 10725485605975573
+    },
+    {
+      "date": "2026-06-02",
+      "ihsg": 6195.427,
+      "market_cap": 10891278361519046
+    },
+    {
+      "date": "2026-06-03",
+      "ihsg": 5941.066,
+      "market_cap": 10451829355656557
+    },
+    {
+      "date": "2026-06-04",
+      "ihsg": 5839.785,
+      "market_cap": 10259085293637228
+    },
+    {
+      "date": "2026-06-05",
+      "ihsg": 5594.765,
+      "market_cap": 9803592659706909
+    },
+    {
+      "date": "2026-06-08",
+      "ihsg": 5342.137,
+      "market_cap": 9414771844192581
+    },
+    {
+      "date": "2026-06-09",
+      "ihsg": 5746.648,
+      "market_cap": 10095511071726246
+    },
+    {
+      "date": "2026-06-10",
+      "ihsg": 5902.376,
+      "market_cap": 10341178905408617
+    },
+    {
+      "date": "2026-06-11",
+      "ihsg": 5886.032,
+      "market_cap": 10287950241660193
+    },
+    {
+      "date": "2026-06-12",
+      "ihsg": 6007.656,
+      "market_cap": 10520825968837381
+    },
+    {
+      "date": "2026-06-15",
+      "ihsg": 6254.966,
+      "market_cap": 10899408952482727
+    },
+    {
+      "date": "2026-06-17",
+      "ihsg": 6220.74,
+      "market_cap": 10776148487729844
+    },
+    {
+      "date": "2026-06-18",
+      "ihsg": 6172.34,
+      "market_cap": 10736980009961606
+    },
+    {
+      "date": "2026-06-19",
+      "ihsg": 6177.139,
+      "market_cap": 10784594953877444
+    },
+    {
+      "date": "2026-06-22",
+      "ihsg": 6116.69,
+      "market_cap": 10708711379319414
+    },
+    {
+      "date": "2026-06-23",
+      "ihsg": 6101.333,
+      "market_cap": 10685047810158781
+    },
+    {
+      "date": "2026-06-24",
+      "ihsg": 5883.881,
+      "market_cap": 10312029789078805
+    },
+    {
+      "date": "2026-06-25",
+      "ihsg": 5999.038,
+      "market_cap": 10515718128770631
+    },
+    {
+      "date": "2026-06-26",
+      "ihsg": 5896.134,
+      "market_cap": 10298280398969010
+    },
+    {
+      "date": "2026-06-29",
+      "ihsg": 5820.79,
+      "market_cap": 10179250800138493
+    },
+    {
+      "date": "2026-06-30",
+      "ihsg": 5643.194,
+      "market_cap": 9894028079914985
+    },
+    {
+      "date": "2026-07-01",
+      "ihsg": 5695.116,
+      "market_cap": 10007947906561450
+    },
+    {
+      "date": "2026-07-02",
+      "ihsg": 5744.556,
+      "market_cap": 10060923668899571
+    },
+    {
+      "date": "2026-07-03",
+      "ihsg": 5875.78,
+      "market_cap": 10283558418117973
+    },
+    {
+      "date": "2026-07-06",
+      "ihsg": 5916.07,
+      "market_cap": 10352610980350056
+    },
+    {
+      "date": "2026-07-07",
+      "ihsg": 5986.497,
+      "market_cap": 10462196902308353
+    },
+    {
+      "date": "2026-07-08",
+      "ihsg": 5873.372,
+      "market_cap": 10272894518876036
+    },
+    {
+      "date": "2026-07-09",
+      "ihsg": 5912.442,
+      "market_cap": 10324456194315119
+    },
+    {
+      "date": "2026-07-10",
+      "ihsg": 5924.36,
+      "market_cap": 10336481815483724
+    },
+    {
+      "date": "2026-07-13",
+      "ihsg": 6037.842,
+      "market_cap": 10506156813352519
+    },
+    {
+      "date": "2026-07-14",
+      "ihsg": 6039.521,
+      "market_cap": 10524135196509080
+    },
+    {
+      "date": "2026-07-15",
+      "ihsg": 6041.972,
+      "market_cap": 10548175926837826
+    },
+    {
+      "date": "2026-07-16",
+      "ihsg": 6108.209,
+      "market_cap": 10655671296610599
+    },
+    {
+      "date": "2026-07-17",
+      "ihsg": 6175.535,
+      "market_cap": 10745282583293599
+    },
+    {
+      "date": "2026-07-20",
+      "ihsg": 6231.78,
+      "market_cap": 10832728685598542
+    },
+    {
+      "date": "2026-07-21",
+      "ihsg": 6340.02,
+      "market_cap": 11041209401983643
+    },
+    {
+      "date": "2026-07-22",
+      "ihsg": 6334.476,
+      "market_cap": 11064991318794462
+    },
+    {
+      "date": "2026-07-23",
+      "ihsg": 6315.311,
+      "market_cap": 11058096720739904
+    },
+    {
+      "date": "2026-07-24",
+      "ihsg": 6196.43,
+      "market_cap": 10866941513180025
+    },
+    {
+      "date": "2026-07-27",
+      "ihsg": 6185.783,
+      "market_cap": 10846820086978302
+    },
+    {
+      "date": "2026-07-28",
+      "ihsg": 6130.588,
+      "market_cap": 10748777396682842
+    },
+    {
+      "date": "2026-07-29",
+      "ihsg": 6091.386,
+      "market_cap": 10671925079765237
+    },
+    {
+      "date": "2026-07-30",
+      "ihsg": 6186.363,
+      "market_cap": 10808753111947654
+    },
+    {
+      "date": "2026-07-31",
+      "ihsg": 6236.126,
+      "market_cap": 10919632662108419
+    },
+    {
+      "date": "2026-08-03",
+      "ihsg": 6234.497,
+      "market_cap": 10891533376788029
+    },
+    {
+      "date": "2026-08-04",
+      "ihsg": 6319.613,
+      "market_cap": 11026919553266172
+    },
+    {
+      "date": "2026-08-05",
+      "ihsg": 6351.139,
+      "market_cap": 11081557528513146
+    },
+    {
+      "date": "2026-08-06",
+      "ihsg": 6343.711,
+      "market_cap": 11091230654708629
+    },
+    {
+      "date": "2026-08-07",
+      "ihsg": 6409.654,
+      "market_cap": 11208370900071437
+    },
+    {
+      "date": "2026-08-10",
+      "ihsg": 6365.374,
+      "market_cap": 11127673938712190
+    },
+    {
+      "date": "2026-08-11",
+      "ihsg": 6267.88,
+      "market_cap": 10951983899532200
+    },
+    {
+      "date": "2026-08-12",
+      "ihsg": 6373.849,
+      "market_cap": 11170270993004848
+    },
+    {
+      "date": "2026-08-13",
+      "ihsg": 6301.765,
+      "market_cap": 11047038481790783
+    },
+    {
+      "date": "2026-08-14",
+      "ihsg": 6401.888,
+      "market_cap": 11239913404397486
+    },
+    {
+      "date": "2026-08-18",
+      "ihsg": 6449.83,
+      "market_cap": 11344776423883178
+    },
+    {
+      "date": "2026-08-19",
+      "ihsg": 6394.125,
+      "market_cap": 11242710814171051
+    },
+    {
+      "date": "2026-08-20",
+      "ihsg": 6501.585,
+      "market_cap": 11417105165375641
+    },
+    {
+      "date": "2026-08-21",
+      "ihsg": 6525.69,
+      "market_cap": 11445451211005613
+    },
+    {
+      "date": "2026-08-24",
+      "ihsg": 6501.667,
+      "market_cap": 11400829359169202
+    },
+    {
+      "date": "2026-08-26",
+      "ihsg": 6405.685,
+      "market_cap": 11226539253653372
+    },
+    {
+      "date": "2026-08-27",
+      "ihsg": 6521.75,
+      "market_cap": 11444254799160097
+    },
+    {
+      "date": "2026-08-28",
+      "ihsg": 6518.121,
+      "market_cap": 11427514258790209
+    },
+    {
+      "date": "2026-08-31",
+      "ihsg": 6525.478,
+      "market_cap": 11420266337232824
+    },
+    {
+      "date": "2026-09-01",
+      "ihsg": 6599.943,
+      "market_cap": 11528076154461080
+    },
+    {
+      "date": "2026-09-02",
+      "ihsg": 6595.776,
+      "market_cap": 11521577604064942
+    },
+    {
+      "date": "2026-09-03",
+      "ihsg": 6667.891,
+      "market_cap": 11637538684241799
+    },
+    {
+      "date": "2026-09-04",
+      "ihsg": 6636.475,
+      "market_cap": 11595660058206448
+    },
+    {
+      "date": "2026-09-07",
+      "ihsg": 6619.673,
+      "market_cap": 11571807924987264
+    },
+    {
+      "date": "2026-09-08",
+      "ihsg": 6686.442,
+      "market_cap": 11668902562815871
+    },
+    {
+      "date": "2026-09-09",
+      "ihsg": 6678.201,
+      "market_cap": 11671538636715858
+    },
+    {
+      "date": "2026-09-10",
+      "ihsg": 6589.338,
+      "market_cap": 11526136904331476
+    },
+    {
+      "date": "2026-09-11",
+      "ihsg": 6541.377,
+      "market_cap": 11442963914395062
+    },
+    {
+      "date": "2026-09-14",
+      "ihsg": 6534.693,
+      "market_cap": 11368110758085182
+    },
+    {
+      "date": "2026-09-15",
+      "ihsg": 6461.153,
+      "market_cap": 11257912210981978
+    },
+    {
+      "date": "2026-09-16",
+      "ihsg": 6436.853,
+      "market_cap": 11225219420982876
+    },
+    {
+      "date": "2026-09-17",
+      "ihsg": 6462.431,
+      "market_cap": 11270346560839989
+    },
+    {
+      "date": "2026-09-18",
+      "ihsg": 6441.159,
+      "market_cap": 11262605698050558
+    },
+    {
+      "date": "2026-09-21",
+      "ihsg": 6384.726,
+      "market_cap": 11161910095429389
+    },
+    {
+      "date": "2026-09-22",
+      "ihsg": 6277.044,
+      "market_cap": 10971287923179805
+    },
+    {
+      "date": "2026-09-23",
+      "ihsg": 6374.912,
+      "market_cap": 11141915820582293
+    },
+    {
+      "date": "2026-09-24",
+      "ihsg": 6298.607,
+      "market_cap": 11021365748586840
+    },
+    {
+      "date": "2026-09-25",
+      "ihsg": 6241.892,
+      "market_cap": 10902018198054911
+    },
+    {
+      "date": "2026-09-28",
+      "ihsg": 6147.859,
+      "market_cap": 10755457591436344
+    },
+    {
+      "date": "2026-09-29",
+      "ihsg": 6121.7,
+      "market_cap": 10754858845786069
+    },
+    {
+      "date": "2026-09-30",
+      "ihsg": 6071.138,
+      "market_cap": 10691719699169471
+    }
+  ],
+  "relevant_news": [
+    {
+      "title": "IHSG Plunges 1.51% and Rupiah Nears Rp18,000/US$ as Fed Rate Hike and BEI Rule Changes Weigh on Markets",
+      "timestamp": "2026-09-28T17:17:19",
+      "source": "https://www.cnbcindonesia.com/market/20260928161806-17-771517/ihsg-anjlok-1-dan-dolar-as-nyaris-rp-18000-ini-penyebabnya",
+      "tags": [
+        "Interest Rate",
+        "Currency & FX",
+        "Central Bank",
+        "Politics & Regulation",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Adika Aryasthana Bakrie Buys Shares of Bumi Resources Minerals",
+      "timestamp": "2026-09-28T13:44:32",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-7738-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "Foreign investors dump these stocks over the week as the IDX Composite falls 3.09% to 6,241.89",
+      "timestamp": "2026-09-26T22:46:00",
+      "source": "https://investasi.kontan.co.id/news/asing-banyak-tadah-saham-saham-ini-sepekan-saat-ihsg-ambruk-309-ke-6241",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Second Liner Stocks Remain Prospective Through End‑2026, Catalysts Highlighted",
+      "timestamp": "2026-09-26T17:30:00",
+      "source": "https://investasi.kontan.co.id/news/saham-second-liner-masih-prospektif-hingga-akhir-2026-ini-katalisnya",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Strengthens After BI Holds Rate, Analysts Recommend BNGA, BRMS, SRTG, and INDY",
+      "timestamp": "2026-09-23T21:07:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-menguat-setelah-bi-tahan-suku-bunga-ini-saham-pilihan-analis",
+      "tags": [
+        "Central Bank",
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Adika Aryasthana Bakrie joins PT Bumi Resources Minerals Tbk (BRMS) board after buying 750,500 shares",
+      "timestamp": "2026-09-23T20:05:00",
+      "source": "https://market.bisnis.com/read/20260923/192/2006655/arya-bakrie-masuk-deretan-direksi-pengoleksi-saham-brms",
+      "tags": [
+        "Executive Changes",
+        "Ownership",
+        "Production & Operations",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Adika Aryasthana Bakrie Buy Shares of Bumi Resources Minerals",
+      "timestamp": "2026-09-23T16:10:00",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-7171-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "IHSG drops over 1% as PT Bank Rakyat Indonesia (Persero) Tbk (BBRI) drags the index",
+      "timestamp": "2026-09-22T10:54:06",
+      "source": "https://www.cnbcindonesia.com/market/20260922104651-17-769794/tiba-tiba-ihsg-turun-1-lebih-ini-penyebabnya",
+      "tags": [
+        "Central Bank",
+        "Global Economy",
+        "Interest Rate",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign Investors Net Sold Rp2.9 trillion in the Week of 14–18 September 2026, Led by PT Bank Mandiri (Persero) Tbk (BMRI) and PT Bumi Resources Minerals Tbk (BRMS)",
+      "timestamp": "2026-09-21T09:10:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/122171/daftar-saham-yang-dijual-investor-asing-pekan-lalu-ada-pack",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign investors favor PT Bumi Resources Minerals Tbk (BRMS), PT Merdeka Gold Resources Tbk (EMAS) and PT Adaro Andalan Indonesia Tbk (AADI); Top 10 Net‑Buy Stocks of the Week",
+      "timestamp": "2026-09-19T07:17:00",
+      "source": "https://market.bisnis.com/read/20260919/7/2005456/saham-brms-emas-aadi-jadi-favorit-investor-asing-simak-top-10-saham-net-buy-asing-sepekan",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "VanEck GDX Index Review May Generate $43 million Inflow to AMMN, $37 million to BRMS, and $3 million to ARCI",
+      "timestamp": "2026-09-14T09:55:00",
+      "source": "https://market.bisnis.com/read/20260914/192/2003867/peluang-dana-asing-masuk-ammn-brms-dan-arci-dari-evaluasi-indeks-emas-gdx",
+      "tags": [
+        "Foreign Investment",
+        "Asset Management",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Opens Weaker at Start of Week, Pressured by Global Sentiment",
+      "timestamp": "2026-09-14T09:33:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/121427/ihsg-dibuka-melemah-di-awal-pekan-tertekan-sentimen-global",
+      "tags": [
+        "Market Sentiment",
+        "Commodities",
+        "Interest Rate",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Grup Djarum, Low Tuck Kwong, and Prajogo Pangestu Stocks Weigh Down the IHSG for the Week",
+      "timestamp": "2026-09-12T08:12:00",
+      "source": "https://market.bisnis.com/read/20260912/7/2003568/saham-grup-djarum-low-tuck-kwong-hingga-prajogo-tekan-ihsg-sepekan",
+      "tags": [
+        "Market Sentiment",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG Falls 1.49% in First Session as Global Markets Slide on Oil Surge and Fed Rate Hike Bets",
+      "timestamp": "2026-09-11T13:54:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/121273/penyebab-ihsg-turun-1-49-siang-hari-ini",
+      "tags": [
+        "Global Economy",
+        "Commodities",
+        "Interest Rate",
+        "Currency & FX"
+      ]
+    },
+    {
+      "title": "Foreign investors heavily bought BBRI shares and sold CPIN and BRMS in the week of August 31–September 4, 2026.",
+      "timestamp": "2026-09-07T08:26:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/120665/saham-bbri-diborong-investor-asing-sepekan-cpin-brms-dilego",
+      "tags": [
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign Investors Return to Bumi Resources (BUMI) as Samuel Sekuritas Maintains Buy Rating with Rp 300 Target",
+      "timestamp": "2026-09-06T17:28:08",
+      "source": "https://investor.id/market/453021/putar-arah-aliran-dana-di-saham-bumi-resources-bumi",
+      "tags": [
+        "Foreign Investment",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "The Fate of Indonesian Stocks Amid MSCI's Whirlwind",
+      "timestamp": "2026-09-03T06:22:02",
+      "source": "https://investor.id/market/452657/nasib-saham-di-pusaran-msci",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Review the Stock Recommendations for PWON, SILO, and BRMS for Thursday Trading (3/9/2026)",
+      "timestamp": "2026-09-03T05:00:00",
+      "source": "https://investasi.kontan.co.id/news/simak-rekomendasi-saham-pwon-silo-dan-brms-untuk-perdagangan-kamis-392026",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG predicted to trade sideways on Thursday, 3 September 2026, with ARCI, BBRI, BRMS, and BRPT recommended for trading",
+      "timestamp": "2026-09-02T19:40:24",
+      "source": "https://investor.id/market/452622/prediksi-ihsg-dan-rekomendasi-saham-kamis-3-september-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Currency & FX",
+        "Global Economy",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Mega Capital Sekuritas recommends BGTG, BUMI, and BUVA in today's stock picks",
+      "timestamp": "2026-09-02T09:30:34",
+      "source": "https://www.cnbcindonesia.com/market/20260902082033-17-764217/rekomendasi-saham-hari-ini-bgtg-bumi-hingga-buva",
+      "tags": [
+        "Analyst Ratings",
+        "Rights Issue",
+        "Foreign Investment",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG projected sideways‑bearish for September 2026 with key support at 6,400‑6,500 and stock picks from Phintraco and Sucor Sekuritas",
+      "timestamp": "2026-08-31T17:05:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diproyeksi-sideways-bearish-di-september-2026-cek-rekomendasi-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Global Index",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign investors snap up PT Bumi Resources Tbk, BRMS and TPIA as the IHSG climbs 116 points",
+      "timestamp": "2026-08-28T08:36:03",
+      "source": "https://investor.id/market/451926/saham-unggulan-ini-diserok-asing",
+      "tags": [
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors net bought ten Indonesian stocks as the IDX Composite fell 1.48%",
+      "timestamp": "2026-08-27T07:07:00",
+      "source": "https://money.kompas.com/read/2026/08/27/070700026/10-saham-yang-diborong-asing-saat-ihsg-anjlok-1-48-persen",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Upcoming MSCI Index Rebalancing Ahead of Week, Projected Direction for Indonesia's IHSG",
+      "timestamp": "2026-08-26T17:44:00",
+      "source": "https://investasi.kontan.co.id/news/ada-rebalancing-indeks-msci-pekan-depan-begini-proyeksi-arah-ihsg",
+      "tags": [
+        "Global Index",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Indonesia's Composite Index Opens in Red Zone as Brokers Cite Economic Data and Global Sentiment",
+      "timestamp": "2026-08-26T09:25:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/119479/ihsg-awali-perdagangan-di-zona-merah-ini-penyebabnya",
+      "tags": [
+        "Market Sentiment",
+        "Global Economy",
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Check Stock Recommendations While the IHSG Weakens",
+      "timestamp": "2026-08-26T09:19:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8634513/cek-rekomendasi-saham-saat-ihsg-melemah",
+      "tags": [
+        "Private Placement",
+        "Ownership",
+        "Foreign Investment",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG projected to strengthen as analysts recommend buy positions in BBRI, BUMI, BRMS, SRTG, FORE, MBMA and TLKM",
+      "timestamp": "2026-08-24T07:33:00",
+      "source": "https://investasi.kontan.co.id/news/cek-rekomendasi-saham-pilihan-hari-ini-248-ihsg-diproyeksi-kembali-menguat",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts predict ANTM, HRTA, BRMS and other gold issuers will benefit from the newly launched Indonesia Bullion Market Association",
+      "timestamp": "2026-08-24T05:43:00",
+      "source": "https://investasi.kontan.co.id/news/emiten-emas-ini-diprediksi-diuntungkan-dengan-hadirnya-asosiasi-pasar-bullion",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG strengthens toward 6,500, with large‑cap gains and BBCA interim dividend announcement",
+      "timestamp": "2026-08-21T08:34:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8628013/ihsg-menguat-ke-6-500-simak-rekomendasi-saham-hari-ini",
+      "tags": [
+        "Dividend Announcement",
+        "Stock Buyback",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors top up ten Indonesian stocks amid IHSG jump, with AMMN and BBRI leading net purchases",
+      "timestamp": "2026-08-21T08:20:00",
+      "source": "https://money.kompas.com/read/2026/08/21/082000026/10-saham-yang-diborong-asing-saat-ihsg-melonjak-ada-ammn-dan-bbri",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG projected to strengthen on Friday (20/8) with BBCA, BBRI, BYAN, AMMN, BRMS, SRTG and SCMA highlighted as picks",
+      "timestamp": "2026-08-20T18:32:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diproyeksikan-menguat-di-perdagangan-jumat-208-ini-saham-pilihannya",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG opens higher at 6,447 as AMMN, ANTM and gold rise into the green zone",
+      "timestamp": "2026-08-20T09:13:00",
+      "source": "https://market.bisnis.com/read/20260820/7/1997653/ihsg-dibuka-menguat-ke-6447-saham-ammn-antm-hingga-emas-naik-ke-zona-hijau",
+      "tags": [
+        "Central Bank",
+        "Interest Rate",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "IHSG projected to move within a narrow range on Wednesday 19 August, with stock recommendations for BYAN, BRMS, EMAS, PGEO, TAPG, EMTK, ADRO and BWPT",
+      "timestamp": "2026-08-19T07:00:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-berpeluang-bergerak-terbatas-pada-rabu-198-saham-saham-ini-bisa-ditimbang",
+      "tags": [
+        "Analyst Ratings",
+        "Central Bank",
+        "Interest Rate",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Vulnerable to Profit Taking; Analysts Recommend Selected Stocks for Wednesday (19 Aug)",
+      "timestamp": "2026-08-18T21:56:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-rawan-profit-taking-simak-saham-pilihan-analis-untuk-rabu-198",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Samuel Sekuritas maintains BUY on PT Bumi Resources Tbk as the company pivots from coal to gold, setting a target price of Rp300",
+      "timestamp": "2026-08-17T18:59:00",
+      "source": "https://investasi.kontan.co.id/news/bumi-tak-lagi-andalkan-batubara-ekspansi-ke-emas-ini-rekomendasi-samuel-sekuritas",
+      "tags": [
+        "Analyst Ratings",
+        "Business Expansion",
+        "Mergers & Acquisitions",
+        "Financial Metrics",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Basic Materials Stocks Grow Significantly Over the Past Month, Prospects for ANTM, BRMS, MDKA, AMMN and TPIA",
+      "timestamp": "2026-08-17T12:50:00",
+      "source": "https://investasi.kontan.co.id/news/saham-emiten-bahan-baku-tumbuh-signifikan-dalam-sebulan-terakhir-simak-prospeknya",
+      "tags": [
+        "Commodities",
+        "Analyst Ratings",
+        "Risk & Compliance",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "KB Valbury forecasts rising net profit for PT Bumi Resources Minerals Tbk and issues new share price target",
+      "timestamp": "2026-08-16T19:54:56",
+      "source": "https://investor.id/market/450574/ramalan-laba-bumi-resources-minerals-brms-plus-target-baru-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Business Expansion",
+        "Commodities",
+        "Production & Operations",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Performance of Four Conglomerate Issuers in the MSCI Global Standard Index: Who Posted Negative Growth?",
+      "timestamp": "2026-08-12T18:09:00",
+      "source": "https://emitennews.com/news/kinerja-4-emiten-konglo-di-indeks-utama-msci-siapa-yang-negatif",
+      "tags": [
+        "Global Index",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Samuel Sekuritas says worst phase for PT Bumi Resources Minerals Tbk (BRMS) is over, forecasting $25 million net profit in Q3‑2026",
+      "timestamp": "2026-08-12T17:53:53",
+      "source": "https://investor.id/market/450095/fase-terburuk-bumi-resources-minerals-brms-telah-berlalu",
+      "tags": [
+        "Financial Metrics",
+        "Business Expansion",
+        "Production & Operations",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Samuel Sekuritas forecasts stronger 2026 performance for PT Bumi Resources Tbk and sets high price target",
+      "timestamp": "2026-08-12T13:44:11",
+      "source": "https://investor.id/market/450048/ramalan-kinerja-bumi-resources-bumi-akhir-2026-target-harga-tinggi",
+      "tags": [
+        "Analyst Ratings",
+        "Mergers & Acquisitions",
+        "Commodities",
+        "Business Expansion",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Rising Gold Prices Boost Prospects for ANTM, BRMS, MDKA and EMAS Shares",
+      "timestamp": "2026-08-11T17:36:00",
+      "source": "https://investasi.kontan.co.id/news/harga-emas-kembali-melejit-prospek-saham-antm-brms-mdka-hingga-emas-ikut-terangkat",
+      "tags": [
+        "Commodities",
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BRMS target price revised lower as H1 2026 earnings and gold production fall sharply",
+      "timestamp": "2026-08-09T17:19:37",
+      "source": "https://investor.id/market/449659/brms-tempuh-jalan-terjal-ada-target-harga-baru",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Indonesia's IHSG rises as five stocks—including EMDE, AMMN, BRMS, HMSP, and SCMA—surge",
+      "timestamp": "2026-08-05T08:41:27",
+      "source": "https://investor.id/market/449159/ihsg-naik-5-saham-melesat",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Analyst outlines upside potential for nine new Kompas100 constituents",
+      "timestamp": "2026-08-05T08:05:00",
+      "source": "https://money.kompas.com/read/2026/08/05/080500026/9-saham-baru-penghuni-kompas100-berpotensi-naik-ini-penjelasan-analis-",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BRI Danareksa Sekuritas recommends TINS, BRMS and MEDC for trading on Aug 5, 2026",
+      "timestamp": "2026-08-05T07:41:27",
+      "source": "https://investor.id/market/449149/rekomendasi-saham-hari-ini-rabu-5-agustus-2026-tins-brms-medc",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Gold miner emitters compete in semester II 2026 as MDKA leads while ANTM and BRMS lag",
+      "timestamp": "2026-08-05T06:30:00",
+      "source": "https://market.bisnis.com/read/20260805/192/1993703/adu-siasat-emiten-emas-semester-ii2026-saham-mana-paling-berkilau",
+      "tags": [
+        "Commodities",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Business Expansion",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Bumi Minerals reports USD697 million deficit and 44% profit decline in first half of 2026",
+      "timestamp": "2026-08-03T11:15:00",
+      "source": "https://emitennews.com/news/brms-defisit-usd697-juta-laba-drop-44-persen-semester-i",
+      "tags": [
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Bumi Resources Tbk sells 100% of Wolfram Limited to subsidiary Bumi Resources Australia Pty Ltd",
+      "timestamp": "2026-08-03T08:06:58",
+      "source": "https://investor.id/market/448832/fakta-bumi-resources-bumi",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Subsidiaries",
+        "Ownership",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG projected to strengthen in early August trading",
+      "timestamp": "2026-08-03T07:09:51",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260803063055-92-1387822/ihsg-diproyeksi-ceria-awali-pekan-pertama-agustus",
+      "tags": [
+        "Market Sentiment",
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Today's stock picks highlight BRPT, MLPL, BBRI, BRMS, ENRG, and MBMA as IHSG is projected to strengthen",
+      "timestamp": "2026-08-03T05:19:00",
+      "source": "https://investasi.kontan.co.id/news/cek-rekomendasi-saham-pilihan-hari-ini-38-ihsg-diproyeksi-menguat",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG diprediksi menguat pada minggu depan dengan rekomendasi saham BRMS, ENRG, MBMA, dan PSAB untuk Senin, 3 Agustus 2026",
+      "timestamp": "2026-07-31T19:47:38",
+      "source": "https://investor.id/market/448670/prediksi-ihsg-dan-rekomendasi-saham-senin-3-agustus-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Currency & FX"
+      ]
+    },
+    {
+      "title": "Financial Reports as Fuel for Mining Stocks: Which Are Most Attractive?",
+      "timestamp": "2026-07-31T15:11:55",
+      "source": "https://www.cnbcindonesia.com/market/20260731134624-17-755471/laporan-keuangan-jadi-bahan-bakar-saham-tambang-siapa-paling-menarik",
+      "tags": [
+        "Annual Report",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Rebound signals for ANTM and INCO stocks ahead of first‑half 2026 earnings for state‑owned mining firms",
+      "timestamp": "2026-07-30T21:54:00",
+      "source": "https://market.bisnis.com/read/20260730/189/1992475/sinyal-rebound-antm-inco-jelang-lapkeu-semester-i2026-tambang-bumn",
+      "tags": [
+        "Market Sentiment",
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG drops 1.75% in early session under heavy sell‑off pressure",
+      "timestamp": "2026-07-24T12:55:16",
+      "source": "https://www.cnbcindonesia.com/market/20260724121852-17-753552/tertekan-aksi-jual-ihsg-sesi-i-terkoreksi-175-ke-level-6024",
+      "tags": [
+        "Market Sentiment",
+        "Foreign Investment",
+        "Global Economy",
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG may strengthen today (22/7) as analysts recommend buying BRMS, INET and RAJA",
+      "timestamp": "2026-07-22T08:48:00",
+      "source": "https://market.bisnis.com/read/20260722/189/1989982/ihsg-berpeluang-menguat-hari-ini-227-rekomendasi-saham-brms-inet-raja",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Stock Recommendations and IHSG Movement for Wednesday 22 July 2026",
+      "timestamp": "2026-07-22T08:10:00",
+      "source": "https://market.bisnis.com/read/20260722/7/1989939/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-rabu-22-juli-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Interest Rate",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Likely to Rally Again, with AMMN, CUAN, and DEWA Driving Gains",
+      "timestamp": "2026-07-22T07:53:03",
+      "source": "https://investor.id/market/447413/ihsg-bakal-reli-lagi-3-saham-jadi-andalan-cuan",
+      "tags": [
+        "Market Sentiment",
+        "Central Bank",
+        "Commodities",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Mirae Asset, MNC Sekuritas, and Phintraco Sekuritas issue stock picks for Indonesia on 22 July 2026",
+      "timestamp": "2026-07-22T07:46:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/115808/rangkuman-rekomendasi-saham-hari-ini-22-juli-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Interest Rate"
+      ]
+    },
+    {
+      "title": "IHSG Outlook and Stock Recommendations for Wednesday, 22 July 2026",
+      "timestamp": "2026-07-22T05:00:00",
+      "source": "https://investasi.kontan.co.id/news/prediksi-ihsg-dan-rekomendasi-saham-untuk-hari-ini-rabu-227",
+      "tags": [
+        "Analyst Ratings",
+        "Central Bank",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Prediksi IHSG menguat dan rekomendasi saham BRMS, MAPA, MDKA, TLKM untuk Rabu, 22 Juli 2026",
+      "timestamp": "2026-07-21T18:37:07",
+      "source": "https://investor.id/market/447352/prediksi-ihsg-dan-rekomendasi-saham-rabu-22-juli-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Central Bank"
+      ]
+    },
+    {
+      "title": "Look at 5 Stock Recommendations with Profit Potential Today",
+      "timestamp": "2026-07-16T09:45:49",
+      "source": "https://www.cnbcindonesia.com/market/20260716082643-17-751179/intip-5-rekomendasi-saham-yang-potensi-kasih-cuan-hari-ini",
+      "tags": [
+        "Analyst Ratings",
+        "Stock Split",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG projected to trade within a narrow range as analysts flag bank profit‑taking and recommend WIFI, SRTG, and BIPI stocks for Wednesday (15 July)",
+      "timestamp": "2026-07-15T07:11:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diproyeksi-bergerak-terbatas-cermati-saham-rekomendasi-analis-rabu-157",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Commodities"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas recommends ADMR, ANTM, ASII and BRMS as IHSG targets the 6,083–6,254 range on Tuesday, 14 July 2026",
+      "timestamp": "2026-07-14T09:03:00",
+      "source": "https://market.bisnis.com/read/20260714/189/1987739/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-selasa-14-juli-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "IHSG projected to continue rising on Tuesday, 14 July",
+      "timestamp": "2026-07-14T07:45:31",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260714064733-92-1380366/ihsg-diprediksi-lanjut-ngegas-hari-ini",
+      "tags": [
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "IHSG predicted to keep rising, analysts recommend ASII, BRMS, ADMR and PGEO for retail investors",
+      "timestamp": "2026-07-14T05:51:00",
+      "source": "https://money.kompas.com/read/2026/07/14/055149726/ihsg-diprediksi-lanjut-menguat-ritel-bisa-cermati-saham-asii-brms-hingga-pgeo",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Global Economy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Cermati recommends ADMR, ASII, and BRMS as top picks amid expectations of IHSG strength on 14 July 2026",
+      "timestamp": "2026-07-14T05:42:00",
+      "source": "https://investasi.kontan.co.id/news/cermati-rekomendasi-saham-pilihan-hari-ini-147-ihsg-berpotensi-menguat",
+      "tags": [
+        "Market Sentiment",
+        "Currency & FX",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Closes Higher 0.67% Returning to Around 5,900 Level",
+      "timestamp": "2026-07-09T17:31:04",
+      "source": "https://www.cnbcindonesia.com/market/20260709161957-17-749536/ihsg-ditutup-menguat-067-balik-ke-level-5900",
+      "tags": [
+        "Market Sentiment",
+        "Global Economy",
+        "Commodities"
+      ]
+    },
+    {
+      "title": "Reasons for the IHSG Closing Up 1.19% Today",
+      "timestamp": "2026-07-07T16:41:52",
+      "source": "https://www.cnbcindonesia.com/market/20260707160842-17-748866/penyebab-ihsg-ditutup-naik-119-hari-ini",
+      "tags": [
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Stock Recommendation Summary for 6 July 2026",
+      "timestamp": "2026-07-06T08:25:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/114005/rangkuman-rekomendasi-saham-hari-ini-6-juli-2026",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Adrian Wicaksono Buy Shares of Bumi Resources Minerals",
+      "timestamp": "2026-07-03T13:16:54",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-03072026-8828-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas warns IHSG may correct today and recommends buying ADMR and BRMS on weakness",
+      "timestamp": "2026-07-03T07:47:00",
+      "source": "https://market.bisnis.com/read/20260703/189/1985226/ihsg-rawan-koreksi-hari-ini-cermati-saham-admr-brms-cs",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Projected to Correct This Weekend",
+      "timestamp": "2026-07-03T07:21:27",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260703060802-92-1376285/ihsg-diramal-koreksi-akhir-pekan-ini",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "IHSG Expected Limited Correction as Analysts Recommend BRMS, RATU and ASII for Retail Investors",
+      "timestamp": "2026-07-03T06:14:00",
+      "source": "https://money.kompas.com/read/2026/07/03/061410626/ihsg-hari-ini-rawan-koreksi-investor-ritel-bisa-cermati-saham-brms-ratu-hingga",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Domestic Investor",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Broker forecasts IHSG consolidation and recommends ADMR, BRMS, RATU, and INDF for Friday trading",
+      "timestamp": "2026-07-02T17:52:36",
+      "source": "https://investor.id/market/445026/prediksi-ihsg-dan-rekomendasi-saham-jumat-3-juli-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Currency & FX",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Bumi Resources completes divestiture of its stake in Citra Palu Mineral to subsidiary Bumi Resources Minerals",
+      "timestamp": "2026-07-01T16:31:00",
+      "source": "https://emitennews.com/news/bumi-ungkap-nasib-tambang-emas-begini-lengkapnya",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Subsidiaries",
+        "Capital & Funding",
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Bumi Resources divests 3.03% stake in Citra Palu Mineral, transferring shares to Bumi Resources Minerals",
+      "timestamp": "2026-06-30T08:15:00",
+      "source": "https://emitennews.com/news/kebut-program-ini-bumi-jual-saham-citra-palu-mineral",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Ownership",
+        "Subsidiaries",
+        "Capital & Funding",
+        "Diversification",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Bumi Resources divests 3.03% stake in Citra Palu Mineral for $9.06 million",
+      "timestamp": "2026-06-30T05:22:00",
+      "source": "https://money.kompas.com/read/2026/06/30/052231626/bumi-resources-bumi-divestasi-303-persen-saham-citra-palu-mineral",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Ownership",
+        "Subsidiaries",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BRMS acquires remaining 3.03% stake in Citra Palu Minerals, achieving 100% ownership",
+      "timestamp": "2026-06-29T20:20:00",
+      "source": "https://www.idnfinancials.com/id/news/65362/brms-jadi-pemegang-100-citra-palu-minerals-usai-dilepas-bumi",
+      "tags": [
+        "Mergers & Acquisitions",
+        "Ownership",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "UOB Kay Hian sees crisis‑level IHSG valuation as buying opportunity and recommends selective accumulation of Indonesian stocks",
+      "timestamp": "2026-06-26T14:32:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-anjlok-ke-valuasi-krisis-ini-saham-yang-direkomendasikan-bisa-diakumulasi",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia’s IHSG rises as MSCI retains Emerging Market status",
+      "timestamp": "2026-06-24T09:36:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/112833/ihsg-menghijau-kala-pasar-saham-ri-tetap-di-emerging-market",
+      "tags": [
+        "Global Index",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Gold miners BRMS, ARCI, HRTA and EMAS surge as IHSG jumps 260 points",
+      "timestamp": "2026-06-15T10:28:03",
+      "source": "https://investor.id/stock/442763/angin-segar-ihsg-sahamsaham-ini-bakal-reli",
+      "tags": [
+        "Commodities",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Cgs International Sekuritas Indonesia sells Shares of PT Bumi Resources Minerals Tbk",
+      "timestamp": "2026-06-15T03:54:00",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11062026-5921-00.pdf-0.pdf",
+      "tags": [
+        "Insider Trading"
+      ]
+    },
+    {
+      "title": "IHSG rises 2.07% to 6,007.656 as foreign investors pour net Rp 193 billion into BBCA and sell Rp 372 billion of BBRI",
+      "timestamp": "2026-06-12T18:28:00",
+      "source": "https://money.kompas.com/read/2026/06/12/182848726/ihsg-ditutup-menguat-207-persen-di-akhir-pekan-asing-serok-saham-bbca-dssa",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Bumi Resources Minerals Tbk (BRMS) posts stronger Q1 2026 results with higher gold grade and expanded CIL capacity",
+      "timestamp": "2026-06-11T18:37:00",
+      "source": "https://investasi.kontan.co.id/news/tingkatkan-kapasitas-produksi-simak-rekomendasi-saham-bumi-resources-brms",
+      "tags": [
+        "Financial Metrics",
+        "Business Expansion",
+        "Commodities",
+        "Bullish"
+      ]
+    }
+  ],
+  "corporate_events": [
+    {
+      "date": "2026-04-30",
+      "type": "RUPS",
+      "detail": "Waktu: 14:00:00 · Lokasi: East Java Ballroom, THE Westin Jakarta JL. H. R. Rasuna Said Kav. C-22 Jakarta · Agenda #1: Shareholders approved the 2025 accountability report and financial statements, granting full discharge to the Board and determining that no dividends would be distributed.\nAgenda #2: The meeting approved the appointment of Amir Abadi Jusuf, Aryanto, Mawar & Partners to audit the 2026 financial statements, though the owner is Not stated.\nAgenda #3: The company presented a report regarding the use of funds from Limited Public Offering I, Series II Warrants, and Limited Public Offering II, though the owner is Not stated.\nAgenda #4: The Board of Commissioners, led by President Commissioner Adika Nuraga Bakrie, is serving a term from 2022 to 2027, though the owner, date, and decision are Not stated.\nAgenda #5: Corporate Secretary Muhammad Sulthon submitted the summary of minutes for the Annual General Meeting of Shareholders held on April 30, though the decision is Not stated."
+    }
+  ],
+  "context_period": {
+    "start": "2026-04-01",
+    "end": "2026-09-30"
+  },
+  "source_availability": {
+    "company_fundamentals": true,
+    "corporate_events": true,
+    "news": true,
+    "peer_comparison": true,
+    "market_context": true,
+    "sector_market_series": false
+  },
+  "news_archive": {
+    "pages": 3,
+    "rows": 84,
+    "pagination_exhausted": true,
+    "totals_seen": [
+      84
+    ]
+  }
 }

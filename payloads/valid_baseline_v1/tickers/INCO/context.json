@@ -3,8 +3,8 @@
   "as_of": "2026-09-30",
   "identity": {
     "symbol": "INCO",
-    "company_name": null,
-    "peer_group": null
+    "company_name": "Vale Indonesia Tbk",
+    "peer_group": "Basic Materials"
   },
   "current": {
     "scope": "NO_CONTEXT",
@@ -20,5 +20,2153 @@
   "daily_market": {},
   "notes": [
     "Dataset scope: 28 reviewed stocks. No full-market or peer-context score is computed."
-  ]
+  ],
+  "company_snapshot": {
+    "price_date": "2026-10-07",
+    "captured_at": "2026-10-08",
+    "sector": "Basic Materials",
+    "industry": "Metals & Minerals",
+    "website": "http://www.vale.com/indonesia",
+    "market_cap": 44899482114840,
+    "annual_year": 2025,
+    "valuation_year": 2026,
+    "metrics": [
+      {
+        "label": "Pendapatan",
+        "value": "Rp 16,57 T"
+      },
+      {
+        "label": "Laba bersih",
+        "value": "Rp 1,27 T"
+      },
+      {
+        "label": "Total aset",
+        "value": "Rp 56,00 T"
+      },
+      {
+        "label": "Ekuitas",
+        "value": "Rp 46,44 T"
+      },
+      {
+        "label": "EPS",
+        "value": "Rp 120,78"
+      },
+      {
+        "label": "P/E TTM",
+        "value": "16,77×"
+      },
+      {
+        "label": "P/B",
+        "value": "0,89×"
+      }
+    ]
+  },
+  "fundamental_peers": [
+    {
+      "symbol": "INCO",
+      "name": "Vale Indonesia Tbk",
+      "year": 2025,
+      "market_cap": 45531869186880,
+      "pe": 17.0090573804861,
+      "pb": 0.898449062355063,
+      "revenue": 16572359009700,
+      "in_universe": true
+    },
+    {
+      "symbol": "BRMS",
+      "name": "Bumi Resources Minerals Tbk",
+      "year": 2025,
+      "market_cap": 85779344404490,
+      "pe": 128.681108271325,
+      "pb": 3.80749435448613,
+      "revenue": 4173309138074,
+      "in_universe": true
+    },
+    {
+      "symbol": "ANTM",
+      "name": "Aneka Tambang Tbk.",
+      "year": 2025,
+      "market_cap": 78099985356250,
+      "pe": 8.77424408988265,
+      "pb": 2.09551817294205,
+      "revenue": 84642439000000,
+      "in_universe": true
+    },
+    {
+      "symbol": "NCKL",
+      "name": "PT Trimegah Bangun Persada Tbk",
+      "year": 2025,
+      "market_cap": 54895782000000,
+      "pe": 5.14801415334402,
+      "pb": 1.25126094740861,
+      "revenue": 29632799000000,
+      "in_universe": true
+    },
+    {
+      "symbol": "MBMA",
+      "name": "PT Merdeka Battery Materials Tbk",
+      "year": 2025,
+      "market_cap": 53133746590800,
+      "pe": 50.3527116240155,
+      "pb": 1.92970800646396,
+      "revenue": 24008773360660,
+      "in_universe": false
+    },
+    {
+      "symbol": "TINS",
+      "name": "PT Timah Tbk",
+      "year": 2025,
+      "market_cap": 34781008630180,
+      "pe": 9.32906661081727,
+      "pb": 3.29764577202305,
+      "revenue": 11552733000000,
+      "in_universe": true
+    },
+    {
+      "symbol": "IFSH",
+      "name": "PT Ifishdeco Tbk",
+      "year": 2025,
+      "market_cap": 4377500000000,
+      "pe": 35.5853512496148,
+      "pb": 5.40778287570013,
+      "revenue": 1000944680453,
+      "in_universe": false
+    },
+    {
+      "symbol": "DAAZ",
+      "name": "PT Daaz Bara Lestari Tbk",
+      "year": 2025,
+      "market_cap": 4233640000000,
+      "pe": 15.502762149675,
+      "pb": 2.52179242541966,
+      "revenue": 13412629633004,
+      "in_universe": false
+    },
+    {
+      "symbol": "NICL",
+      "name": "PT PAM Mineral Tbk",
+      "year": 2025,
+      "market_cap": 4020273774846,
+      "pe": 37.1800481074381,
+      "pb": 4.83645043373912,
+      "revenue": 1473081323094,
+      "in_universe": false
+    },
+    {
+      "symbol": "DKFT",
+      "name": "Central Omega Resources Tbk",
+      "year": 2025,
+      "market_cap": 3749433989000,
+      "pe": 5.59948873740599,
+      "pb": 2.43760361162018,
+      "revenue": 1576178059957,
+      "in_universe": false
+    }
+  ],
+  "market_history": [
+    {
+      "date": "2026-04-01",
+      "ihsg": 7184.438,
+      "market_cap": 12646140309231200
+    },
+    {
+      "date": "2026-04-02",
+      "ihsg": 7026.782,
+      "market_cap": 12301402169484936
+    },
+    {
+      "date": "2026-04-06",
+      "ihsg": 6989.426,
+      "market_cap": 12181292965738515
+    },
+    {
+      "date": "2026-04-07",
+      "ihsg": 6971.027,
+      "market_cap": 12220087895953627
+    },
+    {
+      "date": "2026-04-08",
+      "ihsg": 7279.209,
+      "market_cap": 12745135690725105
+    },
+    {
+      "date": "2026-04-09",
+      "ihsg": 7307.589,
+      "market_cap": 12927661360702306
+    },
+    {
+      "date": "2026-04-10",
+      "ihsg": 7458.496,
+      "market_cap": 13183485554446575
+    },
+    {
+      "date": "2026-04-13",
+      "ihsg": 7500.187,
+      "market_cap": 13334711369769658
+    },
+    {
+      "date": "2026-04-14",
+      "ihsg": 7675.951,
+      "market_cap": 13680203483861089
+    },
+    {
+      "date": "2026-04-15",
+      "ihsg": 7623.586,
+      "market_cap": 13577551326427693
+    },
+    {
+      "date": "2026-04-16",
+      "ihsg": 7621.382,
+      "market_cap": 13580909513734445
+    },
+    {
+      "date": "2026-04-17",
+      "ihsg": 7634.004,
+      "market_cap": 13631805736754862
+    },
+    {
+      "date": "2026-04-20",
+      "ihsg": 7594.111,
+      "market_cap": 13530051609880990
+    },
+    {
+      "date": "2026-04-21",
+      "ihsg": 7559.38,
+      "market_cap": 13439346111420433
+    },
+    {
+      "date": "2026-04-22",
+      "ihsg": 7541.612,
+      "market_cap": 13331962629649015
+    },
+    {
+      "date": "2026-04-23",
+      "ihsg": 7378.606,
+      "market_cap": 13176851273619842
+    },
+    {
+      "date": "2026-04-24",
+      "ihsg": 7129.49,
+      "market_cap": 12732776963937495
+    },
+    {
+      "date": "2026-04-27",
+      "ihsg": 7106.52,
+      "market_cap": 12687518028997883
+    },
+    {
+      "date": "2026-04-28",
+      "ihsg": 7072.392,
+      "market_cap": 12590034125678447
+    },
+    {
+      "date": "2026-04-29",
+      "ihsg": 7101.226,
+      "market_cap": 12635384034178860
+    },
+    {
+      "date": "2026-04-30",
+      "ihsg": 6956.804,
+      "market_cap": 12378413759882228
+    },
+    {
+      "date": "2026-05-04",
+      "ihsg": 6971.953,
+      "market_cap": 12411009903513114
+    },
+    {
+      "date": "2026-05-05",
+      "ihsg": 7057.106,
+      "market_cap": 12626309574250122
+    },
+    {
+      "date": "2026-05-06",
+      "ihsg": 7092.467,
+      "market_cap": 12699830398460331
+    },
+    {
+      "date": "2026-05-07",
+      "ihsg": 7174.321,
+      "market_cap": 12778962713690869
+    },
+    {
+      "date": "2026-05-08",
+      "ihsg": 6969.396,
+      "market_cap": 12402407487340402
+    },
+    {
+      "date": "2026-05-11",
+      "ihsg": 6905.62,
+      "market_cap": 12280030079664830
+    },
+    {
+      "date": "2026-05-12",
+      "ihsg": 6858.899,
+      "market_cap": 12142773427321380
+    },
+    {
+      "date": "2026-05-13",
+      "ihsg": 6723.32,
+      "market_cap": 11821690407165346
+    },
+    {
+      "date": "2026-05-18",
+      "ihsg": 6599.24,
+      "market_cap": 11535132183193835
+    },
+    {
+      "date": "2026-05-19",
+      "ihsg": 6370.679,
+      "market_cap": 11105372542285443
+    },
+    {
+      "date": "2026-05-20",
+      "ihsg": 6318.5,
+      "market_cap": 10959980491971602
+    },
+    {
+      "date": "2026-05-21",
+      "ihsg": 6094.941,
+      "market_cap": 10549507904767653
+    },
+    {
+      "date": "2026-05-22",
+      "ihsg": 6162.045,
+      "market_cap": 10631421768765943
+    },
+    {
+      "date": "2026-05-25",
+      "ihsg": 6206.349,
+      "market_cap": 10692705367587005
+    },
+    {
+      "date": "2026-05-26",
+      "ihsg": 6130.19,
+      "market_cap": 10613054794742598
+    },
+    {
+      "date": "2026-05-29",
+      "ihsg": 6127.381,
+      "market_cap": 10725485605975573
+    },
+    {
+      "date": "2026-06-02",
+      "ihsg": 6195.427,
+      "market_cap": 10891278361519046
+    },
+    {
+      "date": "2026-06-03",
+      "ihsg": 5941.066,
+      "market_cap": 10451829355656557
+    },
+    {
+      "date": "2026-06-04",
+      "ihsg": 5839.785,
+      "market_cap": 10259085293637228
+    },
+    {
+      "date": "2026-06-05",
+      "ihsg": 5594.765,
+      "market_cap": 9803592659706909
+    },
+    {
+      "date": "2026-06-08",
+      "ihsg": 5342.137,
+      "market_cap": 9414771844192581
+    },
+    {
+      "date": "2026-06-09",
+      "ihsg": 5746.648,
+      "market_cap": 10095511071726246
+    },
+    {
+      "date": "2026-06-10",
+      "ihsg": 5902.376,
+      "market_cap": 10341178905408617
+    },
+    {
+      "date": "2026-06-11",
+      "ihsg": 5886.032,
+      "market_cap": 10287950241660193
+    },
+    {
+      "date": "2026-06-12",
+      "ihsg": 6007.656,
+      "market_cap": 10520825968837381
+    },
+    {
+      "date": "2026-06-15",
+      "ihsg": 6254.966,
+      "market_cap": 10899408952482727
+    },
+    {
+      "date": "2026-06-17",
+      "ihsg": 6220.74,
+      "market_cap": 10776148487729844
+    },
+    {
+      "date": "2026-06-18",
+      "ihsg": 6172.34,
+      "market_cap": 10736980009961606
+    },
+    {
+      "date": "2026-06-19",
+      "ihsg": 6177.139,
+      "market_cap": 10784594953877444
+    },
+    {
+      "date": "2026-06-22",
+      "ihsg": 6116.69,
+      "market_cap": 10708711379319414
+    },
+    {
+      "date": "2026-06-23",
+      "ihsg": 6101.333,
+      "market_cap": 10685047810158781
+    },
+    {
+      "date": "2026-06-24",
+      "ihsg": 5883.881,
+      "market_cap": 10312029789078805
+    },
+    {
+      "date": "2026-06-25",
+      "ihsg": 5999.038,
+      "market_cap": 10515718128770631
+    },
+    {
+      "date": "2026-06-26",
+      "ihsg": 5896.134,
+      "market_cap": 10298280398969010
+    },
+    {
+      "date": "2026-06-29",
+      "ihsg": 5820.79,
+      "market_cap": 10179250800138493
+    },
+    {
+      "date": "2026-06-30",
+      "ihsg": 5643.194,
+      "market_cap": 9894028079914985
+    },
+    {
+      "date": "2026-07-01",
+      "ihsg": 5695.116,
+      "market_cap": 10007947906561450
+    },
+    {
+      "date": "2026-07-02",
+      "ihsg": 5744.556,
+      "market_cap": 10060923668899571
+    },
+    {
+      "date": "2026-07-03",
+      "ihsg": 5875.78,
+      "market_cap": 10283558418117973
+    },
+    {
+      "date": "2026-07-06",
+      "ihsg": 5916.07,
+      "market_cap": 10352610980350056
+    },
+    {
+      "date": "2026-07-07",
+      "ihsg": 5986.497,
+      "market_cap": 10462196902308353
+    },
+    {
+      "date": "2026-07-08",
+      "ihsg": 5873.372,
+      "market_cap": 10272894518876036
+    },
+    {
+      "date": "2026-07-09",
+      "ihsg": 5912.442,
+      "market_cap": 10324456194315119
+    },
+    {
+      "date": "2026-07-10",
+      "ihsg": 5924.36,
+      "market_cap": 10336481815483724
+    },
+    {
+      "date": "2026-07-13",
+      "ihsg": 6037.842,
+      "market_cap": 10506156813352519
+    },
+    {
+      "date": "2026-07-14",
+      "ihsg": 6039.521,
+      "market_cap": 10524135196509080
+    },
+    {
+      "date": "2026-07-15",
+      "ihsg": 6041.972,
+      "market_cap": 10548175926837826
+    },
+    {
+      "date": "2026-07-16",
+      "ihsg": 6108.209,
+      "market_cap": 10655671296610599
+    },
+    {
+      "date": "2026-07-17",
+      "ihsg": 6175.535,
+      "market_cap": 10745282583293599
+    },
+    {
+      "date": "2026-07-20",
+      "ihsg": 6231.78,
+      "market_cap": 10832728685598542
+    },
+    {
+      "date": "2026-07-21",
+      "ihsg": 6340.02,
+      "market_cap": 11041209401983643
+    },
+    {
+      "date": "2026-07-22",
+      "ihsg": 6334.476,
+      "market_cap": 11064991318794462
+    },
+    {
+      "date": "2026-07-23",
+      "ihsg": 6315.311,
+      "market_cap": 11058096720739904
+    },
+    {
+      "date": "2026-07-24",
+      "ihsg": 6196.43,
+      "market_cap": 10866941513180025
+    },
+    {
+      "date": "2026-07-27",
+      "ihsg": 6185.783,
+      "market_cap": 10846820086978302
+    },
+    {
+      "date": "2026-07-28",
+      "ihsg": 6130.588,
+      "market_cap": 10748777396682842
+    },
+    {
+      "date": "2026-07-29",
+      "ihsg": 6091.386,
+      "market_cap": 10671925079765237
+    },
+    {
+      "date": "2026-07-30",
+      "ihsg": 6186.363,
+      "market_cap": 10808753111947654
+    },
+    {
+      "date": "2026-07-31",
+      "ihsg": 6236.126,
+      "market_cap": 10919632662108419
+    },
+    {
+      "date": "2026-08-03",
+      "ihsg": 6234.497,
+      "market_cap": 10891533376788029
+    },
+    {
+      "date": "2026-08-04",
+      "ihsg": 6319.613,
+      "market_cap": 11026919553266172
+    },
+    {
+      "date": "2026-08-05",
+      "ihsg": 6351.139,
+      "market_cap": 11081557528513146
+    },
+    {
+      "date": "2026-08-06",
+      "ihsg": 6343.711,
+      "market_cap": 11091230654708629
+    },
+    {
+      "date": "2026-08-07",
+      "ihsg": 6409.654,
+      "market_cap": 11208370900071437
+    },
+    {
+      "date": "2026-08-10",
+      "ihsg": 6365.374,
+      "market_cap": 11127673938712190
+    },
+    {
+      "date": "2026-08-11",
+      "ihsg": 6267.88,
+      "market_cap": 10951983899532200
+    },
+    {
+      "date": "2026-08-12",
+      "ihsg": 6373.849,
+      "market_cap": 11170270993004848
+    },
+    {
+      "date": "2026-08-13",
+      "ihsg": 6301.765,
+      "market_cap": 11047038481790783
+    },
+    {
+      "date": "2026-08-14",
+      "ihsg": 6401.888,
+      "market_cap": 11239913404397486
+    },
+    {
+      "date": "2026-08-18",
+      "ihsg": 6449.83,
+      "market_cap": 11344776423883178
+    },
+    {
+      "date": "2026-08-19",
+      "ihsg": 6394.125,
+      "market_cap": 11242710814171051
+    },
+    {
+      "date": "2026-08-20",
+      "ihsg": 6501.585,
+      "market_cap": 11417105165375641
+    },
+    {
+      "date": "2026-08-21",
+      "ihsg": 6525.69,
+      "market_cap": 11445451211005613
+    },
+    {
+      "date": "2026-08-24",
+      "ihsg": 6501.667,
+      "market_cap": 11400829359169202
+    },
+    {
+      "date": "2026-08-26",
+      "ihsg": 6405.685,
+      "market_cap": 11226539253653372
+    },
+    {
+      "date": "2026-08-27",
+      "ihsg": 6521.75,
+      "market_cap": 11444254799160097
+    },
+    {
+      "date": "2026-08-28",
+      "ihsg": 6518.121,
+      "market_cap": 11427514258790209
+    },
+    {
+      "date": "2026-08-31",
+      "ihsg": 6525.478,
+      "market_cap": 11420266337232824
+    },
+    {
+      "date": "2026-09-01",
+      "ihsg": 6599.943,
+      "market_cap": 11528076154461080
+    },
+    {
+      "date": "2026-09-02",
+      "ihsg": 6595.776,
+      "market_cap": 11521577604064942
+    },
+    {
+      "date": "2026-09-03",
+      "ihsg": 6667.891,
+      "market_cap": 11637538684241799
+    },
+    {
+      "date": "2026-09-04",
+      "ihsg": 6636.475,
+      "market_cap": 11595660058206448
+    },
+    {
+      "date": "2026-09-07",
+      "ihsg": 6619.673,
+      "market_cap": 11571807924987264
+    },
+    {
+      "date": "2026-09-08",
+      "ihsg": 6686.442,
+      "market_cap": 11668902562815871
+    },
+    {
+      "date": "2026-09-09",
+      "ihsg": 6678.201,
+      "market_cap": 11671538636715858
+    },
+    {
+      "date": "2026-09-10",
+      "ihsg": 6589.338,
+      "market_cap": 11526136904331476
+    },
+    {
+      "date": "2026-09-11",
+      "ihsg": 6541.377,
+      "market_cap": 11442963914395062
+    },
+    {
+      "date": "2026-09-14",
+      "ihsg": 6534.693,
+      "market_cap": 11368110758085182
+    },
+    {
+      "date": "2026-09-15",
+      "ihsg": 6461.153,
+      "market_cap": 11257912210981978
+    },
+    {
+      "date": "2026-09-16",
+      "ihsg": 6436.853,
+      "market_cap": 11225219420982876
+    },
+    {
+      "date": "2026-09-17",
+      "ihsg": 6462.431,
+      "market_cap": 11270346560839989
+    },
+    {
+      "date": "2026-09-18",
+      "ihsg": 6441.159,
+      "market_cap": 11262605698050558
+    },
+    {
+      "date": "2026-09-21",
+      "ihsg": 6384.726,
+      "market_cap": 11161910095429389
+    },
+    {
+      "date": "2026-09-22",
+      "ihsg": 6277.044,
+      "market_cap": 10971287923179805
+    },
+    {
+      "date": "2026-09-23",
+      "ihsg": 6374.912,
+      "market_cap": 11141915820582293
+    },
+    {
+      "date": "2026-09-24",
+      "ihsg": 6298.607,
+      "market_cap": 11021365748586840
+    },
+    {
+      "date": "2026-09-25",
+      "ihsg": 6241.892,
+      "market_cap": 10902018198054911
+    },
+    {
+      "date": "2026-09-28",
+      "ihsg": 6147.859,
+      "market_cap": 10755457591436344
+    },
+    {
+      "date": "2026-09-29",
+      "ihsg": 6121.7,
+      "market_cap": 10754858845786069
+    },
+    {
+      "date": "2026-09-30",
+      "ihsg": 6071.138,
+      "market_cap": 10691719699169471
+    }
+  ],
+  "relevant_news": [
+    {
+      "title": "Foreign investors dump these stocks over the week as the IDX Composite falls 3.09% to 6,241.89",
+      "timestamp": "2026-09-26T22:46:00",
+      "source": "https://investasi.kontan.co.id/news/asing-banyak-tadah-saham-saham-ini-sepekan-saat-ihsg-ambruk-309-ke-6241",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "PT Vale Indonesia Tbk (INCO) reports operational recovery in Q2 2026 with higher nickel ore sales and matte production, prompting a new target price",
+      "timestamp": "2026-09-24T18:32:00",
+      "source": "https://investor.id/market/455388/nasib-sang-raja-nikel",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Production & Operations",
+        "Government Policy",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG rises 1.56% to 6,374.91 as foreign investors net buy ten leading stocks",
+      "timestamp": "2026-09-24T08:01:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-melesat-156-ke-6374-cermati-saham-yang-banyak-diborong-asing-kemarin",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analyst highlights nickel stock recommendations and sector outlook amid RKAB and HPM regulatory pressure",
+      "timestamp": "2026-09-23T06:14:00",
+      "source": "https://investasi.kontan.co.id/news/cermati-rekomendasi-saham-dan-prospek-emiten-nikel-yang-tertekan-rkab-dan-hpm",
+      "tags": [
+        "Analyst Ratings",
+        "Government Policy",
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Nickel stocks pressured by RKAB approval uncertainty and HPM regulation, PT PAM Mineral Tbk (NICL) leads declines.",
+      "timestamp": "2026-09-22T16:36:00",
+      "source": "https://investasi.kontan.co.id/news/saham-nikel-tertekan-rkab-dan-harga-patokan-mineral-simak-prospeknya-berikut-ini",
+      "tags": [
+        "Commodities",
+        "Government Policy",
+        "Capital & Funding",
+        "Global Economy",
+        "Analyst Ratings",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG Opens Weaker at Start of Week, Pressured by Global Sentiment",
+      "timestamp": "2026-09-14T09:33:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/121427/ihsg-dibuka-melemah-di-awal-pekan-tertekan-sentimen-global",
+      "tags": [
+        "Market Sentiment",
+        "Commodities",
+        "Interest Rate",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Analysts Project Continued Strength for Metal Miners ANTM, INCO, and TINS Through Late 2026",
+      "timestamp": "2026-09-10T17:34:00",
+      "source": "https://market.bisnis.com/read/20260910/189/2003142/intip-prospek-emiten-logam-antm-inco-hingga-tins-di-sisa-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Financial Metrics",
+        "Production & Operations",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Vale Indonesia Tbk announces near‑term start of operations for its three mining projects, with Morowali ahead of schedule",
+      "timestamp": "2026-09-10T17:16:00",
+      "source": "https://emitennews.com/news/inco-kejar-proyek-3-tambang-segera-beroperasi-morowali-lebih-dulu",
+      "tags": [
+        "Production & Operations",
+        "Business Expansion",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Vale Indonesia aims for full production at the Pomalaa HPAL smelter by 2027",
+      "timestamp": "2026-09-10T17:10:00",
+      "source": "https://market.bisnis.com/read/20260910/192/2003124/vale-inco-kejar-proyek-hpal-pomalaa-full-produksi-pada-2027",
+      "tags": [
+        "Business Expansion",
+        "Production & Operations",
+        "Commodities",
+        "Partnerships & Agreements",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Vale Indonesia Tbk does not promise dividend amid 2026‑27 expansion plans",
+      "timestamp": "2026-09-10T16:50:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/121175/inco-belum-janjikan-dividen-di-tengah-ekspansi-bisnis",
+      "tags": [
+        "Dividend Announcement",
+        "Business Expansion",
+        "Capital & Funding",
+        "Production & Operations",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Vale Indonesia Projects Capital Expenditure to Reach US$1.1 Billion in 2027 for Indonesia Growth Project",
+      "timestamp": "2026-09-10T14:47:00",
+      "source": "https://market.bisnis.com/read/20260910/192/2003074/vale-indonesia-inco-proyeksikan-capex-tembus-us11-miliar-pada-2027",
+      "tags": [
+        "Capital & Funding",
+        "Business Expansion",
+        "Debt Issuance",
+        "ESG",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors show early signs of tactical re-entry into Indonesian equities, with analysts highlighting big banks and select sectors.",
+      "timestamp": "2026-09-07T15:43:00",
+      "source": "https://investasi.kontan.co.id/news/asing-mulai-re-entry-ke-pasar-saham-intip-rekomendasi-saham-yang-menarik-dicermati",
+      "tags": [
+        "Foreign Investment",
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Currency & FX",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "First-Half 2026 Net Profit Rises Sharply for Indonesian BUMNs, Analysts Cite Danantara's Restructuring and Issue Stock Recommendations",
+      "timestamp": "2026-09-03T18:47:00",
+      "source": "https://investasi.kontan.co.id/news/laba-emiten-bumn-di-bawah-danantara-membaik-simak-prospek-dan-rekomendasi-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Capital & Funding",
+        "Commodities",
+        "Currency & FX",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Mandiri Sekuritas projects Indonesia's IHSG could reach 7,470 by end‑2026, citing four catalysts",
+      "timestamp": "2026-09-03T18:40:00",
+      "source": "https://market.bisnis.com/read/20260903/7/2001179/mandiri-sekuritas-buka-peluang-ihsg-tembus-7470-akhir-2026-ini-katalisnya",
+      "tags": [
+        "Government Policy",
+        "Capital & Funding",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Timah Tbk records the most aggressive growth among Indonesian miners in H1 2026, surpassing PT Antam Tbk, PT Bukit Asam Tbk and PT Vale Indonesia Tbk",
+      "timestamp": "2026-09-02T15:03:35",
+      "source": "https://investor.id/market/452579/tins-paling-agresif-ini-prospek-sahamnya-vs-antm-ptba-inco",
+      "tags": [
+        "Business Expansion",
+        "Financial Metrics",
+        "Commodities",
+        "Risk & Compliance",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Kiwoom Sekuritas Indonesia forecasts IHSG 6,300-6,650 in September, recommends nine stocks with up to 76% upside",
+      "timestamp": "2026-09-01T18:40:00",
+      "source": "https://market.bisnis.com/read/20260901/189/2000529/peluang-ihsg-ke-6650-kiwoom-jagokan-9-saham-pilihan",
+      "tags": [
+        "Analyst Ratings",
+        "Stock Buyback",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG September 2026 Outlook Highlights Potential Volatility Amid Global Risks",
+      "timestamp": "2026-08-31T09:54:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-september-2026-berpotensi-volatil-investor-perlu-cermati-risiko-global",
+      "tags": [
+        "Market Sentiment",
+        "Global Economy",
+        "Commodities",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "IHSG September 2026 Outlook Highlights Potential Weakness and Lists Recommended Stocks",
+      "timestamp": "2026-08-30T14:53:00",
+      "source": "https://investasi.kontan.co.id/news/pergerakan-ihsg-di-september-2026-berpotensi-loyo-cek-rekomendasi-saham-pilihannya",
+      "tags": [
+        "Market Sentiment",
+        "Global Economy",
+        "Analyst Ratings",
+        "Interest Rate"
+      ]
+    },
+    {
+      "title": "Edwin Sebayang highlights PT Vale Indonesia Tbk, PT Timah Tbk, Antam, and PT Bukit Asam Tbk as dividend‑attractive mining stocks",
+      "timestamp": "2026-08-26T13:19:49",
+      "source": "https://investor.id/market/451667/inco-tins-antm-ptba-disorot-diungkit-soal-dividen",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Partnerships & Agreements",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Luke Thomas Mahony Appointed President Director of PT Danantara Sumberdaya Indonesia",
+      "timestamp": "2026-08-25T13:24:00",
+      "source": "https://market.bisnis.com/read/20260825/192/1998717/resmi-diperkenalkan-ini-profil-luke-thomas-dirut-danantara-sumberdaya",
+      "tags": [
+        "Executive Changes",
+        "Export",
+        "Commodities",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas projects PT Vale Indonesia Tbk's 2026 net profit to jump 201% to US$229.1 million on higher nickel matte production and ore sales",
+      "timestamp": "2026-08-24T17:26:41",
+      "source": "https://investor.id/market/451457/lompatan-raksasa-nikel-saham-bersiap-kasih-cuan-gede",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Production & Operations",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Stock Recommendations and IHSG Movement for 24 August 2026",
+      "timestamp": "2026-08-24T08:14:00",
+      "source": "https://market.bisnis.com/read/20260824/7/1998429/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-24-agustus-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment"
+      ]
+    },
+    {
+      "title": "IHSG projected to strengthen at the start of the week",
+      "timestamp": "2026-08-24T07:05:09",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260824062110-92-1395649/ihsg-diproyeksi-bertenaga-di-awal-pekan",
+      "tags": [
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Vale Indonesia Tbk Director Budiawansyah Resigns",
+      "timestamp": "2026-08-22T17:00:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8629811/direktur-vale-budiawansyah-mundur",
+      "tags": [
+        "Executive Changes",
+        "Shareholders General Meeting"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas recommends FORE, INCO, MBMA and TLKM for Monday trading as IHSG expected to strengthen",
+      "timestamp": "2026-08-21T20:09:58",
+      "source": "https://investor.id/market/451185/prediksi-ihsg-dan-rekomendasi-saham-senin-24-agustus-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Vale Indonesia Tbk Announces Director Resignation Ahead of Upcoming Shareholders Meeting",
+      "timestamp": "2026-08-21T17:02:00",
+      "source": "https://emitennews.com/news/satu-anggota-direksi-mundur-inco-siap-gelar-rups",
+      "tags": [
+        "Executive Changes",
+        "Shareholders General Meeting"
+      ]
+    },
+    {
+      "title": "IHSG projected to rise toward 6,544 ahead of the weekend",
+      "timestamp": "2026-08-21T07:04:34",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260821061435-92-1394724/ihsg-berpotensi-tancap-gas-jelang-akhir-pekan-ini",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "IHSG targets 6,600 level as KB Valbury recommends buy positions in PT PP London Sumatra Indonesia Tbk, PT Antam Tbk, AADI, ITMG, INCO, and INTP",
+      "timestamp": "2026-08-21T06:02:41",
+      "source": "https://investor.id/market/451077/ihsg-mau-tes-6600-fokus-pada-6-saham",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors’ top net‑buy stocks as the IHSG jumped 1.68% to 6,501 on 20 August",
+      "timestamp": "2026-08-20T22:16:00",
+      "source": "https://investasi.kontan.co.id/news/cek-saham-yang-banyak-diborong-asing-saat-ihsg-melesat-168-ke-6501-rabu-208",
+      "tags": [
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Summary of Today's Stock Recommendations, 18 August 2026",
+      "timestamp": "2026-08-18T08:55:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/118637/rangkuman-rekomendasi-saham-hari-ini-18-agustus-2026",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Foreign investors quietly amass conglomerate shares, led by Dian Swastatika Sentosa",
+      "timestamp": "2026-08-18T08:00:57",
+      "source": "https://www.cnbcindonesia.com/market/20260817222646-17-760119/asing-diam-diam-borong-saham-konglomerat",
+      "tags": [
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "RAPBN 2027’s expansive budget could lift a range of Indonesian stocks, according to RHB Sekuritas research",
+      "timestamp": "2026-08-14T19:20:00",
+      "source": "https://market.bisnis.com/read/20260814/7/1996485/rapbn-2027-ekspansif-ini-deretan-saham-yang-berpotensi-ketiban-berkah",
+      "tags": [
+        "Government Policy",
+        "Commodities",
+        "Export",
+        "Dividend Announcement",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Rupiah and Indonesia's IHSG rise after President Prabowo's speech",
+      "timestamp": "2026-08-14T13:21:00",
+      "source": "https://money.kompas.com/read/2026/08/14/132109826/rupiah-dan-ihsg-kompak-menguat-usai-pidato-prabowo",
+      "tags": [
+        "Currency & FX",
+        "Market Sentiment",
+        "Politics & Regulation"
+      ]
+    },
+    {
+      "title": "IHSG Remains Volatile, Highlighting Stocks Worth Watching",
+      "timestamp": "2026-08-14T08:54:34",
+      "source": "https://www.cnbcindonesia.com/market/20260814081440-17-759175/ihsg-masih-volatil-deretan-saham-ini-menarik-buat-dilirik",
+      "tags": [
+        "Market Sentiment",
+        "Mergers & Acquisitions",
+        "Foreign Investment"
+      ]
+    },
+    {
+      "title": "EKAD Prepares for Change of Controlling Shareholder as ELSA Expands Services and INCO Advances HPAL Projects",
+      "timestamp": "2026-08-14T08:24:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8617807/ekad-bersiap-ganti-pengendali-sementara-elsa-dan-inco-kembangkan-proyek-bisnis",
+      "tags": [
+        "Ownership",
+        "Business Expansion",
+        "Capital & Funding",
+        "Mergers & Acquisitions",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Vale Indonesia (INCO) reports near‑complete mechanical completion of Pomalaa HPAL smelter and outlines further HPAL projects",
+      "timestamp": "2026-08-13T18:24:00",
+      "source": "https://investasi.kontan.co.id/news/proyek-smelter-hpal-catat-progres-signifikan-ini-prospek-saham-vale-indonesia-inco",
+      "tags": [
+        "Business Expansion",
+        "Capital & Funding",
+        "Analyst Ratings",
+        "Partnerships & Agreements",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG closes weaker 1.13% at 6,301.77, pressured by MSCI rebalancing announcement",
+      "timestamp": "2026-08-13T16:18:00",
+      "source": "https://market.bisnis.com/read/20260813/7/1996021/ihsg-ditutup-melemah-113-ke-630177-tertekan-pengumuman-rebalancing-msci",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG falls 1.18% to 6,298 in Session I as MSCI deletions pressure stocks such as ESSA and CPIN",
+      "timestamp": "2026-08-13T13:07:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/118205/ihsg-turun-saham-essa-jatuh-7-imbas-didepak-msci",
+      "tags": [
+        "Global Index",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG projected to continue strengthening today",
+      "timestamp": "2026-08-11T06:44:45",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260811061403-92-1390824/ihsg-diramal-lanjutkan-penguatan-hari-ini",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analyst Recommendations Highlight Attractive Prospects for INCO, INKP, CUAN, and INDY",
+      "timestamp": "2026-08-09T16:35:00",
+      "source": "https://investasi.kontan.co.id/news/prospek-inco-inkp-cuan-dan-indy-menarik-cek-rekomendasi-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Diversification",
+        "Business Expansion",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts Recommend Buy for PT Vale Indonesia Tbk and PT Indah Kiat Pulp and Paper Tbk and Add for PT Petrindo Jaya Kreasi Tbk and PT Indika Energy Tbk as US Dollar Strength Boosts Export‑Oriented Earnings",
+      "timestamp": "2026-08-09T14:11:00",
+      "source": "https://investasi.kontan.co.id/news/dampak-penguatan-dolar-ke-inco-inkp-cuan-dan-indy-cek-rekomendasi-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Currency & FX",
+        "Export",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MIND ID to remit Rp 12.6 trillion in dividends to the state in 2025",
+      "timestamp": "2026-08-08T19:19:00",
+      "source": "https://money.kompas.com/read/2026/08/08/191900226/mind-id-setor-dividen-rp-12-6-triliun-ke-negara-sepanjang-2025-",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Holding Industri Pertambangan to remit Rp12.6 trillion in dividends to the state in 2025",
+      "timestamp": "2026-08-07T14:39:29",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260807133343-85-1389700/mind-id-setor-dividen-rp126-t-ke-negara-sepanjang-2025",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Subsidiaries",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "LQ45 constituent earnings mirror Indonesia’s economic growth",
+      "timestamp": "2026-08-06T10:20:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/117473/laba-emiten-lq45-jadi-cerminan-pertumbuhan-ekonomi-ri",
+      "tags": [
+        "Financial Metrics",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG opens higher at 6,369.99 as PT Hartadinata Abadi Tbk, PT Aneka Tambang Tbk and PT Indika Energy Tbk post notable gains",
+      "timestamp": "2026-08-06T09:10:00",
+      "source": "https://market.bisnis.com/read/20260806/7/1994111/ihsg-dibuka-naik-ke-6369-saham-hrta-antm-indy-melaju",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "PT Vale Indonesia Tbk reports 313% surge in H1 2026 net profit to US$104.38 million",
+      "timestamp": "2026-08-05T15:07:02",
+      "source": "https://investor.id/market/449213/laba-pemain-nikel-besar-meroket-313-saham-masih-anteng-kalau-naik-bisa-30",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Production & Operations",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Maybank cuts PT Vale Indonesia Tbk target price to Rp 7,000 as profit jumps 313%",
+      "timestamp": "2026-08-04T14:17:00",
+      "source": "https://investasi.kontan.co.id/news/laba-meroket-313-ini-alasan-maybank-pangkas-target-harga-vale-indonesia-inco",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG rises 0.33% to 6,254 as Asian markets gain, with broker picks highlighting TINS, ASII, and TLKM",
+      "timestamp": "2026-08-04T09:20:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/117170/ihsg-menguat-pagi-ini-susul-bursa-saham-asia",
+      "tags": [
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "LQ45 constituents post solid first‑half 2026 earnings, with top blue‑chip picks highlighted for semester II",
+      "timestamp": "2026-08-04T05:39:00",
+      "source": "https://investasi.kontan.co.id/news/laba-emiten-lq45-lampaui-ekspektasi-cek-saham-blue-chip-pilihan-semester-ii-2026",
+      "tags": [
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Interest Rate",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analyst highlights strong first‑half 2026 earnings across LQ45 constituents and points to several stocks with upside potential through year‑end 2026",
+      "timestamp": "2026-08-03T19:32:00",
+      "source": "https://investasi.kontan.co.id/news/laba-emiten-lq45-moncer-analis-beberkan-deretan-saham-potensial-hingga-akhir-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Majority of LQ45 Index constituents post solid performance in H1 2026",
+      "timestamp": "2026-08-03T19:03:00",
+      "source": "https://investasi.kontan.co.id/news/mayoritas-emiten-di-indeks-lq45-raih-kinerja-apik-pada-semester-i-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Stagnates at 6,234.29 in Early Trading",
+      "timestamp": "2026-08-03T13:04:37",
+      "source": "https://www.cnbcindonesia.com/market/20260803121623-17-756035/ihsg-sesi-pertama-stagnan-di-level-6234",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "CGS International forecasts IHSG near 6,300, recommends AMMN, BRPT, ASII, INCO, BRIS and TINS",
+      "timestamp": "2026-08-03T09:06:55",
+      "source": "https://investor.id/market/448854/ihsg-bersiap-menuju-6300-6-saham-potensial-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Broker recommendation highlights PT Timah Tbk, PT Vale Indonesia Tbk, PT Aneka Tambang Tbk, and PT Bukit Asam Tbk for Semester II‑2026",
+      "timestamp": "2026-08-03T07:00:00",
+      "source": "https://investasi.kontan.co.id/news/intip-rekomendasi-saham-pilihan-emiten-pertambangan-mind-id-di-semester-ii-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Popular financial news roundup covers Antam gold price outlook, UNTR losses and discounts, IHSG prospects, and BMRI valuation",
+      "timestamp": "2026-08-03T05:06:55",
+      "source": "https://investor.id/market/448837/berita-populer-arah-harga-emas-antam-antm-hingga-untr-lagi-diskon",
+      "tags": [
+        "Commodities",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Central Bank",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Prospects for MIND ID Mining Issuers in H2‑2026 Remain Positive, Analysts Highlight PT Timah Tbk, PT Vale Indonesia Tbk, PT Aneka Tambang Tbk and PT Bukit Asam Tbk",
+      "timestamp": "2026-08-02T16:36:00",
+      "source": "https://investasi.kontan.co.id/news/menakar-prospek-kinerja-emiten-pertambangan-mind-id-di-semester-ii-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Financial Reports as Fuel for Mining Stocks: Which Are Most Attractive?",
+      "timestamp": "2026-07-31T15:11:55",
+      "source": "https://www.cnbcindonesia.com/market/20260731134624-17-755471/laporan-keuangan-jadi-bahan-bakar-saham-tambang-siapa-paling-menarik",
+      "tags": [
+        "Annual Report",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Earnings season drives IHSG opening higher",
+      "timestamp": "2026-07-31T09:35:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/116811/musim-laporan-keuangan-picu-ihsg-dibuka-menguat",
+      "tags": [
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Global Economy"
+      ]
+    },
+    {
+      "title": "IHSG Expected to Extend Rally as Phintraco Sekuritas Highlights Six Key Stocks",
+      "timestamp": "2026-07-31T06:00:46",
+      "source": "https://investor.id/market/448555/ihsg-bersiap-lanjut-reli-6-saham-jadi-andalan",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Global Economy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Vale Indonesia Tbk posts 313% increase in net profit as nickel prices rise",
+      "timestamp": "2026-07-30T22:16:00",
+      "source": "https://investasi.kontan.co.id/news/laba-vale-indonesia-inco-melejit-313-tingginya-harga-nikel-jadi-pendorong-utama",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Production & Operations",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Rebound signals for ANTM and INCO stocks ahead of first‑half 2026 earnings for state‑owned mining firms",
+      "timestamp": "2026-07-30T21:54:00",
+      "source": "https://market.bisnis.com/read/20260730/189/1992475/sinyal-rebound-antm-inco-jelang-lapkeu-semester-i2026-tambang-bumn",
+      "tags": [
+        "Market Sentiment",
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Vale Indonesia Tbk reports first‑half 2026 profit jumps 313% as matte nickel remains top revenue source",
+      "timestamp": "2026-07-30T20:20:00",
+      "source": "https://www.idnfinancials.com/id/news/66808/laba-inco-melonjak-313-nikel-matte-masih-kontributor-terbesar",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Dividend Announcement",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Vale Indonesia posts 29,773 tons of nickel matte production in H1 2026, revenue rises 15% to $290 million",
+      "timestamp": "2026-07-30T14:23:00",
+      "source": "https://money.kompas.com/read/2026/07/30/142325426/produksi-nikel-matte-vale-indonesia-tembus-29773-ton-pendapatan-ikut-naik",
+      "tags": [
+        "Commodities",
+        "Production & Operations",
+        "Financial Metrics",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Citi forecasts strong Q2 2026 results and a high target price for PT Vale Indonesia Tbk (INCO)",
+      "timestamp": "2026-07-30T13:50:39",
+      "source": "https://investor.id/market/448462/saham-mind-id-banyak-tapi-yang-ini-diterawang-loncat-106",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Commodities",
+        "Production & Operations",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Vale Indonesia posts Rp 1.89 trillion profit in first half of 2026",
+      "timestamp": "2026-07-30T13:46:19",
+      "source": "https://www.cnbcindonesia.com/market/20260730123154-17-755062/vale--inco--kantongi-laba-rp-189-t-di-semester-1-2026",
+      "tags": [
+        "Financial Metrics",
+        "Business Expansion",
+        "Capital & Funding",
+        "Production & Operations",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Vale Indonesia posts net profit of Rp 1.87 trillion in H1 2026 driven by higher nickel production and prices",
+      "timestamp": "2026-07-30T13:03:00",
+      "source": "https://money.kompas.com/read/2026/07/30/130359026/produksi-dan-harga-nikel-naik-laba-vale-indonesia-tembus-rp-187-triliun",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Dividend Announcement",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Vale Indonesia posts 313% YoY net profit surge; BRI Danareksa maintains buy with Rp8,000 target",
+      "timestamp": "2026-07-30T12:57:29",
+      "source": "https://investor.id/market/448449/laba-emiten-melejit-313-saham-rp-4000an-katanya-bisa-ke-rp-8000",
+      "tags": [
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Vale Indonesia Tbk (INCO) draws $100 million from its $500 million syndicated loan facility",
+      "timestamp": "2026-07-30T10:50:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/116666/bantalan-kas-menipis-vale-inco-mulai-cairkan-utang-sindikasi",
+      "tags": [
+        "Credit",
+        "Capital & Funding",
+        "Business Expansion",
+        "Financial Metrics",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "PT Vale Indonesia Tbk posts net profit of Rp1.87 trillion for H1 2026",
+      "timestamp": "2026-07-30T09:59:00",
+      "source": "https://market.bisnis.com/read/20260730/192/1992247/vale-indonesia-inco-cetak-laba-bersih-rp187-triliun-semester-i2026",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Production & Operations",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Vale Indonesia reports 19% rise in Q2 2026 nickel matte production",
+      "timestamp": "2026-07-30T07:45:00",
+      "source": "https://investasi.kontan.co.id/news/produksi-nikel-vale-indonesia-inco-meningkat-pada-kuartal-ii-2026",
+      "tags": [
+        "Production & Operations",
+        "Commodities",
+        "Financial Metrics",
+        "Capital & Funding",
+        "Partnerships & Agreements",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG projected to stay in correction range amid short‑term rebound potential",
+      "timestamp": "2026-07-30T06:38:48",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260730014400-92-1386389/ihsg-diramal-merah-hari-ini",
+      "tags": [
+        "Market Sentiment",
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "PT Vale Indonesia Tbk reports net profit surges 313% to US$104.37 million in H1 2026",
+      "timestamp": "2026-07-30T05:36:49",
+      "source": "https://investor.id/market/448385/emiten-labanya-melejit-313",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Production & Operations",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Bahodopi Nickel Smelting Indonesia launches a $37 million research center and talent ecosystem alongside the world’s largest HPAL autoclave",
+      "timestamp": "2026-07-29T18:21:00",
+      "source": "https://money.kompas.com/read/cm/2026/07/29/182150126/di-balik-autoclave-terbesar-di-dunia-bnsi-bangun-ekosistem-talenta-untuk",
+      "tags": [
+        "R&D",
+        "Capital & Funding",
+        "Business Expansion",
+        "Joint Venture",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analyst sees nickel downstreaming in Central Sulawesi, via PT Vale Indonesia’s HPAL project, driving local economic growth",
+      "timestamp": "2026-07-28T15:01:24",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260728142100-625-1385750/pengamat-nilai-hilirisasi-nikel-di-sulawesi-dapat-dorong-ekonomi-lokal",
+      "tags": [
+        "Commodities",
+        "Production & Operations",
+        "Business Expansion",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Beyond Downstreaming: PT Bahodopi Nickel Smelting Indonesia’s HPAL milestone highlights Indonesia‑China‑Korea partnership",
+      "timestamp": "2026-07-28T14:50:00",
+      "source": "https://investasi.kontan.co.id/news/lebih-dari-sekadar-hilirisasi-membangun-rantai-pasok-kendaraan-listrik-global",
+      "tags": [
+        "Joint Venture",
+        "Business Expansion",
+        "Capital & Funding",
+        "Export",
+        "Production & Operations",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BRI Danareksa Sekuritas names six top commodity stocks and sets target prices",
+      "timestamp": "2026-07-28T11:52:19",
+      "source": "https://investor.id/market/448140/pilihan-teratas-saham-komoditas-ada-yang-diramal-ke-rp-34000",
+      "tags": [
+        "Commodities",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Bahodopi Nickel Smelting Indonesia Inaugurates IGIP Morowali HPAL Project, Project to Employ 9,600 Workers",
+      "timestamp": "2026-07-24T14:52:43",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260724140054-92-1384500/rosan-resmikan-proyek-igip-morowali-bakal-serap-9600-tenaga-kerja",
+      "tags": [
+        "Business Expansion",
+        "Production & Operations",
+        "Partnerships & Agreements",
+        "Commodities",
+        "ESG",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Daily stock recommendation roundup for 23 July 2026",
+      "timestamp": "2026-07-23T08:50:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/115953/rangkuman-rekomendasi-saham-hari-ini-23-juli-2026",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Nickel Issuers Moving Toward a Growth Cycle",
+      "timestamp": "2026-07-17T13:20:28",
+      "source": "https://investor.id/market/446898/emiten-nikel-menuju-siklus-pertumbuhan",
+      "tags": [
+        "Commodities",
+        "Analyst Ratings",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG projected higher as analysts recommend INCO, INDY, ISAT, OASA, ANTM, ASII, MBMA, MDKA, and PTBA",
+      "timestamp": "2026-07-17T06:46:07",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260717060604-92-1381672/ihsg-diperkirakan-cerah-jelang-akhir-pekan",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Broker Recommendations Highlight ANTM, ARTO, ARCI, INCO, ISAT, and OASA as IHSG Eyes Limited Upside",
+      "timestamp": "2026-07-17T05:51:00",
+      "source": "https://investasi.kontan.co.id/news/intip-rekomendasi-saham-pilihan-hari-ini-177-ihsg-berpeluang-menguat-terbatas",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "JP Morgan highlights PT Aneka Tambang Tbk, PT Merdeka Copper Gold Tbk and PT Vale Indonesia Tbk as top Indonesian nickel stocks with strong 2026 profit outlook",
+      "timestamp": "2026-07-16T19:37:50",
+      "source": "https://investor.id/market/446805/tiga-saham-nikel-andalan-jp-morgan-laba-dan-cuan-gedegede",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Politics & Regulation",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG projected to gain modestly on Friday, led by BMRI, BBRI, AMMN and ASII",
+      "timestamp": "2026-07-16T18:21:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-diproyeksikan-menguat-terbatas-pada-perdagangan-jumat-177",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Currency & FX",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "EcoPro Group raises 1.2 trillion won to increase its stake in Bahodopi Nickel Smelting Indonesia, targeting 65,000 tons of nickel for 1.5 million EV batteries",
+      "timestamp": "2026-07-15T15:40:00",
+      "source": "https://www.idnfinancials.com/id/news/66096/ecopro-investasi-ke-smelter-nikel-indonesia-pasok-baterai-1-5-juta-ev",
+      "tags": [
+        "Rights Issue",
+        "Joint Venture",
+        "Capital & Funding",
+        "Business Expansion",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "LQ45 stocks on 14 July 2026 show lowest and highest PERs, with Barito Pacific and United Tractors highlighted",
+      "timestamp": "2026-07-15T05:18:00",
+      "source": "https://investasi.kontan.co.id/news/daftar-saham-per-terendah-tertinggi-lq45-14-juli-2026-brpt-dan-untr-jadi-sorotan",
+      "tags": [
+        "Foreign Investment",
+        "Financial Metrics",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Nickel production quota relaxation seen as positive catalyst for Indonesian nickel miners ANTM and INCO",
+      "timestamp": "2026-07-14T12:42:28",
+      "source": "https://www.cnbcindonesia.com/market/20260714121704-17-750673/relaksasi-kuota-produksi-nikel-jadi-katalis-positif-saham-tambang",
+      "tags": [
+        "Government Policy",
+        "Commodities",
+        "Market Sentiment",
+        "Foreign Investment",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Rising production costs test profit resilience of PT Aneka Tambang Tbk, PT Timah Tbk, and PT Vale Indonesia Tbk",
+      "timestamp": "2026-07-14T07:30:00",
+      "source": "https://market.bisnis.com/read/20260714/192/1987831/beban-produksi-membengkak-cek-daya-tahan-laba-saham-antm-tins-dan-inco",
+      "tags": [
+        "Production & Operations",
+        "Financial Metrics",
+        "Commodities",
+        "Analyst Ratings",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Analysts see bright outlook for Indonesian metal‑mining stocks and recommend buys for PT Amman Mineral Internasional Tbk, PT Timah Tbk, PT Vale Indonesia Tbk and PT Aneka Tambang Tbk",
+      "timestamp": "2026-07-12T17:11:00",
+      "source": "https://investasi.kontan.co.id/news/prospek-saham-tambang-logam-masih-cerah-ini-rekomendasi-analis",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Partnerships & Agreements",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Cost pressures expected to ease in H2 2026, keeping ANTM, INCO, AMMN and TINS stocks prospective",
+      "timestamp": "2026-07-12T16:06:00",
+      "source": "https://investasi.kontan.co.id/news/beban-biaya-berpotensi-menyusut-saham-antm-inco-ammn-dan-tins-masih-prospektif",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Financial Metrics",
+        "Currency & FX",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG rises 0.83% to 5,924 as foreign investors heavily buy ten leading stocks",
+      "timestamp": "2026-07-11T20:32:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-menguat-083-ke-5924-cek-saham-yang-banyak-diburu-asing-sepekan-terakhir",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "Foreign investors record net sells of Rp 421.5 billion on Friday, led by PT Bank Central Asia Tbk and PT Bank Rakyat Indonesia Tbk",
+      "timestamp": "2026-07-10T20:34:00",
+      "source": "https://investasi.kontan.co.id/news/bbca-dan-bbri-tertatas-cermati-saham-net-sell-terbesar-asing-jumat-106",
+      "tags": [
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Prabowo says he blocked the sale of several state‑owned firms to foreign investors",
+      "timestamp": "2026-07-10T16:31:50",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260710152449-532-1379208/prabowo-cerita-pernah-larang-sejumlah-bumn-dijual-ke-asing-apa-saja",
+      "tags": [
+        "Foreign Investment",
+        "Government Policy",
+        "Politics & Regulation",
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "President Prabowo says PT PAL Indonesia, PT Pindad and PT Dirgantara Indonesia were nearly slated for foreign sale",
+      "timestamp": "2026-07-10T16:31:48",
+      "source": "https://www.cnbcindonesia.com/market/20260710143854-17-749857/prabowo-ungkap-pt-pal-pindad-ptdi-nyaris-dijual-ke-asing",
+      "tags": [
+        "Foreign Investment",
+        "Mergers & Acquisitions",
+        "Government Policy",
+        "Export",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "President Prabowo says he blocked plans to sell defence BUMNs PT PAL Indonesia, PT Pindad and PT Dirgantara Indonesia to foreign investors",
+      "timestamp": "2026-07-10T15:36:00",
+      "source": "https://money.kompas.com/read/2026/07/10/153648326/prabowo-ungkap-sempat-ada-rencana-jual-pindad-hingga-ptdi-ke-asing-saya-larang",
+      "tags": [
+        "Government Policy",
+        "Foreign Investment",
+        "Politics & Regulation",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "List of LQ45 stocks with the lowest and highest PER on 9 July 2026, highlighting strong gains in DEWA and BRPT",
+      "timestamp": "2026-07-10T06:25:00",
+      "source": "https://investasi.kontan.co.id/news/daftar-saham-per-terendah-tertinggi-lq45-9-juli-2026-dewa-dan-brpt-jadi-sorotan",
+      "tags": [
+        "Financial Metrics",
+        "Foreign Investment",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG drops to 5,936 as 386 stocks decline, analysts forecast further moves and recommend select shares",
+      "timestamp": "2026-07-08T09:57:46",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260708092439-92-1378203/ihsg-merosot-ke-level-5936-ada-386-saham-merah-pagi-ini",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas recommends AADI, BKSL, INCO, and PTRO as IHSG targets amid expected index rise to 6,083–6,203 on July 8 2026",
+      "timestamp": "2026-07-08T09:04:00",
+      "source": "https://market.bisnis.com/read/20260708/189/1986366/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-rabu-8-juli-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analysts forecast IHSG could breach 6,000 on July 8, 2026 and highlight six stock picks",
+      "timestamp": "2026-07-08T06:39:00",
+      "source": "https://money.kompas.com/read/2026/07/08/063900426/prediksi-ihsg-rabu-8-juli-2026--berpeluang-tembus-6.000-ini-saham-pilihan",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG forecast to test the 6,000 level, MNC Sekuritas recommends stocks AADI, BKSL, INCO, and PTRO",
+      "timestamp": "2026-07-07T18:22:27",
+      "source": "https://investor.id/market/445615/prediksi-ihsg-dan-rekomendasi-saham-rabu-8-juli-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Currency & FX",
+        "Government Policy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesian big‑cap stocks such as BMRI, TLKM, ANTM and HRTA trade at valuation discounts",
+      "timestamp": "2026-07-07T05:34:00",
+      "source": "https://money.kompas.com/read/2026/07/07/053435626/saham-big-caps-ri-sedang-diskon-ada-bmri-tlkm-antm-hingga-hrta",
+      "tags": [
+        "Market Sentiment",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Global Economy",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG rallies for a fourth day as foreign investors net‑buy ten leading Indonesian stocks",
+      "timestamp": "2026-07-06T20:45:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-reli-4-hari-berturut-turut-cermati-saham-net-buy-terbesar-asing-di-awal-pekan",
+      "tags": [
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Stock Recommendation Summary for 6 July 2026",
+      "timestamp": "2026-07-06T08:25:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/114005/rangkuman-rekomendasi-saham-hari-ini-6-juli-2026",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "PT PAL Indonesia and Naval Group Accelerate Scorpène Submarine Project, Commence First Steel Cutting in July 2026",
+      "timestamp": "2026-07-03T14:11:00",
+      "source": "https://money.kompas.com/read/2026/07/03/141132326/pt-pal-indonesia-dan-naval-group-percepat-proyek-kapal-selam-scorpne",
+      "tags": [
+        "Production & Operations",
+        "Partnerships & Agreements",
+        "Ministry",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "CGS International Sekuritas Indonesia forecasts IHSG to keep rising, recommending ANTM, INCO, ARCI, ISAT, BBCA and BMRI",
+      "timestamp": "2026-07-03T08:17:55",
+      "source": "https://investor.id/market/445102/ihsg-bakal-lanjut-menguat-siapsiap-6-saham-kasih-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT PAL Indonesia launches Future Landing Dock-603 for Philippine Navy export",
+      "timestamp": "2026-07-01T16:37:00",
+      "source": "https://money.kompas.com/read/2026/07/01/163708226/pt-pal-ekspor-kapal-perang-future-landing-dock-ke-filipina",
+      "tags": [
+        "Product Launch",
+        "Export",
+        "Digital Transformation",
+        "Partnerships & Agreements",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG climbs green to 5,688 points this morning",
+      "timestamp": "2026-07-01T10:12:58",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260701080107-92-1375390/ihsg-merangkak-hijau-ke-level-5688-pagi-ini",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "IHSG Projected to Open July Red as Analysts Recommend Specific Stocks",
+      "timestamp": "2026-07-01T07:16:23",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260630210016-92-1375299/ihsg-diramal-merah-mengawali-juli-ini-rekomendasi-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "BBCA and BBRI Lead Financial Sector Outlook as Analysts Recommend Defensive Picks for H2 2026",
+      "timestamp": "2026-06-30T18:51:00",
+      "source": "https://investasi.kontan.co.id/news/sektor-finansial-konsumsi-bisa-pimpin-pemulihan-semester-ii-ini-pilihan-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Portfolio",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "INCO's outlook stays bright on higher nickel prices and downstream projects",
+      "timestamp": "2026-06-30T15:53:00",
+      "source": "https://investasi.kontan.co.id/news/prospek-inco-masih-cerah-produksi-dan-proyek-hilirisasi-jadi-penopang-saham",
+      "tags": [
+        "Commodities",
+        "Business Expansion",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Production & Operations",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analyst maintains buy on PT Vale Indonesia Tbk as rupiah weakness and strong nickel prices boost outlook",
+      "timestamp": "2026-06-29T19:17:00",
+      "source": "https://investasi.kontan.co.id/news/rupiah-melemah-jadi-katalis-prospek-saham-inco-masih-ditopang-harga-nikel",
+      "tags": [
+        "Analyst Ratings",
+        "Currency & FX",
+        "Commodities",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG Expected to Trade Sideways as Brokers Highlight BULL, INCO and ITMG for Retail Investors",
+      "timestamp": "2026-06-29T06:35:00",
+      "source": "https://money.kompas.com/read/2026/06/29/063500026/ihsg-diprediksi-sideways-investor-ritel-bisa-cermati-saham-bull-inco-hingga",
+      "tags": [
+        "Market Sentiment",
+        "Currency & FX",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Nickel Prices Pressured, Analysts Still Favor PT Aneka Tambang Tbk, PT Vale Indonesia Tbk and PT Merdeka Battery Materials Tbk",
+      "timestamp": "2026-06-28T20:00:00",
+      "source": "https://investasi.kontan.co.id/news/harga-nikel-tertekan-analis-masih-jagokan-saham-antm-inco-dan-mbma",
+      "tags": [
+        "Commodities",
+        "Analyst Ratings",
+        "Government Policy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "ADRO, ITMG, INCO, and INKP poised for earnings boost as rupiah weakens",
+      "timestamp": "2026-06-28T14:56:00",
+      "source": "https://investasi.kontan.co.id/news/rupiah-melemah-emiten-eksportir-berpotensi-cuan-cek-saham-pilihan-analis",
+      "tags": [
+        "Currency & FX",
+        "Analyst Ratings",
+        "Export",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Buy Recommendations for INKP, INCO, ADRO and ITMG Amid Strong US Dollar",
+      "timestamp": "2026-06-28T13:57:00",
+      "source": "https://investasi.kontan.co.id/news/dolar-as-perkasa-simak-rekomendasi-saham-inkp-inco-adro-dan-itmg",
+      "tags": [
+        "Analyst Ratings",
+        "Currency & FX",
+        "Export",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesia Plans to Raise Nickel Production Quota to 360 Million Tons by 2026",
+      "timestamp": "2026-06-25T11:00:00",
+      "source": "https://www.idnfinancials.com/id/news/65187/indonesia-siap-naikkan-kuota-nikel-jadi-360-juta-ton-pada-2026",
+      "tags": [
+        "Government Policy",
+        "Commodities",
+        "Global Economy",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG expected to rise modestly; analysts recommend PT Barito Renewables Energy Tbk, PT Vale Indonesia Tbk, PT Merdeka Battery Materials Tbk, PT Trimegah Bangun Persada Tbk, PT Merdeka Copper Gold Tbk, PT Sarana Mitra Luas Tbk and PT Pantai Indah Kapuk Dua Tbk",
+      "timestamp": "2026-06-25T06:19:00",
+      "source": "https://money.kompas.com/read/2026/06/25/061900226/prediksi-ihsg-25-juni-2026--ada-peluang-rebound-simak-rekomendasi-saham-hari",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MIND ID Mining Stocks Show Mixed YTD Performance; Analysts Recommend PT Bukit Asam and PT Aneka Tambang",
+      "timestamp": "2026-06-24T19:43:00",
+      "source": "https://investasi.kontan.co.id/news/kinerja-saham-grup-mind-id-bervariasi-simak-rekomendasinya",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Politics & Regulation",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas recommends ADMR, ARCI, PTBA and TAPG as Indonesia's IHSG closes 0.25% lower",
+      "timestamp": "2026-06-24T12:22:00",
+      "source": "https://market.bisnis.com/read/20260624/189/1982904/rekomendasi-saham-dan-pergerakan-ihsg-hari-ini-rabu-24-juni-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "UOB Kay Hian finds mining stocks attractive as PT Danantara Sumberdaya Indonesia’s export oversight gains clarity",
+      "timestamp": "2026-06-24T11:10:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/112845/arah-saham-tambang-usai-pengawasan-danantara-makin-terang",
+      "tags": [
+        "Export",
+        "Commodities",
+        "Analyst Ratings",
+        "Government Policy",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BRI Danareksa Sekuritas recommends INCO, BUKA, and HMSP as potential gainers while IHSG is expected to trade within a limited range",
+      "timestamp": "2026-06-22T08:31:27",
+      "source": "https://investor.id/stock/443544/ihsg-bakal-bergerak-terbatas-3-saham-justru-potensial-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesian IHSG gains modestly after US‑Iran peace talks but foreign investors continue large outflows",
+      "timestamp": "2026-06-16T21:08:00",
+      "source": "https://investasi.kontan.co.id/news/melihat-arah-ihsg-pasca-perdamaian-as-iran-investor-asing-kabur-besar-besaran",
+      "tags": [
+        "Foreign Investment",
+        "Market Sentiment",
+        "Currency & FX",
+        "Central Bank"
+      ]
+    },
+    {
+      "title": "TINS, ANTM and PTBA to pay cash dividends on July 10, 2026",
+      "timestamp": "2026-06-16T19:04:58",
+      "source": "https://investor.id/corporate-action/442929/dividen-tins-antm-dan-ptba-cair-serempak",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Maybank Sekuritas flags ANTM, INCO and AMMN as top mining picks amid cautious global sentiment",
+      "timestamp": "2026-06-13T18:59:00",
+      "source": "https://investasi.kontan.co.id/news/masih-ragu-ke-ri-ini-pemicunya-menurut-maybank-sekuritas-saat-jumpa-investor-global",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Dividend Announcement",
+        "Export",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Technical recommendations issued for ACES, INCO and TLKM for Thursday, 11 June",
+      "timestamp": "2026-06-11T05:55:00",
+      "source": "https://investasi.kontan.co.id/news/simak-rekomendasi-teknikal-saham-aces-inco-tlkm-untuk-kamis-116",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "MIND ID Accelerates Post‑Mining Reclamation and Develops Former Mine Lands for Energy and Conservation",
+      "timestamp": "2026-06-10T13:08:00",
+      "source": "https://money.kompas.com/read/2026/06/10/130805426/mind-id-genjot-reklamasi-lahan-bekas-tambang-dikembangkan-untuk-energi-dan",
+      "tags": [
+        "ESG"
+      ]
+    },
+    {
+      "title": "PT Vale Indonesia Tbk Secures $750 million Sustainability‑Linked Loan with PT Bank CIMB Niaga Tbk and Consortium",
+      "timestamp": "2026-06-10T07:27:00",
+      "source": "https://keuangan.kontan.co.id/news/cimb-niaga-dan-16-bank-kucurkan-pinjaman-hijau-us-750-juta-untuk-vale-indonesia",
+      "tags": [
+        "Capital & Funding",
+        "Debt Issuance",
+        "ESG",
+        "Bullish"
+      ]
+    }
+  ],
+  "corporate_events": [
+    {
+      "date": "2026-09-10",
+      "type": "RUPS",
+      "detail": "Waktu: 11:00:00 · Lokasi: IDX Public Expose"
+    },
+    {
+      "date": "2026-06-02",
+      "type": "RUPS",
+      "detail": "Waktu: 09:00:00 · Lokasi: Financial Hall, Graha Cimb Niaga, 2ND Floor, JL. Jend. Sudirman Kav. 58, Jakarta 12190 · Agenda #1: The meeting approved the 2025 Annual Report, the Board of Commissioners' oversight report, and the audited financial statements while granting a full discharge to the Directors and Commissioners. This approval included the audit performed by Rintis, Jumadi, Rianto & Rekan.\nAgenda #2: Shareholders approved a net profit distribution of USD 76,063,685, allocating USD 45,638,211 as cash dividends and the remainder as retained earnings. Dividends are scheduled for payment on June 26, 2026, to shareholders of record as of June 12, 2026.\nAgenda #3: The Board of Commissioners was authorized to determine the 2026 honorarium for Commissioners and salaries for Directors following recommendations from the Governance, Nomination, and Remuneration Committee. This decision became effective immediately upon the meeting's conclusion.\nAgenda #4: The meeting appointed Yusron Fauzan and the firm Rintis, Jumadi, Rianto & Rekan (PwC) to audit the 2026 financial statements. The Board of Commissioners was granted authority to set audit fees and appoint a replacement if the designated parties cannot fulfill their duties.\nAgenda #5: The company reported that all proceeds from the 2024 Limited Public Offering were fully utilized for working capital as of December 31, 2025. This agenda item was for reporting purposes only and did not require a formal vote.\nAgenda #6: The meeting accepted the resignations of Emily Olson and Christopher McCleave, reappointed Kristina Gauthier as Vice President Commissioner, and appointed Patricia Renee Pegues and Adam MacMillan as Commissioners. The new Board of Commissioners composition was finalized with terms ending between 2027 and 2029."
+    }
+  ],
+  "context_period": {
+    "start": "2026-04-01",
+    "end": "2026-09-30"
+  },
+  "source_availability": {
+    "company_fundamentals": true,
+    "corporate_events": true,
+    "news": true,
+    "peer_comparison": true,
+    "market_context": true,
+    "sector_market_series": false
+  },
+  "news_archive": {
+    "pages": 5,
+    "rows": 126,
+    "pagination_exhausted": true,
+    "totals_seen": [
+      126,
+      127
+    ]
+  }
 }

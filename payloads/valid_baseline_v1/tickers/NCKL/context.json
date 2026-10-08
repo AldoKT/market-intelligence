@@ -3,8 +3,8 @@
   "as_of": "2026-09-30",
   "identity": {
     "symbol": "NCKL",
-    "company_name": null,
-    "peer_group": null
+    "company_name": "PT Trimegah Bangun Persada Tbk",
+    "peer_group": "Basic Materials"
   },
   "current": {
     "scope": "NO_CONTEXT",
@@ -20,5 +20,1378 @@
   "daily_market": {},
   "notes": [
     "Dataset scope: 28 reviewed stocks. No full-market or peer-context score is computed."
-  ]
+  ],
+  "company_snapshot": {
+    "price_date": "2026-10-07",
+    "captured_at": "2026-10-08",
+    "sector": "Basic Materials",
+    "industry": "Metals & Minerals",
+    "website": "www.tbpnickel.com",
+    "market_cap": 54580289000000,
+    "annual_year": 2025,
+    "valuation_year": 2026,
+    "metrics": [
+      {
+        "label": "Pendapatan",
+        "value": "Rp 29,63 T"
+      },
+      {
+        "label": "Laba bersih",
+        "value": "Rp 8,95 T"
+      },
+      {
+        "label": "Total aset",
+        "value": "Rp 61,77 T"
+      },
+      {
+        "label": "Ekuitas",
+        "value": "Rp 46,76 T"
+      },
+      {
+        "label": "EPS",
+        "value": "Rp 141,87"
+      },
+      {
+        "label": "P/E TTM",
+        "value": "5,12×"
+      },
+      {
+        "label": "P/B",
+        "value": "1,24×"
+      }
+    ]
+  },
+  "fundamental_peers": [
+    {
+      "symbol": "NCKL",
+      "name": "PT Trimegah Bangun Persada Tbk",
+      "year": 2025,
+      "market_cap": 54895782000000,
+      "pe": 5.14801415334402,
+      "pb": 1.25126094740861,
+      "revenue": 29632799000000,
+      "in_universe": true
+    },
+    {
+      "symbol": "BRMS",
+      "name": "Bumi Resources Minerals Tbk",
+      "year": 2025,
+      "market_cap": 85779344404490,
+      "pe": 128.681108271325,
+      "pb": 3.80749435448613,
+      "revenue": 4173309138074,
+      "in_universe": true
+    },
+    {
+      "symbol": "ANTM",
+      "name": "Aneka Tambang Tbk.",
+      "year": 2025,
+      "market_cap": 78099985356250,
+      "pe": 8.77424408988265,
+      "pb": 2.09551817294205,
+      "revenue": 84642439000000,
+      "in_universe": true
+    },
+    {
+      "symbol": "MBMA",
+      "name": "PT Merdeka Battery Materials Tbk",
+      "year": 2025,
+      "market_cap": 53133746590800,
+      "pe": 50.3527116240155,
+      "pb": 1.92970800646396,
+      "revenue": 24008773360660,
+      "in_universe": false
+    },
+    {
+      "symbol": "INCO",
+      "name": "Vale Indonesia Tbk",
+      "year": 2025,
+      "market_cap": 45531869186880,
+      "pe": 17.0090573804861,
+      "pb": 0.898449062355063,
+      "revenue": 16572359009700,
+      "in_universe": true
+    },
+    {
+      "symbol": "TINS",
+      "name": "PT Timah Tbk",
+      "year": 2025,
+      "market_cap": 34781008630180,
+      "pe": 9.32906661081727,
+      "pb": 3.29764577202305,
+      "revenue": 11552733000000,
+      "in_universe": true
+    },
+    {
+      "symbol": "IFSH",
+      "name": "PT Ifishdeco Tbk",
+      "year": 2025,
+      "market_cap": 4377500000000,
+      "pe": 35.5853512496148,
+      "pb": 5.40778287570013,
+      "revenue": 1000944680453,
+      "in_universe": false
+    },
+    {
+      "symbol": "DAAZ",
+      "name": "PT Daaz Bara Lestari Tbk",
+      "year": 2025,
+      "market_cap": 4233640000000,
+      "pe": 15.502762149675,
+      "pb": 2.52179242541966,
+      "revenue": 13412629633004,
+      "in_universe": false
+    },
+    {
+      "symbol": "NICL",
+      "name": "PT PAM Mineral Tbk",
+      "year": 2025,
+      "market_cap": 4020273774846,
+      "pe": 37.1800481074381,
+      "pb": 4.83645043373912,
+      "revenue": 1473081323094,
+      "in_universe": false
+    },
+    {
+      "symbol": "DKFT",
+      "name": "Central Omega Resources Tbk",
+      "year": 2025,
+      "market_cap": 3749433989000,
+      "pe": 5.59948873740599,
+      "pb": 2.43760361162018,
+      "revenue": 1576178059957,
+      "in_universe": false
+    }
+  ],
+  "market_history": [
+    {
+      "date": "2026-04-01",
+      "ihsg": 7184.438,
+      "market_cap": 12646140309231200
+    },
+    {
+      "date": "2026-04-02",
+      "ihsg": 7026.782,
+      "market_cap": 12301402169484936
+    },
+    {
+      "date": "2026-04-06",
+      "ihsg": 6989.426,
+      "market_cap": 12181292965738515
+    },
+    {
+      "date": "2026-04-07",
+      "ihsg": 6971.027,
+      "market_cap": 12220087895953627
+    },
+    {
+      "date": "2026-04-08",
+      "ihsg": 7279.209,
+      "market_cap": 12745135690725105
+    },
+    {
+      "date": "2026-04-09",
+      "ihsg": 7307.589,
+      "market_cap": 12927661360702306
+    },
+    {
+      "date": "2026-04-10",
+      "ihsg": 7458.496,
+      "market_cap": 13183485554446575
+    },
+    {
+      "date": "2026-04-13",
+      "ihsg": 7500.187,
+      "market_cap": 13334711369769658
+    },
+    {
+      "date": "2026-04-14",
+      "ihsg": 7675.951,
+      "market_cap": 13680203483861089
+    },
+    {
+      "date": "2026-04-15",
+      "ihsg": 7623.586,
+      "market_cap": 13577551326427693
+    },
+    {
+      "date": "2026-04-16",
+      "ihsg": 7621.382,
+      "market_cap": 13580909513734445
+    },
+    {
+      "date": "2026-04-17",
+      "ihsg": 7634.004,
+      "market_cap": 13631805736754862
+    },
+    {
+      "date": "2026-04-20",
+      "ihsg": 7594.111,
+      "market_cap": 13530051609880990
+    },
+    {
+      "date": "2026-04-21",
+      "ihsg": 7559.38,
+      "market_cap": 13439346111420433
+    },
+    {
+      "date": "2026-04-22",
+      "ihsg": 7541.612,
+      "market_cap": 13331962629649015
+    },
+    {
+      "date": "2026-04-23",
+      "ihsg": 7378.606,
+      "market_cap": 13176851273619842
+    },
+    {
+      "date": "2026-04-24",
+      "ihsg": 7129.49,
+      "market_cap": 12732776963937495
+    },
+    {
+      "date": "2026-04-27",
+      "ihsg": 7106.52,
+      "market_cap": 12687518028997883
+    },
+    {
+      "date": "2026-04-28",
+      "ihsg": 7072.392,
+      "market_cap": 12590034125678447
+    },
+    {
+      "date": "2026-04-29",
+      "ihsg": 7101.226,
+      "market_cap": 12635384034178860
+    },
+    {
+      "date": "2026-04-30",
+      "ihsg": 6956.804,
+      "market_cap": 12378413759882228
+    },
+    {
+      "date": "2026-05-04",
+      "ihsg": 6971.953,
+      "market_cap": 12411009903513114
+    },
+    {
+      "date": "2026-05-05",
+      "ihsg": 7057.106,
+      "market_cap": 12626309574250122
+    },
+    {
+      "date": "2026-05-06",
+      "ihsg": 7092.467,
+      "market_cap": 12699830398460331
+    },
+    {
+      "date": "2026-05-07",
+      "ihsg": 7174.321,
+      "market_cap": 12778962713690869
+    },
+    {
+      "date": "2026-05-08",
+      "ihsg": 6969.396,
+      "market_cap": 12402407487340402
+    },
+    {
+      "date": "2026-05-11",
+      "ihsg": 6905.62,
+      "market_cap": 12280030079664830
+    },
+    {
+      "date": "2026-05-12",
+      "ihsg": 6858.899,
+      "market_cap": 12142773427321380
+    },
+    {
+      "date": "2026-05-13",
+      "ihsg": 6723.32,
+      "market_cap": 11821690407165346
+    },
+    {
+      "date": "2026-05-18",
+      "ihsg": 6599.24,
+      "market_cap": 11535132183193835
+    },
+    {
+      "date": "2026-05-19",
+      "ihsg": 6370.679,
+      "market_cap": 11105372542285443
+    },
+    {
+      "date": "2026-05-20",
+      "ihsg": 6318.5,
+      "market_cap": 10959980491971602
+    },
+    {
+      "date": "2026-05-21",
+      "ihsg": 6094.941,
+      "market_cap": 10549507904767653
+    },
+    {
+      "date": "2026-05-22",
+      "ihsg": 6162.045,
+      "market_cap": 10631421768765943
+    },
+    {
+      "date": "2026-05-25",
+      "ihsg": 6206.349,
+      "market_cap": 10692705367587005
+    },
+    {
+      "date": "2026-05-26",
+      "ihsg": 6130.19,
+      "market_cap": 10613054794742598
+    },
+    {
+      "date": "2026-05-29",
+      "ihsg": 6127.381,
+      "market_cap": 10725485605975573
+    },
+    {
+      "date": "2026-06-02",
+      "ihsg": 6195.427,
+      "market_cap": 10891278361519046
+    },
+    {
+      "date": "2026-06-03",
+      "ihsg": 5941.066,
+      "market_cap": 10451829355656557
+    },
+    {
+      "date": "2026-06-04",
+      "ihsg": 5839.785,
+      "market_cap": 10259085293637228
+    },
+    {
+      "date": "2026-06-05",
+      "ihsg": 5594.765,
+      "market_cap": 9803592659706909
+    },
+    {
+      "date": "2026-06-08",
+      "ihsg": 5342.137,
+      "market_cap": 9414771844192581
+    },
+    {
+      "date": "2026-06-09",
+      "ihsg": 5746.648,
+      "market_cap": 10095511071726246
+    },
+    {
+      "date": "2026-06-10",
+      "ihsg": 5902.376,
+      "market_cap": 10341178905408617
+    },
+    {
+      "date": "2026-06-11",
+      "ihsg": 5886.032,
+      "market_cap": 10287950241660193
+    },
+    {
+      "date": "2026-06-12",
+      "ihsg": 6007.656,
+      "market_cap": 10520825968837381
+    },
+    {
+      "date": "2026-06-15",
+      "ihsg": 6254.966,
+      "market_cap": 10899408952482727
+    },
+    {
+      "date": "2026-06-17",
+      "ihsg": 6220.74,
+      "market_cap": 10776148487729844
+    },
+    {
+      "date": "2026-06-18",
+      "ihsg": 6172.34,
+      "market_cap": 10736980009961606
+    },
+    {
+      "date": "2026-06-19",
+      "ihsg": 6177.139,
+      "market_cap": 10784594953877444
+    },
+    {
+      "date": "2026-06-22",
+      "ihsg": 6116.69,
+      "market_cap": 10708711379319414
+    },
+    {
+      "date": "2026-06-23",
+      "ihsg": 6101.333,
+      "market_cap": 10685047810158781
+    },
+    {
+      "date": "2026-06-24",
+      "ihsg": 5883.881,
+      "market_cap": 10312029789078805
+    },
+    {
+      "date": "2026-06-25",
+      "ihsg": 5999.038,
+      "market_cap": 10515718128770631
+    },
+    {
+      "date": "2026-06-26",
+      "ihsg": 5896.134,
+      "market_cap": 10298280398969010
+    },
+    {
+      "date": "2026-06-29",
+      "ihsg": 5820.79,
+      "market_cap": 10179250800138493
+    },
+    {
+      "date": "2026-06-30",
+      "ihsg": 5643.194,
+      "market_cap": 9894028079914985
+    },
+    {
+      "date": "2026-07-01",
+      "ihsg": 5695.116,
+      "market_cap": 10007947906561450
+    },
+    {
+      "date": "2026-07-02",
+      "ihsg": 5744.556,
+      "market_cap": 10060923668899571
+    },
+    {
+      "date": "2026-07-03",
+      "ihsg": 5875.78,
+      "market_cap": 10283558418117973
+    },
+    {
+      "date": "2026-07-06",
+      "ihsg": 5916.07,
+      "market_cap": 10352610980350056
+    },
+    {
+      "date": "2026-07-07",
+      "ihsg": 5986.497,
+      "market_cap": 10462196902308353
+    },
+    {
+      "date": "2026-07-08",
+      "ihsg": 5873.372,
+      "market_cap": 10272894518876036
+    },
+    {
+      "date": "2026-07-09",
+      "ihsg": 5912.442,
+      "market_cap": 10324456194315119
+    },
+    {
+      "date": "2026-07-10",
+      "ihsg": 5924.36,
+      "market_cap": 10336481815483724
+    },
+    {
+      "date": "2026-07-13",
+      "ihsg": 6037.842,
+      "market_cap": 10506156813352519
+    },
+    {
+      "date": "2026-07-14",
+      "ihsg": 6039.521,
+      "market_cap": 10524135196509080
+    },
+    {
+      "date": "2026-07-15",
+      "ihsg": 6041.972,
+      "market_cap": 10548175926837826
+    },
+    {
+      "date": "2026-07-16",
+      "ihsg": 6108.209,
+      "market_cap": 10655671296610599
+    },
+    {
+      "date": "2026-07-17",
+      "ihsg": 6175.535,
+      "market_cap": 10745282583293599
+    },
+    {
+      "date": "2026-07-20",
+      "ihsg": 6231.78,
+      "market_cap": 10832728685598542
+    },
+    {
+      "date": "2026-07-21",
+      "ihsg": 6340.02,
+      "market_cap": 11041209401983643
+    },
+    {
+      "date": "2026-07-22",
+      "ihsg": 6334.476,
+      "market_cap": 11064991318794462
+    },
+    {
+      "date": "2026-07-23",
+      "ihsg": 6315.311,
+      "market_cap": 11058096720739904
+    },
+    {
+      "date": "2026-07-24",
+      "ihsg": 6196.43,
+      "market_cap": 10866941513180025
+    },
+    {
+      "date": "2026-07-27",
+      "ihsg": 6185.783,
+      "market_cap": 10846820086978302
+    },
+    {
+      "date": "2026-07-28",
+      "ihsg": 6130.588,
+      "market_cap": 10748777396682842
+    },
+    {
+      "date": "2026-07-29",
+      "ihsg": 6091.386,
+      "market_cap": 10671925079765237
+    },
+    {
+      "date": "2026-07-30",
+      "ihsg": 6186.363,
+      "market_cap": 10808753111947654
+    },
+    {
+      "date": "2026-07-31",
+      "ihsg": 6236.126,
+      "market_cap": 10919632662108419
+    },
+    {
+      "date": "2026-08-03",
+      "ihsg": 6234.497,
+      "market_cap": 10891533376788029
+    },
+    {
+      "date": "2026-08-04",
+      "ihsg": 6319.613,
+      "market_cap": 11026919553266172
+    },
+    {
+      "date": "2026-08-05",
+      "ihsg": 6351.139,
+      "market_cap": 11081557528513146
+    },
+    {
+      "date": "2026-08-06",
+      "ihsg": 6343.711,
+      "market_cap": 11091230654708629
+    },
+    {
+      "date": "2026-08-07",
+      "ihsg": 6409.654,
+      "market_cap": 11208370900071437
+    },
+    {
+      "date": "2026-08-10",
+      "ihsg": 6365.374,
+      "market_cap": 11127673938712190
+    },
+    {
+      "date": "2026-08-11",
+      "ihsg": 6267.88,
+      "market_cap": 10951983899532200
+    },
+    {
+      "date": "2026-08-12",
+      "ihsg": 6373.849,
+      "market_cap": 11170270993004848
+    },
+    {
+      "date": "2026-08-13",
+      "ihsg": 6301.765,
+      "market_cap": 11047038481790783
+    },
+    {
+      "date": "2026-08-14",
+      "ihsg": 6401.888,
+      "market_cap": 11239913404397486
+    },
+    {
+      "date": "2026-08-18",
+      "ihsg": 6449.83,
+      "market_cap": 11344776423883178
+    },
+    {
+      "date": "2026-08-19",
+      "ihsg": 6394.125,
+      "market_cap": 11242710814171051
+    },
+    {
+      "date": "2026-08-20",
+      "ihsg": 6501.585,
+      "market_cap": 11417105165375641
+    },
+    {
+      "date": "2026-08-21",
+      "ihsg": 6525.69,
+      "market_cap": 11445451211005613
+    },
+    {
+      "date": "2026-08-24",
+      "ihsg": 6501.667,
+      "market_cap": 11400829359169202
+    },
+    {
+      "date": "2026-08-26",
+      "ihsg": 6405.685,
+      "market_cap": 11226539253653372
+    },
+    {
+      "date": "2026-08-27",
+      "ihsg": 6521.75,
+      "market_cap": 11444254799160097
+    },
+    {
+      "date": "2026-08-28",
+      "ihsg": 6518.121,
+      "market_cap": 11427514258790209
+    },
+    {
+      "date": "2026-08-31",
+      "ihsg": 6525.478,
+      "market_cap": 11420266337232824
+    },
+    {
+      "date": "2026-09-01",
+      "ihsg": 6599.943,
+      "market_cap": 11528076154461080
+    },
+    {
+      "date": "2026-09-02",
+      "ihsg": 6595.776,
+      "market_cap": 11521577604064942
+    },
+    {
+      "date": "2026-09-03",
+      "ihsg": 6667.891,
+      "market_cap": 11637538684241799
+    },
+    {
+      "date": "2026-09-04",
+      "ihsg": 6636.475,
+      "market_cap": 11595660058206448
+    },
+    {
+      "date": "2026-09-07",
+      "ihsg": 6619.673,
+      "market_cap": 11571807924987264
+    },
+    {
+      "date": "2026-09-08",
+      "ihsg": 6686.442,
+      "market_cap": 11668902562815871
+    },
+    {
+      "date": "2026-09-09",
+      "ihsg": 6678.201,
+      "market_cap": 11671538636715858
+    },
+    {
+      "date": "2026-09-10",
+      "ihsg": 6589.338,
+      "market_cap": 11526136904331476
+    },
+    {
+      "date": "2026-09-11",
+      "ihsg": 6541.377,
+      "market_cap": 11442963914395062
+    },
+    {
+      "date": "2026-09-14",
+      "ihsg": 6534.693,
+      "market_cap": 11368110758085182
+    },
+    {
+      "date": "2026-09-15",
+      "ihsg": 6461.153,
+      "market_cap": 11257912210981978
+    },
+    {
+      "date": "2026-09-16",
+      "ihsg": 6436.853,
+      "market_cap": 11225219420982876
+    },
+    {
+      "date": "2026-09-17",
+      "ihsg": 6462.431,
+      "market_cap": 11270346560839989
+    },
+    {
+      "date": "2026-09-18",
+      "ihsg": 6441.159,
+      "market_cap": 11262605698050558
+    },
+    {
+      "date": "2026-09-21",
+      "ihsg": 6384.726,
+      "market_cap": 11161910095429389
+    },
+    {
+      "date": "2026-09-22",
+      "ihsg": 6277.044,
+      "market_cap": 10971287923179805
+    },
+    {
+      "date": "2026-09-23",
+      "ihsg": 6374.912,
+      "market_cap": 11141915820582293
+    },
+    {
+      "date": "2026-09-24",
+      "ihsg": 6298.607,
+      "market_cap": 11021365748586840
+    },
+    {
+      "date": "2026-09-25",
+      "ihsg": 6241.892,
+      "market_cap": 10902018198054911
+    },
+    {
+      "date": "2026-09-28",
+      "ihsg": 6147.859,
+      "market_cap": 10755457591436344
+    },
+    {
+      "date": "2026-09-29",
+      "ihsg": 6121.7,
+      "market_cap": 10754858845786069
+    },
+    {
+      "date": "2026-09-30",
+      "ihsg": 6071.138,
+      "market_cap": 10691719699169471
+    }
+  ],
+  "relevant_news": [
+    {
+      "title": "New Mining Services Rules Seen Having Varied Impacts on Mineral and Coal Issuers",
+      "timestamp": "2026-09-29T17:54:00",
+      "source": "https://investasi.kontan.co.id/news/aturan-baru-jasa-tambang-dampaknya-akan-berbeda-ke-emiten-minerba",
+      "tags": [
+        "Politics & Regulation",
+        "Analyst Ratings",
+        "Commodities",
+        "Production & Operations",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Analyst highlights nickel stock recommendations and sector outlook amid RKAB and HPM regulatory pressure",
+      "timestamp": "2026-09-23T06:14:00",
+      "source": "https://investasi.kontan.co.id/news/cermati-rekomendasi-saham-dan-prospek-emiten-nikel-yang-tertekan-rkab-dan-hpm",
+      "tags": [
+        "Analyst Ratings",
+        "Government Policy",
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Nickel stocks pressured by RKAB approval uncertainty and HPM regulation, PT PAM Mineral Tbk (NICL) leads declines.",
+      "timestamp": "2026-09-22T16:36:00",
+      "source": "https://investasi.kontan.co.id/news/saham-nikel-tertekan-rkab-dan-harga-patokan-mineral-simak-prospeknya-berikut-ini",
+      "tags": [
+        "Commodities",
+        "Government Policy",
+        "Capital & Funding",
+        "Global Economy",
+        "Analyst Ratings",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "IHSG Rises 0.31% in Early Trading on Friday (4/9), Check LQ45 Stocks Driving the Move",
+      "timestamp": "2026-09-04T09:34:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-naik-031-di-awal-perdagangan-jumat-49-cek-saham-lq45-yang-jadi-penggerak",
+      "tags": [
+        "Bullish",
+        "Market Sentiment",
+        "Global Economy"
+      ]
+    },
+    {
+      "title": "Commodity Stock Recommendations After Clarification of PT Danantara Sumberdaya Indonesia’s Role",
+      "timestamp": "2026-08-27T07:44:00",
+      "source": "https://investasi.kontan.co.id/news/cek-rekomendasi-saham-emiten-komoditas-setelah-peran-dsi-makin-jelas",
+      "tags": [
+        "Commodities",
+        "Analyst Ratings",
+        "Export",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG projected to rise toward 6,544 ahead of the weekend",
+      "timestamp": "2026-08-21T07:04:34",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260821061435-92-1394724/ihsg-berpotensi-tancap-gas-jelang-akhir-pekan-ini",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment"
+      ]
+    },
+    {
+      "title": "EV sales surge fuels positive stock outlook for NCKL, VKTR, INDY and other EV‑related issuers",
+      "timestamp": "2026-08-14T18:58:00",
+      "source": "https://investasi.kontan.co.id/news/penjualan-ev-melonjak-simak-prospek-saham-di-ekosistem-ev",
+      "tags": [
+        "Analyst Ratings",
+        "Business Expansion",
+        "Market Sentiment",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Rebalancing of Main Indices Takes Effect, Impact on IHSG Liquidity",
+      "timestamp": "2026-08-04T19:23:00",
+      "source": "https://investasi.kontan.co.id/news/rebalancing-indeks-utama-resmi-berlaku-ini-dampaknya-ke-likuiditas-ihsg",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "LQ45 constituents post solid first‑half 2026 earnings, with top blue‑chip picks highlighted for semester II",
+      "timestamp": "2026-08-04T05:39:00",
+      "source": "https://investasi.kontan.co.id/news/laba-emiten-lq45-lampaui-ekspektasi-cek-saham-blue-chip-pilihan-semester-ii-2026",
+      "tags": [
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Interest Rate",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analyst highlights strong first‑half 2026 earnings across LQ45 constituents and points to several stocks with upside potential through year‑end 2026",
+      "timestamp": "2026-08-03T19:32:00",
+      "source": "https://investasi.kontan.co.id/news/laba-emiten-lq45-moncer-analis-beberkan-deretan-saham-potensial-hingga-akhir-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Trimegah Bangun Persada Tbk reports 41.7% YoY net profit increase in H1‑2026",
+      "timestamp": "2026-08-03T19:23:00",
+      "source": "https://investasi.kontan.co.id/news/raih-kinerja-positif-pada-semester-i-2026-simak-prospek-saham-trimegah-bangun-nckl",
+      "tags": [
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Trimegah Bangun Persada Tbk reports Rp 17.10 trillion revenue in H1 2026",
+      "timestamp": "2026-08-03T08:02:00",
+      "source": "https://investasi.kontan.co.id/news/trimegah-bangun-persada-nckl-raih-pendapatan-rp-1710-triliun-pada-semester-i-2026",
+      "tags": [
+        "Financial Metrics",
+        "Commodities",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "BEI adds PT Indika Energy Tbk and PT Trimegah Bangun Persada Tbk to LQ45, removes PT Semen Indonesia Tbk and PT Sarana Menara Nusantara Tbk effective 3 Aug 2026",
+      "timestamp": "2026-08-03T05:49:00",
+      "source": "https://investasi.kontan.co.id/news/resmi-berlaku-hari-ini-38-cek-daftar-saham-blue-chip-lq45-terbaru",
+      "tags": [
+        "Diversification",
+        "Market Sentiment",
+        "Portfolio",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Harita Nickel (PT Trimegah Bangun Persada Tbk) declares Rp 2.7 trillion cash dividend, Rp 42.64 per share",
+      "timestamp": "2026-07-31T15:31:00",
+      "source": "https://money.kompas.com/read/2026/07/31/153104026/harita-nickel-bagikan-dividen-rp-27-triliun-pemegang-saham-terima-rp-4264-per",
+      "tags": [
+        "Dividend Announcement",
+        "Shareholders General Meeting",
+        "Government Policy",
+        "Domestic Investor",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Financial Reports as Fuel for Mining Stocks: Which Are Most Attractive?",
+      "timestamp": "2026-07-31T15:11:55",
+      "source": "https://www.cnbcindonesia.com/market/20260731134624-17-755471/laporan-keuangan-jadi-bahan-bakar-saham-tambang-siapa-paling-menarik",
+      "tags": [
+        "Annual Report",
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Rebound signals for ANTM and INCO stocks ahead of first‑half 2026 earnings for state‑owned mining firms",
+      "timestamp": "2026-07-30T21:54:00",
+      "source": "https://market.bisnis.com/read/20260730/189/1992475/sinyal-rebound-antm-inco-jelang-lapkeu-semester-i2026-tambang-bumn",
+      "tags": [
+        "Market Sentiment",
+        "Financial Metrics",
+        "Analyst Ratings",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "SMGR and TOWR dropped from LQ45 index as analysts set bullish price targets",
+      "timestamp": "2026-07-29T14:39:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/116584/prospek-saham-smgr-dan-towr-usai-terdepak-dari-lq45",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indika Energy (INDY) and Trimegah Bangun Persada (NCKL) join LQ45 index, with analysts favoring INDY",
+      "timestamp": "2026-07-29T07:02:00",
+      "source": "https://investasi.kontan.co.id/news/indy-nckl-masuk-blue-chip-lq45-analis-lebih-jagokan-saham-indika-energy-kenapa",
+      "tags": [
+        "Analyst Ratings",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Indika Energy Tbk and PT Trimegah Bangun Persada Tbk join LQ45 index as PT Semen Indonesia Tbk and PT Sarana Menara Nusantara Tbk exit",
+      "timestamp": "2026-07-28T15:15:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/116464/mengintip-arah-penghuni-baru-indeks-saham-lq45",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indika Energy added to LQ45 as stock climbs 41% in a month",
+      "timestamp": "2026-07-28T11:54:00",
+      "source": "https://investasi.kontan.co.id/news/masuk-lq45-saham-indika-energy-indy-melonjak-41-dalam-sebulan",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BNI Sekuritas issues six stock recommendations for 28 July 2026 trading",
+      "timestamp": "2026-07-28T08:49:00",
+      "source": "https://investasi.kontan.co.id/news/cek-6-rekomendasi-saham-pilihan-dari-bni-sekuritas-hari-ini-287",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BEI adds five new stocks to LQ45, IDX30 and IDX80 amid mixed YtD performance",
+      "timestamp": "2026-07-28T07:05:00",
+      "source": "https://market.bisnis.com/read/20260728/7/1991552/rapor-hijau-saham-baru-lq45-idx30-idx80",
+      "tags": [
+        "Global Index"
+      ]
+    },
+    {
+      "title": "PT Trimegah Bangun Persada Tbk and Harita Nickel announce cash dividend of Rp 2.7 trillion payable July 31 2026",
+      "timestamp": "2026-07-13T17:29:00",
+      "source": "https://money.kompas.com/read/2026/07/13/172953326/jadwal-dividen-harita-nickel-nckl-cair-31-juli-2026-segini-besarannya",
+      "tags": [
+        "Dividend Announcement",
+        "Government Policy",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Nusatama Berkah Tbk shares surge 112% as rights issue and strategic partnership drive outlook",
+      "timestamp": "2026-07-13T08:05:25",
+      "source": "https://investor.id/market/446260/saham-terbang-112-ini-pemicu-dan-ramalannya",
+      "tags": [
+        "Rights Issue",
+        "Partnerships & Agreements",
+        "Capital & Funding",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Foreign investors record net sells of Rp 421.5 billion on Friday, led by PT Bank Central Asia Tbk and PT Bank Rakyat Indonesia Tbk",
+      "timestamp": "2026-07-10T20:34:00",
+      "source": "https://investasi.kontan.co.id/news/bbca-dan-bbri-tertatas-cermati-saham-net-sell-terbesar-asing-jumat-106",
+      "tags": [
+        "Foreign Investment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "Foreign investors posted a net purchase of 224 million shares on July 10 despite overall sluggish trading volume.",
+      "timestamp": "2026-07-10T18:00:00",
+      "source": "https://www.idnfinancials.com/id/news/65923/meski-lesu-perdagangan-asing-net-buy-224-juta-lembar",
+      "tags": [
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Today's Stock Recommendations: Review of KRAS, NTBK and Key IHSG Movers",
+      "timestamp": "2026-07-09T09:20:09",
+      "source": "https://www.cnbcindonesia.com/market/20260709081936-17-749344/rekomendasi-saham-hari-ini-cek-pgas-hingga-bssr",
+      "tags": [
+        "Rights Issue",
+        "Foreign Investment",
+        "Global Index",
+        "Ownership",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Seven issuers—including PT Dayamitra Telekomunikasi Tbk, PT Multi Indocitra Tbk, PT Paramita Bangun Sarana Tbk, PT Sinergi Inti Plastindo Tbk, PT Solusi Sinergi Digital Tbk, PT Trias Sentosa Tbk and PT Trimegah Bangun Persada Tbk—schedule cum‑dividend on 8 July 2026",
+      "timestamp": "2026-07-08T07:21:00",
+      "source": "https://market.bisnis.com/read/20260708/7/1986416/7-emiten-cum-dividen-hari-ini-8-juli-2026-ada-mtel-wifi-hingga-nckl",
+      "tags": [
+        "Dividend Announcement",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Nusatama Berkah Tbk announces strategic partnership for its subsidiary and a up‑to‑Rp 500 bn right issue",
+      "timestamp": "2026-07-08T06:54:25",
+      "source": "https://investor.id/market/445656/ntbk-disorot",
+      "tags": [
+        "Partnerships & Agreements",
+        "Rights Issue",
+        "Capital & Funding",
+        "Commodities",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Today's Stock Recommendations: Including TLKM and ARCI",
+      "timestamp": "2026-07-06T09:50:34",
+      "source": "https://www.cnbcindonesia.com/market/20260706081907-17-748244/rekomendasi-saham-hari-ini-ada-tlkm-hingga-arci",
+      "tags": [
+        "Analyst Ratings",
+        "Rights Issue",
+        "Dividend Announcement",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG opens higher in green zone, mirroring gains across Asian markets",
+      "timestamp": "2026-07-06T09:30:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/114017/ihsg-awali-hari-di-zona-hijau-searah-dengan-bursa-asia",
+      "tags": [
+        "Bullish",
+        "Market Sentiment",
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "SINI launches Rp3.61 trillion rights issue while NCKL declares Rp2.69 trillion dividend",
+      "timestamp": "2026-07-06T08:27:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8561367/sini-rights-issue-rp-3-61-triliun-nckl-tebar-dividen-rp-2-69-triliun",
+      "tags": [
+        "Rights Issue",
+        "Dividend Announcement",
+        "Mergers & Acquisitions",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Stock Recommendation Summary for 6 July 2026",
+      "timestamp": "2026-07-06T08:25:00",
+      "source": "https://www.bloombergtechnoz.com/detail-news/114005/rangkuman-rekomendasi-saham-hari-ini-6-juli-2026",
+      "tags": [
+        "Analyst Ratings"
+      ]
+    },
+    {
+      "title": "Trimegah Bangun Persada Announces Jumbo Cash Dividend Schedule with Cum Date July 8, 2026",
+      "timestamp": "2026-07-03T06:45:00",
+      "source": "https://emitennews.com/news/nckl-jadwal-dividen-jumbo-cum-date-8-juli-2026",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Trimegah Bangun Persada Tbk and Harita Nickel Announce 2025 Cash Dividend of Rp2.68 Trillion",
+      "timestamp": "2026-07-02T19:33:00",
+      "source": "https://market.bisnis.com/read/20260702/192/1985139/jadwal-dividen-harita-nickel-nckl-rp268-triliun",
+      "tags": [
+        "Dividend Announcement",
+        "Shareholders General Meeting",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG volatile as BREN, TLKM and BRPT lead gains while United Tractors launches buyback and Erajaya declares dividend",
+      "timestamp": "2026-07-02T09:33:32",
+      "source": "https://www.cnbcindonesia.com/market/20260702082514-17-747378/ihsg-masih-volatil-deretan-saham-ini-menarik-buat-dilirik",
+      "tags": [
+        "Stock Buyback",
+        "Dividend Announcement",
+        "Foreign Investment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Analyst predicts limited IHSG range and recommends buying RAJA, MBMA and NCKL while selling TCPI",
+      "timestamp": "2026-07-02T08:41:00",
+      "source": "https://market.bisnis.com/read/20260702/189/1984935/ihsg-diprediksi-bergerak-terbatas-pantau-saham-raja-mbma-hingga-nckl",
+      "tags": [
+        "Analyst Ratings",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "UNTR Announces Rp2 Trillion Share Buyback, NCKL Expands Smelter Capacity, ERAA Declares Rp25 Cash Dividend",
+      "timestamp": "2026-07-02T08:40:00",
+      "source": "https://finance.detik.com/bursa-dan-valas/d-8556202/untr-siapkan-buyback-rp-2-triliun-nckl-kebut-proyek-smelter-dan-eraa-bagikan-dividen-tunai",
+      "tags": [
+        "Stock Buyback",
+        "Dividend Announcement",
+        "Business Expansion",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Trimegah Bangun Persada Tbk atau Harita Nickel declares Rp 2.7 trillion dividend while PT Dayamitra Telekomunikasi Tbk shares jump 8.43%",
+      "timestamp": "2026-06-30T18:50:00",
+      "source": "https://investasi.kontan.co.id/news/rups-emiten-hari-ini-nckl-umumkan-dividen-rp-27-triliun-saham-mtel-melonjak-843",
+      "tags": [
+        "Dividend Announcement",
+        "Shareholders General Meeting",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Trimegah Bangun Persada Tbk (NCKL) announces Rp 2.7 trillion dividend as MTEL, ITMA, ZINC and WIFI hold RUPS",
+      "timestamp": "2026-06-30T17:20:00",
+      "source": "https://investasi.kontan.co.id/news/mtel-itma-zinc-wifi-hingga-nckl-gelar-rups-hari-ini-simak-prospeknya",
+      "tags": [
+        "Dividend Announcement",
+        "Shareholders General Meeting",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Trimegah Bangun Persada Tbk declares Rp2.7 trillion dividend as PT Dayamitra Telekomunikasi Tbk, PT Sumber Energi Andalan Tbk, PT Kapuas Prima Coal Tbk and PT Solusi Sinergi Digital hold RUPS",
+      "timestamp": "2026-06-30T16:59:00",
+      "source": "https://investasi.kontan.co.id/news/mtel-itma-zinc-wifi-hingga-nckl-gelar-rups-hari-ini-simak-pergerakan-sahamnya",
+      "tags": [
+        "Dividend Announcement",
+        "Shareholders General Meeting",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Harita Nickel declares Rp 2.7 trillion cash dividend",
+      "timestamp": "2026-06-30T15:16:00",
+      "source": "https://money.kompas.com/read/2026/06/30/151601526/harita-nickel-nckl-tebar-dividen-rp27-triliun-yield-berpotensi-tembus-53",
+      "tags": [
+        "Dividend Announcement",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Harita Nickel (NCKL) completes third RKEF project on Obi Island, raising total nickel capacity to 305,000 tons by 2026",
+      "timestamp": "2026-06-30T14:56:00",
+      "source": "https://money.kompas.com/read/2026/06/30/145607426/harita-nickel-nckl-kebut-3-proyek-strategis-di-pulau-obi-kapasitas-nikel",
+      "tags": [
+        "Business Expansion",
+        "Production & Operations",
+        "Commodities",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Harita Nickel conducts 2025 Annual General Meeting and 2026 Public Expose",
+      "timestamp": "2026-06-30T14:43:15",
+      "source": "https://www.cnnindonesia.com/ekonomi/20260630135429-92-1375085/harita-nickel-sukses-gelar-rupst-2025-dan-public-expose-2026",
+      "tags": [
+        "Shareholders General Meeting",
+        "Annual Report",
+        "ESG",
+        "Stock Buyback",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Trimegah Bangun Persada Tbk to distribute Rp 2.7 trillion dividend",
+      "timestamp": "2026-06-30T14:27:00",
+      "source": "https://investasi.kontan.co.id/news/trimegah-bangun-persada-nckl-bagi-dividen-rp-27-triliun-potensi-yield-53",
+      "tags": [
+        "Dividend Announcement",
+        "ESG",
+        "Financial Metrics",
+        "Shareholders General Meeting",
+        "Neutral"
+      ]
+    },
+    {
+      "title": "Harita Nickel Gives Rp2.7 Trillion Dividend",
+      "timestamp": "2026-06-30T13:07:00",
+      "source": "https://market.bisnis.com/read/20260630/192/1984372/harita-nickel-nckl-tebar-dividen-rp27-triliun",
+      "tags": [
+        "Dividend Announcement",
+        "Commodities",
+        "Financial Metrics",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "IHSG expected to rise modestly; analysts recommend PT Barito Renewables Energy Tbk, PT Vale Indonesia Tbk, PT Merdeka Battery Materials Tbk, PT Trimegah Bangun Persada Tbk, PT Merdeka Copper Gold Tbk, PT Sarana Mitra Luas Tbk and PT Pantai Indah Kapuk Dua Tbk",
+      "timestamp": "2026-06-25T06:19:00",
+      "source": "https://money.kompas.com/read/2026/06/25/061900226/prediksi-ihsg-25-juni-2026--ada-peluang-rebound-simak-rekomendasi-saham-hari",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "FTSE Russell removal and outlook for PT GoTo Gojek Tokopedia Tbk, PT Trimegah Bangun Persada Tbk, PT Delta Dunia Makmur Tbk and PT Nusantara Sejahtera Raya Tbk",
+      "timestamp": "2026-06-23T13:58:00",
+      "source": "https://investasi.kontan.co.id/news/dicoret-ftse-russell-begini-prospek-goto-nckl-doid-dan-cnma",
+      "tags": [
+        "Global Index",
+        "Foreign Investment",
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bearish"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas recommends BBCA, ISAT, NCKL, and RAJA with specific price targets for June 23 trading",
+      "timestamp": "2026-06-23T08:21:07",
+      "source": "https://investor.id/market/443720/saham-pilihan-untuk-trading-23-juni-dan-target-harganya",
+      "tags": [
+        "Analyst Ratings",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas analyst warns IHSG correction risk and recommends ISAT, NCKL, ASII, and BBRI",
+      "timestamp": "2026-06-23T08:04:00",
+      "source": "https://money.kompas.com/read/2026/06/23/080400026/ihsg-rawan-koreksi-saham-isat-nckl-asii-hingga-bbri-bisa-cuan",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BUMA Internasional Grup Tbk (DOID) deemed most attractive after FTSE Russell removal",
+      "timestamp": "2026-06-22T17:42:00",
+      "source": "https://investasi.kontan.co.id/news/dicoret-dari-ftse-russell-saham-ini-justru-dinilai-paling-menarik",
+      "tags": [
+        "Global Index",
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "BRI Danareksa Sekuritas recommends Trimegah Bangun Persada, Merdeka Copper Gold and Sarana Mitra Luas while warning Pantai Indah Kapuk Dua amid expected IHSG consolidation",
+      "timestamp": "2026-06-18T06:39:00",
+      "source": "https://investasi.kontan.co.id/news/ihsg-berpotensi-konsolidasi-kamis-186-berikut-rekomendasi-sahamnya",
+      "tags": [
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "PT Astra International Tbk announces Rp 8 trillion share buyback, joining PT Telkom Indonesia Tbk and PT Bank Rakyat Indonesia Tbk in jumbo repurchase programs",
+      "timestamp": "2026-06-17T07:57:00",
+      "source": "https://investasi.kontan.co.id/news/buyback-jumbo-marak-emiten-kakap-kirim-sinyal-optimisme-di-tengah-koreksi-pasar",
+      "tags": [
+        "Stock Buyback",
+        "Analyst Ratings",
+        "Market Sentiment",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "Indonesian issuers launch jumbo share buybacks, led by PT Astra International Tbk, PT Telkom Indonesia Tbk, PT Bank Rakyat Indonesia Tbk and PT Trimegah Bangun Persada Tbk",
+      "timestamp": "2026-06-16T18:47:00",
+      "source": "https://investasi.kontan.co.id/news/sederet-emiten-gelar-buyback-saham-bernilai-jumbo-mana-yang-menarik-dicermati",
+      "tags": [
+        "Stock Buyback",
+        "Analyst Ratings",
+        "Capital & Funding",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "ANTM, EMAS, and BUMI could re‑enter MSCI index",
+      "timestamp": "2026-06-14T09:06:36",
+      "source": "https://investor.id/stock/442644/antm-emas-bumi-bisa-masuk-indeks-msci-lagi",
+      "tags": [
+        "Global Index",
+        "Bullish"
+      ]
+    },
+    {
+      "title": "MNC Sekuritas and Phintraco Sekuritas recommend HMSP, INDY, NCKL, and UNVR as top trades for Monday amid IHSG forecast of 5,900‑6,220",
+      "timestamp": "2026-06-12T19:39:02",
+      "source": "https://investor.id/stock/442591/prediksi-ihsg-dan-rekomendasi-saham-senin-15-juni-2026",
+      "tags": [
+        "Analyst Ratings",
+        "Central Bank",
+        "Currency & FX",
+        "Government Policy"
+      ]
+    }
+  ],
+  "corporate_events": [
+    {
+      "date": "2026-07-09",
+      "type": "Dividen",
+      "detail": "Dividen per saham Rp 42,64 · Pembayaran: 2026-07-31"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "RUPS",
+      "detail": "Waktu: 11:30:00 · Lokasi: Zoom Meeting · Agenda #1: Shareholders approved the Company's Annual Report and audited consolidated financial statements for the fiscal year ended December 31, 2025, as presented by the Board of Directors and reviewed by the Board of Commissioners. The resolution passed with 99.88% in favor and a quorum of 90.25%.\nAgenda #2: Shareholders granted full discharge and release (acquit et de charge) to all members of the Board of Commissioners and Directors for their accountability in FY2025. The resolution passed with 99.9% in favor and a quorum of 90.25%.\nAgenda #3: Shareholders approved the use of FY2025 net profit, including a cash dividend of IDR42.64 per share totaling IDR2,685,802,636,088, an IDR18 billion mandatory reserve, and retained earnings for operational and business development. The resolution passed with 99.9% in favor and a quorum of 90.25%.\nAgenda #4: Shareholders granted authority to the Board of Commissioners to appoint a Public Accounting Firm and determine fees for the audit of financial statements for FY2026, per the Audit Committee's recommendation. The resolution passed with 99.61% in favor and a quorum of 90.25%.\nAgenda #5: Shareholders granted authority to the President Commissioner to determine salaries, honoraria, and other benefits for directors and commissioners for FY2026, considering the Nomination and Remuneration function and company finances. The resolution passed with 99.9% in favor and a quorum of 90.25%.\nAgenda #6: Shareholders approved the continuation of the share buyback plan up to IDR1,000,000,000,000 (including brokerage and other fees) for a maximum 12-month period from the meeting date, with authority to the Directors to execute. The resolution passed with 97.02% in favor and a quorum of 90.25%.\nAgenda #7: Shareholders approved and released the Board of Commissioners and Directors from responsibility regarding the use of all IPO proceeds as reported. The resolution passed with 97.11% in favor and a quorum of 90.25%."
+    }
+  ],
+  "context_period": {
+    "start": "2026-04-01",
+    "end": "2026-09-30"
+  },
+  "source_availability": {
+    "company_fundamentals": true,
+    "corporate_events": true,
+    "news": true,
+    "peer_comparison": true,
+    "market_context": true,
+    "sector_market_series": false
+  },
+  "news_archive": {
+    "pages": 2,
+    "rows": 56,
+    "pagination_exhausted": true,
+    "totals_seen": [
+      56
+    ]
+  }
 }

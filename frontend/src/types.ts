@@ -231,6 +231,11 @@ export interface ActivityPayload {
 }
 
 export interface ContextPayload {
+  company_snapshot?: {price_date:string|null;captured_at:string;sector:string|null;industry:string|null;website:string|null;market_cap:number|null;annual_year:number|null;valuation_year:number|null;metrics:Array<{label:string;value:string}>};
+  fundamental_peers?: Array<{symbol:string;name:string|null;year:number|null;market_cap:number|null;pe:number|null;pb:number|null;revenue:number|null;in_universe:boolean}>;
+  market_history?: Array<{date:string;ihsg:number|null;market_cap:number|null}>;
+  context_period?: {start:string;end:string};
+  news_archive?: {pages:number;rows:number;pagination_exhausted:boolean;totals_seen:number[]};
   methodology_version: string;
   as_of: string;
   identity: InvestigationDetail["identity"];
